@@ -1,3 +1,6 @@
+### Load Data
+Download data.zip from the separate link provided in the submission. Unzip it, and place the resulting data folder in the root directory of this repository. 
+
 ### Load OpenAI API 
 
 Store your OpenAI API in by using 'export OPENAI_API_KEY="your-api-key-here"' or set the OpenAI API key as an environment variable in your system log. 
