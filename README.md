@@ -29,7 +29,7 @@ trix.eval(method)
 by passing the method as "TRIX". See /tests/run_eval.ipynb for how to invoke the libraries for data extraction and evaluation. 
 
 
-The raw data is stored in data/raw, and the ground truth data is stored in data/truths. The results returned by TWIX is stored in out/. 
+The raw data is stored in data/raw, and the ground truth data is stored in data/truths. The results returned by TRIX is stored in out/. 
 
 
 
