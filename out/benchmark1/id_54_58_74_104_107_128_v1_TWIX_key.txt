@@ -1,0 +1,15 @@
+Period
+Estimate/HL
+Buyer
+Coop
+Line
+Product
+Advertiser
+Comments
+Invoice Date
+Inv #
+Contract
+Terms
+Brand
+Agency
+Type

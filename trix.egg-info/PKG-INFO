@@ -1,0 +1,37 @@
+Metadata-Version: 2.1
+Name: trix
+Version: 0.1.0
+Summary: A library that extracts structured data from templatized form-like documents automatically.
+Home-page: UNKNOWN
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+
+### Load OpenAI API 
+
+Store your OpenAI API in by using 'export OPENAI_API_KEY="your-api-key-here"' or set the OpenAI API key as an environment variable in your system log. 
+
+### Install TRIX Package
+
+```bash
+pip install -e . 
+```
+
+### Execute the following command line to run the main code. 
+
+Command: "python src/main.py"
+
+### Execute the following command line to evaluate the results. 
+
+Command: "python src/eval.py"
+
+The raw data is stored in data/raw, and the ground truth data is stored in data/truths. The results returned by TWIX is stored in out/. 
+
+
+
+
+

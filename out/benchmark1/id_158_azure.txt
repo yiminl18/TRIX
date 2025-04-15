@@ -1,0 +1,218 @@
+#Record1
+-KV
+DATE,10-10-2012
+PAGE,1
+of,3
+ADELSTEIN/LISTON
+41,missing
+ATTN,PAULA HAMBRICK 222 W. ONTARIO STREET SUITE 503 CHICAGO IL 60610
+Contract No,401752
+Contract Dt,10-05-2012
+Revision Dt
+Rev#,10-08-2012
+3
+Advertiser,BRAD SCHNEIDER FOR CONGRESS
+Brand,BRAD SCHNEIDER FOR CONGRESS
+Product Code,POLITICALS
+Station/Market,WLS - CHICAGO
+Agency Est#,DCCC - EST
+CMS #,missing
+Sales Office,245910
+Account Executive,PHILADELPHIA
+D. PARKER
+Start Date,10-08-2012
+End Date,10-14-2012
+Billing,"(Broadcast Month,"
+Package,missing
+Contract Title,245910
+Agency CPE,E
+DCCC - EST
+30,:selected:
+30,:selected:
+30,:selected:
+30,:selected:
+30,:selected:
+30,:selected:
+30,:selected:
+NEWS,:selected:
+M-F,:selected:
+30,:selected:
+-TABLE
+Contract No,Contract Dt,Revision Dt,Rev#,Advertiser,Brand,Product Code,Station/Market
+401752,10-05-2012,10-08-2012,3,BRAD SCHNEIDER FOR CONGRESS,BRAD SCHNEIDER FOR CONGRESS,POLITICALS,WLS - CHICAGO
+-TABLE
+Agency Est#,CMS #,Sales Office,Account Executive,Start Date,End Date,Billing,Package,Contract Title
+DCCC - EST,245910,PHILADELPHIA,D. PARKER,10-08-2012,10-14-2012,"M (Broadcast Month, Cycle 1)",N,245910
+-TABLE
+missing,Line,Start Date,End Date,Time Period Description,RC,Duration,M T WTF SS,SPW Price,Tot Spots,Total $
+missing,missing,missing,missing,Agency CPE: E : DCCC - EST,missing,missing,missing,missing,missing,missing,missing
+missing,1,10-08-2012,10-12-2012,10:35PM - 11:04PM LF/NEWS: NIGHTLINE: M-F 1035-1104P (5527),1,30,X X X X X,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,"4 1,900",4,"7,600.00",missing,missing,missing,missing,missing,missing,missing
+2,10-08-2012,10-12-2012,11:04PM - 12:08AM LF: JIMMY KIMMEL: 1104PM-1208AM EFF: 9/12-TF,1,30,X X X X X,missing,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,:unselected:,3 760,3,"2,280.00",missing,missing,missing,missing,missing,missing
+3,10-10-2012,10-10-2012,09:00PM - 10:00PM PRIME: WED: 9-10P VAR/NASHVILLE EFF:10/10 (5€,1,30,X,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"1 8,550",1,"8,550.00",missing,missing,missing,missing,missing,missing,missing
+4,10-13-2012,10-13-2012,07:00AM - 08:00AM,WEEKEND/ MORN NEWS: GMA SAT 7-8A (5555),1,30,X,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,1 950,1,950.00,missing,missing,missing,missing,missing,missing,missing
+missing,5,10-13-2012,10-13-2012,08:00AM - 09:00AM,WEEKEND EARLY MORN NEWS: SAT: 8-9A (10600,1,30,X,missing,missing
+:selected:,1 950,1,950.00,missing,missing,missing,missing,missing,missing,missing
+missing,6,10-13-2012,10-13-2012,02:30PM - 06:00PM,SPORTS: FOOTBALL SAT COLLEGE 1058A-600P,2,30,X,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"1 2,000",1,"2,000.00",missing,missing,missing,missing,missing,missing,missing
+missing,7,10-14-2012,10-14-2012,07:00AM - 08:00AM,WEEKEND/MORN NEWS: GMA SUN 7-8A (5557),1,30,X,missing,missing
+:selected:,1 665,1,665.00,missing,missing,missing,missing,missing,missing,missing
+missing,8,10-14-2012,10-14-2012,08:00AM - 09:30AM,WEEKEND/MORN NEWS: SUN 8-930AM/8-10A EFF,1,30,X,missing,missing
+:selected:,1 855,1,855.00,missing,missing,missing,missing,missing,missing,missing
+missing,9,10-14-2012,10-14-2012,05:00PM - 05:30PM,WEEKEND/EARLY NEWS: SUN 5-530P (5572),1,30,X,missing,missing
+:selected:,"1 1,140",1,"1,140.00",missing,missing,missing,missing,missing,missing,missing
+missing,10,10-08-2012,10-12-2012,06:00AM - 07:00AM MORN NEWS: 6-7A M-F (5511),1,30,X > X X X,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,:unselected:,"3 1,235",3,"3,705.00",missing,missing,missing,missing,missing,missing
+11,10-08-2012,10-12-2012,07:00AM - 09:00AM MORN NEWS/GMA: 7-9A M-F (5512),1,30,X X X X X,missing,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"4 1,520",4,"6,080.00",missing,missing,missing,missing,missing,missing,missing
+missing,12,10-08-2012,10-12-2012,09:00AM - 10:00AM DAYTIME: WINDY CITY LIVE 9-10A M-F EFF: 5/26-,1,30,X X X X X,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,4 855,4,"3,420.00",missing,missing,missing,missing,missing,missing,missing
+missing,13,10-08-2012,10-12-2012,11:00AM - 12:00PM,DAYTIME/ NEWS: 11-12NOON DAYTIME M-F (5516,1,30,X X X X X,missing,missing
+:selected: :selected: :selected: :selected: :selected:,5 800,5,"4,000.00",missing,missing,missing,missing,missing,missing,missing
+missing,14,10-08-2012,10-12-2012,04:00PM - 05:00PM EARLY NEWS M-F 4-5P (8499),1,30,X X X X X,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,"4 1,805",4,"7,220.00",missing,missing,missing,missing,missing,missing,missing
+missing,15,10-08-2012,10-12-2012,05:00PM - 05:30PM EARLY NEWS: 5-530P M-F (5519),1,30,X X X X X,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,"4 2,280",4,"9,120.00",missing,missing,missing,missing,missing,missing,missing
+#Record2
+-KV
+DATE,10-10-2012
+PAGE,2 of 3
+ADELSTEIN/LISTON,missing
+41,missing
+ATTN,PAULA HAMBRICK
+222 W. ONTARIO STREET
+SUITE 503
+CHICAGO IL 60610
+Contract No,401752
+Contract Dt,10-05-2012
+Revision Dt
+Rev#,10-08-2012
+3
+Advertiser,BRAD SCHNEIDER FOR CONGRESS
+Brand,BRAD SCHNEIDER FOR CONGRESS
+Product Code,POLITICALS
+Station/Market,WLS - CHICAGO
+Agency Est#,DCCC - EST
+CMS #,missing
+Sales Office,245910
+Account Executive,PHILADELPHIA
+D. PARKER
+Start Date,10-08-2012
+End Date,10-14-2012
+Billing,"M (Broadcast Month, Cycle 1)"
+Package,missing
+Contract Title,245910
+Agency CPE,E : DCCC - EST
+30,:selected:
+30,:selected:
+30,:selected:
+MG,missing
+Group #,334083
+Preempted,10-13-2012
+Rate,missing
+Reason,60
+CHANGE
+MG,PROGRAM
+1 X 30 @ $60 Su 02:00AM - 03:00AM - 10/14/12- 10/14/12 (11857)
+Total,60
+Preempt Total,-1
+-60.00
+Contracted Gross Total,"52
+106,405.00"
+Actual Gross Total,"52
+106,405.00"
+Agency Commission,"15,960.75"
+Net Total,"90,444.25"
+-TABLE
+Contract No,Contract Dt,Revision Dt,Rev#,Advertiser,Brand,Product Code,Station/Market
+401752,10-05-2012,10-08-2012,3,BRAD SCHNEIDER FOR CONGRESS,BRAD SCHNEIDER FOR CONGRESS,POLITICALS,WLS - CHICAGO
+-TABLE
+Agency Est#,CMS #,Sales Office,Account Executive,Start Date,End Date,Billing,Package,Contract Title
+DCCC - EST,245910,PHILADELPHIA,D. PARKER,10-08-2012,10-14-2012,"M (Broadcast Month, Cycle 1)",N,245910
+-TABLE
+missing,Line,Start Date,End Date,Time Period,Description,RC,Duration,MTWTFSS,SPW,Price,Tot Spots,Total $
+missing,missing,missing,missing,Agency CPE: E : DCCC - EST,missing,missing,missing,missing,missing,missing,missing,missing
+missing,16,10-08-2012,10-12-2012,06:00PM - 06:30PM,EARLY NEWS: 6-630P M-F (5524),1,30,X X X X,missing,missing,missing,missing
+:selected: :selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,missing,2,"2,660",2,"5,320.00",missing,missing,missing,missing,missing,missing,missing
+missing,17,10-08-2012,10-12-2012,06:30PM - 07:00PM,ACCESS: WHEEL M-F 628P-7P (5525),1,30,X X X X X,missing,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,missing,3,"3,400",3,"10,200.00",missing,missing,missing,missing,missing,missing,missing
+missing,18,10-08-2012,10-12-2012,10:00PM - 10:35PM,LN ORBIT: NEWS M-F1000-1035P;SU 1000P-1100P,1,30,X X X X X,missing,missing,missing,missing
+:selected: :selected: :selected: :selected: :selected:,:unselected:,3,"5,225",3,"15,675.00",missing,missing,missing,missing,missing,missing,missing
+missing,19,10-14-2012,10-14-2012,10:00PM - 11:00PM,LN ORBIT: NEWS M-F1000-1035P;SU 1000P-1100P,1,30,missing,X,missing,missing,missing
+:selected:,1,"5,225",1,"5,225.00",missing,missing,missing,missing,missing,missing,missing,missing
+missing,20,10-14-2012,10-14-2012,11:00PM - 11:30PM,LF: SUN 190 NORTH-1100P-1130P (5827),1,30,missing,X,missing,missing,missing
+:selected:,1,760,1,760.00,missing,missing,missing,missing,missing,missing,missing,missing
+missing,21,10-14-2012,10-14-2012,11:30PM - 12:00AM,LF: SUN INSIDE ED .- 1130PM-1200A (5828),1,30,missing,X,missing,missing,missing
+:selected:,1,570,1,570.00,missing,missing,missing,missing,missing,missing,missing,missing
+missing,22,10-09-2012,10-09-2012,05:45PM - 05:55PM,*M-SU 400P-700P ROTATOR (M-SU EN/ACCESS) (,1,30,X,missing,missing,missing,missing
+:selected:,missing,1,"2,660",1,"2,660.00",missing,missing,missing,missing,missing,missing,missing
+A,23,10-09-2012,10-09-2012,08:00PM - 09:00PM,PRIME:TUE: 8-9P: VAR/COMEDIES (5604),1,30,X,missing,missing,missing,missing
+:selected:,missing,1,"7,400",1,"7,400.00",missing,missing,missing,missing,missing,missing,missing
+A,24,10-13-2012,10-13-2012,02:05AM - 02:40AM,WEEKEND:LNR 200A-300A SA-SU (11857),1,30,missing,X,missing,missing,missing
+:selected:,1,60,1,60.00,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+missing,missing,MG Group #,Preempted,Rate Reason,MG Description,missing,Duration,missing,missing,missing,missing,missing,missing
+-TABLE
+M,missing,334083,10-13-2012,60 PROGRAM CHANGE,1 X 30 @ $60 Su 02:00AM - 03:00AM - 10/14/12- 10/14/12 (11857),1,30,missing,X
+:selected:,1,60,1,60.00,missing,missing,missing,missing,missing
+-TABLE
+missing,missing,missing,Total:,60,missing,missing,missing,missing,missing,missing,Preempt Total:,-1,-60.00
+-TABLE
+missing,missing,missing,missing,missing,missing,missing,missing,missing,Contracted Gross Total:,52,"106,405.00"
+missing,missing,missing,missing,missing,missing,missing,missing,Actual Gross Total: Agency Commission:,52,"106,405.00 15,960.75",missing
+-TABLE
+missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,Net Total:,missing,"90,444.25"
+#Record3
+-KV
+DATE,10-10-2012
+PAGE,3 of 3
+ADELSTEIN/LISTON
+41,missing
+ATTN,PAULA HAMBRICK
+222 W. ONTARIO STREET
+SUITE 503
+CHICAGO IL 60610
+Contract No,401752
+Contract Dt,10-05-2012
+Revision Dt
+Rev#,10-08-2012
+3
+Advertiser,BRAD SCHNEIDER FOR
+Brand,CONGRESS
+BRAD SCHNEIDER FOR CONGRESS
+Product Code,POLITICALS
+Station/Market,WLS - CHICAGO
+Agency Est#,DCCC - EST
+CMS #,missing
+Sales Office,245910
+Account Executive,PHILADELPHIA
+D. PARKER
+Start Date,10-08-2012
+End Date,10-14-2012
+Billing,"M (Broadcast Month, Cycle 1)"
+Package
+Contract Title,245910
+Start,missing
+End,missing
+RC Duration,missing
+Tot Spots,missing
+Total $,missing
+Agency CPE,E : DCCC - EST
+-TABLE
+Contract No,Contract Dt,Revision Dt,Rev#,Advertiser,Brand,Product Code,Station/Market
+401752,10-05-2012,10-08-2012,3,BRAD SCHNEIDER FOR CONGRESS,BRAD SCHNEIDER FOR CONGRESS,POLITICALS,WLS - CHICAGO
+-TABLE
+Line,Start Date,End Date,Time Period Description RC,Duration,M T WTF SS,SPW,Price,Tot Spots,Total $
+missing,missing,missing,Agency CPE: E : DCCC - EST,missing,missing,missing,missing,missing,missing
+-TABLE
+Month/YR,Preempted,Made Good,Contract Total,Adjustments,Actual Total
+Oct 12,60.00,60.00,"106,405.00","0.00 106,405.00",missing
+TOTAL,60.00,60.00,"106,405.00","0.00 106,405.00",missing

@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Vendor": "WCSC-TV"
+                    },
+                    {
+                        "Client": "Club for Growth Action"
+                    },
+                    {
+                        "Media": "TV"
+                    },
+                    {
+                        "Product": "Adults 55+"
+                    },
+                    {
+                        "Primary Demo": "May20 Proj. (May19 HUT, Feb20 SHR)"
+                    },
+                    {
+                        "DMA Nielsen Live+SD": "true"
+                    },
+                    {
+                        "Estimate Number": "2967"
+                    },
+                    {
+                        "Flight Start Date": "05/25/2020"
+                    },
+                    {
+                        "Flight End Date": "06/07/2020"
+                    },
+                    {
+                        "Contact": "Thompson, Charlie"
+                    },
+                    {
+                        "Phone": "803-723-8371"
+                    },
+                    {
+                        "Fax": "803-723-0074"
+                    },
+                    {
+                        "Affiliation": "CBS"
+                    },
+                    {
+                        "Date": "4/6/2020"
+                    },
+                    {
+                        "Comments": "FLIGHT RUNS 5/27-6/2"
+                    },
+                    {
+                        "Market/System": "Charleston, SC"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  5:30a- 6:00a",
+                        "Daypart Code": "EM",
+                        "STN": "$180.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "LIVE 5 NEWS @ 530A",
+                        "Dur": "5.0",
+                        "Rtg/CPP": "$36.00"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  6:00a- 7:00a",
+                        "Daypart Code": "EM",
+                        "STN": "$450.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "LIVE 5 NEWS @ 6A",
+                        "Dur": "6.2",
+                        "Rtg/CPP": "$72.58"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  7:00a- 9:00a",
+                        "Daypart Code": "EM",
+                        "STN": "$450.00",
+                        "Gross": "6",
+                        "Wks": "4",
+                        "Total Spots": "10",
+                        "Adults 55+": "CBS THIS MORNING",
+                        "Dur": "7.2",
+                        "Rtg/CPP": "$62.50"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF 11:00a-12:00p",
+                        "Daypart Code": "DT",
+                        "STN": "$360.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "THE PRICE IS RIGHT",
+                        "Dur": "5.9",
+                        "Rtg/CPP": "$61.02"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF 12:00p-12:30p",
+                        "Daypart Code": "DT",
+                        "STN": "$450.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "LIVE 5 NEWS @ NOON",
+                        "Dur": "7.5",
+                        "Rtg/CPP": "$60.00"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  4:30p- 5:00p",
+                        "Daypart Code": "EF",
+                        "STN": "$315.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "INSIDE EDITION",
+                        "Dur": "8.1",
+                        "Rtg/CPP": "$38.89"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  5:00p- 5:30p",
+                        "Daypart Code": "EN",
+                        "STN": "$450.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "LIVE 5 NEWS @ 5P",
+                        "Dur": "9.3",
+                        "Rtg/CPP": "$48.39"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF  6:00p- 6:30p",
+                        "Daypart Code": "EN",
+                        "STN": "$585.00",
+                        "Gross": "2",
+                        "Wks": "2",
+                        "Total Spots": "4",
+                        "Adults 55+": "LIVE 5 NEWS @ 6P",
+                        "Dur": "10.7",
+                        "Rtg/CPP": "$54.67"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "MTuWThF 11:00p-11:37p",
+                        "Daypart Code": "LN",
+                        "STN": "$450.00",
+                        "Gross": "3",
+                        "Wks": "2",
+                        "Total Spots": "5",
+                        "Adults 55+": "LIVE 5 NEWS @ 11P",
+                        "Dur": "7.0",
+                        "Rtg/CPP": "$64.29"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "Sa  8:00a-10:00a",
+                        "Daypart Code": "WK",
+                        "STN": "$315.00",
+                        "Gross": "1",
+                        "Wks": "0",
+                        "Total Spots": "1",
+                        "Adults 55+": "CBS SATURDAY EARLY SHOW",
+                        "Dur": "5.8",
+                        "Rtg/CPP": "$54.31"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "Sa  6:00p- 6:30p",
+                        "Daypart Code": "WK",
+                        "STN": "$270.00",
+                        "Gross": "1",
+                        "Wks": "0",
+                        "Total Spots": "1",
+                        "Adults 55+": "LIVE 5 NEWS @ 6P SAT",
+                        "Dur": "5.1",
+                        "Rtg/CPP": "$52.94"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "Su  9:00a-10:30a",
+                        "Daypart Code": "WK",
+                        "STN": "$450.00",
+                        "Gross": "1",
+                        "Wks": "0",
+                        "Total Spots": "1",
+                        "Adults 55+": "CBS SUNDAY MORNING",
+                        "Dur": "5.8",
+                        "Rtg/CPP": "$77.59"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "Su 10:30a-11:30a",
+                        "Daypart Code": "WK",
+                        "STN": "$225.00",
+                        "Gross": "1",
+                        "Wks": "0",
+                        "Total Spots": "1",
+                        "Adults 55+": "FACE THE NATION",
+                        "Dur": "3.6",
+                        "Rtg/CPP": "$62.50"
+                    },
+                    {
+                        "Daypart": "WCSC-TV",
+                        "Program": "Su 11:00p-11:37p",
+                        "Daypart Code": "WK",
+                        "STN": "$360.00",
+                        "Gross": "1",
+                        "Wks": "0",
+                        "Total Spots": "1",
+                        "Adults 55+": "LIVE 5 NEWS @ 11P SU",
+                        "Dur": "7.2",
+                        "Rtg/CPP": "$50.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Station": "WCSC-TV",
+                        "Spots": "54",
+                        "Gross": "$21",
+                        "PCT": "387.3,100%",
+                        "CPP": "100%",
+                        "GRP": "$56.12"
+                    },
+                    {
+                        "Station": "Market Total:",
+                        "Spots": "54",
+                        "Gross": "$21",
+                        "PCT": "",
+                        "CPP": "$56.12",
+                        "GRP": "387.3"
+                    }
+                ]
+            }
+        ]
+    }
+]

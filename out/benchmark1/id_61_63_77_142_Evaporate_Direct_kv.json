@@ -1,0 +1,216 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "RemitTo": "KNZZ News Radio 1100"
+                    },
+                    {
+                        "InvoiceNumber": "17686-1"
+                    },
+                    {
+                        "InvoiceDate": "10/31/2020"
+                    },
+                    {
+                        "InvoiceTotal": "$465.00"
+                    },
+                    {
+                        "Addressee": "Mesa County Republicans"
+                    },
+                    {
+                        "PaymentTerms": "30 Days"
+                    },
+                    {
+                        "Address": "1360 E. Sherwood Drive"
+                    },
+                    {
+                        "CityStateZip": "Grand Junction, CO 81501"
+                    },
+                    {
+                        "InvoiceMonth": "October"
+                    },
+                    {
+                        "Advertiser": "[MISSING]"
+                    },
+                    {
+                        "Account": "[MISSING]"
+                    },
+                    {
+                        "BillingType": "Monthly"
+                    },
+                    {
+                        "Salesperson": "Maggie"
+                    },
+                    {
+                        "Gross": "$1,693.80"
+                    },
+                    {
+                        "AgencyDiscount": "15.00%"
+                    },
+                    {
+                        "Net": "[MISSING]"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "FlightDates": "10/1/2020",
+                        "Description": "Vote Republican",
+                        "EstNumber": "[MISSING]",
+                        "IDBCode": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Station": "KNZZ-AM",
+                        "SpotClassification": "CM",
+                        "CopyName": "MESA CO REPUBLICAN PARTY/2020-Vote Republican",
+                        "ISCI": "[MISSING]",
+                        "Time": "7:31:38 AM",
+                        "Qty": "1",
+                        "Rate": "15.00",
+                        "Total": "[MISSING]"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "10/2/2020",
+                        "Time": "1:26:58 PM"
+                    },
+                    {
+                        "Date": "10/3/2020",
+                        "Time": "10:18:21 AM"
+                    },
+                    {
+                        "Date": "10/4/2020",
+                        "Time": "1:50:16 PM"
+                    },
+                    {
+                        "Date": "10/5/2020",
+                        "Time": "7:58:50 AM"
+                    },
+                    {
+                        "Date": "10/6/2020",
+                        "Time": "5:52:27 PM"
+                    },
+                    {
+                        "Date": "10/7/2020",
+                        "Time": "9:05:00 AM"
+                    },
+                    {
+                        "Date": "10/8/2020",
+                        "Time": "2:51:38 PM"
+                    },
+                    {
+                        "Date": "10/9/2020",
+                        "Time": "12:22:25 PM"
+                    },
+                    {
+                        "Date": "10/10/2020",
+                        "Time": "6:24:02 PM"
+                    },
+                    {
+                        "Date": "10/11/2020",
+                        "Time": "1:29:28 PM"
+                    },
+                    {
+                        "Date": "10/12/2020",
+                        "Time": "8:04:58 AM"
+                    },
+                    {
+                        "Date": "10/13/2020",
+                        "Time": "1:51:42 PM"
+                    },
+                    {
+                        "Date": "10/14/2020",
+                        "Time": "2:50:20 PM"
+                    },
+                    {
+                        "Date": "10/15/2020",
+                        "Time": "11:25:37 AM"
+                    },
+                    {
+                        "Date": "10/16/2020",
+                        "Time": "6:48:37 AM"
+                    },
+                    {
+                        "Date": "10/17/2020",
+                        "Time": "12:30:28 PM"
+                    },
+                    {
+                        "Date": "10/18/2020",
+                        "Time": "1:29:00 PM"
+                    },
+                    {
+                        "Date": "10/19/2020",
+                        "Time": "2:32:01 PM"
+                    },
+                    {
+                        "Date": "10/20/2020",
+                        "Time": "12:49:48 PM"
+                    },
+                    {
+                        "Date": "10/21/2020",
+                        "Time": "10:24:49 AM"
+                    },
+                    {
+                        "Date": "10/22/2020",
+                        "Time": "10:55:56 AM"
+                    },
+                    {
+                        "Date": "10/23/2020",
+                        "Time": "1:24:08 PM"
+                    },
+                    {
+                        "Date": "10/24/2020",
+                        "Time": "8:52:00 AM"
+                    },
+                    {
+                        "Date": "10/25/2020",
+                        "Time": "12:59:20 PM"
+                    },
+                    {
+                        "Date": "10/26/2020",
+                        "Time": "2:05:00 PM"
+                    },
+                    {
+                        "Date": "10/27/2020",
+                        "Time": "12:31:02 PM"
+                    },
+                    {
+                        "Date": "10/28/2020",
+                        "Time": "10:32:02 AM"
+                    },
+                    {
+                        "Date": "10/29/2020",
+                        "Time": "12:51:09 PM"
+                    },
+                    {
+                        "Date": "10/30/2020",
+                        "Time": "5:51:03 PM"
+                    },
+                    {
+                        "Date": "[MISSING]",
+                        "Time": "9:55:50 AM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Description": "31 30 second spot(s) on KNZZ-AM at $15.00 each for a total of $465.00",
+                        "Count": "31",
+                        "Rate": "$15.00",
+                        "Total": "$465.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

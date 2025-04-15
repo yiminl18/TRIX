@@ -1,0 +1,188 @@
+#Record1
+-KV
+Spot State,missing
+Channel Day,missing
+Weekdays,missing
+Air Date,missing
+State,missing
+Makegood,missing
+Spot #,missing
+Line#,missing
+Line#,missing
+Line#,3
+Line#,missing
+Line#,5
+Line#,missing
+Spot Status,Placed
+[Filtered by,missing
+[Sorted by,Air Date]
+-TABLE
+WAVY,W,-- WThF ----,08/29/12,Today Show M-F,7a-9a,8:42 AM,SPA12TV12H,":30 P1 $2,000.00 No 1"
+WAVY,Th,-- WThF ----,08/30/12,Today Show M-F,7a-9a,8:44 AM,SPA12TV12H,"2
+:30 P1 $2,000.00 No"
+-TABLE
+missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$4,000.00"
+missing,missing,missing,"$4,000.00",missing,missing,missing,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing,missing
+Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,W,-- WThF ----,08/29/12,Hampton Roads Show,11a-12p,11:29 AM,SPA12TV12H,:30 P2,$200.00
+WAVY,W,-- WThF ----,08/29/12,Hampton Roads Show,11a-12p,11:56 AM,SPA12TV12H,:30 P2,$200.00
+WAVY,Th,-- WThF ----,08/30/12,Hampton Roads Show,11a-12p,11:59 AM,SPA12TV12H,:30 P2,$200.00
+WAVY,Th,-- WThF ----,08/30/12,Hampton Roads Show,11a-12p,1:13 AM,SPA12TV12H,:30 P2,$200.00
+WAVY,F,-- WThF ----,08/31/12,Hampton Roads Show,11a-12p,1:53 AM,SPA12TV12H,:30 P2,$200.00
+WAVY,F,-- WThF ----,08/31/12,Hampton Roads Show,11a-12p,1:29 AM,SPA12TV12H,:30 P2,$200.00
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$1,200.00"
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$1,200.00"
+missing,missing,missing,missing,missing,missing,missing,missing,missing
+Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,W,-- WThF ----,08/29/12,News 10 @ Noon,12p-1p,2:42 PM,SPA12TV12H,:30 P1,$300.00
+WAVY,W,-- WThF ----,08/29/12,News 10 @ Noon,12p-1p,2:10 PM,SPA12TV12H,:30 P1,$300.00
+WAVY,Th,-- WThF ----,08/30/12,News 10 @ Noon,12p-1p,2:25 PM,SPA12TV12H,:30 P1,$300.00
+WAVY,Th,-- WThF ----,08/30/12,News 10 @ Noon,12p-1p,2:53 PM,SPA12TV12H,:30 P1,$300.00
+WAVY,F,-- WThF ----,08/31/12,News 10 @ Noon,12p-1p,2:11 PM,SPA12TV12H,:30 P1,$300.00
+WAVY,F,-- WThF ----,08/31/12,News 10 @ Noon,12p-1p,2:30 PM,SPA12TV12H,:30 P1,$300.00
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$1,800.00"
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$1,800.00"
+missing,missing,missing,missing,missing,missing,missing,missing,missing
+Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,W,-- WThF ----,08/29/12,News 10 @6p,6p-630p,6:21 PM,SPA12TV12H,:30 P1,"$2,000.00"
+WAVY,Th,-- WThF ----,08/30/12,News 10 @6p,6p-630p,6:28 PM,SPA12TV12H,:30 P1,"$2,000.00"
+WAVY,F,-- WThF ----,08/31/12,News 10 @6p,6p-630p,6:07 PM,SPA12TV12H,:30 P1,"$2,000.00"
+missing,missing,missing,missing,missing,"$6,000.00",missing,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$6,000.00"
+missing,missing,missing,missing,missing,missing,missing,missing,missing
+Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,W,-- WThF ----,08/29/12,M-F News 10 @11,11р-1130р,1:36 PM,SPA12TV12H,:30 P1,"$2,000.00 No"
+WAVY,Th,-- WThF ----,08/30/12,M-F News 10 @11,11p-1130p,11:41 PM,SPA12TV12H,:30 P1 Special repor,"$2,000.00"
+WAVY,F,-- WThF ----,08/31/12,M-F News 10 @11,11p-1130p,11:25 PM,SPA12TV12H,:30 P1,"$2,000.00"
+#Record2
+-KV
+Order,missing
+Line#,missing
+Line#,11
+Line#,missing
+Line#,Placed
+WAVY
+Sa
+----- Sa --
+Line#,13
+[Filtered by,missing
+[Sorted by,Air Date]
+-TABLE
+WAVY,W,-- WThF ----,08/29/12,Tonight Show w/Leno,1134p-1237a,2:15 AM,SPA12TV12H :30 P1,$500.00,No 1
+WAVY,Th,-- WThF ----,08/30/12,Tonight Show w/Leno,1134p-1237a,2:08 AM,SPA12TV12H :30 P1,$500.00,No 2
+WAVY,F,-- WThF ----,08/31/12,Tonight Show w/Leno,1134p-1237a,2:30 AM,SPA12TV12H :30 P1,$500.00,No 3
+missing,missing,missing,missing,missing,missing,missing,missing,"$1,500.00",3
+missing,missing,missing,missing,missing,missing,missing,missing,"$1,500.00",3
+7,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Sa,-Sa --,09/01/12,WAVY News 10 Sa 6a,6a-7a,6:39 AM,SPA12TV12H :30 P1,$500.00,No 1
+missing,missing,missing,missing,missing,missing,missing,$500.00,1,missing
+missing,missing,missing,missing,missing,missing,missing,$500.00,1,missing
+8,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Sa,-- Sa --,09/01/12,WAVY News 10 Sa 7a,7a-8a,7:40 AM,SPA12TV12H :30 P1,$800.00,No 1
+missing,missing,missing,missing,missing,missing,missing,missing,$800.00,1
+missing,missing,missing,missing,missing,missing,missing,missing,$800.00,1
+9,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Sa,-Sa --,09/01/12,WAVY News 10 Sat 6p,6p-630p,5:59 PM,SPA12TV12H :30 P1,$500.00,No 1
+WAVY,Sa,-- Sa --,09/01/12,WAVY News 10 Sat 6p,6p-630p,6:15 PM,SPA12TV12H :30 P1,$500.00,No 2
+missing,missing,missing,missing,missing,missing,missing,missing,"$1,000.00",2
+missing,missing,missing,missing,missing,missing,missing,missing,"$1,000.00",2
+10,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Sa,----- Sa --,09/01/12,Sa 7-8p,7p-8p,7:34 PM,SPA12TV12H :30 P2,$300.00,No 1
+missing,missing,missing,missing,missing,missing,missing,$300.00,1,missing
+missing,missing,missing,missing,missing,missing,missing,missing,$300.00,1
+11,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Su,-- Su,09/02/12,WAVY News 10 Sunda,7a-8a,7:10 AM,SPA12TV12H :30 P1,$800.00,No 1
+missing,missing,missing,missing,missing,missing,missing,$800.00,1,missing
+missing,missing,missing,missing,missing,missing,missing,missing,$800.00,1
+12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,Su,Su,09/02/12,WAVY News 10 Sun,6p6p-7p,6:23 PM,SPA12TV12H :30 P1,$500.00,No 1
+WAVY,Su,-Su,09/02/12,WAVY News 10 Sun,6p6p-7p,6:51 PM,SPA12TV12H :30 P1,$500.00,No 2
+missing,missing,missing,missing,missing,missing,missing,missing,"$1,000.00",2
+#Record3
+-KV
+Spot Status: Placed,missing
+Line#,19
+Spot
+Placed,WAVY
+M
+MT --------
+Placed,WAVY
+M
+MT --------
+WAVY
+Tu
+MT --------
+Spot
+Placed,WAVY
+M
+MT --------
+WAVY
+Tu
+MT --------
+Spot Status,Placed
+WAVY
+M
+MT --------
+WAVY
+Tu
+MT --------
+Spot Status,Placed
+WAVY
+M
+MT
+WAVY
+Tu
+MT
+Line#,16
+Line#,17
+Line#,18
+[Filtered by,missing
+[Sorted by,missing
+-TABLE
+WAVY,Su,-- Su,09/02/12,WAVY News 10 @11 S11p-1130p,11:29 PM,SPA12TV12H,:30 P1,"$2,000.00",No 1
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$2,000.00",1
+missing,missing,missing,missing,missing,missing,missing,"$2,000.00",1,missing
+14,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,Today Show M-F,7a-9a,7:22 AM,SPA12TV12H,:30 P1,"$2,000.00",No 1
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$2,000.00",1
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$2,000.00",1
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+15,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,Hampton Roads Show,11a-12p,11:38 AM,SPA12TV12H,:30 P2,$200.00,No 1
+WAVY,M,MT --------,09/03/12,Hampton Roads Show,11a-12p,11:15 AM,SPA12TV12H,:30 P2,$200.00,No 3
+WAVY,Tu,MT --------,09/04/12,Hampton Roads Show,11a-12p,11:10 AM,SPA12TV12H,:30 P2,$200.00,No 4
+WAVY,Tu,MT --------,09/04/12,Hampton Roads Show,11a-12p,11:40 AM,SPA12TV12H,:30 P2,$200.00,No 2
+missing,missing,missing,missing,missing,missing,missing,missing,missing,$800.00,4
+missing,missing,missing,missing,missing,missing,missing,missing,missing,$800.00,4
+16,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,News 10 @ Noon,12p-1p,2:59 PM,SPA12TV12H,:30 P1,$300.00,No 1
+WAVY,Tu,MT --------,09/04/12,News 10 @ Noon,12p-1p,2:12 PM,SPA12TV12H,:30 P1,$300.00,No 2
+missing,missing,missing,missing,missing,missing,missing,missing,missing,$600.00,2
+missing,missing,missing,missing,missing,missing,missing,missing,missing,$600.00,2
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+17,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,News 10 @6p,6p-630p,6:14 PM,SPA12TV12H,:30 P1,"$2,000.00",No 1
+WAVY,Tu,MT --------,09/04/12,News 10 @6p,6p-630p,6:07 PM,SPA12TV12H,:30 P1,"$2,000.00",No 2
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$4,000.00",2
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$4,000.00",2
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+18,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,M-F News 10 @11,11p-1130p,11:32 PM,SPA12TV12H,:30 P1,"$2,000.00",No 2
+WAVY,Tu,MT --------,09/04/12,M-F News 10 @11,11p-1130p,11:28 PM,SPA12TV12H,:30 P1,"$2,000.00",No 1
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$4,000.00",2
+missing,missing,missing,missing,missing,missing,missing,missing,"$4,000.00",2
+19,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spot Status: Placed,missing,missing,missing,missing,missing,missing,missing,missing,missing
+WAVY,M,MT --------,09/03/12,Tonight Show w/Leno,1134p-1237a,2:09 AM,SPA12TV12H,:30 P1,$500.00,No 2
+WAVY,Tu,MT --------,09/04/12,Tonight Show w/Leno,1134p-1237a,1:53 PM,SPA12TV12H,:30 P1,$500.00,No 1
+missing,missing,missing,missing,missing,missing,missing,missing,missing,"$1,000.00",2

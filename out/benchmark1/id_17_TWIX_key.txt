@@ -1,0 +1,5 @@
+Class Wait Cap
+Class Wait Tot
+Class Min Enrl
+Class Enrl Cap
+Class Enrl Tot

@@ -1,0 +1,1099 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "OrderNumber": "WOC12728878"
+                    },
+                    {
+                        "OrderStatus": "Confirmed"
+                    },
+                    {
+                        "StartEndDates": "10/21/20 - 10/27/20"
+                    },
+                    {
+                        "C/P/E": "632 / 717 / 7583"
+                    },
+                    {
+                        "TrafficNumber": "2092810"
+                    },
+                    {
+                        "Agency": "NEBO"
+                    },
+                    {
+                        "ProductDesc": "issue"
+                    },
+                    {
+                        "BuyerOrderNumber": "10030376"
+                    },
+                    {
+                        "Advertiser": "Judicial Fairness PAC"
+                    },
+                    {
+                        "EstimateDesc": "JFP 10.21-10.27"
+                    },
+                    {
+                        "AE": "Aleesha Maewall"
+                    },
+                    {
+                        "TotalCost": "\"12,065.00\""
+                    },
+                    {
+                        "Property": "KCEN TV"
+                    },
+                    {
+                        "PrimaryDemo": "[MISSING]"
+                    },
+                    {
+                        "SalesRegion": "National"
+                    },
+                    {
+                        "ReceivedDate": "10/02/20 12:15 PM"
+                    },
+                    {
+                        "GeneratedDate": "10/02/20 1:57 PM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Program": "TEXAS TODAY II",
+                        "STLen": "NM:306:00 AM-7:00 AM",
+                        "Time": "440.001",
+                        "Rate": "1440.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "TEXAS TODAY II",
+                        "STLen": "NM:306:00 AM-7:00 AM",
+                        "Time": "440.001",
+                        "Rate": "1440.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "TEXAS TODAY II",
+                        "STLen": "NM:306:00 AM-7:00 AM",
+                        "Time": "440.001",
+                        "Rate": "1440.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "JEOPARDY<",
+                        "STLen": "NM:304:30 PM-5:00 PM",
+                        "Time": "480.001",
+                        "Rate": "1480.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "JEOPARDY<",
+                        "STLen": "NM:304:30 PM-5:00 PM",
+                        "Time": "480.001",
+                        "Rate": "1480.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "KCEN NEWS @ 5",
+                        "STLen": "NM:305:00 PM-5:30 PM",
+                        "Time": "675.001",
+                        "Rate": "1675.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "KCEN NEWS @ 5",
+                        "STLen": "NM:305:00 PM-5:30 PM",
+                        "Time": "675.001",
+                        "Rate": "1675.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "KCEN NEWS @ 5",
+                        "STLen": "NM:305:00 PM-5:30 PM",
+                        "Time": "675.001",
+                        "Rate": "1675.00",
+                        "Total Cost": "------T",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "KCEN NEWS @ 6",
+                        "STLen": "NM:306:00 PM-6:30 PM",
+                        "Time": "980.001",
+                        "Rate": "1980.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "WHEEL-FORTNE",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "1980.001",
+                        "Rate": "1",
+                        "Total Cost": "1980.00",
+                        "Days": "--F----"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "WHEEL-FORTNE",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "1980.001",
+                        "Rate": "1",
+                        "Total Cost": "1980.00",
+                        "Days": "W------"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "WHEEL-FORTNE",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "1980.001",
+                        "Rate": "1",
+                        "Total Cost": "1980.00",
+                        "Days": "-----M-"
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "KCEN NW@6P SAT",
+                        "STLen": "NM:306:00 PM-6:30 PM",
+                        "Time": "420.001",
+                        "Rate": "1420.00",
+                        "Total Cost": "---S---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "7",
+                        "Program": "AVG. ALL WKS",
+                        "STLen": "NM:305:00 PM-5:30 PM",
+                        "Time": "420.001",
+                        "Rate": "1420.00",
+                        "Total Cost": "----S--",
+                        "Days": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "OrderNumber": "WOC12498370"
+                    },
+                    {
+                        "OrderStatus": "Opened-New"
+                    },
+                    {
+                        "StartEndDates": "05/06/20 - 05/12/20"
+                    },
+                    {
+                        "C/P/E": "136 / 159 / 945"
+                    },
+                    {
+                        "TrafficNumber": "1619211"
+                    },
+                    {
+                        "Agency": "Flexpoint Media"
+                    },
+                    {
+                        "ProductDesc": "WICD-07 Special 2020"
+                    },
+                    {
+                        "BuyerOrderNumber": "9575879"
+                    },
+                    {
+                        "Advertiser": "Tom Tiffany WICD-07"
+                    },
+                    {
+                        "EstimateDesc": "05/06-05/12 Tiffany TV WI-7 Order"
+                    },
+                    {
+                        "AE": "Wausau House"
+                    },
+                    {
+                        "TotalCost": "18,800.00"
+                    },
+                    {
+                        "Property": "WSAW TV"
+                    },
+                    {
+                        "PrimaryDemo": "[MISSING]"
+                    },
+                    {
+                        "SalesRegion": "Local"
+                    },
+                    {
+                        "ReceivedDate": "5/05/20 8:29 AM"
+                    },
+                    {
+                        "GeneratedDate": "5/05/20 9:22 AM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Program": "SUNRISE 7 6-6 30A",
+                        "STLen": "NM:306:15 AM-6:30 AM",
+                        "Time": "200.001",
+                        "Rate": "1,200.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "SUNRISE 7 6-6 30A",
+                        "STLen": "NM:306:15 AM-6:30 AM",
+                        "Time": "200.001",
+                        "Rate": "1,200.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "SUNRISE 7 6-6 30A",
+                        "STLen": "NM:306:15 AM-6:30 AM",
+                        "Time": "200.001",
+                        "Rate": "1,200.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "SUNRISE 7 6 30-7A",
+                        "STLen": "NM:306:45 AM-7:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "SUNRISE 7 6 30-7A",
+                        "STLen": "NM:306:45 AM-7:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "SUNRISE 7 6 30-7A",
+                        "STLen": "NM:306:45 AM-7:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "SUNRISE 7 6 30-7A",
+                        "STLen": "NM:306:45 AM-7:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "------T",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "CBS THIS MORNING",
+                        "STLen": "NM:307:00 AM-9:00 AM",
+                        "Time": "250.001",
+                        "Rate": "1,250.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "CBS THIS MORNING",
+                        "STLen": "NM:307:00 AM-9:00 AM",
+                        "Time": "250.001",
+                        "Rate": "1,250.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "CBS THIS MORNING",
+                        "STLen": "NM:307:00 AM-9:00 AM",
+                        "Time": "250.001",
+                        "Rate": "1,250.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "CBS THIS MORNING",
+                        "STLen": "NM:307:00 AM-9:00 AM",
+                        "Time": "250.001",
+                        "Rate": "1,250.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "CBS THIS MORNING",
+                        "STLen": "NM:307:00 AM-9:00 AM",
+                        "Time": "250.001",
+                        "Rate": "1,250.00",
+                        "Total Cost": "------T",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "CBS THIS MORNING SAT",
+                        "STLen": "NM:306:00 AM-8:00 AM",
+                        "Time": "200.001",
+                        "Rate": "1,200.00",
+                        "Total Cost": "---S---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "SUNRISE 7 SUNDAY",
+                        "STLen": "NM:307:15 AM-7:30 AM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "----S--",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "SUNRISE 7 SUNDAY",
+                        "STLen": "NM:307:45 AM-8:00 AM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "----S--",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "7",
+                        "Program": "CBS SUNDAY MORNING",
+                        "STLen": "NM:308:00 AM-9:30 AM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "----S--",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "8",
+                        "Program": "25 WORDS OR LESS",
+                        "STLen": "NM:309:00 AM-9:30 AM",
+                        "Time": "100.001",
+                        "Rate": "1,100.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "8",
+                        "Program": "25 WORDS OR LESS",
+                        "STLen": "NM:309:00 AM-9:30 AM",
+                        "Time": "100.001",
+                        "Rate": "1,100.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "8",
+                        "Program": "25 WORDS OR LESS",
+                        "STLen": "NM:309:00 AM-9:30 AM",
+                        "Time": "100.001",
+                        "Rate": "1,100.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "8",
+                        "Program": "25 WORDS OR LESS",
+                        "STLen": "NM:309:00 AM-9:30 AM",
+                        "Time": "100.001",
+                        "Rate": "1,100.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "9",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "9",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "9",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "9",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "10",
+                        "Program": "NEWSCHANNEL 7 AT NM:3012:15 PM-12:30 PM",
+                        "STLen": "360.001",
+                        "Time": "1,300.00",
+                        "Rate": "-T-----",
+                        "Total Cost": "",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "10",
+                        "Program": "NEWSCHANNEL 7 AT NM:3012:15 PM-12:30 PM",
+                        "STLen": "300.001",
+                        "Time": "1,300.00",
+                        "Rate": "--F----",
+                        "Total Cost": "",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "10",
+                        "Program": "NEWSCHANNEL 7 AT NM:3012:15 PM-12:30 PM",
+                        "STLen": "300.001",
+                        "Time": "1,300.00",
+                        "Rate": "-----M-",
+                        "Total Cost": "",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "10",
+                        "Program": "NEWSCHANNEL 7 AT NM:3012:15 PM-12:30 PM",
+                        "STLen": "300.001",
+                        "Time": "1,300.00",
+                        "Rate": "W------",
+                        "Total Cost": "",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "11",
+                        "Program": "LETS MAKE A DEAL",
+                        "STLen": "NM:302:00 PM-3:00 PM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "11",
+                        "Program": "LETS MAKE A DEAL",
+                        "STLen": "NM:302:00 PM-3:00 PM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "11",
+                        "Program": "LETS MAKE A DEAL",
+                        "STLen": "NM:302:00 PM-3:00 PM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "11",
+                        "Program": "LETS MAKE A DEAL",
+                        "STLen": "NM:302:00 PM-3:00 PM",
+                        "Time": "150.001",
+                        "Rate": "1,150.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "12",
+                        "Program": "JUDGE JUDY",
+                        "STLen": "NM:303:00 PM-3:30 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "12",
+                        "Program": "JUDGE JUDY",
+                        "STLen": "NM:303:00 PM-3:30 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "13",
+                        "Program": "JUDGE JUDY",
+                        "STLen": "NM:303:30 PM-4:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "13",
+                        "Program": "JUDGE JUDY",
+                        "STLen": "NM:303:30 PM-4:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "14",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:15 PM-5:30 PM",
+                        "Time": "450.001",
+                        "Rate": "1,450.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "14",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:15 PM-5:30 PM",
+                        "Time": "450.001",
+                        "Rate": "1,450.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "14",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:15 PM-5:30 PM",
+                        "Time": "450.001",
+                        "Rate": "1,450.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "14",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:15 PM-5:30 PM",
+                        "Time": "450.001",
+                        "Rate": "1,450.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "15",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:15 PM-6:30 PM",
+                        "Time": "600.001",
+                        "Rate": "1,600.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "15",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:15 PM-6:30 PM",
+                        "Time": "600.001",
+                        "Rate": "1,600.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "15",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:15 PM-6:30 PM",
+                        "Time": "600.001",
+                        "Rate": "1,600.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "16",
+                        "Program": "INSIDE EDITION",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "16",
+                        "Program": "INSIDE EDITION",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "16",
+                        "Program": "INSIDE EDITION",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "16",
+                        "Program": "INSIDE EDITION",
+                        "STLen": "NM:306:30 PM-7:00 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "17",
+                        "Program": "NEIGHBORHOOD/BOB ABISHOLA",
+                        "STLen": "NM:307:00 PM-8:00 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "18",
+                        "Program": "MAGNUM PI",
+                        "STLen": "NM:308:00 PM-9:00 PM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "19",
+                        "Program": "BLUE BLOODS",
+                        "STLen": "NM:309:00 PM-10:00 PM",
+                        "Time": "900.001",
+                        "Rate": "1,900.00",
+                        "Total Cost": "--F----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "20",
+                        "Program": "48 HOURS",
+                        "STLen": "NM:309:00 PM-10:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "---S---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "21",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:15 PM-10:35 PM",
+                        "Time": "700.001",
+                        "Rate": "1,700.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "21",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:15 PM-10:35 PM",
+                        "Time": "700.001",
+                        "Rate": "1,700.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "21",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:15 PM-10:35 PM",
+                        "Time": "700.001",
+                        "Rate": "1,700.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "22",
+                        "Program": "LATE SHOW W/ STEPHEN COLBERT",
+                        "STLen": "NM:3010:35 PM-11:35 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-T-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "22",
+                        "Program": "LATE SHOW W/ STEPHEN COLBERT",
+                        "STLen": "NM:3010:35 PM-11:35 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "W------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "22",
+                        "Program": "LATE SHOW W/ STEPHEN COLBERT",
+                        "STLen": "NM:3010:35 PM-11:35 PM",
+                        "Time": "300.001",
+                        "Rate": "1,300.00",
+                        "Total Cost": "-----M-",
+                        "Days": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "OrderNumber": "WOC13624280"
+                    },
+                    {
+                        "OrderStatus": "New"
+                    },
+                    {
+                        "StartEndDates": "06/07/22 - 06/13/22"
+                    },
+                    {
+                        "C/P/E": "127 / 311 / 750"
+                    },
+                    {
+                        "TrafficNumber": "[MISSING]"
+                    },
+                    {
+                        "Agency": "AdVictory LLC"
+                    },
+                    {
+                        "ProductDesc": "Primary"
+                    },
+                    {
+                        "BuyerOrderNumber": "11722982"
+                    },
+                    {
+                        "Advertiser": "Michels for Governor"
+                    },
+                    {
+                        "EstimateDesc": "Michels June 7-13 Broadcast"
+                    },
+                    {
+                        "AE": "Wausau House"
+                    },
+                    {
+                        "TotalCost": "32,500.00"
+                    },
+                    {
+                        "Property": "WSAW TV"
+                    },
+                    {
+                        "PrimaryDemo": "[MISSING]"
+                    },
+                    {
+                        "SalesRegion": "Local"
+                    },
+                    {
+                        "ReceivedDate": "6/04/22 11:06 AM"
+                    },
+                    {
+                        "GeneratedDate": "6/05/22 9:26 AM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "--T----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "---F---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "-W-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "------M",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "STLen": "NM:3010:00 AM-11:00 AM",
+                        "Time": "500.001",
+                        "Rate": "1,500.00",
+                        "Total Cost": "T------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "NEWSCHANNEL 7 AT NOON",
+                        "STLen": "NM:3012:10 PM-12:30 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "--T----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "NEWSCHANNEL 7 AT NOON",
+                        "STLen": "NM:3012:10 PM-12:30 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "---F---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "NEWSCHANNEL 7 AT NOON",
+                        "STLen": "NM:3012:10 PM-12:30 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "-W-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "NEWSCHANNEL 7 AT NOON",
+                        "STLen": "NM:3012:10 PM-12:30 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "------M",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "NEWSCHANNEL 7 AT NOON",
+                        "STLen": "NM:3012:10 PM-12:30 PM",
+                        "Time": "750.001",
+                        "Rate": "1,750.00",
+                        "Total Cost": "T------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "BOLD & BEAUTIFUL",
+                        "STLen": "NM:3012:30 PM-1:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "--T----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "BOLD & BEAUTIFUL",
+                        "STLen": "NM:3012:30 PM-1:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "---F---",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "BOLD & BEAUTIFUL",
+                        "STLen": "NM:3012:30 PM-1:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "-W-----",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "BOLD & BEAUTIFUL",
+                        "STLen": "NM:3012:30 PM-1:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "------M",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Program": "BOLD & BEAUTIFUL",
+                        "STLen": "NM:3012:30 PM-1:00 PM",
+                        "Time": "350.001",
+                        "Rate": "1,350.00",
+                        "Total Cost": "T------",
+                        "Days": ""
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:10 PM-5:30 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "--T----"
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:10 PM-5:30 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "---F---"
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:10 PM-5:30 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "-W-----"
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:10 PM-5:30 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "------M"
+                    },
+                    {
+                        "Line": "4",
+                        "Program": "NEWSCHANNEL 7 AT 5",
+                        "STLen": "NM:305:10 PM-5:30 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "T------"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:10 PM-6:30 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "--T----"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:10 PM-6:30 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "T------"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:10 PM-6:30 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "------M"
+                    },
+                    {
+                        "Line": "5",
+                        "Program": "NEWSCHANNEL 7 AT 6",
+                        "STLen": "NM:306:10 PM-6:30 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "-W-----"
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:10 PM-10:35 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "-W-----"
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:10 PM-10:35 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "--T----"
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:10 PM-10:35 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "------M"
+                    },
+                    {
+                        "Line": "6",
+                        "Program": "NEWSCHANNEL 7 AT 10",
+                        "STLen": "NM:3010:10 PM-10:35 PM",
+                        "Time": "2000.00",
+                        "Rate": "1",
+                        "Total Cost": "2,000.00",
+                        "Days": "T------"
+                    },
+                    {
+                        "Line": "7",
+                        "Program": "NEWSCHANNEL 7 AT 10 SATURDAY",
+                        "STLen": "NM:3010:10 PM-10:35 PM",
+                        "Time": "1500.00",
+                        "Rate": "1",
+                        "Total Cost": "1,500.00",
+                        "Days": "----S--"
+                    },
+                    {
+                        "Line": "8",
+                        "Program": "CBS SUNDAY MORNING",
+                        "STLen": "NM:308:00 AM-9:30 AM",
+                        "Time": "1,500.00",
+                        "Rate": "1",
+                        "Total Cost": "",
+                        "Days": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

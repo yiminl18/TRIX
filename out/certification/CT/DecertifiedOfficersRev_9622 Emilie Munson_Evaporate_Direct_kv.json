@@ -1,0 +1,740 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Year": "2022",
+                        "Name": "HARRIS, Austin G.",
+                        "Department": "Old Saybrook Police Department",
+                        "POST ID#": "18077",
+                        "Date": "1/7/2022",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2022",
+                        "Name": "SINGH, Taranjit",
+                        "Department": "Norwalk Police Department",
+                        "POST ID#": "15768",
+                        "Date": "3/10/2022",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2022",
+                        "Name": "DIMEGLIO, Michael",
+                        "Department": "Norwalk Police Department",
+                        "POST ID#": "15171",
+                        "Date": "3/10/2022",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2022",
+                        "Name": "LAUDANO, Sara",
+                        "Department": "Norwalk Police Department",
+                        "POST ID#": "16619",
+                        "Date": "3/10/2022",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2022",
+                        "Name": "ACHEYCHEK, Jeffrey",
+                        "Department": "Wallingford Police Department",
+                        "POST ID#": "16085",
+                        "Date": "1/13/2022",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2021",
+                        "Name": "GAMARRA, Gary",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "16942",
+                        "Date": "11/18/2021",
+                        "Reason": "Misconduct"
+                    },
+                    {
+                        "Year": "2021",
+                        "Name": "PEREZ, Armando J.",
+                        "Department": "Bridgeport Police Department",
+                        "POST ID#": "2126",
+                        "Date": "11/18/2021",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2021",
+                        "Name": "CARRANO, John",
+                        "Department": "Bridgeport Police Department",
+                        "POST ID#": "15034",
+                        "Date": "3/11/2021",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2021",
+                        "Name": "TORNIERO, Justin",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "13930",
+                        "Date": "3/11/2021",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2019",
+                        "Name": "HUDSON, Richard, T.",
+                        "Department": "Guilford Police Department",
+                        "POST ID#": "15108",
+                        "Date": "6/17/2019",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2019",
+                        "Name": "KELLY, Bryan, W.",
+                        "Department": "Hamden Police Department",
+                        "POST ID#": "10403",
+                        "Date": "1/17/2019",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2018",
+                        "Name": "DiCHIARA, Mark J.",
+                        "Department": "Newington Police Department",
+                        "POST ID#": "8048",
+                        "Date": "1/18/2018",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2018",
+                        "Name": "LONGOLUCCO, Jaime",
+                        "Department": "Norwich Police Department",
+                        "POST ID#": "10404",
+                        "Date": "1/18/2018",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2018",
+                        "Name": "RILLING, Stephen, J",
+                        "Department": "Fairfield Police Department",
+                        "POST ID#": "10283",
+                        "Date": "9/13/2018",
+                        "Reason": "Drug Conviction"
+                    },
+                    {
+                        "Year": "2017",
+                        "Name": "GIBBS, Leighton H.",
+                        "Department": "Meriden Police Department",
+                        "POST ID#": "10218",
+                        "Date": "1/12/2017",
+                        "Reason": "Felony Conviction (Worker's Comp Fraud)"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "BRYANT, III, Charles M.",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "16286",
+                        "Date": "1/14/2016",
+                        "Reason": "Falsifying Police Officer Application"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "DUNBAR, Jermaine D.",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "12480",
+                        "Date": "5/12/2016",
+                        "Reason": "Making False Statements (Department Findings)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Year": "2016",
+                        "Name": "MACERO, Matthew P.",
+                        "Department": "Ansonia Police Department",
+                        "POST ID#": "11337",
+                        "Date": "9/15/2016",
+                        "Reason": "Falsely Reporting Incident (Conviction)"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "SANTUCCI, Steven J.",
+                        "Department": "Newtown Police Department",
+                        "POST ID#": "11209",
+                        "Date": "9/15/2016",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "SILVA, Rui",
+                        "Department": "Stafford Police Department",
+                        "POST ID#": "13386",
+                        "Date": "9/15/2016",
+                        "Reason": "False Statements (Department Charges)"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "TURTZO, Stephen A.",
+                        "Department": "West Haven Police Department",
+                        "POST ID#": "7836",
+                        "Date": "3/10/2016",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2016",
+                        "Name": "WORDEN, Matthew J.",
+                        "Department": "Enfield Police Department",
+                        "POST ID#": "12480",
+                        "Date": "10/3/2016",
+                        "Reason": "Making False Statements (Department Findings)"
+                    },
+                    {
+                        "Year": "2015",
+                        "Name": "BEERS, Justin R.",
+                        "Department": "New London Police Department",
+                        "POST ID#": "16126",
+                        "Date": "7/24/2015",
+                        "Reason": "Falsification of Entry Level Documents"
+                    },
+                    {
+                        "Year": "2015",
+                        "Name": "RUSCOE, William G.",
+                        "Department": "Trumbull Police Department",
+                        "POST ID#": "7352",
+                        "Date": "12/3/2015",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "CARI, David M.",
+                        "Department": "East Haven Police Department",
+                        "POST ID#": "11496",
+                        "Date": "6/3/2014",
+                        "Reason": "Felony Convictions"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "D\u2019AMATO, Michael",
+                        "Department": "East Haven Police Department",
+                        "POST ID#": "6226",
+                        "Date": "8/5/2014",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "HAYES, Jennifer M.",
+                        "Department": "Torrington Police Department",
+                        "POST ID#": "9586",
+                        "Date": "6/3/2014",
+                        "Reason": "Making False Statements"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "JOHNSON, Tishay",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "9997",
+                        "Date": "11/9/2014",
+                        "Reason": "(Felony Conviction)"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "LIQUINDOLI, Robert A",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "11062",
+                        "Date": "8/5/2014",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "MILLER, John V.",
+                        "Department": "East Haven Police Department",
+                        "POST ID#": "8222",
+                        "Date": "8/5/2014",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "NIELSEN, Andrew W.",
+                        "Department": "East Hartford Police Department",
+                        "POST ID#": "4702",
+                        "Date": "11/9/2014",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "SPAULDING, Dennis E.",
+                        "Department": "East Haven Police Department",
+                        "POST ID#": "12876",
+                        "Date": "6/3/2014",
+                        "Reason": "Felony Convictions"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "SZABO, Michael A.",
+                        "Department": "Torrington Police Department",
+                        "POST ID#": "10123",
+                        "Date": "6/3/2014",
+                        "Reason": "Making False Statements"
+                    },
+                    {
+                        "Year": "2014",
+                        "Name": "ZULLO, Jason",
+                        "Department": "East Haven Police Department",
+                        "POST ID#": "12563",
+                        "Date": "6/3/2014",
+                        "Reason": "(Felony Conviction)"
+                    },
+                    {
+                        "Year": "2013",
+                        "Name": "COSSETTE, Evan J.",
+                        "Department": "Meriden Police Department",
+                        "POST ID#": "14273",
+                        "Date": "11/21/2013",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2013",
+                        "Name": "GAMBARDELLA, Joseph R.",
+                        "Department": "Madison Police Department",
+                        "POST ID#": "4821",
+                        "Date": "7/3/2013",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2013",
+                        "Name": "LoPRESTO, Linda J.",
+                        "Department": "Wallingford Police Department",
+                        "POST ID#": "10462",
+                        "Date": "7/3/2013",
+                        "Reason": "Tampering W/Evidence - Making False Statements (Depart. Findings)"
+                    },
+                    {
+                        "Year": "2013",
+                        "Name": "MEDINA, Hector H.",
+                        "Department": "Torrington Police Department",
+                        "POST ID#": "3841",
+                        "Date": "9/5/2013",
+                        "Reason": "Making False Statements (Department Findings)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Year": "2013",
+                        "Name": "SETZER, Harold D.",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "6060",
+                        "Date": "10/1/2013",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2013",
+                        "Name": "TIRADO, JR., George",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "9889",
+                        "Date": "11/21/2013",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "BOURQUE, David L.",
+                        "Department": "Granby Police Department",
+                        "POST ID#": "7518",
+                        "Date": "2/5/2012",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "COSTELLO, Domenic C.",
+                        "Department": "Newtown Police Department",
+                        "POST ID#": "12218",
+                        "Date": "7/6/2012",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "CRAIG, Steven M.",
+                        "Department": "Eastern CT State University P.D.",
+                        "POST ID#": "2932",
+                        "Date": "6/9/2012",
+                        "Reason": "False Statements"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "KOISTINEN, Michael P.",
+                        "Department": "Windsor Locks Police Department",
+                        "POST ID#": "14520",
+                        "Date": "8/11/2012",
+                        "Reason": "(Felony Conviction)"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "ROHRIG, Jared S.",
+                        "Department": "Orange Police Department",
+                        "POST ID#": "14335",
+                        "Date": "12/5/2012",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2012",
+                        "Name": "STINSON, Andrew N.",
+                        "Department": "Newtown Police Department",
+                        "POST ID#": "11421",
+                        "Date": "7/6/2012",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "DEMPSEY/ SELIGMAN, Darren",
+                        "Department": "East Windsor Police Department",
+                        "POST ID#": "12096",
+                        "Date": "6/16/2011",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "ESPOSITO, Joseph D.",
+                        "Department": "Bethel Police Department",
+                        "POST ID#": "11595",
+                        "Date": "6/1/2011",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "KASPERZYK, Justen D.",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "8746",
+                        "Date": "12/5/2011",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "MORRISON, Marquis J.",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "14643",
+                        "Date": "8/9/2011",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "SILVA, Jose R.",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "8897",
+                        "Date": "12/5/2011",
+                        "Reason": "Making False Statements"
+                    },
+                    {
+                        "Year": "2011",
+                        "Name": "WHITE, William",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "464",
+                        "Date": "12/5/2011",
+                        "Reason": "(Felony Conviction)"
+                    },
+                    {
+                        "Year": "2010",
+                        "Name": "BREVETTI, Francis P.",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "12951",
+                        "Date": "9/9/2010",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2010",
+                        "Name": "EDWARDS, William",
+                        "Department": "New London Police Department",
+                        "POST ID#": "1293",
+                        "Date": "9/9/2010",
+                        "Reason": "Felony Conviction Tampering w/Evidence (Department"
+                    },
+                    {
+                        "Year": "2010",
+                        "Name": "PASSANISI, Angelo M.",
+                        "Department": "Middletown Police Department",
+                        "POST ID#": "14036",
+                        "Date": "8/6/2010",
+                        "Reason": "(Tampering w/Evidence (Department Finding))"
+                    },
+                    {
+                        "Year": "2009",
+                        "Name": "CHICKOS, Thomas A.",
+                        "Department": "Shelton Police Department",
+                        "POST ID#": "13122",
+                        "Date": "10/9/2009",
+                        "Reason": "Making False Statements"
+                    },
+                    {
+                        "Year": "2009",
+                        "Name": "PUCCI, Victor F.",
+                        "Department": "Wallingford Police Department",
+                        "POST ID#": "12325",
+                        "Date": "10/9/2009",
+                        "Reason": "Making False Statements (Department Finding)"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Year": "2008",
+                        "Name": "ABELING, Paul H.",
+                        "Department": "Torrington Police Department",
+                        "POST ID#": "12396",
+                        "Date": "5/19/2008",
+                        "Reason": "False Statements"
+                    },
+                    {
+                        "Year": "2006",
+                        "Name": "CRESPO, Rafael J.",
+                        "Department": "East Windsor Police Department",
+                        "POST ID#": "11544",
+                        "Date": "7/12/2006",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2005",
+                        "Name": "RUSSO, Nicholas O.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "3218",
+                        "Date": "3/3/2005",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2004",
+                        "Name": "JONES, Jr., Robert J.",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "8836",
+                        "Date": "6/24/2004",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2004",
+                        "Name": "LAVALLEE, Scott M.",
+                        "Department": "Norwich Police Department",
+                        "POST ID#": "6712",
+                        "Date": "6/5/2004",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2001",
+                        "Name": "CAMACHO, Julio",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "2900",
+                        "Date": "6/28/2001",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2001",
+                        "Name": "GALLO, Salvatore R.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "2991",
+                        "Date": "3/5/2001",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2001",
+                        "Name": "MEEHAN, Jr., James",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "3126",
+                        "Date": "4/1/2001",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2001",
+                        "Name": "SEABROOK, Ernest",
+                        "Department": "Bridgeport BOE Police Department",
+                        "POST ID#": "8091",
+                        "Date": "1/3/2001",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2001",
+                        "Name": "WICKES, Kevin",
+                        "Department": "Groton City Police Department",
+                        "POST ID#": "560",
+                        "Date": "1/3/2001",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2000",
+                        "Name": "ANCONA, Michael A.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "2860",
+                        "Date": "2/3/2000",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "2000",
+                        "Name": "HAMPTON, III, Edward D.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "10344",
+                        "Date": "2/3/2000",
+                        "Reason": "Falsification of Entry Level Documents"
+                    },
+                    {
+                        "Year": "2000",
+                        "Name": "RIVERA, Jesus M.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "3196",
+                        "Date": "4/5/2000",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1999",
+                        "Name": "COCHRANE, Stephen B.",
+                        "Department": "Waterbury Police Department",
+                        "POST ID#": "3712",
+                        "Date": "9/9/1999",
+                        "Reason": "Felony Conviction"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Year": "1997",
+                        "Name": "GARCIA, Edwin E.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "2993",
+                        "Date": "3/4/1997",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1997",
+                        "Name": "PAPALLO, Jr., David",
+                        "Department": "East Haddam Police Department",
+                        "POST ID#": "8262",
+                        "Date": "6/25/1997",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1997",
+                        "Name": "SALMON, Jr., John R.",
+                        "Department": "Montville Police Department",
+                        "POST ID#": "7647",
+                        "Date": "6/25/1997",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1997",
+                        "Name": "SELLERS, Sr., Donnie R.",
+                        "Department": "Norwalk Police Department",
+                        "POST ID#": "1568",
+                        "Date": "3/4/1997",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1997",
+                        "Name": "WILCHINSKI, Joseph J.",
+                        "Department": "Central CT State University P.D.",
+                        "POST ID#": "7270",
+                        "Date": "4/9/1997",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1995",
+                        "Name": "NUNES, Joao Q.",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "3151",
+                        "Date": "1/6/1995",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1992",
+                        "Name": "RODRIGUEZ, Eddie",
+                        "Department": "New Haven Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/4/1992",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1991",
+                        "Name": "LANDRETTE, Joseph",
+                        "Department": "Bristol Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "12/12/1991",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1989",
+                        "Name": "FERNANDEZ, Henry",
+                        "Department": "Hartford Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "1/6/1989",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "CAVALLO, John",
+                        "Department": "Watertown Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "NORTHRUP, Martin",
+                        "Department": "Burlington Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "POTZ, Robert",
+                        "Department": "Naugatuck Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "RINKO, Robert",
+                        "Department": "New Milford Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "WEINER, Stark",
+                        "Department": "New Milford Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    },
+                    {
+                        "Year": "1988",
+                        "Name": "WILLIAMS, Vance",
+                        "Department": "Torrington Police Department",
+                        "POST ID#": "N/A",
+                        "Date": "2/6/1988",
+                        "Reason": "Felony Conviction"
+                    }
+                ]
+            }
+        ]
+    }
+]

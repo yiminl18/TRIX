@@ -1,0 +1,712 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "MARKET": "Unmeasured Market"
+                    },
+                    {
+                        "REP": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "MOD": "Stn Ver: 1 Last:"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "AMOUNT": "\"$1,480.00\""
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "SLS PH": "412 421 2600"
+                    },
+                    {
+                        "SLS FAX": "412 421 6001"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "ADVERTISER": "People for Ben"
+                    },
+                    {
+                        "PRODUCT": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "TOT # OF DAYS": "7"
+                    },
+                    {
+                        "PRIM. DEMO": "Adults 35+"
+                    },
+                    {
+                        "SEC. DEMO": "missing"
+                    },
+                    {
+                        "AGY CLI": "missing"
+                    },
+                    {
+                        "AGY PRD": "missing"
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "[X]Unwired": ":selected:"
+                    },
+                    {
+                        "SPOT TYPE": "missing"
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    },
+                    {
+                        "DATE": "10/05/2020"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "CONTRACT # FOR INVOICING": "4390162"
+                    },
+                    {
+                        "INVOICE": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "SpotData": "IDB#1828;"
+                    },
+                    {
+                        "DAY#1": "missing"
+                    },
+                    {
+                        "10/6/2020 To 10/6/2020": "missing"
+                    },
+                    {
+                        "TOT": "$200.00"
+                    },
+                    {
+                        "MC": "missing"
+                    },
+                    {
+                        "TOT": "$200.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 1,
+                        "SPT TYP": "missing",
+                        "DAYS": ".T .... .",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": 60,
+                        "START.1": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 2,
+                        "SPT TYP": "missing",
+                        "DAYS": ".T .....",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": 60,
+                        "START.1": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": 1,
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 3,
+                        "SPT TYP": "missing",
+                        "DAYS": ".T .... .",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 1,
+                        "SPT TYP": "missing",
+                        "DAYS": ". . W. . .",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": 60,
+                        "START.1": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 2,
+                        "SPT TYP": "missing",
+                        "DAYS": ". . W. . . .",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": 60,
+                        "START.1": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": 1,
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 3,
+                        "SPT TYP": "missing",
+                        "DAYS": ". . W. . . .",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "MARKET": "Unmeasured Market"
+                    },
+                    {
+                        "REP": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "MOD": "Stn Ver: 1 Last:"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "AMOUNT": "\"$1,480.00\""
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "SLS PH": "412 421 2600"
+                    },
+                    {
+                        "SLS FAX": "412 421 6001"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "ADVERTISER": "People for Ben"
+                    },
+                    {
+                        "PRODUCT": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "TOT # OF DAYS": "7"
+                    },
+                    {
+                        "PRIM. DEMO": "Adults 35+"
+                    },
+                    {
+                        "SEC. DEMO": "missing"
+                    },
+                    {
+                        "AGY CLI": "missing"
+                    },
+                    {
+                        "AGY PRD": "missing"
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "[X]Unwired": ":selected:"
+                    },
+                    {
+                        "]Spot": "missing"
+                    },
+                    {
+                        "[X]Cash": "missing"
+                    },
+                    {
+                        "SPOT TYPE": "missing"
+                    },
+                    {
+                        "DATE": "10/05/2020"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "CONTRACT # FOR INVOICING": "4390162"
+                    },
+                    {
+                        "INVOICE": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    },
+                    {
+                        "TOT": "$200.00"
+                    },
+                    {
+                        "TOT": "$200.00"
+                    },
+                    {
+                        "TOT": "$240.00"
+                    },
+                    {
+                        "MC": ""
+                    },
+                    {
+                        "LN": "4"
+                    },
+                    {
+                        "SPT TYP": "missing"
+                    },
+                    {
+                        "DAYS": ".s."
+                    },
+                    {
+                        "START": "6:00AM"
+                    },
+                    {
+                        "END": ""
+                    },
+                    {
+                        "LEN": "7:00PM"
+                    },
+                    {
+                        "TIME": ""
+                    },
+                    {
+                        "SP/DY": "6"
+                    },
+                    {
+                        "START": "60"
+                    },
+                    {
+                        "10/10/2020": ""
+                    },
+                    {
+                        "STOP": "10/10/2020"
+                    },
+                    {
+                        "RATE": "$40"
+                    },
+                    {
+                        "TOTAL": "$240"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 1,
+                        "SPT TYP": "missing",
+                        "DAYS": "... T. . .",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": 60,
+                        "START.1": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 2,
+                        "SPT TYP": "missing",
+                        "DAYS": "... T. . .",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": 60,
+                        "START.1": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": 1,
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 3,
+                        "SPT TYP": "missing",
+                        "DAYS": "... T. . .",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 1,
+                        "SPT TYP": "missing",
+                        "DAYS": ".F ..",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": 60,
+                        "START.1": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 2,
+                        "SPT TYP": "missing",
+                        "DAYS": ". . . . F . .",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": 60,
+                        "START.1": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": 1,
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 3,
+                        "SPT TYP": "missing",
+                        "DAYS": "... . F ..",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 4,
+                        "SPT TYP": "missing",
+                        "DAYS": ".s.",
+                        "START": "6:00AM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/10/2020",
+                        "STOP": "10/10/2020",
+                        "SP/DY": 6,
+                        "RATE": "$40",
+                        "TOTAL": "$240"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "MARKET": "Unmeasured Market"
+                    },
+                    {
+                        "REP": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "MOD": "Stn Ver: 1 Last:"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "AMOUNT": "\"$1,480.00\""
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "SLS PH": "412 421 2600"
+                    },
+                    {
+                        "SLS FAX": "412 421 6001"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "ADVERTISER": "People for Ben"
+                    },
+                    {
+                        "PRODUCT": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "TOT # OF DAYS": "7"
+                    },
+                    {
+                        "PRIM. DEMO": "Adults 35+"
+                    },
+                    {
+                        "SEC. DEMO": "missing"
+                    },
+                    {
+                        "AGY CLI": "missing"
+                    },
+                    {
+                        "AGY PRD": "missing"
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "[X]Unwired": ":selected:"
+                    },
+                    {
+                        "]Spot": "missing"
+                    },
+                    {
+                        "[X]Cash": "missing"
+                    },
+                    {
+                        "SPOT TYPE": "missing"
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    },
+                    {
+                        "DATE": "10/05/2020"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "CONTRACT # FOR INVOICING": "4390162"
+                    },
+                    {
+                        "INVOICE": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "TOT": "$240.00"
+                    },
+                    {
+                        "TOT": "$200.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 4,
+                        "SPT TYP": "missing",
+                        "DAYS": ". . . . . S",
+                        "START": "6:00AM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/11/2020",
+                        "STOP": "10/11/2020",
+                        "SP/DY": 6,
+                        "RATE": "$40",
+                        "TOTAL": "$240"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "missing",
+                        "LN": 1,
+                        "SPT TYP": "missing",
+                        "DAYS": "M. . . . . .",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": 60,
+                        "START.1": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 2,
+                        "SPT TYP": "missing",
+                        "DAYS": "M. . .",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": 60,
+                        "START.1": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": 1,
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "missing",
+                        "LN": 3,
+                        "SPT TYP": "missing",
+                        "DAYS": "M. . . . . .",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": 60,
+                        "START.1": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": 2,
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "TOTAL": "SPOT",
+                        "Oct": "37",
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing",
+                        "missing.9": "missing",
+                        "missing.10": "missing",
+                        "missing.11": "missing",
+                        "missing.12": "missing",
+                        "Total": "37"
+                    },
+                    {
+                        "TOTAL": "CASH",
+                        "Oct": "1,480.00",
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing",
+                        "missing.9": "missing",
+                        "missing.10": "missing",
+                        "missing.11": "missing",
+                        "missing.12": "missing",
+                        "Total": "1,480.00"
+                    },
+                    {
+                        "TOTAL": "TOTAL",
+                        "Oct": "1,480.00",
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing",
+                        "missing.9": "missing",
+                        "missing.10": "missing",
+                        "missing.11": "missing",
+                        "missing.12": "missing",
+                        "Total": "1,480.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

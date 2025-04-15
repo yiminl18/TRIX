@@ -1,0 +1,425 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Employee Name": "Aamodt,Michael,J."
+                    },
+                    {
+                        "Certification": "Law Enforcement Level III"
+                    },
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "11-18-1994"
+                    },
+                    {
+                        "Certification Number": "MJA2024"
+                    },
+                    {
+                        "Employee Name": "Abell,Dustin,J."
+                    },
+                    {
+                        "Certification": "Law Enforcement Level II - spec III"
+                    },
+                    {
+                        "Certification Date": "7-10-2015"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "7-10-2015"
+                    },
+                    {
+                        "Certification Number": "DJA1121"
+                    },
+                    {
+                        "Employee Name": "Acevedo,Eric"
+                    },
+                    {
+                        "Certification": "Law Enforcement Level III"
+                    },
+                    {
+                        "Certification Date": "5-24-2019"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "5-24-2019"
+                    },
+                    {
+                        "Certification Number": "EA3743"
+                    },
+                    {
+                        "Employee Name": "Adams,Benjamin,J."
+                    },
+                    {
+                        "Certification": "Law Enforcement Level III"
+                    },
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "11-17-2006"
+                    },
+                    {
+                        "Certification Number": "BJA3068"
+                    },
+                    {
+                        "Employee Name": "Adams,Jerod,J."
+                    },
+                    {
+                        "Certification": "Law Enforcement Level III"
+                    },
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "12-05-2008"
+                    },
+                    {
+                        "Certification Number": "JJA7277"
+                    },
+                    {
+                        "Employee Name": "Adams,Jonathan,J."
+                    },
+                    {
+                        "Certification": "Law Enforcement Level III"
+                    },
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Certification Status": "Certified"
+                    },
+                    {
+                        "Certification Expires": "5-27-2005"
+                    },
+                    {
+                        "Certification Number": "JJA1380"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Service": "2 Years 306 Days",
+                        "Date": "10-16-2016",
+                        "Action": "Transfer",
+                        "Status": "Active",
+                        "Assignment": "St Albans Barracks",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "3 Years 151 Days",
+                        "Date": "5-19-2013",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "[MISSING]",
+                        "Pos/Rank": "Detective Sergeant",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "1 Years 183 Days",
+                        "Date": "11-18-2011",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "[MISSING]",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "11 Years 109 Days",
+                        "Date": "5-01-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Grafton Fire & Rescue",
+                        "Pos/Rank": "[MISSING]",
+                        "Level": "[MISSING]",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "15 Years 28 Days",
+                        "Date": "10-21-1996",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "VT State Police",
+                        "Pos/Rank": "Trooper",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "10-21-1996",
+                        "Action": "Terminated (Not Specified)",
+                        "Status": "Inactive",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "[MISSING]",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "2 Years 113 Days",
+                        "Date": "7-01-1994",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Corporal",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "1 Years 65 Days",
+                        "Date": "4-27-1993",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "7 Years 230 Days",
+                        "Date": "1-01-2012",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "[MISSING]",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "Level II-S",
+                        "Shift": "Part-time"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "1-12-2010",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "St. Albans Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Level II",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "2 Years 184 Days",
+                        "Date": "7-01-2009",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Grand Isle County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "7-18-2008",
+                        "Action": "Terminated",
+                        "Status": "Inactive",
+                        "Assignment": "Chittenden County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "1 Years 272 Days",
+                        "Date": "4-15-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "St. Albans Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "1 Years 172 Days",
+                        "Date": "1-28-2007",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Chittenden County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "1-14-2019",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "VT State Police",
+                        "Pos/Rank": "Trooper",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "5-25-2019",
+                        "Action": "Reduced hours",
+                        "Status": "Active",
+                        "Assignment": "Winooski Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Level III",
+                        "Shift": "Part-time"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "4-24-2019",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "VT Dept. of Liquor Control",
+                        "Pos/Rank": "Investigator",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "12 Years 307 Days",
+                        "Date": "7-23-2006",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Winooski Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Level III",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "4-01-2006",
+                        "Action": "Terminated",
+                        "Status": "Inactive",
+                        "Assignment": "Vergennes Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "11-11-2005",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Vergennes Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "1-31-2019",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "1-25-2019",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Chittenden County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "10 Years 180 Days",
+                        "Date": "8-04-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Level III",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "3-18-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "5 Years 62 Days",
+                        "Date": "6-17-2014",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "[MISSING]",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "Level III",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "2 Years 238 Days",
+                        "Date": "10-23-2011",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "[MISSING]",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "10-20-2011",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Windsor County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Part-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "4-19-2011",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Windsor County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "[MISSING]",
+                        "Date": "2-18-2011",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Hartford Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    },
+                    {
+                        "Service": "1 Years 85 Days",
+                        "Date": "11-25-2009",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Assignment": "Hartford Police Department",
+                        "Pos/Rank": "Patrol Officer",
+                        "Level": "Full-Time",
+                        "Shift": "[MISSING]"
+                    }
+                ]
+            }
+        ]
+    }
+]

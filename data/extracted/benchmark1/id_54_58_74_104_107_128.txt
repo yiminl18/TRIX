@@ -1,0 +1,251 @@
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Page 1 of 2
+Inv # 
+7237942
+Invoice Date: 2/9/2020
+For Billing Inquires Call: 
+(217) 523-8855
+Acct # 8284
+Advertiser:
+Agency:
+Period:
+Mike Bloomberg 2020 Inc-D (133903)
+Assembly (16037)
+2/3/2020 - 2/9/2020
+Contract:
+AcctType:
+Terms:
+BillType:
+Buyer:
+Coop:
+4225820
+National/Political 
+CIA
+Weekly/Irregular
+Laura Kollappal
+No
+Estimate/HL:
+Comments:
+0121/ECR26792936
+MIKE BLOOMBERG 2020 
+Salesperson:
+Product:
+Brand:
+Washington DC Millennium/DC,  ph:(202) 955-5342
+POLITICAL CANDIDATE (ns) (1186)
+MBLM/MBLM/0121 (1330964)
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthenticityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+CONTINUED
+Page 2 of 2
+Inv # 
+7237942
+Invoice Date: 2/9/2020
+Acct # 8284
+Advertiser:
+Agency:
+Period:
+Mike Bloomberg 2020 Inc-D (133903)
+Assembly (16037)
+2/3/2020 - 2/9/2020
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthenticityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+GrossTotal
+$5,050.00
+TotalSpots
+Commission
+ ($757.50)
+35
+SalesTax
+$0.00
+NETTOTAL
+$4,292.50
+Due By: 2/9/2020
+ThepartiesintendfortheStandardAdvertiserTermsandConditions(“Terms”)locatedat...http://sbgi.net/?p=1224...tobepartoftheiragreement,andthesaleofadvertisingisexpresslysubjecttosaidTerms.
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Page 1 of 2
+Inv # 
+6176196
+Invoice Date: 10/21/2018
+For Billing Inquires Call: 
+(217) 523-8855
+Acct # 7041
+Advertiser:
+Agency:
+Period:
+Women Vote (74334)
+Waterfront Strategies (7591)
+10/15/2018 - 10/21/2018
+Contract:
+AcctType:
+Terms:
+BillType:
+Buyer:
+Coop:
+3483364
+National/Political Issue 
+CIA
+Weekly/Irregular
+Bassett, Laura
+No
+Estimate/HL:
+Comments:
+7101/ECR26143566
+issue               ALEXANDRA BRADLEY
+Salesperson:
+Product:
+Brand:
+Washington DC Millennium/DC,  ph:(202) 955-5342
+POLITICAL ISSUE (ns) (1187)
+144/150/7101 (1063466)
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthent
+icityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+CONTINUED
+Page 2 of 2
+Inv # 
+6176196
+Invoice Date: 10/21/2018
+Acct # 7041
+Advertiser:
+Agency:
+Period:
+Women Vote (74334)
+Waterfront Strategies (7591)
+10/15/2018 - 10/21/2018
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthent
+icityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+GrossTotal
+$10,110.00
+TotalSpots
+Commission
+ ($1,516.50)
+33
+SalesTax
+$0.00
+NETTOTAL
+$8,593.50
+Due By: 10/21/2018
+ThepartiesintendfortheStandardAdvertiserTermsandConditions(“Terms”)locatedat...http://sbgi.net/?p=1224...tobepartoftheiragreement,andthesaleofadvertisingisexpresslysubjecttosaidTerms.
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Page 1 of 2
+Inv # 
+7748821
+Invoice Date: 10/4/2020
+For Billing Inquires Call: 
+(217) 523-8855
+Acct # 95523
+Advertiser:
+Agency:
+Period:
+Betsy Dirksen Londrigan for Congress-D (122283)
+Beacon Media (7261)
+9/28/2020 - 10/4/2020
+Contract:
+AcctType:
+Terms:
+BillType:
+Buyer:
+Coop:
+4556750
+National/Political 
+CIA
+Weekly/Irregular
+Placement, Medi
+No
+Estimate/HL:
+Comments:
+8836/ECR27134516
+Candidate           
+Salesperson:
+Product:
+Brand:
+Washington DC Millennium/DC,  ph:(202) 955-5342
+POLITICAL CANDIDATE (ns) (1186)
+865/896/8836 (1448525)
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthenticityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+CONTINUED
+Page 2 of 2
+Inv # 
+7748821
+Invoice Date: 10/4/2020
+Acct # 95523
+Advertiser:
+Agency:
+Period:
+Betsy Dirksen Londrigan for Congress-D (122283)
+Beacon Media (7261)
+9/28/2020 - 10/4/2020
+Line
+Type
+ScheduledTime
+ScheduledDaytoRun
+AirDate/Time
+Length
+AD-ID/ISCI
+Amount
+Remarks
+Program
+Warranty-Wewarranttheabovebroadcastsweremadeaccordingtotheofficialstationlog.Pleasenotethatwedonotnotarizeinvoicessincethepurposeofplacinganotarysealonadocumentistoguaranty
+theauthenticityofanindividual'ssignatureandnottocertifytheaccuracyofcommercialaired.
+GrossTotal
+$1,835.00
+TotalSpots
+Commission
+ ($275.25)
+17
+SalesTax
+$0.00
+NETTOTAL
+$1,559.75
+Due By: 10/4/2020
+ThepartiesintendfortheStandardAdvertiserTermsandConditions(“Terms”)locatedat...http://sbgi.net/?p=1224...tobepartoftheiragreement,andthesaleofadvertisingisexpresslysubjecttosaidTerms.

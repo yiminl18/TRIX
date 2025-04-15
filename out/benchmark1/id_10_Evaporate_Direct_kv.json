@@ -1,0 +1,954 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Grant Project Start Date": "7/1/2013 and 6/30/2014"
+                    },
+                    {
+                        "College": "Arts and Sciences"
+                    },
+                    {
+                        "Department": "A&S Dean's Office"
+                    },
+                    {
+                        "Director": "[MISSING]"
+                    },
+                    {
+                        "Grant Title": "[MISSING]"
+                    },
+                    {
+                        "Amount Awarded": "[MISSING]"
+                    },
+                    {
+                        "Agency Name": "[MISSING]"
+                    },
+                    {
+                        "Status": "Approved"
+                    },
+                    {
+                        "GrantID": "[MISSING]"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "A&S Dean's Office"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "0"
+                    },
+                    {
+                        "Total $": "7637"
+                    },
+                    {
+                        "Approved $": "7637"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "0"
+                    },
+                    {
+                        "Department": "Anthropology, Sociology, & Social Work"
+                    },
+                    {
+                        "Amount Requested": "[MISSING]"
+                    },
+                    {
+                        "Director": "[MISSING]"
+                    },
+                    {
+                        "Grant Title": "[MISSING]"
+                    },
+                    {
+                        "Agency Name": "[MISSING]"
+                    },
+                    {
+                        "Status": "Declined"
+                    },
+                    {
+                        "GrantID": "[MISSING]"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "Anthropology, Sociology, & Social Work"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "157412"
+                    },
+                    {
+                        "Approved $": "0"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "157412"
+                    },
+                    {
+                        "Department": "Biological Sciences"
+                    },
+                    {
+                        "Submitted": "27"
+                    },
+                    {
+                        "Department Summary": "Biological Sciences"
+                    },
+                    {
+                        "Approved": "15"
+                    },
+                    {
+                        "Pending": "2"
+                    },
+                    {
+                        "Declined": "10"
+                    },
+                    {
+                        "Total $": "1519291"
+                    },
+                    {
+                        "Approved $": "823954"
+                    },
+                    {
+                        "Pending $": "399485"
+                    },
+                    {
+                        "Declined $": "295852"
+                    },
+                    {
+                        "Department": "Chemistry"
+                    },
+                    {
+                        "Submitted": "12"
+                    },
+                    {
+                        "Department Summary": "Chemistry"
+                    },
+                    {
+                        "Approved": "5"
+                    },
+                    {
+                        "Pending": "1"
+                    },
+                    {
+                        "Declined": "6"
+                    },
+                    {
+                        "Total $": "703799"
+                    },
+                    {
+                        "Approved $": "144801"
+                    },
+                    {
+                        "Pending $": "69919"
+                    },
+                    {
+                        "Declined $": "489079"
+                    },
+                    {
+                        "Department": "Computer Science"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "Computer Science"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "3046"
+                    },
+                    {
+                        "Approved $": "0"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "3046"
+                    },
+                    {
+                        "Department": "English & Theatre"
+                    },
+                    {
+                        "Submitted": "4"
+                    },
+                    {
+                        "Department Summary": "English & Theatre"
+                    },
+                    {
+                        "Approved": "3"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "138108"
+                    },
+                    {
+                        "Approved $": "78465"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "59643"
+                    },
+                    {
+                        "Department": "Foreign Languages & Humanities"
+                    },
+                    {
+                        "Submitted": "2"
+                    },
+                    {
+                        "Department Summary": "Foreign Languages & Humanities"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "36800"
+                    },
+                    {
+                        "Approved $": "35000"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "1800"
+                    },
+                    {
+                        "Department": "Geography & Geology"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "Geography & Geology"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "22995"
+                    },
+                    {
+                        "Approved $": "0"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "22995"
+                    },
+                    {
+                        "Department": "Government"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "Government"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "0"
+                    },
+                    {
+                        "Total $": "67773"
+                    },
+                    {
+                        "Approved $": "67773"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "0"
+                    },
+                    {
+                        "Department": "Mathematics & Statistics"
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Department Summary": "Mathematics & Statistics"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "41462"
+                    },
+                    {
+                        "Approved $": "0"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "41462"
+                    },
+                    {
+                        "Department": "Physics & Astronomy"
+                    },
+                    {
+                        "Submitted": "2"
+                    },
+                    {
+                        "Department Summary": "Physics & Astronomy"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "2"
+                    },
+                    {
+                        "Total $": "54952"
+                    },
+                    {
+                        "Approved $": "0"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "54952"
+                    },
+                    {
+                        "Department": "Psychology"
+                    },
+                    {
+                        "Submitted": "3"
+                    },
+                    {
+                        "Department Summary": "Psychology"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "2"
+                    },
+                    {
+                        "Total $": "61978"
+                    },
+                    {
+                        "Approved $": "4000"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "57978"
+                    },
+                    {
+                        "College Summary": "Arts and Sciences"
+                    },
+                    {
+                        "Submitted": "56"
+                    },
+                    {
+                        "Approved": "27"
+                    },
+                    {
+                        "Pending": "3"
+                    },
+                    {
+                        "Declined": "26"
+                    },
+                    {
+                        "Total $": "2815253"
+                    },
+                    {
+                        "Approved $": "1161630"
+                    },
+                    {
+                        "Pending $": "469404"
+                    },
+                    {
+                        "Declined $": "1184219"
+                    },
+                    {
+                        "College": "Business and Technology"
+                    },
+                    {
+                        "Department": "Applied Engineering and Technology"
+                    },
+                    {
+                        "Submitted": "2"
+                    },
+                    {
+                        "Department Summary": "Applied Engineering and Technology"
+                    },
+                    {
+                        "Approved": "2"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "0"
+                    },
+                    {
+                        "Total $": "77750"
+                    },
+                    {
+                        "Approved $": "77750"
+                    },
+                    {
+                        "Pending $": "0"
+                    },
+                    {
+                        "Declined $": "0"
+                    },
+                    {
+                        "Department": "CBT Dean's Office"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Grant Title": "Communicating STEM Research to a Broader Audience",
+                        "Amount Awarded": "$7",
+                        "Agency Name": "637",
+                        "Status": "University of Kentucky",
+                        "GrantID": "Approved",
+                        "Director": "5319,Ms. Melanie Bentley"
+                    },
+                    {
+                        "Grant Title": "Measuring Pathways to Food Insecurity in Appalachia: Modeling Social-Ecological and Political-Economic Influences",
+                        "Amount Awarded": "$157",
+                        "Agency Name": "412",
+                        "Status": "National Science Foundation",
+                        "GrantID": "Declined",
+                        "Director": "5241,Dr. Jennifer Wies"
+                    },
+                    {
+                        "Grant Title": "Temporal comparisons of genetic variation in the dusky gopher frog (Lithobates sevosus)",
+                        "Amount Awarded": "$7",
+                        "Agency Name": "959",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5296,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Bridging the Gap: Appalachian Students in Biomedical Research in Kentucky",
+                        "Amount Awarded": "$206",
+                        "Agency Name": "183",
+                        "Status": "University of Kentucky",
+                        "GrantID": "Approved",
+                        "Director": "5280,Dr. Marcia Pierce"
+                    },
+                    {
+                        "Grant Title": "Wildlife Ecologist - Research Startup",
+                        "Amount Awarded": "$30",
+                        "Agency Name": "000",
+                        "Status": "Kentucky Science and Technology Corporation",
+                        "GrantID": "Approved",
+                        "Director": "5314,Dr. Robert Frederick"
+                    },
+                    {
+                        "Grant Title": "Running Buffalo Clover and Deer Survey",
+                        "Amount Awarded": "$20",
+                        "Agency Name": "000",
+                        "Status": "Blue Grass Army Depot",
+                        "GrantID": "Approved",
+                        "Director": "5283,Dr. David Brown"
+                    },
+                    {
+                        "Grant Title": "Enchancing Research Capacity in Appalachia: Research Facilities for Lilley Cornett Woods Field Station",
+                        "Amount Awarded": "$300",
+                        "Agency Name": "474",
+                        "Status": "National Science Foundation",
+                        "GrantID": "Approved",
+                        "Director": "5146,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Distribution",
+                        "Amount Awarded": "Movement and Ecology of Etheostoma sagitta spilotum",
+                        "Agency Name": "the Kentucky Arrow Darter",
+                        "Status": "$22",
+                        "GrantID": "000",
+                        "Director": "United States Fish and Wildlife Service,Approved,5232,Dr. Sherry Harrel"
+                    },
+                    {
+                        "Grant Title": "Effects of interactions between Notophthalmus viridescens and lithobates sylvaticus in a ridge-top wetland ecosystem",
+                        "Amount Awarded": "$1",
+                        "Agency Name": "000",
+                        "Status": "Kentucky Academy of Science",
+                        "GrantID": "Approved",
+                        "Director": "5300,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Comparative Landscape Genetics of Amphibians Across a Ridge-Top Wetland Ecosystem",
+                        "Amount Awarded": "$4",
+                        "Agency Name": "358",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5297,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Linking Theory and Practice to Overcome Barriers to Ecosystem Restoration",
+                        "Amount Awarded": "$35",
+                        "Agency Name": "592",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5290,Dr. Jarrod Thaxton"
+                    },
+                    {
+                        "Grant Title": "Conservation genetics of gopher frogs in Alabama",
+                        "Amount Awarded": "$7",
+                        "Agency Name": "045",
+                        "Status": "Alabama Division of Wildlife and Freshwater Fis",
+                        "GrantID": "Approved",
+                        "Director": "5200,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Evaluation of Management Strategies for Long-Term Maintenance of Running Buffalo Clover (Trifolium stoloniferum) populations in Kentucky",
+                        "Amount Awarded": "$6",
+                        "Agency Name": "000",
+                        "Status": "Kentucky Natural Lands Trust",
+                        "GrantID": "Approved",
+                        "Director": "5254,Dr. David Brown"
+                    },
+                    {
+                        "Grant Title": "Assessment of Hydrologic Functions in Combined Stream and Floodplain Restoration",
+                        "Amount Awarded": "$59",
+                        "Agency Name": "732",
+                        "Status": "University of Louisville",
+                        "GrantID": "Approved",
+                        "Director": "5189,Dr. Amy Braccia"
+                    },
+                    {
+                        "Grant Title": "Statewide validation of the Kentucky Wetland Rapid Assessment Method (KY-WRAM) and Indices of Biotic Integrity",
+                        "Amount Awarded": "$65",
+                        "Agency Name": "451",
+                        "Status": "Kentucky Division of Water",
+                        "GrantID": "Approved",
+                        "Director": "5187,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Distribution",
+                        "Amount Awarded": "Movement and Ecology of Etheostoma sagitta spilotum",
+                        "Agency Name": "the Kentucky Arrow Darter",
+                        "Status": "$57",
+                        "GrantID": "160",
+                        "Director": "Kentucky Department of Fish and Wildlife Resou,Approved,5231,Dr. Sherry Harrel"
+                    },
+                    {
+                        "Grant Title": "Molecular Analyses in Conjunction with Ongoing Phylogenetics Research",
+                        "Amount Awarded": "$1",
+                        "Agency Name": "000",
+                        "Status": "Missouri Department of Conservation",
+                        "GrantID": "Approved",
+                        "Director": "5298,Dr. David Hayes"
+                    },
+                    {
+                        "Grant Title": "Vocal Responses of Blue Jays to Raptors: possible use of referential alarm calls to convey information to conspecifics",
+                        "Amount Awarded": "$4",
+                        "Agency Name": "780",
+                        "Status": "Kentucky Academy of Science",
+                        "GrantID": "Declined",
+                        "Director": "5301,Dr. Gary Ritchison"
+                    },
+                    {
+                        "Grant Title": "Developing a genotyping tool for assisting the management of the critically endangered dusky gopher frog",
+                        "Amount Awarded": "$0",
+                        "Agency Name": "San Diego Zoo",
+                        "Status": "Declined",
+                        "GrantID": "5179",
+                        "Director": "Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Reversing the Decline of an Eastern Grassland Indicator Species",
+                        "Amount Awarded": "$22",
+                        "Agency Name": "008",
+                        "Status": "Texas Parks and Wildlife Department",
+                        "GrantID": "Declined",
+                        "Director": "5182,Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Provisioning Strateies of Male and Female American Kestrel: Effects of Variation in the Intensity of Beggin by Nestlings",
+                        "Amount Awarded": "$1",
+                        "Agency Name": "283",
+                        "Status": "Kentucky Academy of Science",
+                        "GrantID": "Declined",
+                        "Director": "5302,Dr. Gary Ritchison"
+                    },
+                    {
+                        "Grant Title": "Dimensions: Collaborative Research: Convergent evolution and chemotypic diversification of vertically transmitted plant-symbiotic fungi",
+                        "Amount Awarded": "$40",
+                        "Agency Name": "424",
+                        "Status": "National Science Foundation",
+                        "GrantID": "Declined",
+                        "Director": "5204,Dr. Patrick Calie"
+                    },
+                    {
+                        "Grant Title": "Effects of interactions between Notophthalmus viridescens and Lithobates sylvaticus in a ridge-top wetland system",
+                        "Amount Awarded": "$800",
+                        "Agency Name": "The Wetland Foundation",
+                        "Status": "Declined",
+                        "GrantID": "5305",
+                        "Director": "Dr. Stephen Richter"
+                    },
+                    {
+                        "Grant Title": "Plastid Phlogenomics of Podostemaceae",
+                        "Amount Awarded": "$5",
+                        "Agency Name": "000",
+                        "Status": "Oak Ridge Associated Universities",
+                        "GrantID": "Declined",
+                        "Director": "5310,Dr. Brad Ruhfel"
+                    },
+                    {
+                        "Grant Title": "iPLA2beta a novel regulator of breast cancer tumor growth and metastasis",
+                        "Amount Awarded": "$112",
+                        "Agency Name": "000",
+                        "Status": "University of Louisville",
+                        "GrantID": "Declined",
+                        "Director": "5312,Dr. Lindsay Calderon"
+                    },
+                    {
+                        "Grant Title": "Enchancing Appalachian Undergraduate Education through the Cardiovascular Summer Research Institute",
+                        "Amount Awarded": "$40",
+                        "Agency Name": "000",
+                        "Status": "American Heart Association",
+                        "GrantID": "Declined",
+                        "Director": "5279,Dr. Lindsay Calderon"
+                    },
+                    {
+                        "Grant Title": "Nonparametric Approaches to Estimate Phylogenetic Tree Distributions",
+                        "Amount Awarded": "$69",
+                        "Agency Name": "557",
+                        "Status": "National Science Foundation",
+                        "GrantID": "Declined",
+                        "Director": "5100,Dr. Patrick Calie"
+                    },
+                    {
+                        "Grant Title": "An Early College Initiative to Retain Appalachian Students in STEM Fields",
+                        "Amount Awarded": "$329",
+                        "Agency Name": "489",
+                        "Status": "Association of American College and Universitie",
+                        "GrantID": "Pending",
+                        "Director": "5332,Dr. Rebekah Waikel"
+                    },
+                    {
+                        "Grant Title": "Bridge Funding for Estrogen Mediated Regulation of miRNAs in Cardiac Remodeling",
+                        "Amount Awarded": "$69",
+                        "Agency Name": "996",
+                        "Status": "University of Louisville",
+                        "GrantID": "Pending",
+                        "Director": "5324,Dr. Rebekah Waikel"
+                    },
+                    {
+                        "Grant Title": "The role of glutathione elevation in moderate traumatic brain injury",
+                        "Amount Awarded": "$10",
+                        "Agency Name": "440",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5285,Dr. Tanea Reed"
+                    },
+                    {
+                        "Grant Title": "Startup Funds for Assistant Professor of Inorganic Chemistry",
+                        "Amount Awarded": "$25",
+                        "Agency Name": "000",
+                        "Status": "Kentucky Science and Technology Corporation",
+                        "GrantID": "Approved",
+                        "Director": "5343,Dr. Lori Wilson"
+                    },
+                    {
+                        "Grant Title": "Towards understanding the mechanism of hydrocarbon synthesis on iron catalysts",
+                        "Amount Awarded": "$25",
+                        "Agency Name": "000",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5286,Dr. Buchang Shi"
+                    },
+                    {
+                        "Grant Title": "The application of molecular beacons as a diagnostic mechanism for rapid SNP genotyping of highly degraded forensic samples",
+                        "Amount Awarded": "$59",
+                        "Agency Name": "361",
+                        "Status": "Kentucky NSF EPSCoR",
+                        "GrantID": "Approved",
+                        "Director": "5365,Dr. Lori Wilson"
+                    },
+                    {
+                        "Grant Title": "Coating Research",
+                        "Amount Awarded": "$25",
+                        "Agency Name": "000",
+                        "Status": "Abbott Point-of-Care",
+                        "GrantID": "Approved",
+                        "Director": "5307,Dr. David Cunningham"
+                    },
+                    {
+                        "Grant Title": "A novel therapeutic treatment for lipid peroxidation reduction and gluathione elevation in moderate traumatic brain injury",
+                        "Amount Awarded": "$49",
+                        "Agency Name": "981",
+                        "Status": "University of Louisville",
+                        "GrantID": "Declined",
+                        "Director": "5320,Dr. Tanea Reed"
+                    },
+                    {
+                        "Grant Title": "The application of molecular beacons as a diagnostic mechanism for the rapid genotyping of InDels and SNPs",
+                        "Amount Awarded": "$29",
+                        "Agency Name": "000",
+                        "Status": "University of Louisville",
+                        "GrantID": "Declined",
+                        "Director": "5373,Dr. Lori Wilson"
+                    },
+                    {
+                        "Grant Title": "Collaborative Research: In-situ measurements of NanoMechanical forces in free-standing fibrous thin-film substrates to understand cell attachment",
+                        "Amount Awarded": "growth",
+                        "Agency Name": "and proliferation",
+                        "Status": "$231",
+                        "GrantID": "244",
+                        "Director": "National Science Foundation,Declined,5288,Dr. David Cunningham"
+                    },
+                    {
+                        "Grant Title": "Sugar production from low temperature pre-treated biomass",
+                        "Amount Awarded": "$29",
+                        "Agency Name": "998",
+                        "Status": "Kentucky Science and Technology Corporation",
+                        "GrantID": "Declined",
+                        "Director": "5161,Dr. Buchang Shi"
+                    },
+                    {
+                        "Grant Title": "Chemical Modeling of Newly Detected Interstellar Nitro-Prebiotic Modules",
+                        "Amount Awarded": "$36",
+                        "Agency Name": "856",
+                        "Status": "University of Kentucky",
+                        "GrantID": "Declined",
+                        "Director": "5287,Dr. Donghui Quan"
+                    },
+                    {
+                        "Grant Title": "Targeting cancer cells using luteinizing hormone releasing hormone (LHRH) peptide moiety",
+                        "Amount Awarded": "$112",
+                        "Agency Name": "000",
+                        "Status": "University of Louisville",
+                        "GrantID": "Declined",
+                        "Director": "5311,Dr. Margaret Ndinguri"
+                    },
+                    {
+                        "Grant Title": "A novel therapeutic treatment for lipid peroxidation reduction and gluthathione elevation in moderate traumatic brain injury.",
+                        "Amount Awarded": "$69",
+                        "Agency Name": "919",
+                        "Status": "University of Louisville",
+                        "GrantID": "Pending",
+                        "Director": "5328,Dr. Tanea Reed"
+                    },
+                    {
+                        "Grant Title": "iPad Application for Assisting in Treatment of Children with Autism Spectrum Disorders (ASD)",
+                        "Amount Awarded": "$3",
+                        "Agency Name": "046",
+                        "Status": "WHAS Crusade for Children",
+                        "GrantID": "Declined",
+                        "Director": "5158,Dr. Mengkun Yang"
+                    },
+                    {
+                        "Grant Title": "EKU Writing Project",
+                        "Amount Awarded": "$40",
+                        "Agency Name": "761",
+                        "Status": "Kentucky Department of Education",
+                        "GrantID": "Approved",
+                        "Director": "5303,Dr. Sally Martin"
+                    },
+                    {
+                        "Grant Title": "Developmental Education Acceleration and Co-Requisite Models",
+                        "Amount Awarded": "$17",
+                        "Agency Name": "704",
+                        "Status": "Council on Post-Secondary Education",
+                        "GrantID": "Approved",
+                        "Director": "5366,Dr. Lisa Bosley"
+                    },
+                    {
+                        "Grant Title": "Professional Development in a High-Need School: Jackson County High School",
+                        "Amount Awarded": "$20",
+                        "Agency Name": "000",
+                        "Status": "National Writing Project",
+                        "GrantID": "Approved",
+                        "Director": "5255,Dr. Sally Martin"
+                    },
+                    {
+                        "Grant Title": "Textpeditions: Empowering Students to Create Map-Based",
+                        "Amount Awarded": "Multimedia",
+                        "Agency Name": "Humanities-oriented Journeys",
+                        "Status": "$59",
+                        "GrantID": "643",
+                        "Director": "National Endowment for the Humanities,Declined,5275,Dr. Richard Mott"
+                    },
+                    {
+                        "Grant Title": "Latino Educational Advancement Program",
+                        "Amount Awarded": "$35",
+                        "Agency Name": "000",
+                        "Status": "Kentucky Latino Educational Alliance",
+                        "GrantID": "Approved",
+                        "Director": "5340,Dr. Abby Poffenberger"
+                    },
+                    {
+                        "Grant Title": "Tournees Film Festival",
+                        "Amount Awarded": "$1",
+                        "Agency Name": "800",
+                        "Status": "French American Cultural Exchange",
+                        "GrantID": "Declined",
+                        "Director": "5282,Dr. Rachel Williams"
+                    },
+                    {
+                        "Grant Title": "CHN: Honey bee decline",
+                        "Amount Awarded": "forage acess",
+                        "Agency Name": "and scaling phenology to the pollinator across land covers in Eastern Kentucky",
+                        "Status": "$22",
+                        "GrantID": "995",
+                        "Director": "University of Kentucky,Declined,5129,Dr. Kelly Watson"
+                    },
+                    {
+                        "Grant Title": "Regional Broadband Plans and Promotion in the East Region: E-Government",
+                        "Amount Awarded": "$67",
+                        "Agency Name": "773",
+                        "Status": "The Commonwealth Office of Technology",
+                        "GrantID": "Approved",
+                        "Director": "5294,Dr. William Hatcher"
+                    },
+                    {
+                        "Grant Title": "Boundary Estimation of Spatial Data with an Application to Disease Incidents",
+                        "Amount Awarded": "$41",
+                        "Agency Name": "462",
+                        "Status": "North Dakota State University",
+                        "GrantID": "Declined",
+                        "Director": "5144,Dr. Yong Wang"
+                    },
+                    {
+                        "Grant Title": "The Global Response of the Thermospheric Neautral Winds to Storm Forcing and the Resulting Effect on the Ionsphere",
+                        "Amount Awarded": "$15",
+                        "Agency Name": "000",
+                        "Status": "University of Michigan",
+                        "GrantID": "Declined",
+                        "Director": "5195,Dr. Marco Ciocca"
+                    },
+                    {
+                        "Grant Title": "EKU Observatory: Astrometry and Photometry of PHAs",
+                        "Amount Awarded": "$39",
+                        "Agency Name": "952",
+                        "Status": "University of Kentucky",
+                        "GrantID": "Declined",
+                        "Director": "5299,Dr. Marco Ciocca"
+                    },
+                    {
+                        "Grant Title": "Eastern Kentucky University Developmental Disabilities Clinic Autism Social Groups",
+                        "Amount Awarded": "$4",
+                        "Agency Name": "000",
+                        "Status": "WHAS Crusade for Children",
+                        "GrantID": "Approved",
+                        "Director": "5154,Dr. Myra Beth Bundy"
+                    },
+                    {
+                        "Grant Title": "Relational Motivation in Goal Pursuit",
+                        "Amount Awarded": "$50",
+                        "Agency Name": "281",
+                        "Status": "National Science Foundation",
+                        "GrantID": "Declined",
+                        "Director": "5193,Dr. Jonathan S. Gore"
+                    },
+                    {
+                        "Grant Title": "Development and Evaluation of Psych 360 - A Graduate Student Psychology Performance Assessment Tool",
+                        "Amount Awarded": "$7",
+                        "Agency Name": "697",
+                        "Status": "American Psychological Association",
+                        "GrantID": "Declined",
+                        "Director": "5276,Dr. Jaime Henning"
+                    },
+                    {
+                        "Grant Title": "Professional Development for Teacher Educators in Career and Technical Education",
+                        "Amount Awarded": "$12",
+                        "Agency Name": "750",
+                        "Status": "Office of Career and Technical Education",
+                        "GrantID": "Approved",
+                        "Director": "5191,Dr. William E. Davis"
+                    },
+                    {
+                        "Grant Title": "Field Based Teacher Education",
+                        "Amount Awarded": "$65",
+                        "Agency Name": "000",
+                        "Status": "Office of Career and Technical Education",
+                        "GrantID": "Approved",
+                        "Director": "5186,Dr. William E. Davis"
+                    },
+                    {
+                        "Grant Title": "Perkins Leadership Carry Forward: Professional Development for Technical Education Personnel",
+                        "Amount Awarded": "$2",
+                        "Agency Name": "074",
+                        "Status": "Office of Career and Technical Education",
+                        "GrantID": "Approved",
+                        "Director": "5322,Dr. William E. Davis"
+                    }
+                ]
+            }
+        ]
+    }
+]

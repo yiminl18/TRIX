@@ -1,0 +1,1349 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report Criteria": "Incidents Between: 1/1/2021 AND 12/31/2021"
+                    },
+                    {
+                        "Case Number": "21-00017"
+                    },
+                    {
+                        "Date": "1/15/2021"
+                    },
+                    {
+                        "Time": "1143"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "SCTF"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Incident Reviewed By": "\"Ahart, Rachael F.\""
+                    },
+                    {
+                        "Date Reviewed": "1/15/2021"
+                    },
+                    {
+                        "K-9": "missing"
+                    },
+                    {
+                        "No": "missing"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "Location": "1609 Valley Road Apt. D1"
+                    },
+                    {
+                        "Type Premises": "Apartment"
+                    },
+                    {
+                        "Type Situation": "Search Warrant"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "District": "missing"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "Camera": "Body Camera"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Reason Force Used": "Fled Scene"
+                    },
+                    {
+                        "Final Disposition": "Not Listed"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 9:55:14 AM by jbclark."
+                    },
+                    {
+                        "Subject #": "\"1"
+                    },
+                    {
+                        "Harvey": "Jamir T.\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT:": ""
+                    },
+                    {
+                        "/ WGT": "missing"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Address": "1609 Valley Road Apt. D1"
+                    },
+                    {
+                        "Level Of Resistance": "Fleeing Suspect"
+                    },
+                    {
+                        "Subject Armed With": "N/A"
+                    },
+                    {
+                        "Force Used": "Fleeing"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "No"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Officer": "\"Snow, Ryan S.\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Action Taken Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: Yes": "Injured: No",
+                        "Arrested For: Not Stated": "Type Injuries:"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Case Number": "21-01236"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Location": "Green & Second Streets"
+                    },
+                    {
+                        "Type Premises": "Roadway"
+                    },
+                    {
+                        "Type Situation": "Armed Subject"
+                    },
+                    {
+                        "Date": "1/31/2021"
+                    },
+                    {
+                        "Time": "0156"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "CPD"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Incident Reviewed By": "\"Benoit, Robert W.\""
+                    },
+                    {
+                        "Date Reviewed": "2/2/2021"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "District": "missing"
+                    },
+                    {
+                        "Reason Force Used": "Officer Safety"
+                    },
+                    {
+                        "Final Disposition": "Not Listed"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "Camera": "Vehicle/BWC"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 10:04:34 AM by jbclark."
+                    },
+                    {
+                        "Subject #": "\"1"
+                    },
+                    {
+                        "Norman": "Shannon L\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT": "missing"
+                    },
+                    {
+                        "WGT": ":selected:"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Address": "1114 1/2 Ashford Ct"
+                    },
+                    {
+                        "City": "Mahomet"
+                    },
+                    {
+                        "Level Of Resistance": "Active Aggressive"
+                    },
+                    {
+                        "Subject Armed With": "Firearm"
+                    },
+                    {
+                        "Force Used": "None"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "No Notes"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Officer": "\"Schroeder, Michelle L.\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Action Taken Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "DOB:": ":unselected:",
+                        "Gender: Male": "Under The Influence: No",
+                        "Race:": "missing",
+                        "HGT: :selected: / WGT:": "missing"
+                    },
+                    {
+                        "DOB:": "Address: 1114 1/2 Ashford Ct",
+                        "Gender: Male": "City: Mahomet",
+                        "Race:": "missing",
+                        "HGT: :selected: / WGT:": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: Yes": "Injured: No",
+                        "Arrested For: Not Stated": "Type Injuries:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Officer:": "missing",
+                        "Schroeder, Michelle L.": "missing",
+                        "Action Taken: Firearm - Pointed At Subject": "Type Injuries: None",
+                        "missing": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "Included On Alert: Yes",
+                        "Camera: Yes CIT: No": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Case Number": "21-01342"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Location": "Busey Woods"
+                    },
+                    {
+                        "Type Premises": "Wooded Area"
+                    },
+                    {
+                        "Type Situation": "Home Invasion"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Date": "2/5/2021"
+                    },
+                    {
+                        "Time": "1436"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "UPD"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Incident Reviewed By": "\"Hetrick, Timothy W.\""
+                    },
+                    {
+                        "City": "Urbana"
+                    },
+                    {
+                        "District": "missing"
+                    },
+                    {
+                        "Reason Force Used": "Fled Scene"
+                    },
+                    {
+                        "Final Disposition": "Arrested/Lodged"
+                    },
+                    {
+                        "Date Reviewed": "2/6/2021"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "Camera": "Body Camera"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 10:11:28 AM by jbclark."
+                    },
+                    {
+                        "Subject #": "\"1 Beckett, Anqwaun Jauwaun\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT": "/"
+                    },
+                    {
+                        "WGT": "missing"
+                    },
+                    {
+                        "Under": ""
+                    },
+                    {
+                        "Influence": "No"
+                    },
+                    {
+                        "Address": "2019 Cynthia Apt. M204"
+                    },
+                    {
+                        "Level Of Resistance": "Fleeing Suspect"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "Subject Armed With": "Unknown"
+                    },
+                    {
+                        "Force Used": "Fleeing"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "Yes"
+                    },
+                    {
+                        "Type Injuries": "Minor"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Notes": "Suspect had a facial injury as a result of running through the woods."
+                    },
+                    {
+                        "Officer": "\"Crane, Ben\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Action": ""
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Officer": "\"Germany, Karl\""
+                    },
+                    {
+                        "Officer": "\"Milinkovic, Peter C.\""
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Useful:": ""
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Alert": "Yes"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Officer": "\"Perrine, Nicholas R.\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Narrative": "\"UIPD officers responded to assist UPD attempting to locate a suspected armed subject who was involved in a home invasion, fled scene and was involved in a motor vehicle accident. Suspect then fled into Busey Woods. Officer Crane and Milinkovic started walking through the woods and located the suspect in a pile of brush. Officers pointed firearms at suspect, who got up and fled again on foot. Officer Perrine and Germany located suspect and pointed their firearms at suspect and ordered him to get on the ground. Suspect complied and was taken into custody without further incident.\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: Yes": "Injured: Yes",
+                        "Arrested For: Not Stated": "Type Injuries: Minor"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Officer:": "Officer: Officer:",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "Type Injuries: None",
+                        "missing": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "Included On Alert: Yes",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Germany, Karl Action Taken: Firearm - Pointed At Subject",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "missing",
+                        "missing": "Action Taken Useful: Yes",
+                        "Action Taken Useful: Yes": "Camera: Yes",
+                        "Camera: Yes": "CIT: No",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Type Injuries: None",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "Disciplinary Action: None",
+                        "missing": "Included On Alert: Yes",
+                        "Action Taken Useful: Yes": "missing",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Milinkovic, Peter C. Action Taken: Firearm - Pointed At Subject",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "missing",
+                        "missing": "Action Taken Useful: Yes",
+                        "Action Taken Useful: Yes": "Camera: Yes",
+                        "Camera: Yes": "CIT: No",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Type Injuries: None",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "Disciplinary Action: None",
+                        "missing": "missing",
+                        "Action Taken Useful: Yes": "Included On Alert: Yes",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Officer:",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "Perrine, Nicholas R. Action Taken: Firearm - Pointed At Subject",
+                        "missing": "missing",
+                        "Action Taken Useful: Yes": "Action Taken Useful: Yes",
+                        "Camera: Yes": "Camera: Yes",
+                        "CIT: No": "CIT: No"
+                    },
+                    {
+                        "Officer:": "missing",
+                        "Crane, Ben Action Taken: Firearm - Pointed At Subject": "Type Injuries: None",
+                        "missing": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "missing",
+                        "Camera: Yes": "Included On Alert: Yes",
+                        "CIT: No": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Case Number": "21-02229"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Location": "706 S. Fifth"
+                    },
+                    {
+                        "Type Premises": "Bar"
+                    },
+                    {
+                        "Type Situation": "Fight"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Date": "3/19/2021"
+                    },
+                    {
+                        "Time": "1725"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "CPD"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Incident Reviewed By": "\"Tison, Laura J.\""
+                    },
+                    {
+                        "Date Reviewed": "3/19/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "Yes"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "District": "missing"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "Camera": "Body Camera"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Reason Force Used": "Refusing Lawful Order"
+                    },
+                    {
+                        "Final Disposition": "Released / No Action"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 10:30:09 AM by jbclark."
+                    },
+                    {
+                        "Subject #": "1"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT:": ""
+                    },
+                    {
+                        "/ WGT": "missing"
+                    },
+                    {
+                        "Under The Influence": "Yes"
+                    },
+                    {
+                        "Address": "missing"
+                    },
+                    {
+                        "Level Of Resistance": "Physical Resistance"
+                    },
+                    {
+                        "City": "missing"
+                    },
+                    {
+                        "Subject Armed With": "Hands"
+                    },
+                    {
+                        "Force Used": "Physical Resistance"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrested": "No"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "missing"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Officer": "\"Hartman, Kennedy M\""
+                    },
+                    {
+                        "Action Taken": "EH Control - Physical Restraint"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Officer": "\"Osterholt, Drew L.\""
+                    },
+                    {
+                        "Officer": "\"Osterholt, Drew L.\""
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Action Taken": "EH Control - Physical Restraint"
+                    },
+                    {
+                        "Action Taken Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Included On Alert": "No"
+                    },
+                    {
+                        "Action Taken": "Taser - Warning Arc"
+                    },
+                    {
+                        "Useful": "No"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Narrative": "Officers responded to Joe's Brewery to assist CPD with a fight in progress. UIPD officers were first"
+                    },
+                    {
+                        "arrive on scene": ""
+                    },
+                    {
+                        "found": ""
+                    },
+                    {
+                        "subject actively fighting with security officers. Officer Osterholt drew": ""
+                    },
+                    {
+                        "Taser": ""
+                    },
+                    {
+                        "Officer Hartman": ""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: No": "Injured: No",
+                        "Arrested For: Not Stated": "Type Injuries:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Officer:": "Officer: Officer:",
+                        "Hartman, Kennedy M Action Taken: EH Control - Physical Restraint": "Type Injuries: None",
+                        "Action Taken Useful: Yes": "Disciplinary Action: None",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "Included On Alert: Yes"
+                    },
+                    {
+                        "Officer:": "Osterholt, Drew L. Action Taken: EH Control - Physical Restraint",
+                        "Hartman, Kennedy M Action Taken: EH Control - Physical Restraint": "missing",
+                        "Action Taken Useful: Yes": "Action Taken Useful: Yes",
+                        "Camera: Yes": "Camera: Yes",
+                        "CIT: No": "CIT: No"
+                    },
+                    {
+                        "Officer:": "Type Injuries: None",
+                        "Hartman, Kennedy M Action Taken: EH Control - Physical Restraint": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "missing",
+                        "Camera: Yes": "Included On Alert: No",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Osterholt, Drew L. Action Taken: Taser - Warning Arc",
+                        "Hartman, Kennedy M Action Taken: EH Control - Physical Restraint": "missing",
+                        "Action Taken Useful: Yes": "Action Taken Useful: No",
+                        "Camera: Yes": "Camera: Yes",
+                        "CIT: No": "CIT: No"
+                    },
+                    {
+                        "Officer:": "missing",
+                        "Hartman, Kennedy M Action Taken: EH Control - Physical Restraint": "Type Injuries: None",
+                        "Action Taken Useful: Yes": "Disciplinary Action: None",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "Included On Alert: Yes"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Case Number": "21-02257"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Location": "Chalmers and Locust"
+                    },
+                    {
+                        "Type Premises": "Alley"
+                    },
+                    {
+                        "Type Situation": "Felony Stop"
+                    },
+                    {
+                        "Danger Factors": "Shooting Suspect"
+                    },
+                    {
+                        "Date": "3/20/2021"
+                    },
+                    {
+                        "Time": "1818"
+                    },
+                    {
+                        "Assist": "No"
+                    },
+                    {
+                        "Agency": "missing"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Incident Reviewed By": "\"Schroeder, Michelle L.\""
+                    },
+                    {
+                        "Date Reviewed": "3/21/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "District": "missing"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "Camera": "Vehicle/BWC"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Reason Force Used": "Officer Safety"
+                    },
+                    {
+                        "Final Disposition": "Released / No Action"
+                    },
+                    {
+                        "Notes": "Entered on 4/13/2021 1:07:19 PM by jbclark."
+                    },
+                    {
+                        "Subject #": "1"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT:": ""
+                    },
+                    {
+                        "/ WGT": "missing"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Address": "missing"
+                    },
+                    {
+                        "Level Of Resistance": "Cooperative"
+                    },
+                    {
+                        "City": "missing"
+                    },
+                    {
+                        "Subject Armed With": "N/A"
+                    },
+                    {
+                        "Force Used": "None"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "No"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "missing"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Subject #": "2"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": "missing"
+                    },
+                    {
+                        "HGT:": ""
+                    },
+                    {
+                        "/ WGT": "missing"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Address": "missing"
+                    },
+                    {
+                        "City": "missing"
+                    },
+                    {
+                        "Level Of Resistance": "Cooperative"
+                    },
+                    {
+                        "Subject Armed With": "N/A"
+                    },
+                    {
+                        "Force Used": "None"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "No"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Injured": "missing"
+                    },
+                    {
+                        "Type Injuries": "missing"
+                    },
+                    {
+                        "Medical Aid": "missing"
+                    },
+                    {
+                        "Officer": "\"Germany, Karl\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Officer": "\"Jones, Kent R.\""
+                    },
+                    {
+                        "Officer": "\"Jones, Kent R.\""
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Action Taken": "Not Indicated"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Officer": "\"Tran, Alex\""
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "CIT": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: No": "Injured: No",
+                        "Arrested For: Not Stated": "Type Injuries:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Arrested: No": "Injured: No",
+                        "Arrested For: Not Stated": "Type Injuries:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Officer:": "Officer: Officer:",
+                        "Germany, Karl Action Taken: Firearm - Pointed At Subject": "Type Injuries: None",
+                        "missing": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "missing",
+                        "Camera: Yes": "Included On Alert: Yes",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Jones, Kent R.",
+                        "Germany, Karl Action Taken: Firearm - Pointed At Subject": "Action Taken: Firearm - Pointed At Subject",
+                        "missing": "missing",
+                        "Action Taken Useful: Yes": "Action Taken Useful: Yes",
+                        "Camera: Yes": "Camera: Yes",
+                        "CIT: No": "CIT: No"
+                    },
+                    {
+                        "Officer:": "Type Injuries: None",
+                        "Germany, Karl Action Taken: Firearm - Pointed At Subject": "Disciplinary Action: None",
+                        "missing": "missing",
+                        "Action Taken Useful: Yes": "Included On Alert: Yes",
+                        "Camera: Yes": "missing",
+                        "CIT: No": "missing"
+                    },
+                    {
+                        "Officer:": "Jones, Kent R.",
+                        "Germany, Karl Action Taken: Firearm - Pointed At Subject": "Action Taken: Not Indicated",
+                        "missing": "missing",
+                        "Action Taken Useful: Yes": "Action Taken Useful: No",
+                        "Camera: Yes": "Camera: Yes",
+                        "CIT: No": "CIT: No"
+                    },
+                    {
+                        "Officer:": "missing",
+                        "Germany, Karl Action Taken: Firearm - Pointed At Subject": "Type Injuries: None",
+                        "missing": "Disciplinary Action: None",
+                        "Action Taken Useful: Yes": "missing",
+                        "Camera: Yes": "Included On Alert: No",
+                        "CIT: No": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            }
+        ]
+    }
+]

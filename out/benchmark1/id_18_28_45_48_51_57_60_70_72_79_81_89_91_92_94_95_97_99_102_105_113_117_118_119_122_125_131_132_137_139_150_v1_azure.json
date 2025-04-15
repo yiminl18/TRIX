@@ -1,0 +1,1933 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Main": "(843) 277-1216"
+                    },
+                    {
+                        "Billing": "missing"
+                    },
+                    {
+                        "Billing Address": "Moore/D/State"
+                    },
+                    {
+                        "Representative": "missing"
+                    },
+                    {
+                        "Attention": "\"J.A. Moore 7752 Desoto Drive North Charleston, SC 29420\""
+                    },
+                    {
+                        "Send Payment To": "\"WMGL-FM"
+                    },
+                    {
+                        "Cumulus Media- Charleston": ""
+                    },
+                    {
+                        "3635 Momentum Place": ""
+                    },
+                    {
+                        "Chicago": "IL 60689-5336\""
+                    },
+                    {
+                        "Billing Inquiries": "cmls.ar@cumulus.com"
+                    },
+                    {
+                        "Property": "WMGL-FM"
+                    },
+                    {
+                        "Invoice #": "AA3618454"
+                    },
+                    {
+                        "Invoice Date": "09/10/23"
+                    },
+                    {
+                        "Invoice Month": "September 2023"
+                    },
+                    {
+                        "Invoice Period": "09/01/23 - 09/05/23"
+                    },
+                    {
+                        "Advertiser": ""
+                    },
+                    {
+                        "Moore/D/State Representative": "missing"
+                    },
+                    {
+                        "Product": "Senate District 42 race"
+                    },
+                    {
+                        "Estimate #": "missing"
+                    },
+                    {
+                        "Order #": "1012206"
+                    },
+                    {
+                        "Alt Order #": "missing"
+                    },
+                    {
+                        "Deal #": "missing"
+                    },
+                    {
+                        "Flight Dates": "09/02/23 - 09/05/23"
+                    },
+                    {
+                        "Account Executive": "Cynthia Alston Bell"
+                    },
+                    {
+                        "Sales Office": "Local-Charleston SC"
+                    },
+                    {
+                        "Sales Region": "Local"
+                    },
+                    {
+                        "Agency Code": "missing"
+                    },
+                    {
+                        "Advertiser Code": "missing"
+                    },
+                    {
+                        "Billing Calendar": ""
+                    },
+                    {
+                        "Calendar": "Cash"
+                    },
+                    {
+                        "Billing Type": "missing"
+                    },
+                    {
+                        "Special Handling": "missing"
+                    },
+                    {
+                        "Agency Ref": "missing"
+                    },
+                    {
+                        "Advertiser Ref": "missing"
+                    },
+                    {
+                        "Product 1": "missing"
+                    },
+                    {
+                        "Product 2": "missing"
+                    },
+                    {
+                        "WO Payments Quick Pay Link": "payments.wocentral.com/find"
+                    },
+                    {
+                        "Quick Pay Code": "84DAWLA3XE"
+                    },
+                    {
+                        "Line": "1 09/02/23"
+                    },
+                    {
+                        "Start Date": "missing"
+                    },
+                    {
+                        "End Date": "09/03/23"
+                    },
+                    {
+                        "Description": "Sa-Su"
+                    },
+                    {
+                        "Start/End Time": "6a-10a"
+                    },
+                    {
+                        "MTWTFSS": "----- 22"
+                    },
+                    {
+                        "Length": ":30"
+                    },
+                    {
+                        "Spots/": "missing"
+                    },
+                    {
+                        "Week": "4"
+                    },
+                    {
+                        "Rate": "missing"
+                    },
+                    {
+                        "Type": "$20.00"
+                    },
+                    {
+                        "NM": ""
+                    },
+                    {
+                        "Start Date": "08/28/23"
+                    },
+                    {
+                        "End Date": "09/03/23"
+                    },
+                    {
+                        "MTWTFSS": "--- 22"
+                    },
+                    {
+                        "Spots/Week": "4"
+                    },
+                    {
+                        "Rate": "$20.00"
+                    },
+                    {
+                        "10a-3p": "missing"
+                    },
+                    {
+                        "Weeks": "missing"
+                    },
+                    {
+                        "Start Date": "08/28/23"
+                    },
+                    {
+                        "End Date": "09/03/23"
+                    },
+                    {
+                        "MTWTFSS": "-21"
+                    },
+                    {
+                        "Spots/Week": "3"
+                    },
+                    {
+                        "Rate": "$20.00"
+                    },
+                    {
+                        "Weeks": "missing"
+                    },
+                    {
+                        "Start Date": "08/28/23"
+                    },
+                    {
+                        "End Date": "09/03/23"
+                    },
+                    {
+                        "MTWTFSS": "-22"
+                    },
+                    {
+                        "Spots/Week": "4"
+                    },
+                    {
+                        "Rate": "$20.00"
+                    },
+                    {
+                        "Weeks": "missing"
+                    },
+                    {
+                        "Start Date": "09/04/23"
+                    },
+                    {
+                        "End Date": "09/10/23"
+                    },
+                    {
+                        "MTWTFSS": "MT"
+                    },
+                    {
+                        "Spots/Week": "4"
+                    },
+                    {
+                        "Rate": "$20.00"
+                    },
+                    {
+                        "Ch": "WMGL"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order #": "Alt Order #",
+                        "1012206": "missing"
+                    },
+                    {
+                        "Order #": "Deal #",
+                        "1012206": "missing"
+                    },
+                    {
+                        "Order #": "Flight Dates",
+                        "1012206": "09/02/23 - 09/05/23"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Start": "09/02/23",
+                        "Date": "missing",
+                        "End": "missing",
+                        "Date.1": "09/03/23",
+                        "missing": "missing",
+                        "Description": "Sa-Su",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "6a-10a",
+                        "Length": "----- 22",
+                        "Spots/ Week": "missing",
+                        "missing.3": ":30",
+                        "missing.4": "4",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "$20.00",
+                        "missing.6": "NM"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "Weeks:",
+                        "Date": "missing",
+                        "End": "Start",
+                        "Date.1": "Date",
+                        "missing": "missing",
+                        "Description": "End",
+                        "missing.1": "Date",
+                        "missing.2": "missing",
+                        "Start/End Time": "MTWTFSS",
+                        "MTWTFSS": "Spots/Week",
+                        "Length": "Rate",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "missing",
+                        "Date": "missing",
+                        "End": "08/28/23",
+                        "Date.1": "09/03/23",
+                        "missing": "missing",
+                        "Description": "--- 22",
+                        "missing.1": "4",
+                        "missing.2": "$20.00",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "missing",
+                        "Length": "missing",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "Spots:",
+                        "Start": "missing",
+                        "Date": "Ch",
+                        "End": "missing",
+                        "Date.1": "Day",
+                        "missing": "Air Date",
+                        "Description": "Air",
+                        "missing.1": "Time",
+                        "missing.2": "Description",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "Start/End Time",
+                        "Length": "missing",
+                        "Spots/ Week": "Length",
+                        "missing.3": "Ad-ID",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "Rate"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "5",
+                        "Date": "WMGL",
+                        "End": "missing",
+                        "Date.1": "Sa",
+                        "missing": "missing",
+                        "Description": "09/02/23",
+                        "missing.1": "8:59",
+                        "missing.2": "AM",
+                        "Start/End Time": "Sa-Su",
+                        "MTWTFSS": "missing",
+                        "Length": "6a-10a",
+                        "Spots/ Week": "missing",
+                        "missing.3": ":30",
+                        "missing.4": "MOORE",
+                        "Rate": "SPOT",
+                        "Type": "1",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "3",
+                        "Date": "WMGL",
+                        "End": "missing",
+                        "Date.1": "Sa",
+                        "missing": "missing",
+                        "Description": "09/02/23",
+                        "missing.1": "9:29",
+                        "missing.2": "AM",
+                        "Start/End Time": "Sa-Su",
+                        "MTWTFSS": "missing",
+                        "Length": "6a-10a",
+                        "Spots/ Week": "missing",
+                        "missing.3": ":30",
+                        "missing.4": "MOORE",
+                        "Rate": "SPOT",
+                        "Type": "2",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "2",
+                        "Date": "WMGL",
+                        "End": "missing",
+                        "Date.1": "Su",
+                        "missing": "missing",
+                        "Description": "09/03/23",
+                        "missing.1": "6:09",
+                        "missing.2": "AM",
+                        "Start/End Time": "Sa-Su",
+                        "MTWTFSS": "missing",
+                        "Length": "6a-10a",
+                        "Spots/ Week": "missing",
+                        "missing.3": ":30",
+                        "missing.4": "MOORE SPOT",
+                        "Rate": "1",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "$20.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "4",
+                        "Date": "WMGL",
+                        "End": "missing",
+                        "Date.1": "Su",
+                        "missing": "missing",
+                        "Description": "09/03/23",
+                        "missing.1": "7:05",
+                        "missing.2": "AM",
+                        "Start/End Time": "Sa-Su",
+                        "MTWTFSS": "missing",
+                        "Length": "6a-10a",
+                        "Spots/ Week": "missing",
+                        "missing.3": ":30",
+                        "missing.4": "MOORE",
+                        "Rate": "SPOT",
+                        "Type": "2",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "2 09/02/23",
+                        "Start": "missing",
+                        "Date": "09/03/23",
+                        "End": "missing",
+                        "Date.1": "Sa-Su",
+                        "missing": "missing",
+                        "Description": "10a-3p",
+                        "missing.1": "-- 21",
+                        "missing.2": ":30",
+                        "Start/End Time": "3",
+                        "MTWTFSS": "$20.00",
+                        "Length": "NM",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "Weeks:",
+                        "Start": "missing",
+                        "Date": "Start Date",
+                        "End": "missing",
+                        "Date.1": "End",
+                        "missing": "Date",
+                        "Description": "MTWTFSS",
+                        "missing.1": "Spots/Week",
+                        "missing.2": "Rate",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "missing",
+                        "Length": "missing",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "missing",
+                        "Date": "08/28/23",
+                        "End": "09/03/23",
+                        "Date.1": "-21",
+                        "missing": "3",
+                        "Description": "$20.00",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "missing",
+                        "Length": "missing",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "Spots: .",
+                        "Start": "Ch",
+                        "Date": "Day",
+                        "End": "Air Date",
+                        "Date.1": "Air Time Description",
+                        "missing": "missing",
+                        "Description": "Start/End Time",
+                        "missing.1": "Length",
+                        "missing.2": "Ad-ID",
+                        "Start/End Time": "missing",
+                        "MTWTFSS": "Rate",
+                        "Length": "Type",
+                        "Spots/ Week": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "4",
+                        "Start": "WMGL",
+                        "Date": "missing",
+                        "End": "Sa",
+                        "Date.1": "09/02/23",
+                        "missing": "2:38 PM Sa-Su",
+                        "Description": "missing",
+                        "missing.1": "10a-3p",
+                        "missing.2": ":30",
+                        "Start/End Time": "MOORE SPOT 1",
+                        "MTWTFSS": "missing",
+                        "Length": "$20.00",
+                        "Spots/ Week": "NM",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "5",
+                        "Start": "WMGL",
+                        "Date": "missing",
+                        "End": "Sa",
+                        "Date.1": "09/02/23",
+                        "missing": "missing",
+                        "Description": "2:57 PM Sa-Su",
+                        "missing.1": "missing",
+                        "missing.2": "10a-3p",
+                        "Start/End Time": ":30",
+                        "MTWTFSS": "MOORE SPOT 2",
+                        "Length": "missing",
+                        "Spots/ Week": "$20.00",
+                        "missing.3": "NM",
+                        "missing.4": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "Line": "6",
+                        "Start": "WMGL",
+                        "Date": "missing",
+                        "End": "Su",
+                        "Date.1": "missing",
+                        "missing": "09/03/23",
+                        "Description": "missing",
+                        "missing.1": "10:22 AM Sa-Su",
+                        "missing.2": "missing",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ":30",
+                        "Length": "MOORE SPOT 1",
+                        "Spots/ Week": "missing",
+                        "missing.3": "$20.00",
+                        "missing.4": "NM",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "3 09/02/23": "Weeks:",
+                        "missing": "missing",
+                        "09/03/23": "Start Date",
+                        "missing.1": "missing",
+                        "Sa-Su": "End",
+                        "missing.2": "Date",
+                        "missing.3": "MTWTFSS",
+                        "3p-7p": "Spots/Week",
+                        "-- 22": "Rate",
+                        ":30": "missing",
+                        "4": "missing",
+                        "missing.4": "missing",
+                        "$20.00": "missing",
+                        "NM": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "missing",
+                        "missing": "missing",
+                        "09/03/23": "08/28/23",
+                        "missing.1": "09/03/23",
+                        "Sa-Su": "-22",
+                        "missing.2": "4",
+                        "missing.3": "$20.00",
+                        "3p-7p": "missing",
+                        "-- 22": "missing",
+                        ":30": "missing",
+                        "4": "missing",
+                        "missing.4": "missing",
+                        "$20.00": "missing",
+                        "NM": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "Spots:",
+                        "missing": "Ch",
+                        "09/03/23": "Day",
+                        "missing.1": "Air Date",
+                        "Sa-Su": "Air Time",
+                        "missing.2": "Description",
+                        "missing.3": "missing",
+                        "3p-7p": "Start/End Time",
+                        "-- 22": "Length",
+                        ":30": "Ad-ID",
+                        "4": "missing",
+                        "missing.4": "missing",
+                        "$20.00": "Rate",
+                        "NM": "Type",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "3",
+                        "missing": "WMGL",
+                        "09/03/23": "missing",
+                        "missing.1": "Sa",
+                        "Sa-Su": "09/02/23",
+                        "missing.2": "3:37 PM",
+                        "missing.3": "Sa-Su",
+                        "3p-7p": "missing",
+                        "-- 22": "3p-7p",
+                        ":30": ":30",
+                        "4": "MOORE SPOT 1",
+                        "missing.4": "missing",
+                        "$20.00": "$20.00",
+                        "NM": "NM",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "5",
+                        "missing": "WMGL",
+                        "09/03/23": "missing",
+                        "missing.1": "Sa",
+                        "Sa-Su": "09/02/23",
+                        "missing.2": "3:57 PM",
+                        "missing.3": "Sa-Su",
+                        "3p-7p": "missing",
+                        "-- 22": "3p-7p",
+                        ":30": ":30",
+                        "4": "MOORE",
+                        "missing.4": "SPOT 2",
+                        "$20.00": "$20.00",
+                        "NM": "NM",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "4",
+                        "missing": "WMGL",
+                        "09/03/23": "missing",
+                        "missing.1": "Su",
+                        "Sa-Su": "09/03/23",
+                        "missing.2": "3:55 PM",
+                        "missing.3": "Sa-Su",
+                        "3p-7p": "missing",
+                        "-- 22": "3p-7p",
+                        ":30": ":30",
+                        "4": "MOORE SPOT 2",
+                        "missing.4": "missing",
+                        "$20.00": "$20.00",
+                        "NM": "NM",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    },
+                    {
+                        "3 09/02/23": "6",
+                        "missing": "WMGL",
+                        "09/03/23": "missing",
+                        "missing.1": "Su",
+                        "Sa-Su": "09/03/23",
+                        "missing.2": "4:33 PM",
+                        "missing.3": "Sa-Su",
+                        "3p-7p": "missing",
+                        "-- 22": "3p-7p",
+                        ":30": ":30",
+                        "4": "MOORE",
+                        "missing.4": "SPOT 1",
+                        "$20.00": "missing",
+                        "NM": "$20.00",
+                        "missing.5": "NM",
+                        "missing.6": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "4 09/04/23 09/05/23": "Weeks:",
+                        "M-F": "missing",
+                        "missing": "Start Date",
+                        "missing.1": "End Date MTWTFSS",
+                        "6a-10a": "Spots/Week",
+                        "MT --- --": "Rate",
+                        ":30": "missing",
+                        "4": "missing",
+                        "$20.00": "missing",
+                        "NM": "missing",
+                        "missing.2": "missing"
+                    },
+                    {
+                        "4 09/04/23 09/05/23": "missing",
+                        "M-F": "09/04/23",
+                        "missing": "09/10/23 MT ----",
+                        "missing.1": "4",
+                        "6a-10a": "$20.00",
+                        "MT --- --": "missing",
+                        ":30": "missing",
+                        "4": "missing",
+                        "$20.00": "missing",
+                        "NM": "missing",
+                        "missing.2": "missing"
+                    },
+                    {
+                        "4 09/04/23 09/05/23": "Spots: # Ch Day",
+                        "M-F": "Air Date Air Time",
+                        "missing": "Description",
+                        "missing.1": "missing",
+                        "6a-10a": "Start/End Time",
+                        "MT --- --": "Length",
+                        ":30": "Ad-ID",
+                        "4": "missing",
+                        "$20.00": "Rate",
+                        "NM": "Type",
+                        "missing.2": "missing"
+                    },
+                    {
+                        "4 09/04/23 09/05/23": "3",
+                        "M-F": "WMGL M 09/04/23 6:18 AM",
+                        "missing": "M-F",
+                        "missing.1": "missing",
+                        "6a-10a": "6a-10a",
+                        "MT --- --": ":30",
+                        ":30": "MOORE SPOT 2",
+                        "4": "missing",
+                        "$20.00": "$20.00",
+                        "NM": "NM",
+                        "missing.2": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Main": "(515)247-8888"
+                    },
+                    {
+                        "Billing": "(704)208-2350"
+                    },
+                    {
+                        "Billing Address": "\"Waterfront Strategies"
+                    },
+                    {
+                        "Attention: Accounts Payable": ""
+                    },
+                    {
+                        "3050 K Street NW": ""
+                    },
+                    {
+                        "Washington": "DC 20007\""
+                    },
+                    {
+                        "Send Payment To": "\"KCCI"
+                    },
+                    {
+                        "PO Box 14556": ""
+                    },
+                    {
+                        "Des Moines": "IA 50306-3556\""
+                    },
+                    {
+                        "Property": "KCCI"
+                    },
+                    {
+                        "Invoice #": "2259004-1"
+                    },
+                    {
+                        "Order #": "2259004"
+                    },
+                    {
+                        "Invoice Date": "missing"
+                    },
+                    {
+                        "Alt Order #": "missing"
+                    },
+                    {
+                        "Invoice Month": "09/18/22"
+                    },
+                    {
+                        "September 2022": ""
+                    },
+                    {
+                        "Deal #": "10370918"
+                    },
+                    {
+                        "Invoice Period": "08/29/22 - 09/12/22"
+                    },
+                    {
+                        "Flight Dates": "09/06/22 - 09/12/22"
+                    },
+                    {
+                        "Advertiser": "House Majority"
+                    },
+                    {
+                        "Product": "HOUSE MAJORITY PAC ANTI NUNN"
+                    },
+                    {
+                        "Estimate #": "10491"
+                    },
+                    {
+                        "Account Executive": "Mary Tricoli"
+                    },
+                    {
+                        "Sales Office": "HRP -Washington DC"
+                    },
+                    {
+                        "Sales Region": "National"
+                    },
+                    {
+                        "Agency Code": "9914573"
+                    },
+                    {
+                        "Advertiser Code": "79"
+                    },
+                    {
+                        "Billing Calendar": "Broadcast"
+                    },
+                    {
+                        "Billing Type": "Cash"
+                    },
+                    {
+                        "Special Handling": "missing"
+                    },
+                    {
+                        "Agency Ref": "missing"
+                    },
+                    {
+                        "Advertiser Ref": "missing"
+                    },
+                    {
+                        "Product 1": "86"
+                    },
+                    {
+                        "Product 2": "missing"
+                    },
+                    {
+                        "Line": "1"
+                    },
+                    {
+                        "3": ""
+                    },
+                    {
+                        "Start Date": "09/06/22"
+                    },
+                    {
+                        "End Date": "09/12/22"
+                    },
+                    {
+                        "Description": "M-F News"
+                    },
+                    {
+                        "Start/End Time": "CH8 @ 6-7A 6-7A"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Length": ""
+                    },
+                    {
+                        "Spots/ Week": ":30"
+                    },
+                    {
+                        "Rate": "\"$1,000.00\""
+                    },
+                    {
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "09/06/22"
+                    },
+                    {
+                        "End Date": "09/12/22"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Spots/Week": "3"
+                    },
+                    {
+                        "Rate": "\"$1,000.00\""
+                    },
+                    {
+                        "Start Date": "09/06/22"
+                    },
+                    {
+                        "End Date": "09/12/22"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Spots/Week": "3"
+                    },
+                    {
+                        "Rate": "\"$1,100.00\""
+                    },
+                    {
+                        "Weeks": "missing"
+                    },
+                    {
+                        "Start Date": "09/06/22"
+                    },
+                    {
+                        "End Date": "09/12/22"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Spots/Week": "3"
+                    },
+                    {
+                        "Rate": "$700.00"
+                    },
+                    {
+                        "Weeks": "missing"
+                    },
+                    {
+                        "Start Date": "09/05/22"
+                    },
+                    {
+                        "End Date": "09/11/22"
+                    },
+                    {
+                        "MTWTFSS": "1-"
+                    },
+                    {
+                        "Spots/Week": "1"
+                    },
+                    {
+                        "Rate": "\"$1,000.00\""
+                    },
+                    {
+                        "Day": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Property": "Invoice #",
+                        "KCCI": "2259004-1"
+                    },
+                    {
+                        "Property": "Invoice Date",
+                        "KCCI": "09/18/22"
+                    },
+                    {
+                        "Property": "Invoice Month",
+                        "KCCI": "September 2022"
+                    },
+                    {
+                        "Property": "Invoice Period",
+                        "KCCI": "08/29/22 - 09/12/22"
+                    },
+                    {
+                        "Property": "Advertiser",
+                        "KCCI": "House Majority"
+                    },
+                    {
+                        "Property": "Product",
+                        "KCCI": "HOUSE MAJORITY PAC ANTI NUNN"
+                    },
+                    {
+                        "Property": "Estimate #",
+                        "KCCI": "10491"
+                    },
+                    {
+                        "Property": "missing",
+                        "KCCI": "Account Executive"
+                    },
+                    {
+                        "Property": "Sales Office",
+                        "KCCI": "HRP -Washington DC"
+                    },
+                    {
+                        "Property": "Sales Region",
+                        "KCCI": "National"
+                    },
+                    {
+                        "Property": "Agency Code",
+                        "KCCI": "9914573"
+                    },
+                    {
+                        "Property": "Advertiser Code",
+                        "KCCI": "79"
+                    },
+                    {
+                        "Property": "Billing Calendar",
+                        "KCCI": "Broadcast"
+                    },
+                    {
+                        "Property": "Billing Type",
+                        "KCCI": "Cash"
+                    },
+                    {
+                        "Property": "Special Handling",
+                        "KCCI": "missing"
+                    },
+                    {
+                        "Property": "Agency Ref",
+                        "KCCI": "missing"
+                    },
+                    {
+                        "Property": "Advertiser Ref",
+                        "KCCI": "missing"
+                    },
+                    {
+                        "Property": "Product 1",
+                        "KCCI": "86"
+                    },
+                    {
+                        "Property": "Product 2",
+                        "KCCI": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": 1,
+                        "Start Date": "09/06/22",
+                        "missing": "missing",
+                        "End Date": "09/12/22",
+                        "missing.1": "missing",
+                        "missing.2": "M-F",
+                        "Description": "News",
+                        "missing.3": "CH8",
+                        "missing.4": "@ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "MTWTFSS": "MTWTF --",
+                        "Length": ":30",
+                        "Spots/ Week": 3,
+                        "Rate": "$1,000.00",
+                        "Type": "NM",
+                        "missing.5": "missing",
+                        "missing.6": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "missing": "missing",
+                        "3": 1,
+                        "KCCI": "KCCI",
+                        "Tu": "W",
+                        "09/06/22": "missing",
+                        "6:29 AM": "09/07/22",
+                        "M-F News": "6:13 AM",
+                        "CH8 @ 6-7A": "M-F News",
+                        "6-7A": "CH8 @ 6-7A",
+                        ":30": "6-7A",
+                        "HMP22IA03T01H": ":30",
+                        "missing.1": "HMP22IA03T01H",
+                        "missing.2": "missing",
+                        "$1,000.00": "missing",
+                        "NM": "$1,000.00"
+                    },
+                    {
+                        "missing": "missing",
+                        "3": 2,
+                        "KCCI": "KCCI",
+                        "Tu": "F",
+                        "09/06/22": "09/09/22",
+                        "6:29 AM": "6:14",
+                        "M-F News": "AM",
+                        "CH8 @ 6-7A": "M-F News",
+                        "6-7A": "CH8 @ 6-7A",
+                        ":30": "6-7A",
+                        "HMP22IA03T01H": ":30",
+                        "missing.1": "HMP22IA03T01H",
+                        "missing.2": "missing",
+                        "$1,000.00": "missing",
+                        "NM": "$1,000.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Weeks:": "missing",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "MTWTFSS": "MTWTF --",
+                        "Spots/Week": 3,
+                        "Rate": "$1,100.00",
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Spots: #": 1,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "Tu",
+                        "Air Time": "09/06/22",
+                        "Description": "7:39 AM",
+                        "missing": "The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length": ":30",
+                        "Ad-ID": "HMP22IA03T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: #": 3,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "W",
+                        "Air Time": "09/07/22",
+                        "Description": "7:58 AM",
+                        "missing": "The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length": ":30",
+                        "Ad-ID": "HMP22IA03T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: #": 2,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "M",
+                        "Air Time": "09/12/22",
+                        "Description": "7:25 AM",
+                        "missing": "The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length": ":30",
+                        "Ad-ID": "HMP22IA03T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Weeks:": "missing",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "missing": "MTWTF --",
+                        "MTWTFSS": 3,
+                        "Spots/Week": "$700.00",
+                        "Rate": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Spots: #": 1,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "missing",
+                        "Air Time": "Tu",
+                        "Description": "09/06/22",
+                        "missing": "8:17 AM",
+                        "Start/End Time": "The Early Show",
+                        "Length": "8-9A",
+                        "Ad-ID": ":30",
+                        "missing.1": "HMP22IA03T01H",
+                        "Rate": "$700.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: #": 3,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "missing",
+                        "Air Time": "W",
+                        "Description": "09/07/22",
+                        "missing": "8:58 AM",
+                        "Start/End Time": "The Early Show",
+                        "Length": "8-9A",
+                        "Ad-ID": ":30",
+                        "missing.1": "HMP22IA03T01H",
+                        "Rate": "$700.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: #": 2,
+                        "Ch": "KCCI",
+                        "Day": "missing",
+                        "Air Date": "missing",
+                        "Air Time": "M",
+                        "Description": "09/12/22",
+                        "missing": "8:54 AM",
+                        "Start/End Time": "The Early Show",
+                        "Length": "8-9A",
+                        "Ad-ID": ":30",
+                        "missing.1": "HMP22IA03T01H",
+                        "Rate": "$700.00",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Weeks:": "missing",
+                        "Start Date": "09/05/22",
+                        "End": "09/11/22",
+                        "Date": "missing",
+                        "MTWTFSS": "1-",
+                        "Spots/Week": "missing",
+                        "Rate": 1,
+                        "missing": "$1,000.00",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Spots: #1-": 1,
+                        "Ch": "KCCI Sa",
+                        "Day": "missing",
+                        "Air": "missing",
+                        "Date": "09/10/22",
+                        "missing": "missing",
+                        "Air Time": "8:13 AM",
+                        "Description": "News CH8",
+                        "missing.1": "TH Morn-Sat 8-9A",
+                        "Start/End Time": "SAT 8-9A",
+                        "Length": ":30",
+                        "Ad-ID": "HMP22IA03T01H",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "Rate Type": "$1,000.00 NM"
+                    },
+                    {
+                        "Spots: #1-": 5,
+                        "Ch": "missing",
+                        "Day": "missing",
+                        "Air": "09/11/22",
+                        "Date": "09/11/22",
+                        "missing": "CBS",
+                        "Air Time": "Sunday",
+                        "Description": "Morning",
+                        "missing.1": "Sun 8-930a",
+                        "Start/End Time": "missing",
+                        "Length": ":30",
+                        "Ad-ID": "1",
+                        "missing.2": "$1,800.00",
+                        "missing.3": "NM",
+                        "Rate Type": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Main": "(216)344-3333"
+                    },
+                    {
+                        "Billing": "A TEGNA Company www.wkyc.com"
+                    },
+                    {
+                        "Property": "WKYC"
+                    },
+                    {
+                        "Invoice #": "2097094-1"
+                    },
+                    {
+                        "Invoice Date": "11/08/20"
+                    },
+                    {
+                        "Invoice Month": "November 2020"
+                    },
+                    {
+                        "Invoice Period": "10/26/20 - 11/03/20"
+                    },
+                    {
+                        "Advertiser": "POL/ Matt Dolan / RSCC / R / St Senate/ OH"
+                    },
+                    {
+                        "Order #": "2097094"
+                    },
+                    {
+                        "Alt Order #": "WOC12736508"
+                    },
+                    {
+                        "Deal #": "missing"
+                    },
+                    {
+                        "Flight Dates": "10/27/20 - 11/03/20"
+                    },
+                    {
+                        "Product": "Dolan 10/27-11/3"
+                    },
+                    {
+                        "Estimate #": "2357"
+                    },
+                    {
+                        "Address": "\"SRCP Media, Inc/ POL\""
+                    },
+                    {
+                        "Attention": "\"Betsy Vonderheid"
+                    },
+                    {
+                        "201 North Union Street": "Suite 200"
+                    },
+                    {
+                        "Alexandria": "VA 22314\""
+                    },
+                    {
+                        "Send Payment To": "\"WKYC"
+                    },
+                    {
+                        "WKYC": ""
+                    },
+                    {
+                        "PO BOX: 637386": ""
+                    },
+                    {
+                        "Cincinnati": "OH 45263-7386\""
+                    },
+                    {
+                        "Account Executive": "Aleesha Maewall"
+                    },
+                    {
+                        "Sales Office": "TEGNA Sales Washington DC"
+                    },
+                    {
+                        "Sales Region": "National"
+                    },
+                    {
+                        "Agency Code": "missing"
+                    },
+                    {
+                        "Advertiser Code": "128"
+                    },
+                    {
+                        "Billing Calendar": "Broadcast"
+                    },
+                    {
+                        "Billing Type": "Cash"
+                    },
+                    {
+                        "Special Handling": ""
+                    },
+                    {
+                        "Agency Ref": "9989AG"
+                    },
+                    {
+                        "Advertiser Ref": "104584"
+                    },
+                    {
+                        "Product 1": "782"
+                    },
+                    {
+                        "Product 2": "missing"
+                    },
+                    {
+                        "Spots/": ""
+                    },
+                    {
+                        "Length": ""
+                    },
+                    {
+                        "Week": ":30"
+                    },
+                    {
+                        "Line": "1"
+                    },
+                    {
+                        "Start Date": "10/27/20"
+                    },
+                    {
+                        "End Date": "11/02/20"
+                    },
+                    {
+                        "Description": "TODAY SHOW"
+                    },
+                    {
+                        "Start/End Time": "7-9a"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Rate": "$800.00"
+                    },
+                    {
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "10/27/20"
+                    },
+                    {
+                        "End Date": "11/02/20"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF --"
+                    },
+                    {
+                        "Spots/Week": "10"
+                    },
+                    {
+                        "Rate": "$800.00"
+                    },
+                    {
+                        "Start Date": "11/02/20"
+                    },
+                    {
+                        "End Date": "11/08/20"
+                    },
+                    {
+                        "MTWTFSS": "-T-"
+                    },
+                    {
+                        "Spots/Week": "2"
+                    },
+                    {
+                        "Rate": "$800.00"
+                    },
+                    {
+                        "Start Date": "10/27/20"
+                    },
+                    {
+                        "End Date": "11/02/20"
+                    },
+                    {
+                        "MTWTFSS": "MTWTF"
+                    },
+                    {
+                        "Spots/Week": "5"
+                    },
+                    {
+                        "Rate": "\"$1,500.00\""
+                    },
+                    {
+                        "Ch": "missing"
+                    },
+                    {
+                        "Day": "missing"
+                    },
+                    {
+                        "Air Date": "missing"
+                    },
+                    {
+                        "Air Time": "missing"
+                    },
+                    {
+                        "Description": "missing"
+                    },
+                    {
+                        "Start/End Time": "missing"
+                    },
+                    {
+                        "Length": "missing"
+                    },
+                    {
+                        "Ad-ID": "missing"
+                    },
+                    {
+                        "Rate Type": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Product": "Estimate #",
+                        "Dolan 10/27-11/3": 2357
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Start": "10/27/20",
+                        "Date": "missing",
+                        "missing": "missing",
+                        "End Date": "11/02/20",
+                        "missing.1": "missing",
+                        "Description": "TODAY",
+                        "missing.2": "missing",
+                        "Start/End Time": "SHOW",
+                        "MTWTFSS": "missing",
+                        "Length": "7-9a",
+                        "Week": "MTWTF --",
+                        "Rate": ":30",
+                        "Type": "10",
+                        "missing.3": "$800.00",
+                        "missing.4": "NM"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "Weeks:",
+                        "Date": "missing",
+                        "missing": "Start Date",
+                        "End Date": "missing",
+                        "missing.1": "End",
+                        "Description": "Date",
+                        "missing.2": "missing",
+                        "Start/End Time": "MTWTFSS",
+                        "MTWTFSS": "Spots/Week",
+                        "Length": "Rate",
+                        "Week": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "missing",
+                        "Date": "missing",
+                        "missing": "missing",
+                        "End Date": "missing",
+                        "missing.1": "10/27/20",
+                        "Description": "11/02/20",
+                        "missing.2": "MTWTF --",
+                        "Start/End Time": "10",
+                        "MTWTFSS": "$800.00",
+                        "Length": "missing",
+                        "Week": "missing",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "Spots: #",
+                        "Date": "Ch",
+                        "missing": "missing",
+                        "End Date": "Day",
+                        "missing.1": "Air",
+                        "Description": "Date",
+                        "missing.2": "Air Time",
+                        "Start/End Time": "Description",
+                        "MTWTFSS": "missing",
+                        "Length": "Start/End Time",
+                        "Week": "Length",
+                        "Rate": "Ad-ID",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "Rate"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "9",
+                        "Date": "WKYC",
+                        "missing": "Tu",
+                        "End Date": "missing",
+                        "missing.1": "10/27/20",
+                        "Description": "7:22 AM",
+                        "missing.2": "TODAY",
+                        "Start/End Time": "SHOW",
+                        "MTWTFSS": "7-9a",
+                        "Length": ":30",
+                        "Week": "MD20TV02H",
+                        "Rate": "missing",
+                        "Type": "missing",
+                        "missing.3": "$800.00",
+                        "missing.4": "NM"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "1",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "Tu",
+                        "missing.1": "missing",
+                        "Description": "10/27/20",
+                        "missing.2": "8:53 AM",
+                        "Start/End Time": "TODAY",
+                        "MTWTFSS": "SHOW",
+                        "Length": "7-9a",
+                        "Week": ":30",
+                        "Rate": "MD20TV02H",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "$800.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "2",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "W",
+                        "missing.1": "missing",
+                        "Description": "10/28/20",
+                        "missing.2": "6:58 AM",
+                        "Start/End Time": "TODAY",
+                        "MTWTFSS": "SHOW",
+                        "Length": "7-9a",
+                        "Week": ":30",
+                        "Rate": "MD20TV02H",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "$800.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "10",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "W",
+                        "missing.1": "missing",
+                        "Description": "10/28/20",
+                        "missing.2": "8:33",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "3",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "Th",
+                        "missing.1": "missing",
+                        "Description": "10/29/20",
+                        "missing.2": "7:57",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "7",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "Th",
+                        "missing.1": "missing",
+                        "Description": "10/29/20",
+                        "missing.2": "8:41",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "4",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "F",
+                        "missing.1": "missing",
+                        "Description": "10/30/20",
+                        "missing.2": "7:58",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "8",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "LL",
+                        "missing.1": "missing",
+                        "Description": "10/30/20",
+                        "missing.2": "8:29",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "5",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "M",
+                        "missing.1": "missing",
+                        "Description": "11/02/20",
+                        "missing.2": "6:59 AM",
+                        "Start/End Time": "TODAY",
+                        "MTWTFSS": "SHOW",
+                        "Length": "7-9a",
+                        "Week": ":30",
+                        "Rate": "MD20TV02H",
+                        "Type": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "$800.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start": "6",
+                        "Date": "WKYC",
+                        "missing": "missing",
+                        "End Date": "M",
+                        "missing.1": "missing",
+                        "Description": "11/02/20",
+                        "missing.2": "8:59",
+                        "Start/End Time": "AM",
+                        "MTWTFSS": "TODAY",
+                        "Length": "SHOW",
+                        "Week": "7-9a",
+                        "Rate": ":30",
+                        "Type": "MD20TV02H",
+                        "missing.3": "missing",
+                        "missing.4": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Weeks:": "missing",
+                        "Start Date": "11/02/20",
+                        "missing": "11/08/20 -T-",
+                        "End Date": "missing",
+                        "MTWTFSS": "missing",
+                        "Spots/Week": 2,
+                        "Rate": "$800.00",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Spots: # Ch": "2 WKYC",
+                        "Day": "Tu",
+                        "Air Date": "11/03/20",
+                        "Air Time Description": "7:19 AM TODAY",
+                        "missing": "SHOW TUESDAY",
+                        "Start/End Time": "7-9a",
+                        "Length": ":30",
+                        "Ad-ID": "MD20TV02H",
+                        "missing.1": "missing",
+                        "Rate": "$800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: # Ch": "1 WKYC",
+                        "Day": "Tu",
+                        "Air Date": "11/03/20",
+                        "Air Time Description": "8:51 AM TODAY",
+                        "missing": "SHOW TUESDAY",
+                        "Start/End Time": "7-9a",
+                        "Length": ":30",
+                        "Ad-ID": "MD20TV02H",
+                        "missing.1": "missing",
+                        "Rate": "$800.00",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "3 10/27/20": "Weeks:",
+                        "11/02/20": "Start Date",
+                        "3 NEWS M-F 6PM": "End Date",
+                        "6p-630p": "MTWTFSS",
+                        "MTWTF --": "Spots/Week",
+                        ":30": "Rate",
+                        "5": "missing",
+                        "$1,500.00": "missing",
+                        "NM": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "3 10/27/20": "missing",
+                        "11/02/20": "10/27/20",
+                        "3 NEWS M-F 6PM": "11/02/20",
+                        "6p-630p": "MTWTF --",
+                        "MTWTF --": "5",
+                        ":30": "$1,500.00",
+                        "5": "missing",
+                        "$1,500.00": "missing",
+                        "NM": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "3 10/27/20": "Spots: # Ch",
+                        "11/02/20": "Day Air Date Air Time Description",
+                        "3 NEWS M-F 6PM": "missing",
+                        "6p-630p": "Start/End Time",
+                        "MTWTF --": "Length",
+                        ":30": "Ad-ID",
+                        "5": "missing",
+                        "$1,500.00": "missing",
+                        "NM": "missing",
+                        "missing": "Rate Type"
+                    }
+                ]
+            }
+        ]
+    }
+]

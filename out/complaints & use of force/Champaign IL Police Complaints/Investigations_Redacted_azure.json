@@ -1,0 +1,1122 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Complaints Occurred Between": "1/1/2008 AND 11/20/2020"
+                    },
+                    {
+                        "Complainant": "missing"
+                    },
+                    {
+                        "Number": "08-02"
+                    },
+                    {
+                        "Complainant": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "\"Terr, Champaign IL 61820\""
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-3B.1 Courtesy:Profanity": ""
+                    },
+                    {
+                        "Officer #": "\"1"
+                    },
+                    {
+                        "Griffet": "David I.\""
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "ID No.": "914"
+                    },
+                    {
+                        "Investigator": "\"Swan, Scott\""
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "Complaint #": "R-3B.1 Courtesy:Profanity"
+                    },
+                    {
+                        "Complaint #": "R-3B.4 COURTESY: COMMENT"
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "Officer #": "\"Petrilli, Thomas P.\""
+                    },
+                    {
+                        "Investigator": "\"Paulus, Michael\""
+                    },
+                    {
+                        "Racial Category / Type": "No"
+                    },
+                    {
+                        "FORMAL": ""
+                    },
+                    {
+                        "3/10/2008": ""
+                    },
+                    {
+                        "Complainant": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "Complaint #": "R-3B.2 Courtesy: Rude"
+                    },
+                    {
+                        "Officer #": "\"Shepard, Charles F.\""
+                    },
+                    {
+                        "ID No.": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": 914,
+                        "Rank": "SERGEANT",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "SUSTAINED",
+                        "Action Taken": "COUNSELING",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Petrilli, Thomas P.",
+                        "ID No.": 939,
+                        "Rank": "Senior Officer",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "SUSTAINED",
+                        "Action Taken Body Cam": "COUNSELING"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "3/5/2008": "missing",
+                        "08-03": "missing",
+                        "Paulus, Michael": "3/10/2008",
+                        "No": "missing",
+                        "FORMAL": "Citizen",
+                        "Not Stated": "missing",
+                        "NOT SUSTAINED": "4/28/2008",
+                        "No.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Complaint #: 1 Complaint #: 2": "R-3B.2 Courtesy: Rude Discourteous Conduct",
+                        "R-3B.2 Courtesy: Rude Discourteous Conduct": "NOT SUSTAINED",
+                        "UNFOUNDED": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "3/14/2008"
+                    },
+                    {
+                        "08-II01": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Investigator": "\"Swan, Scott\""
+                    },
+                    {
+                        "Date Assigned": "3/14/2008"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "Racial Category / Type": "FORMAL"
+                    },
+                    {
+                        "Date": "3/18/2008"
+                    },
+                    {
+                        "08-06": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Date": "3/22/2008"
+                    },
+                    {
+                        "08-04a": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Date": "3/22/2008"
+                    },
+                    {
+                        "Number": "08-04b"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-3B.2 Courtesy: Rude": ""
+                    },
+                    {
+                        "Name": "\"Wilberg, Richard W.\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "Officer #": "missing"
+                    },
+                    {
+                        "ID No.": "799RESI"
+                    },
+                    {
+                        "G": ""
+                    },
+                    {
+                        "Investigator": "\"Gallo, Joe\""
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "Racial Category / Type": "4/17/2008"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "FORMAL": ""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "\","
+                    },
+                    {
+                        "Champaign IL 61821\"": ""
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "Complaint #": "R-3B.1 Courtesy:Profanity"
+                    },
+                    {
+                        "Investigator": "\"Swenson,\""
+                    },
+                    {
+                        "Date Assigned": "Jon"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "\"Ct, Rantoul IL 61866\""
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "Investigator": "\"Swenson, Jon\""
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "\", CHICAGO IL 60644-2803\""
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Complaint #": "R-5D"
+                    },
+                    {
+                        "force": ""
+                    },
+                    {
+                        "1": ""
+                    },
+                    {
+                        "Officer #": "1"
+                    },
+                    {
+                        "Name": "missing"
+                    },
+                    {
+                        "ID No.": "missing"
+                    },
+                    {
+                        "Rank": "missing"
+                    },
+                    {
+                        "Division": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "3/14/2008": "missing",
+                        "08-II01": "missing",
+                        "Swan, Scott": "3/14/2008",
+                        "No": "missing",
+                        "FORMAL": "Internal"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": "799RESI",
+                        "Rank": "missing",
+                        "Division": "missing",
+                        "Officer Disposition": "missing",
+                        "Action Taken": "missing",
+                        "Body Cam": "missing"
+                    },
+                    {
+                        "ID No.": "G",
+                        "Rank": "Senior Officer",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "SUSTAINED",
+                        "Action Taken": "COUNSELING",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "#: 1": "#: 2"
+                    },
+                    {
+                        "#: 1": "R-3B.4 COURTESY: COMMENT"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": "722-Ret",
+                        "Rank": "DETECTIVE",
+                        "Division": "Operations Supp",
+                        "Officer Disposition": "SUSTAINED",
+                        "Action Taken": "COUNSELING",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "MULTIPLE OFFICERS/EMPLOY",
+                        "ID No.": ":unselected:",
+                        "Rank": "NOT STATED",
+                        "Division": "NOT ENTERED",
+                        "Officer Disposition": "UNFOUNDED",
+                        "Action Taken": "NONE",
+                        "Body Cam": "No"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "08-04c"
+                    },
+                    {
+                        "3/22/2008": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Investigator": "\"Swenson, Jon\""
+                    },
+                    {
+                        "Date Assigned": "No"
+                    },
+                    {
+                        "4/16/2008": ""
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-5D Use of physical force": ""
+                    },
+                    {
+                        "Officer #": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "\","
+                    },
+                    {
+                        "Champaign IL 61820\"": ""
+                    },
+                    {
+                        "Description": "Wrong Action by Employee"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Date": "3/22/2008"
+                    },
+                    {
+                        "08-04d": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Investigator": "\"Swenson, Jon\""
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "Racial Category / Type": "No"
+                    },
+                    {
+                        "FORMAL": ""
+                    },
+                    {
+                        "4/16/2008": ""
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "Officer #": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "IL 61866"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Date": "4/10/2008"
+                    },
+                    {
+                        "Number": "08-II02"
+                    },
+                    {
+                        "Investigator": "\"Nearing, Holly\""
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "Racial Category / Type": "4/10/2008"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "FACT FINDING": ""
+                    },
+                    {
+                        "Date": "4/14/2008"
+                    },
+                    {
+                        "Number": "08-05"
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "S-6 Pursuit Policy": ""
+                    },
+                    {
+                        "Officer #": "\"MALONEY, J. BRIAN\""
+                    },
+                    {
+                        "Investigator": "\"Swenson, Jon\""
+                    },
+                    {
+                        "Date Assigned": "4/16/2008"
+                    },
+                    {
+                        "Racial Category / Type": "No"
+                    },
+                    {
+                        "Inquiry": ""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "missing"
+                    },
+                    {
+                        "Address": "missing"
+                    },
+                    {
+                        "Name": "missing"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "ID No.": "942"
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-5A3 OPERATIONS": ""
+                    },
+                    {
+                        "Officer #": "\"1"
+                    },
+                    {
+                        "Sumption": "R. Dustin\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "missing"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "ID No.": "7108"
+                    },
+                    {
+                        "Rank": "RECRUIT OFFIC"
+                    },
+                    {
+                        "Operations": ""
+                    },
+                    {
+                        "PENDING": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": ":unselected:",
+                        "Rank": "NOT STATED",
+                        "Division": "NOT ENTERED",
+                        "Officer Disposition": "UNFOUNDED",
+                        "Action Taken": "NONE",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "3/22/2008": "missing",
+                        "08-04d": "missing",
+                        "Swenson, Jon": "4/16/2008",
+                        "No": "missing",
+                        "FORMAL": "Citizen",
+                        "Not Stated": "missing",
+                        "EXONERATED": "5/1/2008",
+                        "No.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name ID No.": "MULTIPLE OFFICERS/EMPLOY",
+                        "Rank": "missing",
+                        "Division": "missing",
+                        "Officer Disposition": "missing",
+                        "Action Taken": "missing",
+                        "Body": "missing",
+                        "Cam": "missing"
+                    },
+                    {
+                        "Name ID No.": ":unselected:",
+                        "Rank": "NOT STATED",
+                        "Division": "NOT ENTERED",
+                        "Officer Disposition": "UNFOUNDED",
+                        "Action Taken": "NONE",
+                        "Body": "missing",
+                        "Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "4/10/2008": "missing",
+                        "08-II02": "missing",
+                        "Nearing, Holly": "4/10/2008",
+                        "No": "missing",
+                        "FACT FINDING": "Internal",
+                        "Not Stated": "missing",
+                        "Not a complaint": "5/10/2008",
+                        "No.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Sumption, R. Dustin",
+                        "ID No.": 7108,
+                        "Rank": "RECRUIT OFFIC",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "PENDING",
+                        "Action Taken": "NONE",
+                        "Body Cam": "No"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "4/25/2008"
+                    },
+                    {
+                        "09-II01": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Date": "5/18/2008"
+                    },
+                    {
+                        "Number": "08-08"
+                    },
+                    {
+                        "Investigator": "\"Gallo, Joe\""
+                    },
+                    {
+                        "Date Assigned": "No"
+                    },
+                    {
+                        "10/2/2008": ""
+                    },
+                    {
+                        "Racial Category / Type": "Inquiry"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Complaint": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-1A2 CONDUCT GENERALLY": ""
+                    },
+                    {
+                        "Address": "\", Loves Park IL 61130\""
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Officer #": "1"
+                    },
+                    {
+                        "No Officers Entered": ""
+                    },
+                    {
+                        "Investigator": "missing"
+                    },
+                    {
+                        "Date Assigned": "\"Paulus, Michael\""
+                    },
+                    {
+                        "Racial Category /": "No"
+                    },
+                    {
+                        "6/5/2008": ""
+                    },
+                    {
+                        "Date": "5/26/2008"
+                    },
+                    {
+                        "Date": "5/31/2008 08-09"
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "Champaign"
+                    },
+                    {
+                        "61820": ""
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Complaint #": "R-3B.4 COURTESY: COMMENT"
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "Officer #": "\"Bowersock, Jamie\""
+                    },
+                    {
+                        "ID No.": "705-MED"
+                    },
+                    {
+                        "Date Assigned": "missing"
+                    },
+                    {
+                        "Racial Category / Type": "6/2/2008"
+                    },
+                    {
+                        "No": ""
+                    },
+                    {
+                        "Inquiry": ""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "61821"
+                    },
+                    {
+                        "Complaint #": "R-3B COURTESY"
+                    },
+                    {
+                        "H": "missing"
+                    },
+                    {
+                        "Officer #": "\"Olmstead, Kevin A.\""
+                    },
+                    {
+                        "Date Assigned": "\"Paulus, Michael"
+                    },
+                    {
+                        "6/5/2008\"": ""
+                    },
+                    {
+                        "Racial Category / Type": "No"
+                    },
+                    {
+                        "FORMAL": ""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "Complaint #": "\"R-5B ARREST, SEARCH AND SEIZURE\""
+                    },
+                    {
+                        "Complaint #": "R-5D"
+                    },
+                    {
+                        "H Phone": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "No Officers Entered",
+                        "ID No.": "missing",
+                        "Rank": "Not Stated",
+                        "Division": "Not Stated",
+                        "Officer Disposition": "Not a complaint",
+                        "Action Taken": "Not Stated",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "5/18/2008": "missing",
+                        "08-08": "missing",
+                        "Paulus, Michael": "6/5/2008",
+                        "No": "missing",
+                        "FORMAL": "Citizen",
+                        "Not Stated": "missing",
+                        "SUSTAINED": "7/2/2008",
+                        "No.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "R-3B.4 COURTESY: COMMENT": "R-5D Use of physical force",
+                        "Discourteous Conduct": "Wrong Action by Employee",
+                        "SUSTAINED": "EXONERATED"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Bowersock, Jamie": "Mitchell, Rodney S.",
+                        "705-MED": "717RES",
+                        "OFFICER": "OFFICER",
+                        "Field Operations": "Field Operations",
+                        "EXONERATED": "EXONERATED",
+                        "NONE": "NONE",
+                        "No": "No"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "6/7/2008"
+                    },
+                    {
+                        "08-10": ""
+                    },
+                    {
+                        "Complaint #": "1"
+                    },
+                    {
+                        "R-5D Use of physical force": ""
+                    },
+                    {
+                        "Officer #": "\"Mclearin, David M.\""
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "\", Champaign IL 61821\""
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Date": "6/29/2008"
+                    },
+                    {
+                        "Number": "08-11"
+                    },
+                    {
+                        "Investigator": "\"Paulus, Michael\""
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Officer #": "missing"
+                    },
+                    {
+                        "Complaint #": "R-5C2 PERSONS IN CUSTODY"
+                    },
+                    {
+                        "Complaint #": "R-5D Use of physical force"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "61820"
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Date": "7/13/2008"
+                    },
+                    {
+                        "08-13": ""
+                    },
+                    {
+                        "Number": "missing"
+                    },
+                    {
+                        "Officer #": "\"Briggs, Mark D.\""
+                    },
+                    {
+                        "Investigator": "\"Swenson, Jon\""
+                    },
+                    {
+                        "Complaint": "R-5D"
+                    },
+                    {
+                        "Officer #": "missing"
+                    },
+                    {
+                        "DOB": "missing"
+                    },
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "\", Champaign IL 61820\""
+                    },
+                    {
+                        "H Phone": "missing"
+                    },
+                    {
+                        "Name": "missing"
+                    },
+                    {
+                        "ID No.": "705-MED"
+                    },
+                    {
+                        "Rank": "OFFICER"
+                    },
+                    {
+                        "Division": "Field Operations"
+                    },
+                    {
+                        "Action": "NONE"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "6/7/2008": "missing",
+                        "08-10": "missing",
+                        "Yohnka, Brad": "6/11/2008",
+                        "No": "missing",
+                        "FORMAL": "Citizen"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": 7110,
+                        "Rank": "RECRUIT OFFIC",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "NOT SUSTAINED",
+                        "Action Taken": "NONE",
+                        "Body Cam": "No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ID No.": 7104,
+                        "Rank": "OFFICER",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "Inquiry"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Bowersock, Jamie",
+                        "ID No.": "705-MED",
+                        "Rank": "OFFICER",
+                        "Division": "Field Operations",
+                        "Officer Disposition": "UNFOUNDED",
+                        "Action Taken": "NONE",
+                        "Body Cam": "No"
+                    }
+                ]
+            }
+        ]
+    }
+]

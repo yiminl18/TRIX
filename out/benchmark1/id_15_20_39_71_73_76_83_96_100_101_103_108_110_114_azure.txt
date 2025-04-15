@@ -1,0 +1,465 @@
+#Record1
+-KV
+Advertiser,POL/J Mandel/R/Sen/OH-A
+Print Date,04/12/22
+Contract / Revision,931552 /
+Alt Order #,10373344
+Original Date / Revision,04/12/22
+/
+04/12/22
+Contract Dates,04/12/22 - 04/18/22
+Product,EST 3189 4/12-4/18
+Estimate #,3189
+Cycle,missing
+WEEKLY,missing
+Billing,missing
+Calendar,missing
+Broadcast,missing
+Property,WHIO-TV
+Account,Dallas
+Executive,CoxReps
+Special Handling,missing
+Cash/Trade,Cash
+Office,Sales
+CoxReps Dallas
+Demographic,Adults 55+
+Agy Code,TV16670
+Agency Ref,P00062204
+Advertiser Code,302
+Product,1/2
+403
+Advertiser Ref,P00090931-A
+End Date,04/17/22
+04/17/22
+04/17/22
+Weekdays,-- 1-
+Spots/Week,1
+Rate,$250.00
+Week,12 WHIO
+-TABLE
+Contract / Revision,Alt Order #
+931552 /,10373344
+-TABLE
+*Line,Ch,Start Date,End Date,Description,Start/End Time,Days,Length,Week Spots/,Rate PCode,Type,Spots,Amount
+D 1,WHIO,04/18/22,04/18/22,Daybreak Edition 6a,6:00 AM-7:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 2,WHIO,04/12/22,04/12/22,Daybreak Edition 6a,6:00 AM-7:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 3,WHIO,04/13/22,04/13/22,Daybreak Edition 6a,6:00 AM-7:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 4,WHIO,04/14/22,04/14/22,Daybreak Edition 6a,6:00 AM-7:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 5,WHIO,04/15/22,04/15/22,Daybreak Edition 6a,6:00 AM-7:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 6,WHIO,04/18/22,04/18/22,CBS This Morning,7:00 AM-8:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 7,WHIO,04/12/22,04/12/22,CBS This Morning,7:00 AM-8:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 8,WHIO,04/14/22,04/14/22,CBS This Morning,7:00 AM-8:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 9,WHIO,04/13/22,04/13/22,CBS This Morning,8:00 AM-9:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+D 10,WHIO,04/15/22,04/15/22,CBS This Morning,8:00 AM-9:00 AM,missing,:30,missing,P-05,NM,0,$0.00
+11,WHIO,04/16/22,04/16/22,NewsCenter 7 Sa 8a,8:00 AM-10:00 AN,missing,:30,missing,P-05,NM,1,$250.00
+missing,Start Date End Date,Weekdays Spots/Week Rate,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1- 1,$250.00,missing,missing,missing,missing,missing,missing,missing,missing
+12,WHIO,04/17/22,04/17/22,Face The Nation,10:30 AM-11:30 A,missing,:30,missing,P-05,NM,1,$300.00
+missing,Start Date End,Date,Weekdays Spots/Week Rate,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 1,$300.00,missing,missing,missing,missing,missing,missing,missing,missing
+D 13,WHIO,04/18/22,04/18/22,NewsCenter 7 @,noon12:00 PM-12:30 P,missing,:30,missing,P-05,NM,0,$0.00
+D 14,WHIO,04/12/22,04/12/22,NewsCenter 7 @,noon12:00 PM-12:30 P,missing,:30,missing,P-05,NM,0,$0.00
+D 15,WHIO,04/13/22,04/13/22,NewsCenter 7 @,noon12:00 PM-12:30 P,missing,:30,missing,P-05,NM,0,$0.00
+D 16,WHIO,04/14/22,04/14/22,NewsCenter 7 @,noon12:00 PM-12:30 P,missing,:30,missing,P-05,NM,0,$0.00
+D 17,WHIO,04/15/22,04/15/22,NewsCenter 7 @,noon12:00 PM-12:30 P,missing,:30,missing,P-05,NM,0,$0.00
+D 18,WHIO,04/18/22,04/18/22,NewsCenter 7 6p,6:00 PM-6:30 PM,missing,:30,missing,P-05,NM,0,$0.00
+D 19,WHIO,04/12/22,04/12/22,NewsCenter 7 6p,6:00 PM-6:30 PM,missing,:30,missing,P-05,NM,0,$0.00
+D 20,WHIO,04/13/22,04/13/22,NewsCenter 7 6p,6:00 PM-6:30 PM,missing,:30,missing,P-05,NM,0,$0.00
+D 21,WHIO,04/14/22,04/14/22,NewsCenter 7 6p,6:00 PM-6:30 PM,missing,:30,missing,P-05,NM,0,$0.00
+#Record2
+-KV
+Advertiser,POL/J Mandel/R/Sen/OH-A
+Print Date,04/12/22
+Contract / Revision,931552 /
+Alt Order #,10373344
+Contract Dates,04/12/22 - 04/18/22
+Original Date / Revision,04/12/22
+/ 04/12/22
+Product,EST 3189 4/12-4/18
+Estimate #,3189
+Start,Week: 04/11/22
+28 WHIO 04/14/22
+Start Date,Week: 04/11/22
+30 WHIO
+End Date,04/17/22
+04/16/22
+04/16/22
+Weekdays
+Spots/Week
+Rate,$750.00
+Start Date,Week: 04/11/22
+31 WHIO
+End Date,04/17/22
+04/17/22
+04/17/22
+Weekdays
+Spots/Week,missing
+Start Date,Week: 04/11/22
+32 WHIO
+End Date,04/17/22
+04/18/22 04/18/22
+Weekdays
+Spots/Week,1
+1
+Daybreak Edition
+Start Date,Week: 04/18/22
+33 WHIO 04/12/22
+End Date,04/24/22
+Weekdays
+Spots/Week
+Rate,$475.00
+Start Date,Week: 04/11/22
+34 WHIO 04/13/22
+End Date,04/17/22
+Weekdays
+Spots/Week
+Rate,$475.00
+Start Date,Week: 04/11/22
+35 WHIO
+End Date,04/17/22
+04/14/22
+Weekdays
+Spots/Week
+Rate,$475.00
+End Date,04/24/22
+-TABLE
+Contract / Revision,Alt Order #
+931552 /,10373344
+-TABLE
+Original Date / Revision
+04/12/22,/,04/12/22
+-TABLE
+*Line,Ch,Start,Date End Date,Description,Start/End Time,Days,Length,Week Spots/,Rate PCode,Type,Spots,Amount
+D 22,WHIO,04/15/22,04/15/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-05,NM,0,$0.00
+23,WHIO,04/16/22,04/16/22,NewsCenter,7 6p Sa 6:00,PM-7:00 PM,missing,:30,missing,P-05,NM,1,$375.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,missing,04/17/22,-- 1-,1,$375.00,missing,missing,missing,missing,missing,missing,missing
+24,WHIO,04/17/22,04/17/22,Sa-Su Early,News 6:00,PM-7:00 PM,missing,:30,missing,P-05,NM,1,$375.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,--- -- 1,1,$375.00,missing,missing,missing,missing,missing,missing,missing
+25,WHIO,04/18/22,04/18/22,M-Su 11p News,11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,missing,04/24/22,1 --,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+26,WHIO,04/12/22,04/12/22,M-F 11p News,11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-1 -----,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+27,WHIO,04/13/22,04/13/22,M-F 11p News,11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-- 1 ----,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+28,WHIO,04/14/22,04/14/22,M-F 11p News,11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,--- 1- --,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+29,WHIO,04/15/22,04/15/22,M-F 11p News,11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-1 --,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+30,WHIO,04/16/22,04/16/22,M-Su 11p,News 11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-- 1-,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+31,WHIO,04/17/22,04/17/22,M-Su 11p,News 11:00,PM-11:35 P,missing,:30,missing,P-05,NM,1,$750.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,1,1,$750.00,missing,missing,missing,missing,missing,missing,missing
+32,WHIO,04/18/22,04/18/22,Daybreak,Edition 6a 6:00,AM-7:00 AM,missing,:30,missing,P-04,NM,1,$475.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/18/22,missing,04/24/22,1 --,1,$475.00,missing,missing,missing,missing,missing,missing,missing
+33,WHIO,04/12/22,04/12/22,Daybreak,Edition 6a 6:00,AM-7:00 AM,missing,:30,missing,P-04,NM,1,$475.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-1 ---,1,$475.00,missing,missing,missing,missing,missing,missing,missing
+34,WHIO,04/13/22,04/13/22,Daybreak,Edition 6a 6:00,AM-7:00 AM,missing,:30,missing,P-04,NM,1,$475.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,-- 1 ----,1,$475.00,missing,missing,missing,missing,missing,missing,missing
+35,WHIO,04/14/22,04/14/22,Daybreak,Edition 6a 6:00,AM-7:00 AM,missing,:30,missing,P-04,NM,1,$475.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,missing,04/11/22,04/17/22,--- 1 --,1,$475.00,missing,missing,missing,missing,missing,missing,missing
+36,WHIO,04/15/22,04/15/22,Daybreak,Edition 6a 6:00,AM-7:00 AM,missing,:30,missing,P-04,NM,1,$475.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,missing,04/17/22,---- 1 --,1,$475.00,missing,missing,missing,missing,missing,missing,missing
+37,WHIO,04/18/22,04/18/22,CBS This,Morning 7:00,AM-8:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/18/22,missing,04/24/22,1 ----,1,$400.00,missing,missing,missing,missing,missing,missing,missing
+#Record3
+-KV
+Advertiser,POL/J Mandel/R/Sen/OH-A
+Print Date,04/12/22
+Contract / Revision,931552 /
+Alt Order #,10373344
+Contract Dates,04/12/22 - 04/18/22
+Original Date / Revision,04/12/22
+/ 04/12/22
+Product,EST 3189 4/12-4/18
+Estimate #,3189
+Start Date,Week: 04/11/22
+45 WHIO
+Weekdays
+Spots/Week,missing
+Start Date,Week: 04/11/22
+46 WHIO 04/17/22
+End Date,04/17/22
+04/17/22
+Weekdays
+Spots/Week,missing
+Start Date,Week: 04/11/22
+47 WHIO 04/17/22
+End,missing
+Start Date,Week: 04/11/22
+48 WHIO 04/18/22
+End Date,04/17/22
+04/18/22
+Weekdays
+Spots/Week
+Rate,1
+$150.00
+M-F 9a-10a
+9:00 AM-10:00 AN
+Start Date,Week: 04/18/22
+49 WHIO
+End Date,04/24/22
+04/12/22
+04/12/22
+Spots/Week,$200.00
+9:00 AM-10:00
+Start,Week: 04/11/22
+50 WHIO
+-TABLE
+Contract / Revision,Alt Order #
+931552 /,10373344
+-TABLE
+Original Date / Revision
+04/12/22,/,04/12/22
+-TABLE
+*Line,Ch Start,Date End Date,Description,missing,Start/End Time,Days,Length,Week Spots/,Rate PCode,Type,Spots,Amount
+38,WHIO 04/12/22,04/12/22,CBS This,Morning,7:00,AM-8:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 -----,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+39,WHIO 04/13/22,04/13/22,CBS This,Morning,7:00,AM-8:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1 ----,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+40,WHIO 04/14/22,04/14/22,CBS This,Morning,7:00,AM-8:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1-,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+41,WHIO 04/12/22,04/12/22,CBS This,Morning,8:00,AM-9:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 -----,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+42,WHIO 04/13/22,04/13/22,CBS This,Morning,8:00,AM-9:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1 ----,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+43,WHIO 04/15/22,04/15/22,CBS This,Morning,8:00,AM-9:00 AM,missing,:30,missing,P-04,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 --,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+44,WHIO 04/16/22,04/16/22,NewsCenter,7 Sa 6a,6:00,AM-7:00 AM,missing,:30,missing,P-05,NM,1,$175.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,----- 1-,1,missing,$175.00,missing,missing,missing,missing,missing,missing,missing
+45,WHIO 04/16/22,04/16/22,CBS This,Morning Sa,10:00,AM-12:00 P,missing,:30,missing,P-05,NM,1,$225.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,----- 1-,1,missing,$225.00,missing,missing,missing,missing,missing,missing,missing
+46,WHIO 04/17/22,04/17/22,CBS Su Morning,missing,9:00,AM-10:30 AN,missing,:30,missing,P-05,NM,1,$400.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1,1,missing,$400.00,missing,missing,missing,missing,missing,missing,missing
+47,WHIO 04/17/22,04/17/22,1130a-12p,missing,11:30,AM-12:00 X,missing,:30,missing,P-05,NM,1,$150.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,1,1,missing,$150.00,missing,missing,missing,missing,missing,missing,missing
+48,WHIO 04/18/22,04/18/22,M-F 9a-10a,missing,9:00,AM-10:00 AN,missing,:30,missing,P-05,NM,1,$200.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/18/22,04/24/22,1 -----,1,missing,$200.00,missing,missing,missing,missing,missing,missing,missing
+49,WHIO 04/12/22,04/12/22,M-F 9a-10a,missing,9:00,AM-10:00 AN,missing,:30,missing,P-05,NM,1,$200.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 -----,1,$200.00,missing,missing,missing,missing,missing,missing,missing
+50,WHIO 04/14/22,04/14/22,M-F 9a-10a,missing,9:00,AM-10:00 AN,missing,:30,missing,P-05,NM,1,$200.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,--- 1 ---,1,missing,$200.00,missing,missing,missing,missing,missing,missing,missing
+51,WHIO 04/12/22,04/12/22,M-F 10a-11a,missing,10:00,AM-11:00 A,missing,:30,missing,P-05,NM,1,$225.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-1 -----,1,missing,$225.00,missing,missing,missing,missing,missing,missing,missing
+52,WHIO 04/13/22,04/13/22,M-F 10a-11a,missing,10:00,AM-11:00 A,missing,:30,missing,P-05,NM,1,$225.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+Week:,04/11/22,04/17/22,-- 1 ----,1,$225.00,missing,missing,missing,missing,missing,missing,missing
+53,WHIO 04/15/22,04/15/22,M-F 10a-11a,missing,10:00,AM-11:00 A,missing,:30,missing,P-05,NM,1,$225.00
+missing,Start Date,End Date,Weekdays,Spots/Week,missing,Rate,missing,missing,missing,missing,missing,missing,missing
+#Record4
+-KV
+Advertiser,POL/J Mandel/R/Sen/OH-A
+Print Date,04/12/22
+Contract / Revision,931552 /
+Alt Order #,10373344
+Contract Dates,04/12/22 - 04/18/22
+Original Date / Revision,04/12/22
+/ 04/12/22
+Product,EST 3189 4/12-4/18
+Estimate #,3189
+Start Date,Week: 04/11/22
+58 WHIO
+Start Date,Week: 04/11/22
+59 WHIO
+End Date,04/17/22
+04/15/22
+04/15/22
+Start Date,Week: 04/11/22
+61 WHIO
+End Date,04/17/22
+04/17/22
+Start Date,Week: 04/11/22
+62 WHIO 04/18/22
+End Date,04/17/22
+Start Date,Week: 04/18/22
+N 63 WHIO
+End Date,04/24/22
+04/13/22
+04/13/22
+Spots/Week
+Rate,1
+$275.00
+4:00 PM-5:00
+Start Date,04/11/22
+End Date,04/17/22
+Spots/Week
+Rate,1
+$275.00
+Week,missing
+Start Date,04/11/22
+End Date,04/18/22
+Spots/Week
+Rate,$275.00
+Week,65 WHIO
+-TABLE
+Contract / Revision,Alt Order #
+931552 /,10373344
+-TABLE
+Original Date / Revision
+04/12/22,/,04/12/22
+-TABLE
+*Line Ch Start,Date End Date,Description,Start/End Time Days,Length,Week Spots/,Rate PCode,Type,Spots,Amount
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,---- 1 --,1,$225.00,missing,missing,missing,missing,missing,missing
+54 WHIO 04/13/22,04/13/22,The Price is,Right 11:00,AM-12:00 P,:30,missing,missing,P-04,NM,1,$475.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ----,1,$475.00,missing,missing,missing,missing,missing,missing
+55 WHIO 04/18/22,04/18/22,NewsCenter,7 @ noon12:00,PM-12:30 P,:30,missing,missing,P-04,NM,1,$625.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,04/24/22,1-,1,$625.00,missing,missing,missing,missing,missing,missing
+56 WHIO 04/12/22,04/12/22,NewsCenter,7 @ noon12:00,PM-12:30 P,:30,missing,missing,P-04,NM,1,$625.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 ---,1,$625.00,missing,missing,missing,missing,missing,missing
+57 WHIO 04/13/22,04/13/22,NewsCenter,7 @ noon12:00,PM-12:30 P,:30,missing,missing,P-04,NM,1,$625.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ---,1,$625.00,missing,missing,missing,missing,missing,missing
+58 WHIO 04/14/22,04/14/22,NewsCenter,7 @ noon12:00,PM-12:30 P,:30,missing,missing,P-04,NM,1,$625.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,--- 1 --,1,$625.00,missing,missing,missing,missing,missing,missing
+59 WHIO 04/15/22,04/15/22,NewsCenter,7 @ noon12:00,PM-12:30 P,:30,missing,missing,P-04,NM,1,$625.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 --,1,$625.00,missing,missing,missing,missing,missing,missing
+60 WHIO 04/16/22,04/16/22,NewsCenter,7 Noon S:12:00,PM-12:30 P,:30,missing,missing,P-05,NM,1,$175.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1-,1,$175.00,missing,missing,missing,missing,missing,missing
+61 WHIO 04/17/22,04/17/22,NewsCenter,7 Noon Sı12:00,PM-12:30 P,:30,missing,missing,P-05,NM,1,$175.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,----- 1,1,$175.00,missing,missing,missing,missing,missing,missing
+62 WHIO 04/18/22,04/18/22,M-F 4p-5p,4:00,PM-5:00 PM,:30,missing,missing,P-05,NM,1,$275.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,04/24/22,1 ---,1,$275.00,missing,missing,missing,missing,missing,missing,missing
+N 63 WHIO 04/13/22,04/13/22,M-F 4p-5p,4:00,PM-5:00 PM,:30,missing,missing,P-05,NM,0,$0.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ----,1,$275.00,missing,missing,missing,missing,missing,missing,missing
+Spot Ch Date,Range,Description,missing,Start/End Time,Weekdays,Length,missing,Rate,Type,missing,missing
+1 WHIO,04/11/22-04/17/22,M-F 4p-5p,missing,4:00 PM-5:00 PM,-- -W,:30,missing,$275.00,NM,missing,missing
+Credited,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+64 WHIO 04/15/22,04/15/22,M-F 4p-5p,4:00,PM-5:00 PM,:30,missing,missing,P-05,NM,1,$275.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- -- 1 --,1,$275.00,missing,missing,missing,missing,missing,missing
+65 WHIO 04/18/22,04/18/22,NewsCenter,7 5p 5:00,PM-5:30 PM,:30,missing,missing,P-04,NM,1,$800.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,04/24/22,1 ----,1,$800.00,missing,missing,missing,missing,missing,missing
+66 WHIO 04/12/22,04/12/22,NewsCenter,7 5p 5:00,PM-5:30 PM,:30,missing,missing,P-04,NM,1,$800.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 -----,1,$800.00,missing,missing,missing,missing,missing,missing
+67 WHIO 04/14/22,04/14/22,NewsCenter,7 5p 5:00,PM-5:30 PM,:30,missing,missing,P-04,NM,1,$800.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,--- 1 --,1,$800.00,missing,missing,missing,missing,missing,missing,missing
+#Record5
+-KV
+Advertiser,POL/J Mandel/R/Sen/OH-A
+Print Date,04/12/22
+Contract / Revision,931552 /
+Alt Order #,10373344
+Contract Dates,04/12/22 - 04/18/22
+Original Date / Revision,04/12/22
+/ 04/12/22
+Product,EST 3189 4/12-4/18
+Estimate #,3189
+Start,WHIO
+Week:
+70 WHIO
+Start,Week: 04/11/22
+71 WHIO
+Start,Week: 04/11/22
+72 WHIO
+End,04/17/22
+04/15/22
+Start,Week: 04/11/22
+73 WHIO
+End,04/13/22
+Start Date,Week: 04/11/22
+77 WHIO
+End,04/17/22
+04/13/22
+Start,Week: 04/11/22
+78 WHIO
+End,04/16/22
+Start,Week: 04/11/22
+79 WHIO
+End,04/12/22
+Start,Week: 04/11/22
+80 WHIO
+-TABLE
+Contract / Revision,Alt Order #
+931552 /,10373344
+-TABLE
+Original Date / Revision
+04/12/22,/,04/12/22
+-TABLE
+*Line Ch Start,missing,Date End Date,Description,Start/End,Days,Length,Week Spots/,Rate PCode,Type,Spots,Amount
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+68 WHIO 04/18/22,04/18/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-04,NM,1,"$1,000.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,04/24/22,1 ----,1,"$1,000.00",missing,missing,missing,missing,missing,missing,missing
+69 WHIO 04/12/22,04/12/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-04,NM,1,"$1,000.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 -----,1,"$1,000.00",missing,missing,missing,missing,missing,missing,missing
+70 WHIO 04/13/22,04/13/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-04,NM,1,"$1,000.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ----,1,"$1,000.00",missing,missing,missing,missing,missing,missing,missing
+71 WHIO 04/14/22,04/14/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-04,NM,1,"$1,000.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1-,1,"$1,000.00",missing,missing,missing,missing,missing,missing,missing
+72 WHIO 04/15/22,04/15/22,NewsCenter,7 6p 6:00,PM-6:30 PM,missing,:30,missing,P-04,NM,1,"$1,000.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 --,1,"$1,000.00",missing,missing,missing,missing,missing,missing,missing
+73 WHIO 04/13/22,04/13/22,CBS Evening,News 6:30,PM-7:00 PM,missing,:30,missing,P-04,NM,1,$875.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ----,1,$875.00,missing,missing,missing,missing,missing,missing,missing
+74 WHIO 04/18/22,04/18/22,M-F 7p-730р,7:00,PM-7:30 PM,missing,:30,missing,P-04,NM,1,$675.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/18/22,04/24/22,1 --,1,$675.00,missing,missing,missing,missing,missing,missing,missing
+75 WHIO 04/12/22,04/12/22,M-F 7p-730p,7:00,PM-7:30 PM,missing,:30,missing,P-04,NM,1,$675.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 -----,1,$675.00,missing,missing,missing,missing,missing,missing,missing
+76 WHIO 04/14/22,04/14/22,M-F 7p-730p,7:00,PM-7:30 PM,missing,:30,missing,P-04,NM,1,$675.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,--- 1 ---,1,$675.00,missing,missing,missing,missing,missing,missing,missing
+77 WHIO 04/13/22,04/13/22,M-F 730p-8p,7:30,PM-8:00 PM,missing,:30,missing,P-05,NM,1,$500.00
+Start,Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-- 1 ----,1,$500.00,missing,missing,missing,missing,missing,missing,missing
+78 WHIO,04/16/22,04/16/22,Sa 730p-8p,7:30,PM-8:00 PM,:30,missing,P-04,NM,1,$200.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,----- 1-,1,$200.00,missing,missing,missing,missing,missing,missing,missing
+79 WHIO 04/12/22,04/12/22,Tue Hour1,8:00,PM-9:00 PM,missing,:30,missing,P-04,NM,1,"$1,125.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 ----,1,"$1,125.00",missing,missing,missing,missing,missing,missing,missing
+80 WHIO 04/12/22,04/12/22,Tue Prime,Hour 2 9:00,PM-10:00 PM,missing,:30,missing,P-05,NM,1,$800.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,-1 -----,1,$800.00,missing,missing,missing,missing,missing,missing,missing
+81 WHIO 04/14/22,04/14/22,Thur Prime,Hour 1 8:00,PM-9:00 PM,missing,:30,missing,P-04,NM,1,"$1,250.00"
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,--- 1 ---,1,"$1,250.00",missing,missing,missing,missing,missing,missing,missing
+82 WHIO 04/14/22,04/14/22,Thur Prime,Hour 2 9:00,PM-10:00 PM,missing,:30,missing,P-05,NM,1,$900.00
+Start Date,End Date,Weekdays,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+Week: 04/11/22,04/17/22,--- 1 ---,1,$900.00,missing,missing,missing,missing,missing,missing,missing

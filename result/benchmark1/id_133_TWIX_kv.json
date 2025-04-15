@@ -1,0 +1,84 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Station": "EBOC-TV"
+                    },
+                    {
+                        "Market": "Salisbury-Ocean City"
+                    },
+                    {
+                        "Flight Dates": "7/12/2022 - 7/19/2022 (Est. 7916)"
+                    },
+                    {
+                        "Buyer": "James Wells"
+                    },
+                    {
+                        "Email": "James.Wells@screenstrategies.com"
+                    },
+                    {
+                        "Phone": "703-272-7300"
+                    },
+                    {
+                        "Program Name": "missing"
+                    },
+                    {
+                        "DP": "missing"
+                    },
+                    {
+                        "Rate": "EN"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "missing",
+                        "DP": "EN",
+                        "Rate": "$100.00"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "missing",
+                        "Rate": "missing"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "PA",
+                        "Rate": "$60.00"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "missing",
+                        "Rate": "missing"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "LN",
+                        "Rate": "$150.00"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "missing",
+                        "Rate": "missing"
+                    },
+                    {
+                        "Program Name": "missing",
+                        "DP": "LF",
+                        "Rate": "$80.00"
+                    },
+                    {
+                        "Program Name": "Station Totals",
+                        "DP": "missing",
+                        "Rate": "$1,260.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

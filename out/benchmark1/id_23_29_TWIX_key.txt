@@ -1,0 +1,33 @@
+Product Code
+Primary Demo
+Flight Dates
+Phone
+Credit Status
+Est Code
+Comments
+Agency
+Version
+Total
+Update Date
+Client Code
+CPP
+Market
+Order #
+Affiliate Split
+Total Spots
+System Name
+Commission
+Survey
+Line Comment
+Net Total
+GRP
+Program
+GIMP
+Total # of Weeks
+AE
+Product Name
+Syscode
+Office
+CPM
+Advertiser
+Status

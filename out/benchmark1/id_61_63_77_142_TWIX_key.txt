@@ -1,0 +1,14 @@
+Est. Number
+Description
+Payment Terms
+Qty
+Total
+Flight Dates
+Rate
+Billing Type
+Account
+Salesperson
+Length
+IDB Code
+Advertiser
+Invoice Month

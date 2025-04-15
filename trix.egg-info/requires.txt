@@ -1,0 +1,11 @@
+pytesseract
+pdfplumber
+pandas
+numpy
+scipy
+tiktoken
+pdf2image
+gurobipy
+openai
+Levenshtein
+boto3

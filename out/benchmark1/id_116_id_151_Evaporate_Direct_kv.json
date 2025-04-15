@@ -1,0 +1,381 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "28735"
+                    },
+                    {
+                        "Date Entered": "09/25/20"
+                    },
+                    {
+                        "Schedule Dates": "09/29/20-10/18/20"
+                    },
+                    {
+                        "Last Modified": "KIEM"
+                    },
+                    {
+                        "Advertiser": "Estelle Fennell for Supervisor (3297)"
+                    },
+                    {
+                        "Entered By": "JENNY OLSZEWSKI"
+                    },
+                    {
+                        "Address": "5650 South Broadway"
+                    },
+                    {
+                        "Agency": "Estelle Fennell for Supervisor (1640)"
+                    },
+                    {
+                        "CO-OP": "No"
+                    },
+                    {
+                        "Location": "Eureka, CA"
+                    },
+                    {
+                        "Zip Code": "95503"
+                    },
+                    {
+                        "Product": "CITY/COUNTY POLITICAL RACES (1087)"
+                    },
+                    {
+                        "Brand": "2020 (12967)"
+                    },
+                    {
+                        "Demo": "[MISSING]"
+                    },
+                    {
+                        "Salesperson": "OLSZEWSKI, JENNY (1060)"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Buyer Name": "Fennell,Estelle"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Phone/Fax": "(707) 223-5618"
+                    },
+                    {
+                        "Commission": "$990.00"
+                    },
+                    {
+                        "CPE": "N/A"
+                    },
+                    {
+                        "Net Total": "$5,610.00"
+                    },
+                    {
+                        "Account Types": "Local/Political Candidate"
+                    },
+                    {
+                        "Billing Type": "Calendar"
+                    },
+                    {
+                        "Comments": "[MISSING]"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "[MISSING]"
+                    },
+                    {
+                        "Accepted-Station": "[MISSING]"
+                    },
+                    {
+                        "Printed At": "06:51 PM on Friday, September 25 2020"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": "5",
+                        "Length": "306A- 7A (PST)",
+                        "Run Times": "1",
+                        "Spots": "4",
+                        "Rate": "$15.00",
+                        "Total": "$60.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "2.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "307A- 9A (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$35.00",
+                        "Total": "$140.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "3.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": ":305P- 5:30P (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$135.00",
+                        "Total": "$540.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "4.1",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "09/30/20-10/02/20",
+                        "Sec": "[MISSING]",
+                        "Length": ":306P- 6:30P (PST)",
+                        "Run Times": "3",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "$405.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "5.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": ":3011P- 11:35P (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$100.00",
+                        "Total": "$400.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "6.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": ":3011:35P- 12:35A (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$30.00",
+                        "Total": "$120.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "7.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/04/20-10/04/20",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$75.00",
+                        "Total": "$75.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "8.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "308A- 9A (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$25.00",
+                        "Total": "$25.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "9.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "10.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "$175.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "11.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "$675.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "12.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "13.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "14.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "15.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "$500.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "16.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "17.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "$150.00NBC - CA (KIEM)"
+                    },
+                    {
+                        "Line": "18.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "19.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/11/20-10/11/20",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "20.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/18/20-10/18/20",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "21.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "22.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "23.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "24.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "[MISSING]",
+                        "Sec": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "Total": "[MISSING]"
+                    },
+                    {
+                        "Line": "25.0",
+                        "Line Type / Break Type": "Normal Line / SPOT",
+                        "Dates": "10/06/20-10/06/20",
+                        "Sec": "[MISSING]",
+                        "Length": ":309P- 9:30P (PST)",
+                        "Run Times": "[MISSING]",
+                        "Spots": "[MISSING]",
+                        "Rate": "$135.00NBC - CA (KIEM)",
+                        "Total": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

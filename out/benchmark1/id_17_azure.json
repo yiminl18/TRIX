@@ -1,0 +1,1262 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "08/12/2021"
+                    },
+                    {
+                        "of": "253"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Subject": "A&C Interdepartmental"
+                    },
+                    {
+                        "Subject": "ACINDP"
+                    },
+                    {
+                        "493": ""
+                    },
+                    {
+                        "Catalog": "missing"
+                    },
+                    {
+                        "Nbr": "01"
+                    },
+                    {
+                        "Section": "1070"
+                    },
+                    {
+                        "Class": "missing"
+                    },
+                    {
+                        "Nbr": "missing"
+                    },
+                    {
+                        "Course Title": "ARTS MGMT/MERCH"
+                    },
+                    {
+                        "Component": "INTERN"
+                    },
+                    {
+                        "Field Studies": ""
+                    },
+                    {
+                        "Units": "2 - 6"
+                    },
+                    {
+                        "Topics": "missing"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Anderson, Marshall B\""
+                    },
+                    {
+                        "Class Enrl Cap": "10"
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "ACINDP",
+                        "Catalog": "493",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1070",
+                        "Course Title": "ARTS MGMT/MERCH INTERN",
+                        "Component": "Field Studies",
+                        "Units": "2 - 6",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog": "Room: ARRANGED",
+                        "Nbr": "Days: TBA Time: TBA",
+                        "Section": "missing",
+                        "Class Nbr": "missing",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Anderson, Marshall B"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog": "Enrl Cap: 10",
+                        "Nbr": "missing",
+                        "Section": "Class Enrl Tot",
+                        "Class Nbr": ": 0 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class Min Enrl : 0",
+                        "Units": "missing",
+                        "Topics": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Subject": "Art Studio"
+                    },
+                    {
+                        "Page": "2"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "08/12/2021"
+                    },
+                    {
+                        "of": "253"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Kim, Daniel I\""
+                    },
+                    {
+                        "Class Enrl Cap": "18"
+                    },
+                    {
+                        "ARTSTDIO": ""
+                    },
+                    {
+                        "498": ""
+                    },
+                    {
+                        "Class Enrl Tot": "4"
+                    },
+                    {
+                        "01": ""
+                    },
+                    {
+                        "1587": ""
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "INDEPENDENT": ""
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Frame, Teri\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "498": ""
+                    },
+                    {
+                        "Class Enrl Tot": "1"
+                    },
+                    {
+                        "1596": ""
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Porcaro, Greg\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": "492",
+                        "Section": "missing",
+                        "Class Nbr": "01",
+                        "Course Title": "1420",
+                        "Component": "FIELD INTERNSHIP IN ART",
+                        "Units": "Field Studies",
+                        "Topics": "1 - 3"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog Nbr": "missing",
+                        "Section": "Room: ARRANGED",
+                        "Class Nbr": "Days: TBA Time: TBA",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Kim, Daniel I"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog Nbr": "Enrl Cap: 18",
+                        "Section": "missing",
+                        "Class Nbr": "Class Enrl Tot",
+                        "Course Title": ": 4 Class Wait Cap: 0",
+                        "Component": "Class Wait Tot: 0",
+                        "Units": "Class",
+                        "Topics": "Min Enrl : 0"
+                    },
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": "498",
+                        "Section": "01",
+                        "Class Nbr": "1587",
+                        "Course Title": "INDEPENDENT STUDIES",
+                        "Component": "Independent Study",
+                        "Units": "1 - 6",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg:",
+                        "Catalog Nbr": "ARRANGED",
+                        "Section": "missing",
+                        "Class Nbr": "Room: ARRANGED",
+                        "Course Title": "Days: TBA Time: TBA",
+                        "Component": "PHOTOGRAPHY",
+                        "Units": "missing",
+                        "Topics": "Instructor: Frame, Teri"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog Nbr": "Enrl Cap: 35",
+                        "Section": "missing",
+                        "Class Nbr": "Class Enrl Tot",
+                        "Course Title": ": 1 Class Wait Cap: 0",
+                        "Component": "Class Wait Tot: 0",
+                        "Units": "Class",
+                        "Topics": "Min Enrl : 0"
+                    },
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": "498",
+                        "Section": "02",
+                        "Class Nbr": "1596",
+                        "Course Title": "INDEPENDENT STUDIES",
+                        "Component": "Independent Study",
+                        "Units": "1 - 6",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg:",
+                        "Catalog Nbr": "ARRANGED",
+                        "Section": "missing",
+                        "Class Nbr": "Room: ARRANGED",
+                        "Course Title": "Days: TBA Time: TBA",
+                        "Component": "PAINTING",
+                        "Units": "missing",
+                        "Topics": "Instructor: Porcaro, Greg"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog Nbr": "Enrl Cap: 35",
+                        "Section": "missing",
+                        "Class Nbr": "Class Enrl Tot",
+                        "Course Title": ": 2 Class Wait Cap: 0",
+                        "Component": "Class Wait Tot: 0",
+                        "Units": "Class",
+                        "Topics": "Min Enrl : 0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Subject": "Communication"
+                    },
+                    {
+                        "Page": "3"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "08/12/2021"
+                    },
+                    {
+                        "of": "253"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": "missing"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "COMM": ""
+                    },
+                    {
+                        "493E": ""
+                    },
+                    {
+                        "Class Enrl Tot": "9"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": "01"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "COMM": ""
+                    },
+                    {
+                        "493I": ""
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": "missing"
+                    },
+                    {
+                        "Room": "01"
+                    },
+                    {
+                        "1057": ""
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Days": "PR INTERNSHIP"
+                    },
+                    {
+                        "TBA": ""
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "COMM": ""
+                    },
+                    {
+                        "493M": ""
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": "missing"
+                    },
+                    {
+                        "Room": "01"
+                    },
+                    {
+                        "1058": ""
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Days": "MAGD INTERNSHIP"
+                    },
+                    {
+                        "TBA": ""
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "1"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "493C",
+                        "Section": "missing",
+                        "Class Nbr": "01",
+                        "Course Title": "1055",
+                        "Component": "INTERNSHIP COMMUNICATION",
+                        "Units": "Field Studies",
+                        "Topics": "1 - 3"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog Nbr": "missing",
+                        "Section": "Room: ARRANGED",
+                        "Class Nbr": "Days: TBA Time: TBA",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Lowell, William E"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap: 35",
+                        "Catalog Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot: 9 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "493E",
+                        "Section": "01",
+                        "Class Nbr": "1056",
+                        "Course Title": "INTERNSHIP ELECTR MEDIA",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog Nbr": "missing",
+                        "Section": "Room: ARRANGED",
+                        "Class Nbr": "Days: TBA Time: TBA",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Lowell, William E"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap: 35",
+                        "Catalog Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot : 2 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "493I",
+                        "Section": "01",
+                        "Class Nbr": "1057",
+                        "Course Title": "PR INTERNSHIP",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog Nbr": "missing",
+                        "Section": "Room: ARRANGED Days: TBA Time: TBA",
+                        "Class Nbr": "missing",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Lowell, William E"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap: 35",
+                        "Catalog Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot : 2 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "493M",
+                        "Section": "missing",
+                        "Class Nbr": "01",
+                        "Course Title": "1058",
+                        "Component": "MAGD INTERNSHIP",
+                        "Units": "Independent Study",
+                        "Topics": "1 - 3"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog Nbr": "missing",
+                        "Section": "Room: ARRANGED",
+                        "Class Nbr": "Days: TBA Time: TBA",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Lowell, William E"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap: 35",
+                        "Catalog Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot : 1 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Page": "4"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "08/12/2021"
+                    },
+                    {
+                        "of": "253"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Bldg": "missing"
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "493G"
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Room": "01"
+                    },
+                    {
+                        "1060": ""
+                    },
+                    {
+                        "ARRANGED": ""
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Lowell, William E\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Class Equivalents": "JOURNLSM 493A/493AEX"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "JOURNLSM",
+                        "Catalog": "493A",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1059",
+                        "Course Title": "INTERNSHIP ADVERTISING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog": "Room: ARRANGED",
+                        "Nbr": "Days: TBA Time: TBA",
+                        "Section": "missing",
+                        "Class Nbr": "missing",
+                        "Course Title": "Instructor: Lowell, William E",
+                        "Component": "Class",
+                        "Units": "Class",
+                        "Topics": "Enrl Cap:"
+                    },
+                    {
+                        "Subject": "Equivalents:",
+                        "Catalog": "35",
+                        "Nbr": "JOURNLSM",
+                        "Section": "Class Enrl Tot",
+                        "Class Nbr": "493A/493AEX",
+                        "Course Title": ": 0 Class Wait Cap: 0",
+                        "Component": "Class Wait Tot : 0",
+                        "Units": "Class",
+                        "Topics": "Min Enrl : 0"
+                    },
+                    {
+                        "Subject": "JOURNLSM",
+                        "Catalog": "493G",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1060",
+                        "Course Title": "INTERNSHIP JOURNALISM",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg:",
+                        "Catalog": "ARRANGED",
+                        "Nbr": "missing",
+                        "Section": "missing",
+                        "Class Nbr": "Room: ARRANGED",
+                        "Course Title": "Days: TBA Time: TBA",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Lowell, William E"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog": "Enrl Cap:",
+                        "Nbr": "35",
+                        "Section": "missing",
+                        "Class Nbr": "Class Enrl Tot",
+                        "Course Title": ": 2 Class Wait Cap: 0",
+                        "Component": "Class Wait Tot: 0",
+                        "Units": "Class",
+                        "Topics": "Min Enrl : 0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Subject": "Theatre"
+                    },
+                    {
+                        "Page": "5"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "253"
+                    },
+                    {
+                        "08/12/2021": ""
+                    },
+                    {
+                        "of": "missing"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Subject": "THEATRE"
+                    },
+                    {
+                        "493": ""
+                    },
+                    {
+                        "Catalog": "missing"
+                    },
+                    {
+                        "Nbr": "01"
+                    },
+                    {
+                        "Section": "1068"
+                    },
+                    {
+                        "Class": "missing"
+                    },
+                    {
+                        "Nbr": "missing"
+                    },
+                    {
+                        "Course Title": "INTERN THEATRE PRACTICE"
+                    },
+                    {
+                        "Component": "Field Studies"
+                    },
+                    {
+                        "Units": "1 - 12"
+                    },
+                    {
+                        "Topics": "missing"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Anderson, Marshall B\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "THEATRE",
+                        "Catalog": "493",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1068",
+                        "Course Title": "INTERN THEATRE PRACTICE",
+                        "Component": "Field Studies",
+                        "Units": "1 - 12",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg:",
+                        "Catalog": "ARRANGED",
+                        "Nbr": "missing",
+                        "Section": "Room: ARRANGED",
+                        "Class Nbr": "Days: TBA Time: TBA",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Anderson, Marshall B"
+                    },
+                    {
+                        "Subject": "Class",
+                        "Catalog": "Enrl Cap: 35",
+                        "Nbr": "missing",
+                        "Section": "Class Enrl Tot",
+                        "Class Nbr": ": 0 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot: 0",
+                        "Component": "Class Min Enrl : 0",
+                        "Units": "missing",
+                        "Topics": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Page": "6"
+                    },
+                    {
+                        "No.": ""
+                    },
+                    {
+                        "Date": "08/12/2021"
+                    },
+                    {
+                        "of": "253"
+                    },
+                    {
+                        "Run": "missing"
+                    },
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Becker, D'Arcy\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "ACCOUNT": ""
+                    },
+                    {
+                        "493": ""
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {
+                        "01": ""
+                    },
+                    {
+                        "1379": ""
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Bacon, Dawn M\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "20"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "\"Becker, D'Arcy\""
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Subject": "ACCOUNT",
+                        "Catalog": "293",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1376",
+                        "Course Title": "ACCOUNT & BUS EXPERIENCE",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog": "missing",
+                        "Nbr": "Room: ARRANGED",
+                        "Section": "Days: TBA Time: TBA",
+                        "Class Nbr": "missing",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Becker, D'Arcy"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap:",
+                        "Catalog": "35",
+                        "Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot : 0 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot : 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "ACCOUNT",
+                        "Catalog": "493",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1379",
+                        "Course Title": "INTERNSHIP IN ACCOUNTING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 12",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog": "missing",
+                        "Nbr": "Room: ARRANGED",
+                        "Section": "Days: TBA Time: TBA",
+                        "Class Nbr": "missing",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Bacon, Dawn M"
+                    },
+                    {
+                        "Subject": "Class Enrl",
+                        "Catalog": "Cap: 35",
+                        "Nbr": "missing",
+                        "Section": "Class Enrl",
+                        "Class Nbr": "Tot: 20 Class Wait Cap: 0",
+                        "Course Title": "Class Wait Tot : 0",
+                        "Component": "Class",
+                        "Units": "Min Enrl : 0",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "ACCOUNT",
+                        "Catalog": "793",
+                        "Nbr": "missing",
+                        "Section": "01",
+                        "Class Nbr": "1382",
+                        "Course Title": "PRACTICUM IN ACCOUNTING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    },
+                    {
+                        "Subject": "Bldg: ARRANGED",
+                        "Catalog": "missing",
+                        "Nbr": "Room: ARRANGED",
+                        "Section": "Days: TBA Time: TBA",
+                        "Class Nbr": "missing",
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "Instructor: Becker, D'Arcy"
+                    },
+                    {
+                        "Subject": "Class Enrl Cap: 35",
+                        "Catalog": "missing",
+                        "Nbr": "Class Enrl",
+                        "Section": "Tot: 2 Class Wait Cap: 0",
+                        "Class Nbr": "Class Wait Tot: 0",
+                        "Course Title": "Class",
+                        "Component": "Min Enrl : 0",
+                        "Units": "missing",
+                        "Topics": "missing"
+                    }
+                ]
+            }
+        ]
+    }
+]

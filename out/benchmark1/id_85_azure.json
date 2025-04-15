@@ -1,0 +1,423 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Invoice #": "22748"
+                    },
+                    {
+                        "Date": "02/29/20"
+                    },
+                    {
+                        "Account": "3874"
+                    },
+                    {
+                        "Contract": "13388"
+                    },
+                    {
+                        "Acct Rep": "\"Carbone, Michael\""
+                    },
+                    {
+                        "To": "Ax Media"
+                    },
+                    {
+                        "Attn: Taylor Fernie": ""
+                    },
+                    {
+                        "800 W. 47th St. Suite 200": ""
+                    },
+                    {
+                        "Kansas City MO 64112": ""
+                    },
+                    {
+                        "Sponsor": "EC Sykes/NC Secretary Of State"
+                    },
+                    {
+                        "Re": "EC Sykes/NC Sec Of State WTSB"
+                    },
+                    {
+                        "PO#/Est#": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "7:20a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 41.18,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "8:22a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 41.18,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "9:22a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 41.18,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "10:56a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "1:19p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "4:21p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/11/20",
+                        "Time": "5:20p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "02/12/20": "02/12/20",
+                        "2:24p": "3:10p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/12/20",
+                        "2:24p": "4:18p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/12/20",
+                        "2:24p": "5:20p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "7:22a",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 41.18,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "7: 40a",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 41.18,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "8: 23a",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 41.18,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "10:29a",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "12:06p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "1:41p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "4:21p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/12/20": "02/13/20",
+                        "2:24p": "5:22p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC Sec Of State WTSB": "EC Sykes/NC Sec Of State WTSB",
+                        "35.30": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "02/14/20": "02/14/20",
+                        "7:20a": "8:23a",
+                        "1:00": "1:00",
+                        "EC Sykes/NC": "EC Sykes/NC",
+                        "Sec Of State WTSB": "Sec Of State WTSB",
+                        "41.18": 41.18,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    },
+                    {
+                        "02/14/20": "02/14/20",
+                        "7:20a": "12:18p",
+                        "1:00": "1:00",
+                        "EC Sykes/NC": "EC Sykes/NC",
+                        "Sec Of State WTSB": "Sec Of State WTSB",
+                        "41.18": 35.3,
+                        "missing": "missing",
+                        "missing.1": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Invoice #": "22748"
+                    },
+                    {
+                        "Date": "02/29/20"
+                    },
+                    {
+                        "Account": "3874"
+                    },
+                    {
+                        "Contract": "13388"
+                    },
+                    {
+                        "Acct Rep": "\"Carbone, Michael\""
+                    },
+                    {
+                        "To": "Ax Media"
+                    },
+                    {
+                        "Attn: Taylor Fernie": ""
+                    },
+                    {
+                        "800 W. 47th St. Suite 200": ""
+                    },
+                    {
+                        "Kansas City MO 64112": ""
+                    },
+                    {
+                        "Sponsor": "EC Sykes/NC Secretary Of State"
+                    },
+                    {
+                        "Re": "EC Sykes/NC Sec Of State WTSB"
+                    },
+                    {
+                        "PO#/Est#": "missing"
+                    },
+                    {
+                        "Quantity": "missing"
+                    },
+                    {
+                        "Amount": "missing"
+                    },
+                    {
+                        "TOTAL BROADCASTS": "missing"
+                    },
+                    {
+                        "TOTAL": "1306.0"
+                    },
+                    {
+                        "AGENCY COMM": "-195.9"
+                    },
+                    {
+                        "NET DUE": "1110.1"
+                    },
+                    {
+                        "COUNTY OF": "FORSYTH"
+                    },
+                    {
+                        "before me": "missing"
+                    },
+                    {
+                        "Station Official": "missing"
+                    },
+                    {
+                        "Notary Public": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Run Date": "02/14/20",
+                        "Time": "3:42p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/14/20",
+                        "Time": "4:20\u0440",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/14/20",
+                        "Time": "6:36p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "7:19a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 41.18,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "8: 28a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 41.18,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "11:17a",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "2:12p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "3:43p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    },
+                    {
+                        "Run Date": "02/17/20",
+                        "Time": "5:42p",
+                        "Length": "1:00",
+                        "Description": "EC Sykes/NC Sec Of State WTSB",
+                        "Rate": 35.3,
+                        "Quantity": "missing",
+                        "Amount": "missing"
+                    }
+                ]
+            }
+        ]
+    }
+]

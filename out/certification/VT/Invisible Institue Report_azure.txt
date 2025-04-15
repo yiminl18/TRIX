@@ -1,0 +1,308 @@
+#Record1
+-KV
+Service,2 Years 306 Days
+Status,Active
+Full-time
+Date,10-16-2016
+Action,Transfer
+Assignment,St Albans Barracks
+Pos/Rank,Sergeant
+Level,missing
+Class,Level III
+Shift,missing
+Service,3 Years
+151 Days
+Date,5-19-2013
+Action,Promotion
+Status,Active
+Assignment,missing
+Pos/Rank,Detective Sergeant
+Level,missing
+Class,Full-Time
+Shift,missing
+Service,1 Years
+183 Days
+Date,11-18-2011
+Action,Promotion
+Status,Active
+Assignment,missing
+Pos/Rank,Sergeant
+Level,missing
+Class,Full-Time
+Shift,missing
+Service,11 Years
+109 Days
+Date,5-01-2008
+Action,Appointed
+Status,Active
+Assignment,missing
+Pos/Rank,missing
+Level,missing
+Class,missing
+Shift,missing
+Date,10-21-1996
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Service,15 Years
+28 Days
+Status,Active
+Pos/Rank,Trooper
+Class,Full-Time
+Date,10-21-1996
+Action,Terminated (Not Specified)
+Assignment,missing
+Level,missing
+Shift,missing
+Pos/Rank,Deputy
+Status,Inactive
+Class,missing
+-TABLE
+Certification
+Date,Status,Certified,Expires,Probation,Cert #
+Law Enforcement Level III / Certified,11-18-1994,missing,missing,missing
+7-01-2015,Certified,missing,missing,MJA2024
+Law Enforcement Full-Time,11-18-1994,7-01-2015,missing,missing
+11-18-1994,Lapsed,missing,001160
+Law Enforcement Part-Time,missing,missing,missing,missing
+4-04-1994,Lapsed,3-29-1994,missing,missing,001579
+-TABLE
+VT State Police,Service: Status: Active,2 Years 306 Days Full-time
+Date: 10-16-2016 Action: Transfer,missing,missing
+-TABLE
+Assignment: St Albans Barracks,Pos/Rank: Sergeant,missing,missing
+-TABLE
+Level:,Class: Level III,missing
+Shift:,..,missing
+-TABLE
+VT State Police,Service:,3 Years,151 Days
+-TABLE
+Date:,5-19-2013 Action: Promotion,Status: Active,missing,missing
+Assignment:,Pos/Rank: Detective,Sergeant,missing,missing
+Level:,Class: Full-Time,missing,missing,missing
+Shift:,..,missing,missing,missing
+VT State Police,Service:,1 Years,183 Days,missing
+Date: 11-18-2011 Action: Promotion,Status: Active,missing,missing,missing
+Assignment:,Pos/Rank:,Sergeant,missing,missing
+Level:,Class: Full-Time,missing,missing,missing
+Shift:,..,missing,missing,missing
+Grafton Fire & Rescue,Service:,11 Years,109 Days,missing
+Date:,5-01-2008 Action: Appointed,Status: Active,missing,missing
+Assignment:,Pos/Rank:,missing,missing,missing
+missing,Level:,Class:,missing,missing
+missing,Shift:,..,missing,missing
+#Record2
+-KV
+Date,7-01-1994
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Service,2 Years
+113 Days
+Status,Active
+Pos/Rank,Corporal
+Class,Full-Time
+Service,1 Years
+65 Days
+Date,4-27-1993
+Action,Appointed
+Status,Active
+Assignment,missing
+Pos/Rank,Deputy
+Level,missing
+Class,Part-Time
+Shift,missing
+-TABLE
+Franklin County Sheriff's Department,Service:,1 Years,65 Days
+Date:,4-27-1993 Action: Appointed,Status: Active,missing
+Assignment:,Pos/Rank: Deputy,missing,missing
+-TABLE
+missing,Level:,Class: Part-Time,missing,missing
+-TABLE
+missing,Shift:,:,missing,missing
+#Record3
+-KV
+Date,1-01-2012
+Action,Promotion
+Assignment,missing
+Level,missing
+Shift,missing
+Date,1-12-2010
+Action,Resigned
+Assignment,missing
+Level,missing
+Shift,missing
+Date,7-01-2009
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Date,7-18-2008
+Action,Terminated
+Assignment,missing
+Level,missing
+Shift,missing
+Date,4-15-2008
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Date,1-28-2007
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Service,7 Years
+230 Days
+Status,Active
+Part-time
+Pos/Rank,Sergeant
+Class,Level II-S
+Status,Inactive
+Pos/Rank,Patrol Officer
+Class,Level II
+Service,2 Years
+184 Days
+Status,Active
+Pos/Rank,Deputy
+Class,Part-Time
+Status,Inactive
+Pos/Rank,Deputy
+Class,Part-Time
+Service,1 Years
+272 Days
+Status,Active
+Pos/Rank,Patrol Officer
+Class,Full-Time
+Service,1 Years
+172 Days
+Status,Active
+Pos/Rank,Deputy
+Class,Part-Time
+-TABLE
+Certification
+Date,Status,Certified,Expires,Probation,Cert #
+Law Enforcement Level II - spec III / Certified,7-10-2015,missing,missing,missing
+7-10-2015,Certified,missing,DJA1121
+Law Enforcement
+6-09-2015,Level II-E / Certified
+Lapsed,6-09-2015,missing,missing,DJA1121
+Law Enforcement
+7-27-2007,Part-Time
+Lapsed,7-27-2007,missing,missing,DJA1121
+#Record4
+-KV
+Page,1
+Date,Law Enforcement
+5-24-2019
+Status,Certified
+Certified,5-24-2019
+Expires,missing
+Probation
+Cert #,EA3743
+Level III,/ Certified
+Service,Years
+217 Days
+Status,Active
+Full-time
+Date,1-14-2019
+Action,Hired
+Assignment,missing
+Pos/Rank,Trooper
+Level,missing
+Class,Level III
+Shift,missing
+-TABLE
+Date,Status,Certified,Expires,Probation,Cert #
+Law Enforcement Level III / Certified,missing,missing,missing,missing,missing
+5-24-2019,Certified,5-24-2019,missing,missing,EA3743
+-TABLE
+VT State Police,Service: Status: Active,Years,217 Days
+Date:,1-14-2019 Action: Hired,Full-time,missing
+Assignment:,Pos/Rank: Trooper,missing,missing
+missing,Level:,Class: Level III,missing
+missing,Shift:,:,missing
+#Record5
+-KV
+Service,Years
+86 Days
+Status,Active
+Part-time
+Date,5-25-2019
+Action,Reduced hours
+Assignment,missing
+Pos/Rank,Patrol Officer
+Level,missing
+Class,Level III
+Shift,missing
+Service,Years 117 Days
+Status,Active
+Full-time
+Date,4-24-2019
+Action,Hired
+Assignment,missing
+Pos/Rank,Investigator
+Level,missing
+Class,Level III
+Shift,missing
+Service,12 Years
+307 Days
+Date,7-23-2006
+Action,Appointed
+Status,Active
+Assignment,missing
+Pos/Rank,Patrol Officer
+Level,missing
+Class,Level III
+Shift,:
+Date,4-01-2006
+Action,Terminated
+Status,Inactive
+Assignment,missing
+Pos/Rank,Patrol Officer
+Level,missing
+Class,Part-Time
+Shift,missing
+Date,11-11-2005
+Action,Appointed
+Assignment,missing
+Level,missing
+Shift,missing
+Service,Years
+142 Days
+Status,Active
+Pos/Rank,Patrol Officer
+Class,Part-Time
+-TABLE
+Certification
+Date,Status,Certified,Expires,Probation,Cert #
+Law Enforcement Level III / Certified,11-17-2006,missing,missing,missing
+7-01-2015,Certified,missing,BJA3068
+Law Enforcement Full-Time,missing,missing,missing,missing
+7-01-2015,Lapsed,11-17-2006,7-01-2015,missing,BJA3068
+-TABLE
+Winooski Police Department,Service: Status: Active,Years Part-time,86 Days
+Date:,5-25-2019 Action: Reduced hours,missing,missing
+Assignment:,Pos/Rank: Patrol Officer,missing,missing
+missing,Level:,Class: Level III,missing
+missing,Shift:,..,missing
+-TABLE
+VT Dept. of Liquor Control,Service: Status: Active,Years 117 Days Full-time
+Date:,4-24-2019 Action: Hired,missing
+-TABLE
+Assignment:,Pos/Rank: Investigator,missing,missing
+-TABLE
+missing,Level:,Class: Level III,missing,missing
+missing,Shift:,:,missing,missing,missing
+Winooski Police Department,Service:,12 Years,307 Days,missing
+Date:,7-23-2006 Action: Appointed,Status: Active,missing,missing
+Assignment:,Pos/Rank: Patrol Officer,missing,missing,missing
+Level:,Class: Level III,missing,missing,missing
+missing,Shift:,:,missing,missing
+Vergennes Police Department,missing,missing,missing,missing
+Date:,4-01-2006 Action: Terminated,Status: Inactive,missing,missing
+Assignment:,Pos/Rank: Patrol Officer,missing,missing,missing
+Level:,Class: Part-Time,missing,missing,missing
+missing,Shift:,..,missing,missing

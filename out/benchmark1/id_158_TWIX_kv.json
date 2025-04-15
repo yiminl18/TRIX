@@ -1,0 +1,840 @@
+[
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "DATE": "10-10-2012"
+                    },
+                    {
+                        "Page": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Contract Dt": "10-05-2012",
+                        "Revision Dt": "10-08-2012",
+                        "Rev#": 3,
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Brand": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Product Code": "missing",
+                        "Station/Market": "WLS - CHICAGO"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Agency Est#": "DCCC - EST",
+                        "CMS #": 245910,
+                        "Account Executive": "missing",
+                        "Start Date": "10-08-2012",
+                        "Billing": "M (Broadcast Month, Cycle 1)",
+                        "Package": "N",
+                        "Contract Title": 245910
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Line": 1,
+                        "Start Date": "missing",
+                        "End Date": "10-12-2012",
+                        "Time Period": "10:35PM - 11:04PM",
+                        "Description": "LF/NEWS: NIGHTLINE: M-F 1035-1104P (5527)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 4,
+                        "Price": "1,900",
+                        "Tot Spots": "missing",
+                        "Total $": "7,600.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start Date": "10-08-2012",
+                        "Time Period": "11:04PM - 12:08AM",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "X",
+                        "W": "missing",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "Price": "760",
+                        "Total $": "2,280.00"
+                    },
+                    {
+                        "Line": 3,
+                        "Start Date": "missing",
+                        "Time Period": "09:00PM - 10:00PM",
+                        "Description": "PRIME: WED: 9-10P VAR/NASHVILLE EFF:10/10 (56)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "W": "X",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "8,550",
+                        "Tot Spots": 1,
+                        "Total $": "8,550.00"
+                    },
+                    {
+                        "Line": 4,
+                        "Start Date": "missing",
+                        "End Date": "10-13-2012",
+                        "Time Period": "07:00AM - 08:00AM",
+                        "Description": "WEEKEND/ MORN NEWS: GMA SAT 7-8A (5555)",
+                        "RC": "missing",
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "X",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "950",
+                        "Tot Spots": 1,
+                        "Total $": "950.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start Date": "missing",
+                        "End Date": "10-13-2012",
+                        "Description": "WEEKEND EARLY MORN NEWS: SAT: 8-9A (10600)",
+                        "RC": 1,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "F": "missing",
+                        "S": "X",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "950",
+                        "Tot Spots": 1,
+                        "Total $": "950.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Description": "SPORTS: FOOTBALL SAT COLLEGE 1058A-600P",
+                        "RC": 2,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "X",
+                        "S.1": "missing",
+                        "SPW": "missing",
+                        "Price": "2,000",
+                        "Tot Spots": "missing",
+                        "Total $": "2,000.00"
+                    },
+                    {
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Description": "missing",
+                        "RC": "missing",
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "F": "missing",
+                        "S.1": "X",
+                        "SPW": 1,
+                        "Price": "665",
+                        "Tot Spots": 1,
+                        "Total $": "665.00"
+                    },
+                    {
+                        "Line": 8,
+                        "End Date": "10-14-2012",
+                        "Time Period": "missing",
+                        "Description": "WEEKEND/MORN NEWS: SUN 8-930AM/8-10A EFF",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "855",
+                        "Tot Spots": 1,
+                        "Total $": "855.00"
+                    },
+                    {
+                        "Line": 9,
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Time Period": "05:00PM - 05:30PM",
+                        "Description": "WEEKEND/EARLY NEWS: SUN 5-530P (5572)",
+                        "RC": "missing",
+                        "Duration": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S.1": "X",
+                        "SPW": "missing",
+                        "Price": "1,140",
+                        "Tot Spots": "missing",
+                        "Total $": "1,140.00"
+                    },
+                    {
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Time Period": "06:00AM - 07:00AM",
+                        "RC": "missing",
+                        "Duration": 30,
+                        "T": "X",
+                        "W": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 3,
+                        "Tot Spots": 3,
+                        "Total $": "3,705.00"
+                    },
+                    {
+                        "Line": 11,
+                        "Start Date": "missing",
+                        "End Date": "10-12-2012",
+                        "Time Period": "07:00AM - 09:00AM",
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "X",
+                        "W": "missing",
+                        "T.1": "X",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 4,
+                        "Price": "missing",
+                        "Tot Spots": 4,
+                        "Total $": "6,080.00"
+                    },
+                    {
+                        "Line": 12,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Time Period": "missing",
+                        "Description": "DAYTIME: WINDY CITY LIVE 9-10A M-F EFF: 5/26-",
+                        "RC": 1,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 4,
+                        "Price": "missing",
+                        "Tot Spots": 4,
+                        "Total $": "3,420.00"
+                    },
+                    {
+                        "Line": 13,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Description": "DAYTIME/ NEWS: 11-12NOON DAYTIME M-F (5516)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "X",
+                        "T": "missing",
+                        "W": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 5,
+                        "Price": "800"
+                    },
+                    {
+                        "Line": 14,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Time Period": "04:00PM - 05:00PM",
+                        "RC": 1,
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "T.1": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 4,
+                        "Price": "missing"
+                    },
+                    {
+                        "Line": 15,
+                        "Start Date": "missing",
+                        "End Date": "10-12-2012",
+                        "Description": "EARLY NEWS: 5-530P M-F (5519)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "X",
+                        "T": "missing",
+                        "W": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 4,
+                        "Price": "2,280",
+                        "Tot Spots": 4
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "DATE": "10-10-2012"
+                    },
+                    {
+                        "Page": "missing"
+                    },
+                    {
+                        "Contracted Gross Total": "52"
+                    },
+                    {
+                        "Actual Gross Total": "52"
+                    },
+                    {
+                        "Agency Commission": "\"106,405.00\""
+                    },
+                    {
+                        "Net Total": "\"90,444.25\""
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Contract No": 401752,
+                        "Contract Dt": "10-05-2012",
+                        "Revision Dt": "10-08-2012",
+                        "Rev#": 3,
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Product Code": "POLITICALS",
+                        "Station/Market": "WLS - CHICAGO"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Agency Est#": "DCCC - EST",
+                        "CMS #": 245910,
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Billing": "missing",
+                        "Package": "N",
+                        "Contract Title": 245910
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Line": 16,
+                        "Start Date": "10-08-2012",
+                        "Time Period": "06:00PM - 06:30PM",
+                        "Description": "EARLY NEWS: 6-630P M-F (5524)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "X",
+                        "W": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 2,
+                        "Price": "2,660",
+                        "Tot Spots": 2,
+                        "Total $": "5,320.00"
+                    },
+                    {
+                        "Line": 17,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Time Period": "06:30PM - 07:00PM",
+                        "Description": "ACCESS: WHEEL M-F 628P-7P (5525)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 3,
+                        "Price": "3,400",
+                        "Tot Spots": 3,
+                        "Total $": "10,200.00"
+                    },
+                    {
+                        "Line": 18,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Description": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P (5526)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 3,
+                        "Price": "5,225",
+                        "Tot Spots": 3,
+                        "Total $": "15,675.00"
+                    },
+                    {
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Description": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P (5526)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "S": "missing",
+                        "S.1": "X",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": 1,
+                        "Total $": "5,225.00"
+                    },
+                    {
+                        "Line": 20,
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Time Period": "11:00PM - 11:30PM",
+                        "Description": "LF: SUN 190 NORTH-1100P-1130P (5827)",
+                        "RC": "missing",
+                        "Duration": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "760",
+                        "Tot Spots": 1,
+                        "Total $": "760.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Time Period": "11:30PM - 12:00AM",
+                        "Description": "LF: SUN INSIDE ED.-1130PM-1200A (5828)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S.1": "X",
+                        "SPW": 1,
+                        "Price": "570",
+                        "Tot Spots": 1,
+                        "Total $": "570.00"
+                    },
+                    {
+                        "Line": 22,
+                        "Start Date": "10-09-2012",
+                        "End Date": "10-09-2012",
+                        "Time Period": "05:45PM - 05:55PM",
+                        "Description": "*M-SU 400P-700P ROTATOR (M-SU EN/ACCESS)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "X",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": "missing"
+                    },
+                    {
+                        "Line": 23,
+                        "End Date": "missing",
+                        "Time Period": "08:00PM - 09:00PM",
+                        "Description": "PRIME:TUE: 8-9P: VAR/COMEDIES (5604)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "X",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "7,400",
+                        "Tot Spots": 1,
+                        "Total $": "7,400.00"
+                    },
+                    {
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Description": "WEEKEND:LNR 200A-300A SA-SU (11857)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "X",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": "missing",
+                        "Total $": "60.00"
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "DATE": "10-10-2012"
+                    },
+                    {
+                        "Page": "missing"
+                    },
+                    {
+                        "Contracted Gross Total": "52"
+                    },
+                    {
+                        "Actual Gross Total": "52"
+                    },
+                    {
+                        "Agency Commission": "\"106,405.00\""
+                    },
+                    {
+                        "Net Total": "\"90,444.25\""
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Contract No": 401752,
+                        "Contract Dt": "10-05-2012",
+                        "Revision Dt": "10-08-2012",
+                        "Rev#": 3,
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Product Code": "POLITICALS",
+                        "Station/Market": "WLS - CHICAGO"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Agency Est#": "DCCC - EST",
+                        "CMS #": 245910,
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Billing": "missing",
+                        "Package": "N",
+                        "Contract Title": 245910
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Line": 16,
+                        "Start Date": "10-08-2012",
+                        "Time Period": "06:00PM - 06:30PM",
+                        "Description": "EARLY NEWS: 6-630P M-F (5524)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "X",
+                        "W": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 2,
+                        "Price": "2,660",
+                        "Tot Spots": 2,
+                        "Total $": "5,320.00"
+                    },
+                    {
+                        "Line": 17,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Time Period": "06:30PM - 07:00PM",
+                        "Description": "ACCESS: WHEEL M-F 628P-7P (5525)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "X",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 3,
+                        "Price": "3,400",
+                        "Tot Spots": 3,
+                        "Total $": "10,200.00"
+                    },
+                    {
+                        "Line": 18,
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Description": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P (5526)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "X",
+                        "F": "X",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 3,
+                        "Price": "5,225",
+                        "Tot Spots": 3,
+                        "Total $": "15,675.00"
+                    },
+                    {
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Description": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P (5526)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "S": "missing",
+                        "S.1": "X",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": 1,
+                        "Total $": "5,225.00"
+                    },
+                    {
+                        "Line": 20,
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Time Period": "11:00PM - 11:30PM",
+                        "Description": "LF: SUN 190 NORTH-1100P-1130P (5827)",
+                        "RC": "missing",
+                        "Duration": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "760",
+                        "Tot Spots": 1,
+                        "Total $": "760.00"
+                    },
+                    {
+                        "Line": "missing",
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Time Period": "11:30PM - 12:00AM",
+                        "Description": "LF: SUN INSIDE ED.-1130PM-1200A (5828)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S.1": "X",
+                        "SPW": 1,
+                        "Price": "570",
+                        "Tot Spots": 1,
+                        "Total $": "570.00"
+                    },
+                    {
+                        "Line": 22,
+                        "Start Date": "10-09-2012",
+                        "End Date": "10-09-2012",
+                        "Time Period": "05:45PM - 05:55PM",
+                        "Description": "*M-SU 400P-700P ROTATOR (M-SU EN/ACCESS)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "X",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": "missing"
+                    },
+                    {
+                        "Line": 23,
+                        "End Date": "missing",
+                        "Time Period": "08:00PM - 09:00PM",
+                        "Description": "PRIME:TUE: 8-9P: VAR/COMEDIES (5604)",
+                        "RC": 1,
+                        "Duration": 30,
+                        "M": "missing",
+                        "T": "X",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "7,400",
+                        "Tot Spots": 1,
+                        "Total $": "7,400.00"
+                    },
+                    {
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Description": "WEEKEND:LNR 200A-300A SA-SU (11857)",
+                        "RC": 1,
+                        "Duration": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "X",
+                        "S.1": "missing",
+                        "SPW": 1,
+                        "Price": "missing",
+                        "Tot Spots": "missing",
+                        "Total $": "60.00"
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Contract No": 401752,
+                        "Contract Dt": "10-05-2012",
+                        "Revision Dt": "10-08-2012",
+                        "Rev#": 3,
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Brand": "BRAD SCHNEIDER FOR CONGRESS",
+                        "Product Code": "POLITICALS",
+                        "Station/Market": "WLS - CHICAGO"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Agency Est#": "DCCC - EST",
+                        "CMS #": 245910,
+                        "Account Executive": "missing",
+                        "Start Date": "missing",
+                        "End Date": "10-14-2012",
+                        "Billing": "M (Broadcast Month, Cycle 1)",
+                        "Package": "missing",
+                        "Contract Title": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Line": "missing",
+                        "Start Date": "missing",
+                        "End Date": "missing",
+                        "Time Period": "missing",
+                        "Description": "missing",
+                        "RC": "missing",
+                        "M": "missing",
+                        "T": "missing",
+                        "W": "missing",
+                        "T.1": "missing",
+                        "F": "missing",
+                        "S": "missing",
+                        "S.1": "missing",
+                        "Price": "missing",
+                        "Tot Spots": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Preempted": 60.0,
+                        "Made Good": 60.0,
+                        "Contract Total": "106,405.00",
+                        "Adjustments": 0.0,
+                        "Actual Total": "106,405.00"
+                    },
+                    {
+                        "Month/YR": "missing",
+                        "Made Good": 60.0,
+                        "Contract Total": "106,405.00",
+                        "Actual Total": "106,405.00"
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 3
+    }
+]

@@ -1,0 +1,3748 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "28735"
+                    },
+                    {
+                        "Schedule Dates": "09/29/20-10/18/20"
+                    },
+                    {
+                        "Advertiser": "Estelle Fennell for Supervisor (3297)"
+                    },
+                    {
+                        "Agency": "Estelle Fennell for Supervisor (1640)"
+                    },
+                    {
+                        "Product": "CITY/COUNTY POLITICAL RACES (1087)"
+                    },
+                    {
+                        "Brand": "2020 (12967)"
+                    },
+                    {
+                        "Salesperson": "\"OLSZEWSKI, JENNY (1060)\""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Buyer Name": "\"Fennell,Estelle\""
+                    },
+                    {
+                        "Phone/Fax": "(707) 223-5618 /"
+                    },
+                    {
+                        "CPE": "N/A"
+                    },
+                    {
+                        "Account Types": "Local/Political Candidate"
+                    },
+                    {
+                        "Billing Type": "Calendar"
+                    },
+                    {
+                        "Comments": "KIEM"
+                    },
+                    {
+                        "Date Entered": "09/25/20"
+                    },
+                    {
+                        "Last Modified": "09/25/20"
+                    },
+                    {
+                        "Entered By": "JENNY OLSZEWSKI"
+                    },
+                    {
+                        "CO-OP": ""
+                    },
+                    {
+                        "No": "missing"
+                    },
+                    {
+                        "Headline #": "missing"
+                    },
+                    {
+                        "Demo": "missing"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Deal": "Package"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "$990.00"
+                    },
+                    {
+                        "Net Total": "\"$5,610.00\""
+                    },
+                    {
+                        "Sales Tax": "missing"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Accepted-Station": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Comments": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": 1.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6A- 7A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 2.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 3.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "5P- 5:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 4.1,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/30/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 5.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 6.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "09/29/20-10/02/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11:35P- 12:35A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 7.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/04/20-10/04/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 8.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/04/20-10/04/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "8A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 9.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6A- 7A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 10.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 11.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 12.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "5P- 5:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 13.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "5P- 5:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 14.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 15.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "28735"
+                    },
+                    {
+                        "Schedule Dates": "09/29/20-10/18/20"
+                    },
+                    {
+                        "Advertiser": "Estelle Fennell for Supervisor (3297)"
+                    },
+                    {
+                        "Agency": "Estelle Fennell for Supervisor (1640)"
+                    },
+                    {
+                        "Product": "CITY/COUNTY POLITICAL RACES (1087)"
+                    },
+                    {
+                        "Brand": "2020 (12967)"
+                    },
+                    {
+                        "Salesperson": "\"OLSZEWSKI, JENNY (1060)"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Sales Office": "missing"
+                    },
+                    {
+                        "Buyer Name": "\"Fennell,Estelle\""
+                    },
+                    {
+                        "Phone/Fax": "(707) 223-5618 /"
+                    },
+                    {
+                        "CPE": "N/A"
+                    },
+                    {
+                        "Account Types": "Local/Political Candidate"
+                    },
+                    {
+                        "Billing Type": "Calendar"
+                    },
+                    {
+                        "Comments": "KIEM"
+                    },
+                    {
+                        "Date Entered": "09/25/20"
+                    },
+                    {
+                        "Last Modified": "09/25/20"
+                    },
+                    {
+                        "CO-OP": ""
+                    },
+                    {
+                        "No": "missing"
+                    },
+                    {
+                        "Entered By": "JENNY OLSZEWSKI"
+                    },
+                    {
+                        "Headline #": "missing"
+                    },
+                    {
+                        "Demo": "missing"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Package Deal": "missing"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "$990.00"
+                    },
+                    {
+                        "Net Total": "\"$5,610.00\""
+                    },
+                    {
+                        "Sales Tax": "missing"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Accepted-Station": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Comments": "missing"
+                    },
+                    {
+                        "Printed": "06:51"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": 16.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 17.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11:35P- 12:35A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 18.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11:35P- 12:35A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 19.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/11/20-10/11/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 20.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/18/20-10/18/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "11P- 11:35P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 21.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/11/20-10/11/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "8A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 22.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/18/20-10/18/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "8A- 9A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    },
+                    {
+                        "Line": 23.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6A- 7A (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 24.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "1",
+                        "Spots": "1",
+                        "Rate": "1",
+                        "Total": "1",
+                        "missing": "1"
+                    },
+                    {
+                        "Line": 25.0,
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/06/20-10/06/20",
+                        "Sec": 5,
+                        "Length": ":30",
+                        "Run Times": "9P- 9:30P (PST)",
+                        "SPW": "missing",
+                        "Mo Tu We Th Fr Sa Su": "missing",
+                        "Spots": "1",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "missing": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "828059"
+                    },
+                    {
+                        "Schedule Dates": "10/09/12-11/05/12"
+                    },
+                    {
+                        "Advertiser": "Democratic Senatorial Campaign Committee (1635 Entered"
+                    },
+                    {
+                        "Agency/T-Code": "Great American Media (2039)/556615156"
+                    },
+                    {
+                        "Product": "Political - US Senate (1176)"
+                    },
+                    {
+                        "Brand": "Republican (ANTI) (178218)"
+                    },
+                    {
+                        "Demo": "missing"
+                    },
+                    {
+                        "Salesperson": "\"Blair, Cheryl (2205)\""
+                    },
+                    {
+                        "Sales Office": "TeleRep - Philadelphia"
+                    },
+                    {
+                        "Buyer Name": "\"NAGELBERG,DAN\""
+                    },
+                    {
+                        "Phone/Fax": "/"
+                    },
+                    {
+                        "49/53/1139": ""
+                    },
+                    {
+                        "CPE": ""
+                    },
+                    {
+                        "Account Types": "National/Political PAC - Agency"
+                    },
+                    {
+                        "Sales Tax": "missing"
+                    },
+                    {
+                        "Billing Type": "Weekly/Irregular"
+                    },
+                    {
+                        "Comments": "DSCC 10/9-11/5"
+                    },
+                    {
+                        "Date Entered": "05/08/12"
+                    },
+                    {
+                        "CO-OP": ""
+                    },
+                    {
+                        "No": "missing"
+                    },
+                    {
+                        "Headline #": "06135017"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "\"$35,423.25\""
+                    },
+                    {
+                        "Net Total": "\"$200,731.75\""
+                    },
+                    {
+                        "Tu": ":selected:"
+                    },
+                    {
+                        "We": ":selected:"
+                    },
+                    {
+                        "Th": ":selected:"
+                    },
+                    {
+                        "Fr": ":selected:"
+                    },
+                    {
+                        "Sa": "missing"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "4": ""
+                    },
+                    {
+                        "2": "$325.00"
+                    },
+                    {
+                        "1": ":selected:"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Accepted-Station": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Comments": "missing"
+                    },
+                    {
+                        "Printed At": "\"10:50 AM on Thursday, October 18 2012\""
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "of": "7"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Norfolk (WVEC) (WVEC)": "By Broadcast Month"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Oct. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Nov. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Grand Total:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "12:58P- 3:58P (ET)",
+                        "SPW": "14",
+                        "Mo Tu": "x",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X X : X",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "14",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$350.00",
+                        "Dates": "$4,900.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "PM ROTATION",
+                        "Run Times": "5/8/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "2.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Sec": "missing",
+                        "Length": ":30",
+                        "Run Times": "10A- 10:58A (ET)",
+                        "SPW": "1",
+                        "Mo Tu": "x",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X x X",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected:",
+                        "Dates": "$275.00",
+                        "Sec": "missing",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "RACHAEL RAY",
+                        "SPW": "5/8/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "3.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-10/19/12",
+                        "Sec": "5",
+                        "Length": "missing",
+                        "Run Times": ":30/10A- 10:58A (ET)",
+                        "SPW": "2",
+                        "Mo Tu": "X",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X X X",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "2",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "$275.00",
+                        "Dates": "$550.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "RACHAEL RAY",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "4.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-11/02/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "10A- 10:58A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": "X",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X X x",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "10",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$275.00",
+                        "Dates": "$2,750.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "RACHAEL RAY",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "5.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-10/26/12",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": ":30|11:35P- 12:02A (ET)",
+                        "SPW": ":unselected:",
+                        "Mo Tu": "1",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "1 1 1",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "4",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "$325.00",
+                        "Dates": "$1,300.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "ABC NIGHTLINE",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "6.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Sec": "5",
+                        "Length": "missing",
+                        "Run Times": ":30/11:35P- 12:02A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "5",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$325.00",
+                        "Dates": "$1,625.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "ABC NIGHTLINE",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "7.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Sec": "4",
+                        "Length": ":30",
+                        "Run Times": "10:58A- 12P (ET)",
+                        "SPW": "1",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected:",
+                        "Dates": "$450.00",
+                        "Sec": "missing",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "THE VIEW",
+                        "SPW": "5/8/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "8.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-10/19/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "10:58A- 12P (ET)",
+                        "SPW": "2",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "2",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$450.00",
+                        "Dates": "$900.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "THE VIEW",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "9.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-11/02/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "10:58A- 12P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": ":selected: :selected: :selected:",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "10",
+                        "Dates": "$450.00",
+                        "Sec": "$4,500.00",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "THE VIEW",
+                        "SPW": "10/9/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "10.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/19/12",
+                        "Sec": "4",
+                        "Length": ":30",
+                        "Run Times": "12P- 12:57P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "5",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$275.00",
+                        "Dates": "$1,375.00",
+                        "Sec": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS MIDDAY",
+                        "Run Times": "5/8/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "11.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-10/26/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "12P- 12:57P (ET)",
+                        "SPW": "4",
+                        "Mo Tu": ":selected:",
+                        "We Th": ":selected: :selected: :selected:",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected:",
+                        "Dates": "$275.00",
+                        "Sec": "$1,100.00",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "13 NEWS MIDDAY",
+                        "SPW": "10/9/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "12.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Sec": "5",
+                        "Length": ":30",
+                        "Run Times": "12P- 12:57P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "5",
+                        "Dates": "$275.00",
+                        "Sec": "$1,375.00",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "13 NEWS MIDDAY",
+                        "SPW": "10/9/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "13.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/26/12",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": ":30|3:58P- 4:58P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected: :unselected:",
+                        "Line Type / Break Type (Ref #)": "15",
+                        "Dates": "$600.00",
+                        "Sec": "$9,000.00",
+                        "Length": "Norfolk (WVEC) (WVEC)",
+                        "Run Times": "DR. OZ",
+                        "SPW": "5/8/12",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "14.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Sec": "missing",
+                        "Length": ":30",
+                        "Run Times": "3:58P- 4:58P (ET)",
+                        "SPW": "4",
+                        "Mo Tu": "X",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x x",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Sec": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected:",
+                        "Dates": "4",
+                        "Sec": "$600.00",
+                        "Length": "$2,400.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "DR. OZ",
+                        "Mo Tu": "5/8/12",
+                        "We Th": "missing",
+                        "Fr Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "828059"
+                    },
+                    {
+                        "Schedule Dates": "10/09/12-11/05/12"
+                    },
+                    {
+                        "Advertiser": "Democratic Senatorial Campaign Committee (1635"
+                    },
+                    {
+                        "Entered By": "Penne Marsh"
+                    },
+                    {
+                        "Agency/T-Code": "Great American Media (2039)/556615156"
+                    },
+                    {
+                        "Product": "Political - US Senate (1176)"
+                    },
+                    {
+                        "Brand": "Republican (ANTI) (178218)"
+                    },
+                    {
+                        "Salesperson": "\"Blair, Cheryl (2205)\""
+                    },
+                    {
+                        "Sales Office": "TeleRep - Philadelphia"
+                    },
+                    {
+                        "Date Entered": "05/08/12"
+                    },
+                    {
+                        "Last Modified": "10/17/12"
+                    },
+                    {
+                        "CO-OP": "06135017"
+                    },
+                    {
+                        "Headline #": "missing"
+                    },
+                    {
+                        "Buyer Name": "\"NAGELBERG,DAN\""
+                    },
+                    {
+                        "Phone/Fax": "/"
+                    },
+                    {
+                        "CPE": "49/53/1139"
+                    },
+                    {
+                        "Account Types": "National/Political PAC - Agency"
+                    },
+                    {
+                        "Billing Type": "Weekly/Irregular"
+                    },
+                    {
+                        "Comments": "DSCC 10/9-11/5"
+                    },
+                    {
+                        "*****": ""
+                    },
+                    {
+                        "Demo": "missing"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "\"$35,423.25\""
+                    },
+                    {
+                        "Net Total": "\"$200,731.75\""
+                    },
+                    {
+                        "SPW": "missing"
+                    },
+                    {
+                        "Mo": "missing"
+                    },
+                    {
+                        "Tu": ":selected:"
+                    },
+                    {
+                        "We": ":selected:"
+                    },
+                    {
+                        "Th": ":selected:"
+                    },
+                    {
+                        "Fr": ":selected:"
+                    },
+                    {
+                        "Sa": "missing"
+                    },
+                    {
+                        "Su": ""
+                    },
+                    {
+                        "Spots": "missing"
+                    },
+                    {
+                        "5": ":selected:"
+                    },
+                    {
+                        "10": ":selected:"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "B/E Bookend P/B Piggy Back"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Accepted-Station": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Comments": "missing"
+                    },
+                    {
+                        "Printed At": "\"10:50 AM on Thursday, October 18 2012\""
+                    },
+                    {
+                        "Page": "missing"
+                    },
+                    {
+                        "of": "2"
+                    },
+                    {
+                        "7": ""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Norfolk (WVEC) (WVEC)": "By Broadcast Month"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Oct. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Nov. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Grand Total:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "15.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "4:58P- 5:29P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": ":unselected:",
+                        "Se": "$750.00",
+                        "Length": "missing",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "13 NEWS AT 5P",
+                        "Mo Tu": "5/8/12",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "16.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-10/19/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "4:58P- 5:29P (ET)",
+                        "SPW": "4",
+                        "Mo Tu": "x",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x X : X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "4",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$750.00",
+                        "Dates": "$3,000.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS AT 5P",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "17.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "4:58P- 5:29P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "10",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$750.00",
+                        "Dates": "$7,500.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS AT 5P",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "18.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "5A- 5:58A (ET)",
+                        "SPW": "4",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "missing",
+                        "Length": "$325.00",
+                        "Run Times": "$1,300.00",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "5AM NEWS",
+                        "We Th Fr": "10/5/12",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "19.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "5A- 5:58A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": "15",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$325.00",
+                        "Dates": "$4,875.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "5AM NEWS",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "20.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "V",
+                        "Length": ":30",
+                        "Run Times": "5:29P- 5:58P (ET)",
+                        "SPW": "missing",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": ":unselected:",
+                        "Run Times": "$800.00",
+                        "SPW": "missing",
+                        "Mo Tu": "Norfolk (WVEC) (WVEC)",
+                        "We Th Fr": "NEWS",
+                        "Sa Su": "5/8/12",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "21.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-11/02/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "5:29P- 5:58P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "15",
+                        "Length": "$800.00",
+                        "Run Times": "$12,000.00",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "NEWS",
+                        "We Th Fr": "10/9/12",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "22.1",
+                        "Line Type / Break Type (Ref #)": "End Dated Line / SPOT",
+                        "Dates": "10/09/12-10/09/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected:",
+                        "Dates": ":unselected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": ":unselected:",
+                        "Run Times": "$825.00",
+                        "SPW": "missing",
+                        "Mo Tu": "Norfolk (WVEC) (WVEC)",
+                        "We Th Fr": "13 NEWS AT 6P",
+                        "Sa Su": "10/9/12",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "23.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (ET)",
+                        "SPW": "missing",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "4",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$825.00",
+                        "Dates": "$3,300.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS AT 6P",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "24.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "5:58A- 7A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": "5",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$650.00",
+                        "Dates": "$3,250.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS DAYBREAK",
+                        "Run Times": "10/5/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "25.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-10/19/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "5:58A- 7A (ET)",
+                        "SPW": "4",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": "4",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$650.00",
+                        "Dates": "$2,600.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "13 NEWS DAYBREAK",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "26.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-11/02/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "5:58A- 7A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": "10",
+                        "Run Times": "$650.00",
+                        "SPW": "$6,500.00",
+                        "Mo Tu": "Norfolk (WVEC) (WVEC)",
+                        "We Th Fr": "13 NEWS DAYBREAK",
+                        "Sa Su": "10/9/12",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "27.1",
+                        "Line Type / Break Type (Ref #)": "End Dated Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "6:58P- 7:28P (ET)",
+                        "SPW": "missing",
+                        "Mo Tu": ":selected:",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "\u00d7",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "in",
+                        "Se": "$1,300.00",
+                        "Length": "$6,500.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "WHEEL OF FORTUNE",
+                        "Mo Tu": "10/9/12",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "28.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-10/26/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "6:58P- 7:28P (ET)",
+                        "SPW": "4",
+                        "Mo Tu": "\u00d7",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "x x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "missing",
+                        "Se": "$1,300.00",
+                        "Length": "$5,200.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "WHEEL OF FORTUNE",
+                        "Mo Tu": "10/9/12",
+                        "We Th Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Accepted-Agency/Advertiser: Date:": "missing",
+                        "Accepted-Station: Date:": "missing",
+                        "Comments:": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "828059"
+                    },
+                    {
+                        "Schedule Dates": "10/09/12-11/05/12"
+                    },
+                    {
+                        "Advertiser": "Democratic Senatorial Campaign Committee (1639"
+                    },
+                    {
+                        "Entered By": "Penne Marsh"
+                    },
+                    {
+                        "Agency/T-Code": "Great American Media (2039)/556615156"
+                    },
+                    {
+                        "Product": "Political - US Senate (1176)"
+                    },
+                    {
+                        "Brand": "Republican (ANTI) (178218)"
+                    },
+                    {
+                        "Salesperson": "\"Blair, Cheryl (2205)\""
+                    },
+                    {
+                        "Sales Office": "TeleRep - Philadelphia"
+                    },
+                    {
+                        "Date Entered": "05/08/12"
+                    },
+                    {
+                        "Last Modified": "10/17/12"
+                    },
+                    {
+                        "CO-OP": ""
+                    },
+                    {
+                        "No": "06135017"
+                    },
+                    {
+                        "Headline #": "missing"
+                    },
+                    {
+                        "Buyer Name": "\"NAGELBERG,DAN\""
+                    },
+                    {
+                        "Phone/Fax": "1"
+                    },
+                    {
+                        "CPE": "49/53/1139"
+                    },
+                    {
+                        "Account Types": "National/Political PAC - Agency"
+                    },
+                    {
+                        "Sales Tax": "missing"
+                    },
+                    {
+                        "Billing Type": "Weekly/Irregular"
+                    },
+                    {
+                        "Comments": "DSCC 10/9-11/5"
+                    },
+                    {
+                        "*****": ""
+                    },
+                    {
+                        "Demo": "missing"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Deal": "missing"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "\"$35,423.25\""
+                    },
+                    {
+                        "Net Total": "\"$200,731.75\""
+                    },
+                    {
+                        "SPW": "missing"
+                    },
+                    {
+                        "Mo": "missing"
+                    },
+                    {
+                        "Tu": ":selected:"
+                    },
+                    {
+                        "We": ":selected:"
+                    },
+                    {
+                        "Th": ":selected:"
+                    },
+                    {
+                        "Fr": ":selected:"
+                    },
+                    {
+                        "Sa": "missing"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "5": "missing"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "1": "missing"
+                    },
+                    {
+                        "Accepted-Agency/Advertiser": "B/E Bookend P/B Piggy Back"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Accepted-Station": "missing"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Comments": "missing"
+                    },
+                    {
+                        "Printed At": "\"10:50 AM on Thursday, October 18 2012\""
+                    },
+                    {
+                        "Page": "3"
+                    },
+                    {
+                        "of": "7"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Norfolk (WVEC) (WVEC)": "By Broadcast Month"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Oct. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Nov. 2012"
+                    },
+                    {
+                        "Norfolk (WVEC) (WVEC)": "Grand Total:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "29.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "6:58P- 7:28P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x x x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "5",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$1,300.00",
+                        "Dates": "$6,500.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "WHEEL OF FORTUNE",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "30.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/19/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "X X x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "10",
+                        "Se": "$600.00",
+                        "Length": "$6,000.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "GOOD MORNING AMERICA",
+                        "Mo Tu": "10/5/12",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "31.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-10/26/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (ET)",
+                        "SPW": "4",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected:",
+                        "Dates": ":selected:",
+                        "Se": ":unselected: :unselected:",
+                        "Length": "4",
+                        "Run Times": "$600.00",
+                        "SPW": "$2,400.00",
+                        "Mo Tu": "Norfolk (WVEC) (WVEC)",
+                        "We Th": "GOOD MORNING AMERICA",
+                        "Fr": "10/9/12",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "32.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/30/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "7A- 9A (ET)",
+                        "SPW": "10",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "10",
+                        "Se": "$600.00",
+                        "Length": "$6,000.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "GOOD MORNING AMERICA",
+                        "Mo Tu": "10/9/12",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "33.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "7:28P- 7:57P (ET)",
+                        "SPW": "4",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "4",
+                        "Length": "$1,300.00",
+                        "Run Times": "$5,200.00",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "JEOPARDY",
+                        "We Th": "5/8/12",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "34.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "7:28P- 7:57P (ET)",
+                        "SPW": "5",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "15",
+                        "Length": "$1,300.00",
+                        "Run Times": "$19,500.00|",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "JEOPARDY",
+                        "We Th": "10/9/12",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "35.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/09/12-10/12/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "9A- 10A (ET)",
+                        "SPW": "2",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "2",
+                        "Length": "$300.00",
+                        "Run Times": "$600.00",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "LIVE WITH KELLY",
+                        "We Th": "10/5/12",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "36.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/16/12-10/19/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "9A- 10A (ET)",
+                        "SPW": "1",
+                        "Mo Tu": ":selected:",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":selected: :selected: :selected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "1",
+                        "Length": "$300.00",
+                        "Run Times": "$300.00",
+                        "SPW": "Norfolk (WVEC) (WVEC)",
+                        "Mo Tu": "LIVE WITH KELLY",
+                        "We Th": "10/9/12",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "37.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/23/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "9A- 10A (ET)",
+                        "SPW": "5",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected:",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "x x",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":selected: :selected: :selected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "10",
+                        "Se": "$300.00",
+                        "Length": "$3,000.00",
+                        "Run Times": "Norfolk (WVEC) (WVEC)",
+                        "SPW": "LIVE WITH KELLY",
+                        "Mo Tu": "10/9/12",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "38.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/26/12-11/02/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "10P- 11P (ET)",
+                        "SPW": ":unselected:",
+                        "Mo Tu": ":unselected: :unselected:",
+                        "We Th": ":unselected:",
+                        "Fr": "1",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": "2",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$1,250.00",
+                        "Dates": "$2,500.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "20/20",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "39.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "11/05/12-11/05/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "7:58P- 10P (ET)",
+                        "SPW": ":unselected:",
+                        "Mo Tu": "1",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": ":unselected: :unselected:",
+                        "Dates": ":unselected: :unselected:",
+                        "Se": "1",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": ":unselected:",
+                        "Line Type / Break Type (Ref #)": "$3,500.00",
+                        "Dates": "$3,500.00",
+                        "Se": "Norfolk (WVEC) (WVEC)",
+                        "Length": "DANCING WITH THE STARSEFF 9/24/12",
+                        "Run Times": "10/9/12",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": "missing",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    },
+                    {
+                        "Line": "40.1",
+                        "Line Type / Break Type (Ref #)": "Normal Line / NCAA - FOOTBALL",
+                        "Dates": "10/27/12-11/03/12",
+                        "Se": "5",
+                        "Length": ":30",
+                        "Run Times": "12P- 6:58P (ET)",
+                        "SPW": "missing",
+                        "Mo Tu": ":unselected:",
+                        "We Th": ":unselected:",
+                        "Fr": ":unselected:",
+                        "Sa Su": "4",
+                        "Spots": "8",
+                        "Rate": "$950.00",
+                        "Total": "$7,600.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments": "CLLG FTBL SEP-DEC12",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line": "41.0",
+                        "Line Type / Break Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/13/12-11/03/12",
+                        "Se": "missing",
+                        "Length": ":30",
+                        "Run Times": "6P- 6:30P (ET)",
+                        "SPW": ":unselected:",
+                        "Mo Tu": ":unselected:",
+                        "We Th": ":unselected:",
+                        "Fr": ":unselected:",
+                        "Sa Su": "1",
+                        "Spots": "missing",
+                        "Rate": "$300.00",
+                        "Total": "missing",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments": "WEEKEND NEWS",
+                        "Entered": "5/8/12"
+                    },
+                    {
+                        "Line": "missing",
+                        "Line Type / Break Type (Ref #)": "missing",
+                        "Dates": "missing",
+                        "Se": "missing",
+                        "Length": "missing",
+                        "Run Times": "missing",
+                        "SPW": "missing",
+                        "Mo Tu": "missing",
+                        "We Th": "missing",
+                        "Fr": "missing",
+                        "Sa Su": ":unselected:",
+                        "Spots": "missing",
+                        "Rate": "missing",
+                        "Total": "missing",
+                        "Station": "missing",
+                        "Comments": "missing",
+                        "Entered": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "CONFIRMATION CONTRACT": "Accepted-Agency/Advertiser: Date:"
+                    }
+                ]
+            }
+        ]
+    }
+]

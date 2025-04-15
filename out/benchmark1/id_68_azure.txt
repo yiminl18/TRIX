@@ -1,0 +1,101 @@
+#Record1
+-KV
+Contract #,27061923
+CPE,//6267
+Agency,SCREEN
+Comments,Kickback Orders
+Changes as of,9/9/2020 at 11:38 AM
+Flight,9/21/20 - 9/27/20
+Advertiser,Tina Smith for MN Senate
+Product,Candidate
+Agency Order #,missing
+Buyer,Carolilne Wait
+Salesperson,JENNA NUBAR
+Separation,202-872-5880
+Version,Current State Version 1
+Station,KBJR
+Market,Duluth-Superior
+Office,WASHINGTON
+Service,Nielsen
+Primary Demo,Adults 35+
+Assistant,JENNA NUBAR 202-872-5880
+Con Type,POLITICAL/VOTE
+Total $,"$23,350.00"
+Total Spots,99
+Total CPP,$0.00
+Total GRP,missing
+Traffic #,587398
+-TABLE
+#,Day/Time,DP,Program,Rate,A35P Rating,Len,9/21 - 9/27,Total,Total $,CPP*,GRP*
+-TABLE
+9/21,9/22,9/23,9/24,9/25,9/26,9/27,missing,Spots
+-TABLE
+1,5a-5:30a M-F,EM,5a News,$60.00,0.0,30,1,1,1,1,1,0,0,missing,5,$300.00,$0.00,0.0
+2,5:30a-6a M-F,EM,530a News,$80.00,0.0,30,1,1,1,1,1,0,0,missing,5,$400.00,$0.00,0.0
+3,M-F 6a-6:30a,EM,6a News,$150.00,0.0,30,1,1,1,1,1,0,0,missing,5,$750.00,$0.00,0.0
+4,M-F 6:30a-7a,EM,630a News,$180.00,0.0,30,1,1,1,1,1,0,0,missing,5,$900.00,$0.00,0.0
+5,7a-8a M-F,EM,Today Show,$200.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$1,000.00",$0.00,0.0
+6,8a-9a M-F,EM,Today Show,$75.00,0.0,30,1,1,1,1,1,0,0,missing,5,$375.00,$0.00,0.0
+7,Sa 6a-6:30a,EM,Sa 6a News,$25.00,0.0,30,0,0,0,0,0,1,0,missing,1,$25.00,$0.00,0.0
+8,6:30a-7a Sa,EM,Sa 630a News,$25.00,0.0,30,0,0,0,0,0,1,0,missing,1,$25.00,$0.00,0.0
+9,7a-9a Sa,EM,Sat Today,$50.00,0.0,30,0,0,0,0,0,1,0,missing,1,$50.00,$0.00,0.0
+10,6a-6:30a Su,EM,Sun 6a News,$25.00,0.0,30,0,0,0,0,0,0,1,missing,1,$25.00,$0.00,0.0
+11,Su 6:30a-7a,EM,Su 630a News,$25.00,0.0,30,0,0,0,0,0,0,1,missing,1,$25.00,$0.00,0.0
+12,7a-8a Su,EM,Sun Today,$50.00,0.0,30,0,0,0,0,0,0,1,missing,1,$50.00,$0.00,0.0
+13,9a-10a M-F,DY,Today II,$100.00,0.0,30,1,0,0,1,1,0,0,missing,3,$300.00,$0.00,0.0
+14,M-F 10a-11a,DY,Today III,$50.00,0.0,30,0,1,1,0,0,0,0,missing,2,$100.00,$0.00,0.0
+15,M-F 11a-12n,DY,The Jason Show,$50.00,0.0,30,1,1,0,1,1,0,0,missing,4,$200.00,$0.00,0.0
+16,M-F 12n-12:30p,DY,Noon News,$300.00,0.0,30,1,0,1,1,1,0,0,missing,4,"$1,200.00",$0.00,0.0
+17,M-F 1p-2p,DY,Days of Our Lives,$100.00,0.0,30,0,1,0,0,0,0,0,missing,1,$100.00,$0.00,0.0
+18,2p-2:30p M-F,DY,Hot Bench,$50.00,0.0,30,0,0,1,0,0,0,0,missing,1,$50.00,$0.00,0.0
+#Record2
+-KV
+Contract #,27061923
+CPE,//6267
+Agency,SCREEN
+Changes as of,9/9/2020 at 11:38 AM
+Flight,9/21/20 - 9/27/20
+Advertiser,Tina Smith for MN Senate
+Product,Candidate
+Agency Order #,missing
+Buyer,Carolilne Wait
+Salesperson,JENNA NUBAR
+Separation,202-872-5880
+9/21 - 9/27
+Version,Current State Version 1
+Station,KBJR
+Market,Duluth-Superior
+Office,WASHINGTON
+Service,Nielsen
+Primary Demo,Adults 35+
+Assistant,JENNA NUBAR 202-872-5880
+Con Type,POLITICAL/VOTE
+Total $,"$23,350.00"
+Total Spots,99
+Total CPP,$0.00
+Total GRP,missing
+Traffic #,587398
+-TABLE
+#,Day/Time,DP,Program,Rate,A35P Rating,Len,9/21 - 9/27,Total,Total,CPP*,GRP*
+-TABLE
+9/21,9/22,9/23,9/24,9/25,9/26,9/27,missing,Spots,$
+-TABLE
+19,2:30p-3p M-F,DY,Hot Bench,$50.00,0.0,30,1,0,0,1,0,0,0,missing,2,$100.00,$0.00,0.0
+20,M-F 3p-4p,EF,Dr. Phil,$100.00,0.0,30,0,1,1,0,1,0,0,missing,3,$300.00,$0.00,0.0
+21,M-F 4p-4:30p,EF,Judge Judy,$150.00,0.0,30,1,1,0,1,1,0,0,missing,4,$600.00,$0.00,0.0
+22,4:30p-5p M-F,EF,Judge Judy,$200.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$1,000.00",$0.00,0.0
+23,5p-5:30p M-F,EN,5p News,$250.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$1,250.00",$0.00,0.0
+24,6p-6:30p M-F,EN,6p News,$400.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$2,000.00",$0.00,0.0
+25,Sa 6р-6:30p,EN,Sat 6p,$100.00,0.0,30,0,0,0,0,0,1,0,missing,1,$100.00,$0.00,0.0
+26,M-F 6:30p-7p,PA,Wheel of Fortune,$800.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$4,000.00",$0.00,0.0
+27,Sa 6:30p-7p,PA,Wheel of Fortune,$75.00,0.0,30,0,0,0,0,0,1,0,missing,1,$75.00,$0.00,0.0
+28,9p-10p M,PR,Dateline,$150.00,0.0,30,1,0,0,0,0,0,0,missing,1,$150.00,$0.00,0.0
+29,7p-9p Tu,PR,AGT,"$1,500. 00",0.0,30,0,1,0,0,0,0,0,missing,1,"$1,500.00",$0.00,0.0
+30,7p-8p W,PR,AGT,"$1,500. 00",0.0,30,0,0,1,0,0,0,0,missing,1,"$1,500.00",$0.00,0.0
+31,9p-10p Th,PR,Law & Order: SUV,$750.00,0.0,30,0,0,0,1,0,0,0,missing,1,$750.00,$0.00,0.0
+32,7p-9p Sa,PR,Dateline,$500.00,0.0,30,0,0,0,0,0,1,0,missing,1,$500.00,$0.00,0.0
+33,M-F 10p-10:35p,LN,10p News,$400.00,0.0,30,1,1,1,1,1,0,0,missing,5,"$2,000.00",$0.00,0.0
+34,10p-10:30p Sa,LN,Sat 10p News,$600.00,0.0,30,0,0,0,0,0,1,0,missing,1,$600.00,$0.00,0.0
+35,Su 10:30p-11p,LN,Sun 1030p News,$600.00,0.0,30,0,0,0,0,0,0,1,missing,1,$600.00,$0.00,0.0
+36,10:35p-11:35p M-F,LF,Tonight Show,$100.00,0.0,30,1,1,0,1,1,0,0,missing,4,$400.00,$0.00,0.0
+37,M-F 11:35p-12:35a,LF,Seth Meyers,$50.00,0.0,30,0,0,1,0,0,0,0,missing,1,$50.00,$0.00,0.0

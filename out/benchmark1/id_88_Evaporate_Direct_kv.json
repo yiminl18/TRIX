@@ -1,0 +1,330 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "DATE": "10/05/2020"
+                    },
+                    {
+                        "MARKET": "Unmeasured Market"
+                    },
+                    {
+                        "AMOUNT": "$1,480.00"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "REP": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SLS PH": "4124212600"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS FAX": "4124216001"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "AGY CLI": "CONTRACT # FOR INVOICING 4390162"
+                    },
+                    {
+                        "ADVERTISER": "People for Ben"
+                    },
+                    {
+                        "PRODUCT": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "TOT # OF DAYS": "7"
+                    },
+                    {
+                        "PRIM. DEMO": "Adults 35+"
+                    },
+                    {
+                        "SEC. DEMO": "[MISSING]"
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "DAY": "1",
+                        "DATE_RANGE": "10/6/2020 To 10/6/2020",
+                        "TOT": "$200.00",
+                        "TOTAL SPOTS": "5",
+                        "MC": ".T.....",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "6:00AM",
+                        "END": "10:00AM",
+                        "TIME": "60",
+                        "LEN": "10/6/2020",
+                        "START DATE": "10/6/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "1",
+                        "DATE_RANGE": "10/6/2020 To 10/6/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "10:00AM",
+                        "END": "3:00PM",
+                        "TIME": "60",
+                        "LEN": "10/6/2020",
+                        "START DATE": "10/6/2020",
+                        "STOP DATE": "1",
+                        "SP/DY": "$40",
+                        "RATE": "$40",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "1",
+                        "DATE_RANGE": "10/6/2020 To 10/6/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "3:00PM",
+                        "END": "7:00PM",
+                        "TIME": "60",
+                        "LEN": "10/6/2020",
+                        "START DATE": "10/6/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "2",
+                        "DATE_RANGE": "10/7/2020 To 10/7/2020",
+                        "TOT": "$200.00",
+                        "TOTAL SPOTS": "5",
+                        "MC": "..W....",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "6:00AM",
+                        "END": "10:00AM",
+                        "TIME": "60",
+                        "LEN": "10/7/2020",
+                        "START DATE": "10/7/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "2",
+                        "DATE_RANGE": "10/7/2020 To 10/7/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "10:00AM",
+                        "END": "3:00PM",
+                        "TIME": "60",
+                        "LEN": "10/7/2020",
+                        "START DATE": "10/7/2020",
+                        "STOP DATE": "1",
+                        "SP/DY": "$40",
+                        "RATE": "$40",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "2",
+                        "DATE_RANGE": "10/7/2020 To 10/7/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "3:00PM",
+                        "END": "7:00PM",
+                        "TIME": "60",
+                        "LEN": "10/7/2020",
+                        "START DATE": "10/7/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "3",
+                        "DATE_RANGE": "10/8/2020 To 10/8/2020",
+                        "TOT": "$200.00",
+                        "TOTAL SPOTS": "5",
+                        "MC": "...T...",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "6:00AM",
+                        "END": "10:00AM",
+                        "TIME": "60",
+                        "LEN": "10/8/2020",
+                        "START DATE": "10/8/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "3",
+                        "DATE_RANGE": "10/8/2020 To 10/8/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "10:00AM",
+                        "END": "3:00PM",
+                        "TIME": "60",
+                        "LEN": "10/8/2020",
+                        "START DATE": "10/8/2020",
+                        "STOP DATE": "1",
+                        "SP/DY": "$40",
+                        "RATE": "$40",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "3",
+                        "DATE_RANGE": "10/8/2020 To 10/8/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "3:00PM",
+                        "END": "7:00PM",
+                        "TIME": "60",
+                        "LEN": "10/8/2020",
+                        "START DATE": "10/8/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "4",
+                        "DATE_RANGE": "10/9/2020 To 10/9/2020",
+                        "TOT": "$200.00",
+                        "TOTAL SPOTS": "5",
+                        "MC": "....F..",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "6:00AM",
+                        "END": "10:00AM",
+                        "TIME": "60",
+                        "LEN": "10/9/2020",
+                        "START DATE": "10/9/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "4",
+                        "DATE_RANGE": "10/9/2020 To 10/9/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "10:00AM",
+                        "END": "3:00PM",
+                        "TIME": "60",
+                        "LEN": "10/9/2020",
+                        "START DATE": "10/9/2020",
+                        "STOP DATE": "1",
+                        "SP/DY": "$40",
+                        "RATE": "$40",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "4",
+                        "DATE_RANGE": "10/9/2020 To 10/9/2020",
+                        "TOT": "[MISSING]",
+                        "TOTAL SPOTS": "[MISSING]",
+                        "MC": "[MISSING]",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "3:00PM",
+                        "END": "7:00PM",
+                        "TIME": "60",
+                        "LEN": "10/9/2020",
+                        "START DATE": "10/9/2020",
+                        "STOP DATE": "2",
+                        "SP/DY": "$40",
+                        "RATE": "$80",
+                        "TOTAL": ""
+                    },
+                    {
+                        "DAY": "5",
+                        "DATE_RANGE": "10/10/2020 To 10/10/2020",
+                        "TOT": "$240.00",
+                        "TOTAL SPOTS": "6",
+                        "MC": ".....S.",
+                        "LN": "[MISSING]",
+                        "SPT TYP": "[MISSING]",
+                        "DAYS": "[MISSING]",
+                        "START": "6:00AM",
+                        "END": "7:00PM",
+                        "TIME": "60",
+                        "LEN": "10/10/2020",
+                        "START DATE": "10/10/2020",
+                        "STOP DATE": "6",
+                        "SP/DY": "$40",
+                        "RATE": "$240",
+                        "TOTAL": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

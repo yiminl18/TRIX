@@ -1,0 +1,172 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Inv #": "7237942"
+                    },
+                    {
+                        "Acct #": "8284"
+                    },
+                    {
+                        "Invoice Date": "2/9/2020"
+                    },
+                    {
+                        "Advertiser": "Mike Bloomberg 2020 Inc-D (133903)"
+                    },
+                    {
+                        "Agency": "Assembly (16037)"
+                    },
+                    {
+                        "Period": "2/3/2020 - 2/9/2020"
+                    },
+                    {
+                        "GrossTotal": "$5,050.00"
+                    },
+                    {
+                        "Commission": "($757.50)"
+                    },
+                    {
+                        "SalesTax": "$0.00"
+                    },
+                    {
+                        "NETTOTAL": "$4,292.50"
+                    },
+                    {
+                        "Due By": "2/9/2020"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "[MISSING]",
+                        "Type": "[MISSING]",
+                        "Scheduled Time": "[MISSING]",
+                        "Scheduled Day to Run": "[MISSING]",
+                        "Air Date/Time": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Program": "[MISSING]",
+                        "AD-ID/ISCI": "[MISSING]",
+                        "Amount": "[MISSING]",
+                        "Remarks": "[MISSING]"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Inv #": "6176196"
+                    },
+                    {
+                        "Acct #": "7041"
+                    },
+                    {
+                        "Invoice Date": "10/21/2018"
+                    },
+                    {
+                        "Advertiser": "Women Vote (74334)"
+                    },
+                    {
+                        "Agency": "Waterfront Strategies (7591)"
+                    },
+                    {
+                        "Period": "10/15/2018 - 10/21/2018"
+                    },
+                    {
+                        "GrossTotal": "$10,110.00"
+                    },
+                    {
+                        "Commission": "($1,516.50)"
+                    },
+                    {
+                        "SalesTax": "$0.00"
+                    },
+                    {
+                        "NETTOTAL": "$8,593.50"
+                    },
+                    {
+                        "Due By": "10/21/2018"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "[MISSING]",
+                        "Type": "[MISSING]",
+                        "Scheduled Time": "[MISSING]",
+                        "Scheduled Day to Run": "[MISSING]",
+                        "Air Date/Time": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Program": "[MISSING]",
+                        "AD-ID/ISCI": "[MISSING]",
+                        "Amount": "[MISSING]",
+                        "Remarks": "[MISSING]"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Inv #": "7748821"
+                    },
+                    {
+                        "Acct #": "95523"
+                    },
+                    {
+                        "Invoice Date": "10/4/2020"
+                    },
+                    {
+                        "Advertiser": "Betsy Dirksen Londrigan for Congress-D (122283)"
+                    },
+                    {
+                        "Agency": "Beacon Media (7261)"
+                    },
+                    {
+                        "Period": "9/28/2020 - 10/4/2020"
+                    },
+                    {
+                        "GrossTotal": "$1,835.00"
+                    },
+                    {
+                        "Commission": "($275.25)"
+                    },
+                    {
+                        "SalesTax": "$0.00"
+                    },
+                    {
+                        "NETTOTAL": "$1,559.75"
+                    },
+                    {
+                        "Due By": "10/4/2020"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "[MISSING]",
+                        "Type": "[MISSING]",
+                        "Scheduled Time": "[MISSING]",
+                        "Scheduled Day to Run": "[MISSING]",
+                        "Air Date/Time": "[MISSING]",
+                        "Length": "[MISSING]",
+                        "Program": "[MISSING]",
+                        "AD-ID/ISCI": "[MISSING]",
+                        "Amount": "[MISSING]",
+                        "Remarks": "[MISSING]"
+                    }
+                ]
+            }
+        ]
+    }
+]

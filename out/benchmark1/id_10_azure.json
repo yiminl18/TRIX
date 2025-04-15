@@ -1,0 +1,830 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "GrantID Director": "5319 Ms. Melanie Bentley"
+                    },
+                    {
+                        "Grant Title": "Communicating STEM Research to a Broader Audience"
+                    },
+                    {
+                        "Agency Name": "University of Kentucky"
+                    },
+                    {
+                        "Amount Awarded": "\"$7,637\""
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "0"
+                    },
+                    {
+                        "Total $": "\"$7,637\""
+                    },
+                    {
+                        "Approved $": "\"$7,637\""
+                    },
+                    {
+                        "Pending $": "$0"
+                    },
+                    {
+                        "Declined $": "$0"
+                    },
+                    {
+                        "GrantID Director": "5241 Dr. Jennifer Wies"
+                    },
+                    {
+                        "Grant Title": "Measuring Pathways to Food Insecurity in Appalachia: Modeling Social-Ecological and Political-Economic Influences"
+                    },
+                    {
+                        "Agency Name": "National Science Foundation"
+                    },
+                    {
+                        "Amount Requested": "\"$157,412\""
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "\"$157,412\""
+                    },
+                    {
+                        "Approved $": "$0"
+                    },
+                    {
+                        "Pending $": "$0"
+                    },
+                    {
+                        "Declined $": "\"$157,412\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "1": "$7,637",
+                        "Approved:": "Approved $:",
+                        "1 Pending:": "$7,637 Pending $:",
+                        "0": "$0",
+                        "Declined:": "Declined $:",
+                        "0.1": "$0"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Department": "Status Declined",
+                        "Anthropology, Sociology, & Social Work": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID Director": "5241 Dr. Jennifer Wies",
+                        "Grant Title": "Measuring Pathways to Food Insecurity in Appalachia: Modeling Social-Ecological and Political-Economic Influences",
+                        "Agency Name": "National Science Foundation",
+                        "Amount Requested": "$157,412"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "1": "$157,412",
+                        "Approved:": "Approved $:",
+                        "0 Pending:": "$0 Pending $:",
+                        "0 Declined:": "$0",
+                        "1.1": "Declined $:"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Department": "Biological Sciences"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID": "5296",
+                        "Director": "Dr. Stephen Richter",
+                        "Grant Title": "Temporal comparisons of genetic variation in the dusky gopher frog (Lithobates sevosus)",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$7,959"
+                    },
+                    {
+                        "GrantID": "5280",
+                        "Director": "Dr. Marcia Pierce",
+                        "Grant Title": "Bridging the Gap: Appalachian Students in Biomedical Research in Kentucky",
+                        "Agency Name": "University of Kentucky",
+                        "Amount Awarded": "$206,183"
+                    },
+                    {
+                        "GrantID": "5314",
+                        "Director": "Dr. Robert Frederick",
+                        "Grant Title": "Wildlife Ecologist - Research Startup",
+                        "Agency Name": "Kentucky Science and Technology Corporation",
+                        "Amount Awarded": "$30,000"
+                    },
+                    {
+                        "GrantID": "5283",
+                        "Director": "Dr. David Brown",
+                        "Grant Title": "Running Buffalo Clover and Deer Survey",
+                        "Agency Name": "Blue Grass Army Depot",
+                        "Amount Awarded": "$20,000"
+                    },
+                    {
+                        "GrantID": "5146",
+                        "Director": "Dr. Stephen Richter",
+                        "Grant Title": "Enchancing Research Capacity in Appalachia: Research Facilities for Lilley Cornett Woods Field Station",
+                        "Agency Name": "National Science Foundation",
+                        "Amount Awarded": "$300,474"
+                    },
+                    {
+                        "GrantID": "5232 Dr. Sherry Harrel",
+                        "Director": "missing",
+                        "Grant Title": "Distribution, Movement and Ecology of Etheostoma sagitta spilotum, the Kentucky Arrow Darter",
+                        "Agency Name": "United States Fish and Wildlife Service",
+                        "Amount Awarded": "$22,000"
+                    },
+                    {
+                        "GrantID": "5300 Dr. Stephen Richter",
+                        "Director": "missing",
+                        "Grant Title": "Effects of interactions between Notophthalmus viridescens and lithobates sylvaticus in a ridge-top wetland ecosystem",
+                        "Agency Name": "Kentucky Academy of Science",
+                        "Amount Awarded": "$1,000"
+                    },
+                    {
+                        "GrantID": "5297",
+                        "Director": "Dr. Stephen Richter",
+                        "Grant Title": "Comparative Landscape Genetics of Amphibians Across a Ridge-Top Wetland Ecosystem",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$4,358"
+                    },
+                    {
+                        "GrantID": "5290",
+                        "Director": "Dr. Jarrod Thaxton",
+                        "Grant Title": "Linking Theory and Practice to Overcome Barriers to Ecosystem Restoration",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$35,592"
+                    },
+                    {
+                        "GrantID": "5200",
+                        "Director": "Dr. Stephen Richter",
+                        "Grant Title": "Conservation genetics of gopher frogs in Alabama",
+                        "Agency Name": "Alabama Division of Wildlife and Freshwater Fis",
+                        "Amount Awarded": "$7,045"
+                    },
+                    {
+                        "GrantID": "5254",
+                        "Director": "Dr. David Brown",
+                        "Grant Title": "Evaluation of Management Strategies for Long-Term Maintenance of Running Buffalo Clover (Trifolium stoloniferum) populations in Kentucky",
+                        "Agency Name": "Kentucky Natural Lands Trust",
+                        "Amount Awarded": "$6,000"
+                    },
+                    {
+                        "GrantID": "5189",
+                        "Director": "Dr. Amy Braccia",
+                        "Grant Title": "Assessment of Hydrologic Functions in Combined Stream and Floodplain Restoration",
+                        "Agency Name": "University of Louisville",
+                        "Amount Awarded": "$59,732"
+                    },
+                    {
+                        "GrantID": "5187 Dr. Stephen Richter",
+                        "Director": "missing",
+                        "Grant Title": "Kentucky Wetland Rapid",
+                        "Agency Name": "Assessment Method (KY-WRAM) and Indices of Biotic Integrity",
+                        "Amount Awarded": "Kentucky Division of Water"
+                    },
+                    {
+                        "GrantID": "5231 Dr. Sherry Harrel",
+                        "Director": "missing",
+                        "Grant Title": "Distribution, Movement and Ecology of Etheostoma sagitta spilotum, the Kentucky Arrow Darter",
+                        "Agency Name": "Kentucky Department of Fish and Wildlife Resou",
+                        "Amount Awarded": "$57,160"
+                    },
+                    {
+                        "GrantID": "5298 Dr. David Hayes",
+                        "Director": "missing",
+                        "Grant Title": "Molecular Analyses in Conjunction with Ongoing Phylogenetics Research",
+                        "Agency Name": "Missouri Department of Conservation",
+                        "Amount Awarded": "$1,000"
+                    },
+                    {
+                        "GrantID": "Status Declined",
+                        "Director": "missing",
+                        "Grant Title": "missing",
+                        "Agency Name": "missing",
+                        "Amount Awarded": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID Director": "5301 Dr. Gary Ritchison",
+                        "Grant Title": "Vocal Responses of Blue Jays to Raptors: possible use of referential alarm calls to convey information to conspecifics",
+                        "Agency Name": "Kentucky Academy of Science",
+                        "Amount Requested": "$4,780"
+                    },
+                    {
+                        "GrantID Director": "5179 Dr. Stephen Richter",
+                        "Grant Title": "Developing a genotyping tool for assisting the management of the critically endangered dusky gopher frog",
+                        "Agency Name": "San Diego Zoo",
+                        "Amount Requested": "$0"
+                    },
+                    {
+                        "GrantID Director": "5182 Dr. Stephen Richter",
+                        "Grant Title": "Reversing the Decline of an Eastern Grassland Indicator Species",
+                        "Agency Name": "Texas Parks and Wildlife Department",
+                        "Amount Requested": "$22,008"
+                    },
+                    {
+                        "GrantID Director": "5302 Dr. Gary Ritchison",
+                        "Grant Title": "Provisioning Strateies of Male and Female American Kestrel: Effects of Variation in the Intensity of Beggin by Nestlings",
+                        "Agency Name": "Kentucky Academy of Science",
+                        "Amount Requested": "$1,283"
+                    },
+                    {
+                        "GrantID Director": "5204 Dr. Patrick Calie",
+                        "Grant Title": "Dimensions: Collaborative Research: Convergent evolution and chemotypic diversification of vertically transmitted plant- symbiotic fungi",
+                        "Agency Name": "National Science Foundation",
+                        "Amount Requested": "$40,424"
+                    },
+                    {
+                        "GrantID Director": "5305 Dr. Stephen Richter",
+                        "Grant Title": "Effects of interactions between Notophthalmus viridescens and Lithobates sylvaticus in a ridge-top wetland system",
+                        "Agency Name": "The Wetland Foundation",
+                        "Amount Requested": "$800"
+                    },
+                    {
+                        "GrantID Director": "5310 Dr. Brad Ruhfel",
+                        "Grant Title": "Plastid Phlogenomics of Podostemaceae",
+                        "Agency Name": "Oak Ridge Associated Universities",
+                        "Amount Requested": "$5,000"
+                    },
+                    {
+                        "GrantID Director": "5312 Dr. Lindsay Calderon",
+                        "Grant Title": "iPLA2beta a novel regulator of breast cancer tumor growth and metastasis",
+                        "Agency Name": "University of Louisville",
+                        "Amount Requested": "$112,000"
+                    },
+                    {
+                        "GrantID Director": "5279 Dr. Lindsay Calderon",
+                        "Grant Title": "Enchancing Appalachian Undergraduate Education through",
+                        "Agency Name": "American Heart Association",
+                        "Amount Requested": "$40,000"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Submitted": "27"
+                    },
+                    {
+                        "Approved": "15"
+                    },
+                    {
+                        "Pending": "2"
+                    },
+                    {
+                        "Declined": "10"
+                    },
+                    {
+                        "Total $": "\"$1,519,291\""
+                    },
+                    {
+                        "Approved $": "\"$823,954\""
+                    },
+                    {
+                        "Pending $": "\"$399,485\""
+                    },
+                    {
+                        "Declined $": "\"$295,852\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "5100 Dr. Patrick Calie": "Status Pending",
+                        "Nonparametric Approaches to Estimate Phylogenetic Tree Distributions": "missing",
+                        "National Science Foundation": "missing",
+                        "$69,557": "missing"
+                    },
+                    {
+                        "5100 Dr. Patrick Calie": "GrantID Director",
+                        "Nonparametric Approaches to Estimate Phylogenetic Tree Distributions": "Grant Title",
+                        "National Science Foundation": "Agency Name",
+                        "$69,557": "Amount Requested"
+                    },
+                    {
+                        "5100 Dr. Patrick Calie": "5332 Dr. Rebekah Waikel",
+                        "Nonparametric Approaches to Estimate Phylogenetic Tree Distributions": "An Early College Initiative to Retain Appalachian Students in STEM Fields",
+                        "National Science Foundation": "Association of American College and Universitie",
+                        "$69,557": "$329,489"
+                    },
+                    {
+                        "5100 Dr. Patrick Calie": "5324 Dr. Rebekah Waikel",
+                        "Nonparametric Approaches to Estimate Phylogenetic Tree Distributions": "Bridge Funding for Estrogen Mediated Regulation of miRNAs in Cardiac Remodeling",
+                        "National Science Foundation": "University of Louisville",
+                        "$69,557": "$69,996"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "27": "$1,519,291",
+                        "Approved:": "Approved $:",
+                        "15": "$823,954",
+                        "Pending:": "Pending $:",
+                        "2": "$399,485",
+                        "Declined:": "Declined $:",
+                        "10": "$295,852"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Status Approved": "5285 Dr. Tanea Reed",
+                        "Grant Title": "The role of glutathione elevation in moderate traumatic brain injury",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$10,440"
+                    },
+                    {
+                        "Status Approved": "5343 Dr. Lori Wilson",
+                        "Grant Title": "Startup Funds for Assistant Professor of Inorganic Chemistry",
+                        "Agency Name": "Kentucky Science and Technology Corporation",
+                        "Amount Awarded": "$25,000"
+                    },
+                    {
+                        "Status Approved": "5286 Dr. Buchang Shi",
+                        "Grant Title": "Towards understanding the mechanism of hydrocarbon synthesis on iron catalysts",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$25,000"
+                    },
+                    {
+                        "Status Approved": "5365 Dr. Lori Wilson",
+                        "Grant Title": "The application of molecular beacons as a diagnostic mechanism for rapid SNP genotyping of highly degraded forensic samples",
+                        "Agency Name": "Kentucky NSF EPSCoR",
+                        "Amount Awarded": "$59,361"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "GrantID Director": "5328 Dr. Tanea Reed"
+                    },
+                    {
+                        "Grant Title": "A novel therapeutic treatment for lipid"
+                    },
+                    {
+                        "reduction and gluthathione elevation in moderate traumatic": ""
+                    },
+                    {
+                        "Agency Name": "University of Louisville"
+                    },
+                    {
+                        "Amount Requested": "\"$69,919\""
+                    },
+                    {
+                        "Submitted": "12"
+                    },
+                    {
+                        "Approved": "5"
+                    },
+                    {
+                        "Pending": "1"
+                    },
+                    {
+                        "Declined": "6"
+                    },
+                    {
+                        "Total $": "\"$703,799\""
+                    },
+                    {
+                        "Approved $": "\"$144,801\""
+                    },
+                    {
+                        "Pending $": "\"$69,919\""
+                    },
+                    {
+                        "Declined $": "\"$489,079\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "5307 Dr. David Cunningham": "Status Declined",
+                        "Coating Research": "missing",
+                        "Abbott Point-of-Care": "missing",
+                        "$25,000": "missing"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "GrantID Director",
+                        "Coating Research": "Grant Title",
+                        "Abbott Point-of-Care": "Agency Name",
+                        "$25,000": "Amount Requested"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5320 Dr. Tanea Reed",
+                        "Coating Research": "A novel therapeutic treatment for lipid peroxidation reduction and gluathione elevation in moderate traumatic brain injury",
+                        "Abbott Point-of-Care": "University of Louisville",
+                        "$25,000": "$49,981"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5373 Dr. Lori Wilson",
+                        "Coating Research": "The application of molecular beacons as a diagnostic mechanism for the rapid genotyping of InDels and SNPs",
+                        "Abbott Point-of-Care": "University of Louisville",
+                        "$25,000": "$29,000"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5288 Dr. David Cunningham",
+                        "Coating Research": "Collaborative Research: In-situ measurements of NanoMechanical forces in free-standing fibrous thin-film substrates to understand cell attachment, growth, and proliferation",
+                        "Abbott Point-of-Care": "National Science Foundation",
+                        "$25,000": "$231,244"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5161 Dr. Buchang Shi",
+                        "Coating Research": "Sugar production from low temperature pre-treated biomass",
+                        "Abbott Point-of-Care": "Kentucky Science and Technology Corporation",
+                        "$25,000": "$29,998"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5287 Dr. Donghui Quan",
+                        "Coating Research": "Chemical Modeling of Newly Detected Interstellar Nitro- Prebiotic Modules",
+                        "Abbott Point-of-Care": "University of Kentucky",
+                        "$25,000": "$36,856"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5311 Dr. Margaret Ndinguri",
+                        "Coating Research": "Targeting cancer cells using luteinizing hormone releasing hormone (LHRH) peptide moiety",
+                        "Abbott Point-of-Care": "University of Louisville",
+                        "$25,000": "$112,000"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "Status Pending",
+                        "Coating Research": "missing",
+                        "Abbott Point-of-Care": "missing",
+                        "$25,000": "missing"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "GrantID Director",
+                        "Coating Research": "Grant Title",
+                        "Abbott Point-of-Care": "Agency Name",
+                        "$25,000": "Amount Requested"
+                    },
+                    {
+                        "5307 Dr. David Cunningham": "5328 Dr. Tanea Reed",
+                        "Coating Research": "A novel therapeutic treatment for lipid peroxidation reduction and gluthathione elevation in moderate traumatic brain injury.",
+                        "Abbott Point-of-Care": "University of Louisville",
+                        "$25,000": "$69,919"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "12": "$703,799",
+                        "Approved:": "Approved $:",
+                        "5": "$144,801",
+                        "Pending:": "Pending $:",
+                        "1": "$69,919",
+                        "Declined:": "Declined $:",
+                        "6": "$489,079"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Department": "Computer Science"
+                    },
+                    {
+                        "GrantID Director": "5158 Dr. Mengkun Yang"
+                    },
+                    {
+                        "Grant Title": "iPad Application for Assisting in Treatment of Children with Autism Spectrum Disorders (ASD)"
+                    },
+                    {
+                        "Agency Name": "WHAS Crusade for Children"
+                    },
+                    {
+                        "Amount Requested": "\"$3,046\""
+                    },
+                    {
+                        "Submitted": "1"
+                    },
+                    {
+                        "Approved": "0"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "\"$3,046\""
+                    },
+                    {
+                        "Approved $": "$0"
+                    },
+                    {
+                        "Pending $": "$0"
+                    },
+                    {
+                        "Declined $": "\"$3,046\""
+                    },
+                    {
+                        "Department": "English & Theatre"
+                    },
+                    {
+                        "GrantID Director": "5275 Dr. Richard Mott"
+                    },
+                    {
+                        "Grant Title": "\"Textpeditions: Empowering Students to Create Map-Based, Multimedia, Humanities-oriented Journeys\""
+                    },
+                    {
+                        "Agency Name": "National Endowment for the Humanities"
+                    },
+                    {
+                        "Amount Requested": "\"$59,643\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "1": "$3,046",
+                        "Approved:": "Approved $:",
+                        "0 Pending:": "$0 Pending $:",
+                        "0 Declined:": "$0",
+                        "1.1": "Declined $:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID Director": "5303 Dr. Sally Martin",
+                        "Grant Title": "EKU Writing Project",
+                        "Agency Name": "Kentucky Department of Education",
+                        "Amount Awarded": "$40,761"
+                    },
+                    {
+                        "GrantID Director": "5366 Dr. Lisa Bosley",
+                        "Grant Title": "Developmental Education Acceleration and Co-Requisite Models",
+                        "Agency Name": "Council on Post-Secondary Education",
+                        "Amount Awarded": "$17,704"
+                    },
+                    {
+                        "GrantID Director": "5255 Dr. Sally Martin",
+                        "Grant Title": "Professional Development in a High-Need School: Jackson County High School",
+                        "Agency Name": "National Writing Project",
+                        "Amount Awarded": "$20,000"
+                    },
+                    {
+                        "GrantID Director": "Status Declined",
+                        "Grant Title": "missing",
+                        "Agency Name": "missing",
+                        "Amount Awarded": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID": 5275,
+                        "Director": "Dr. Richard Mott",
+                        "Grant Title": "Textpeditions: Empowering Students to Create Map-Based, Multimedia, Humanities-oriented Journeys",
+                        "Agency Name": "National Endowment for the Humanities",
+                        "Amount Requested": "$59,643"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Submitted": "4"
+                    },
+                    {
+                        "Approved": "3"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "\"$138,108\""
+                    },
+                    {
+                        "Approved $": "\"$78,465\""
+                    },
+                    {
+                        "Pending $": "$0"
+                    },
+                    {
+                        "Declined $": "\"$59,643\""
+                    },
+                    {
+                        "GrantID Director": "5340 Dr. Abby Poffenberger"
+                    },
+                    {
+                        "Grant Title": "Latino Educational Advancement Program"
+                    },
+                    {
+                        "Agency Name": "Kentucky Latino Educational Alliance"
+                    },
+                    {
+                        "Amount Awarded": "\"$35,000\""
+                    },
+                    {
+                        "GrantID Director": "5282 Dr. Rachel Williams"
+                    },
+                    {
+                        "Grant Title": "Tournees Film Festival"
+                    },
+                    {
+                        "Agency Name": "French American Cultural Exchange"
+                    },
+                    {
+                        "Amount Requested": "\"$1,800\""
+                    },
+                    {
+                        "Submitted": "2"
+                    },
+                    {
+                        "Approved": "1"
+                    },
+                    {
+                        "Pending": "0"
+                    },
+                    {
+                        "Declined": "1"
+                    },
+                    {
+                        "Total $": "\"$36,800\""
+                    },
+                    {
+                        "Approved $": "\"$35,000\""
+                    },
+                    {
+                        "Pending $": "$0"
+                    },
+                    {
+                        "Declined $": "\"$1,800\""
+                    },
+                    {
+                        "GrantID Director": "5129 Dr. Kelly Watson"
+                    },
+                    {
+                        "Grant Title": "\"CHN: Honey bee decline, forage acess, and scaling phenology to the pollinator across land covers in Eastern Kentucky\""
+                    },
+                    {
+                        "Agency Name": "University of Kentucky"
+                    },
+                    {
+                        "Amount Requested": "\"$22,995\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "4": "$138,108",
+                        "Approved:": "Approved $:",
+                        "3": "$78,465",
+                        "Pending:": "Pending $:",
+                        "0 Declined:": "$0 Declined $:",
+                        "1": "$59,643"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "GrantID": "5340",
+                        "Director": "Dr. Abby Poffenberger",
+                        "Grant Title": "Latino Educational Advancement Program",
+                        "Agency Name": "Kentucky Latino Educational Alliance",
+                        "Amount Awarded": "$35,000"
+                    },
+                    {
+                        "GrantID": "Status",
+                        "Director": "Declined",
+                        "Grant Title": "missing",
+                        "Agency Name": "missing",
+                        "Amount Awarded": "missing"
+                    },
+                    {
+                        "GrantID": "GrantID",
+                        "Director": "Director",
+                        "Grant Title": "Grant Title",
+                        "Agency Name": "Agency Name",
+                        "Amount Awarded": "Amount Requested"
+                    },
+                    {
+                        "GrantID": "5282",
+                        "Director": "Dr. Rachel Williams",
+                        "Grant Title": "Tournees Film Festival",
+                        "Agency Name": "French American Cultural Exchange",
+                        "Amount Awarded": "$1,800"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Submitted:": "Total $:",
+                        "2": "$36,800",
+                        "Approved:": "Approved $:",
+                        "1": "$35,000",
+                        "Pending:": "Pending $:",
+                        "0 Declined:": "$0",
+                        "1.1": "Declined $:"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,223 @@
+#Record1
+-KV
+Schedule Dates,09/04/20-09/07/20
+Advertiser,POL/J Biden/D/Pres/US (6268)
+Agency,Media Buying and Analytics (2146)
+Product,Political-Candidate (1058)
+Brand,1106/1350/8137 (38888)
+Salesperson,"HRP-Philadelphia, Philadelphia (1087)"
+Sales Office,HRP-Philadelphia
+Buyer Name,"HUTTON,SHELLI"
+Phone/Fax,/
+CPE,1106/1350/8137
+Account Types,National/Political Agency
+Billing Type,Standard
+Comments,"BIDEN FOR PRES/60'S
+***** THIS IS A CASH IN ADVANCE SCHEDULE
+,"
+Date Entered,08/31/20
+Last Modified,08/31/20
+Entered By,Lori Kempton
+CO-OP
+No,missing
+Headline #,09918296
+Demo,missing
+Order Type,Normal
+Commission %,15.00
+Commission,$101.40
+Net Total,$574.60
+Sales Tax,missing
+Grand Total,36
+$676.00
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,Station,Comments,Entered
+1.0,Normal Line / SPOT,09/07/20-09/07/20,4,1:00,6A- MIKE & MOLLY 6AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,1,$6.00,$6.00,Duluth/Superior (KQDS),MIKE & MOLLY,8/31/20,missing,missing,missing,missing,missing,missing,missing
+2.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,6A- MIKE & MOLLY 6AM,:unselected:,1,1,$6.00,$6.00,Duluth/Superior (KODS),MIKE & MOLLY,8/31/20
+3.0,Normal Line / SPOT,09/07/20-09/07/20,4,1:00,6:30A- TMZ 630AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,1,$6.00,$6.00,Duluth/Superior (KQDS),TMZ,8/31/20,missing,missing,missing,missing,missing,missing,missing
+4.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,6:30A- TMZ 630AM,:unselected:,1,1,$6.00,$6.00,Duluth/Superior (KODS),TMZ,8/31/20
+missing,5.0|Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,9A- FAMILY FEUD 9AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,missing,$10.00,$10.00,Duluth/Superior (KQDS),FAMILY FEUD,8/31/20,missing,missing,missing,missing,missing,missing,missing
+6.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,9A- FAMILY FEUD 9AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,missing,$10.00,$10.00,Duluth/Superior (KODS),FAMILY FEUD,8/31/20,missing,missing,missing,missing,missing,missing,missing
+7.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,9:30A- FAMILY FEUD 930AM,missing,1,missing,$10.00,$10.00,Duluth/Superior (KODS),FAMILY FEUD,8/31/20
+8.0,Normal Line / SPOT,09/04/20-09/04/20,4,1:00,9:30A- FAMILY FEUD 930AM,missing,1,missing,$10.00,$10.00,Duluth/Superior (KQDS),FAMILY FEUD,8/31/20
+9.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,10A- 11A (CST),missing,1,missing,$10.00,$10.00,Duluth/Superior (KQDS),2 BROKE/HIMYM,8/31/20
+10.0,|Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,10A- 11A (CST),missing,1,missing,missing,missing,missing,missing,missing
+:unselected:,missing,$10.00,$10.00,Duluth/Superior (KODS),2 BROKE/HIMYM,8/31/20,missing,missing,missing,missing,missing,missing,missing
+11.0,Normal Line / SPOT,09/07/20-09/07/20,4,1:00,11A- PATERNITY COURT 11AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,missing,$10.00,$10.00,Duluth/Superior (KODS),PATERNITY COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+missing,missing,missing,missing,missing,missing,:unselected:,:unselected: :unselected:,missing,missing,missing,missing,missing,missing
+#Record2
+-KV
+Contract #,59119
+Schedule Dates,09/04/20-09/07/20
+Advertiser,POL/J Biden/D/Pres/US (6268)
+Agency,Media Buying and Analytics (2146)
+Product,Political-Candidate (1058)
+Brand,1106/1350/8137 (38888)
+Salesperson,"HRP-Philadelphia, Philadelphia (1087)"
+Sales Office,HRP-Philadelphia
+Buyer Name,"HUTTON,SHELLI"
+Phone/Fax,/
+CPE,1106/1350/8137
+Account Types,National/Political Agency
+Billing Type,Standard
+Comments,BIDEN FOR PRES/60'S
+Date Entered,08/31/20
+Last Modified,08/31/20
+Entered By,Lori Kempton
+CO-OP
+No,missing
+Headline #,09918296
+Demo,missing
+Order Type,Normal
+Commission %,15.00
+Commission,$101.40
+Net Total,$574.60
+Sales Tax,missing
+Grand Total,36
+$676.00
+Accepted·Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed At,"02:36 PM on Monday, August 31 2020"
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,Station,Comments,Entered
+12.0,Normal Line / SPOT,09/04/20-09/04/20,4,1:00,11A- PATERNITY COURT 11AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,1,$10.00,$10.00,Duluth/Superior (KODS),PATERNITY COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+13.0,Normal Line / SPOT,09/07/20-09/07/20,4,1:00,11:30A- DIVORCE COURT 1130AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,-,$10.00,$10.00,Duluth/Superior (KQDS),DIVORCE COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+14.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,11:30A- DIVORCE COURT 1130AM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,missing,$10.00,$10.00,Duluth/Superior (KQDS),DIVORCE COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+15.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,12P- PEOPLES COURT 12PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,1,$14.00,$14.00,Duluth/Superior (KODS),THE PEOPLE'S COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+16.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,12P- PEOPLES COURT 12PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected: :unselected:,1,$14.00,$14.00,Duluth/Superior (KODS),THE PEOPLE'S COURT,8/31/20,missing,missing,missing,missing,missing,missing,missing
+17.0,|Normal Line / SPOT,09/07/20-09/07/20,A,1:00,1P- 2P (CST),:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,missing,$10.00,$10.00,Duluth/Superior (KODS),AMERICA SAYS,8/31/20,missing,missing,missing,missing,missing,missing,missing
+18.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,1P- 2P (CST),missing,1,1,$10.00,$10.00,Duluth/Superior (KQDS),AMERICA SAYS,8/31/20
+19.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,2P- ACCESS DAILY 2PM,missing,1,missing,$6.00,$6.00,Duluth/Superior (KQDS),ACCESS,8/31/20
+20.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,2P- ACCESS DAILY 2PM,missing,1,1,$6.00,$6.00,Duluth/Superior (KQDS),ACCESS,8/31/20
+21.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,3P- 4P (CST),missing,1,missing,$6.00,$6.00,Duluth/Superior (KODS),DAILY MAIL 2X,8/31/20
+22.0,Normal Line / SPOT,09/04/20-09/04/20,4,1:00,3P- 4P (CST),missing,1,missing,$6.00,$6.00,Duluth/Superior (KODS),DAILY MAIL 2X,8/31/20
+23.0,Normal Line / SPOT,09/07/20-09/07/20,A,1:00,5:30P- LOCAL NEWS 530PM,missing,1,1,$40.00,$40.00,Duluth/Superior (KQDS),FOX 21 NEWS AT 5:30P,8/31/20
+missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+#Record3
+-KV
+Contract #,59119
+Schedule Dates,09/04/20-09/07/20
+Advertiser,POL/J Biden/D/Pres/US (6268)
+Agency,Media Buying and Analytics (2146)
+Product,Political-Candidate (1058)
+Brand,1106/1350/8137 (38888)
+Salesperson,"HRP-Philadelphia, Philadelphia (1087)"
+Sales Office,HRP-Philadelphia
+Buyer Name,"HUTTON,SHELLI"
+Phone/Fax,1
+CPE,1106/1350/8137
+Account Types,National/Political Agency
+Billing Type,Standard
+Comments,BIDEN FOR PRES/60'S
+*****
+Date Entered,08/31/20
+Last Modified,08/31/20
+Entered By,Lori Kempton
+CO-OP
+No,missing
+Headline #,09918296
+Demo,missing
+Order Type,Normal
+Commission %,15.00
+Commission,$101.40
+Net Total,$574.60
+Sales Tax,missing
+Sep. 2020,36
+$676.00
+Grand Total,36
+$676.00
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed At,"02:36 PM on Monday, August 31 2020"
+Page,missing
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,Station,Comments,Entered
+24.0 Normal Line / SPOT,09/04/20-09/04/20,4,1:00,5:30P- LOCAL NEWS 530PM,:unselected:,1,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,1,$40.00,$40.00,Duluth/Superior (KODS),FOX 21 NEWS AT 5:30P,8/31/20,missing,missing,missing,missing,missing,missing,missing
+25.0,Normal Line / SPOT,09/05/20-09/05/20,missing,1:00,9:29P- LOCAL LATE NEWS SAT,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,1,$150.00,$150.00,Duluth/Superior (KODS),FOX 21 NEWS @ 9,8/31/20,missing,missing,missing,missing,missing,missing,missing
+26.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,10P- 2 BROKE GIRLS 10PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected:,1,$40.00,$40.00,Duluth/Superior (KODS),2 BROKE GIRLS,8/31/20,missing,missing,missing,missing,missing,missing,missing
+27.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,10P- 2 BROKE GIRLS 10PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,missing,$40.00,$40.00,Duluth/Superior (KODS),2 BROKE GIRLS,8/31/20,missing,missing,missing,missing,missing,missing,missing
+28.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,11:35P- MODERN FAMILY 1135PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:selected: :unselected: :unselected: :unselected:,missing,$10.00,$10.00,Duluth/Superior (KODS),MODERN FAMILY,8/31/20,missing,missing,missing,missing,missing,missing,missing
+29.0,Normal Line / SPOT,09/04/20-09/04/20,A,1:00,11:35P- MODERN FAMILY 1135PM,missing,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,1,$10.00,$10.00,Duluth/Superior (KQDS),MODERN FAMILY,8/31/20,missing,missing,missing,missing,missing,missing,missing
+30.0,Normal Line / SPOT,09/07/20-09/07/20,missing,1:00,12:05A- 1:05A (CST),missing,1,1,$10.00,$10.00,Duluth/Superior (KODS),MOM/HIMYM,8/31/20
+31.0,Normal Line / SPOT,09/04/20-09/04/20,missing,1:00,12:05A- 1:05A (CST),missing,1,1,$10.00,$10.00,Duluth/Superior (KODS),MOM/HIMYM,8/31/20
+32.0,Normal Line / SPOT,09/05/20-09/05/20,missing,1:00,6:30P- FAMILY FEUD SAT 630PM,missing,1,1,$40.00,$40.00,Duluth/Superior (KODS),FAMILY FEUD,8/31/20
+33.0 Normal Line / SPOT,09/06/20-09/06/20,A,1:00,8A- FOX NEWS SUNDAY,missing,1,1,$20.00,$20.00,Duluth/Superior (KQDS),FOX NEWS SUNDAY,8/31/20,missing
+34.0,Revised Line / SPOT,09/06/20-09/06/20,missing,1:00,10:05P. 10:35P (CST),missing,missing,missing,missing,missing,Duluth/Superior (KODS),2 BROKE GIRLS,8/31/20
+missing,missing,missing,missing,missing,missing,missing,:unselected:,missing,missing,missing,missing,missing,missing
+#Record4
+-KV
+Contract #,59119
+Schedule Dates,09/04/20-09/07/20
+Advertiser,POL/J Biden/D/Pres/US (6268)
+Agency,Media Buying and Analytics (2146)
+Political-Candidate (1058)
+Product,missing
+Brand,1106/1350/8137 (38888)
+Salesperson,"HRP-Philadelphia, Philadelphia (1087)"
+Sales Office,HRP-Philadelphia
+Buyer Name,"HUTTON,SHELLI"
+Phone/Fax,1
+CPE,1106/1350/8137
+Account Types,National/Political Agency
+Billing Type,Standard
+Comments,BIDEN FOR PRES/60'S
+*****
+Date Entered,08/31/20
+Last Modified,08/31/20
+Entered By,Lori Kempton
+CO-OP
+No,missing
+Headline #,09918296
+Demo,missing
+Order Type,Normal
+Commission %,15.00
+Commission,$101.40
+Net Total,$574.60
+Sales Tax,missing
+2020,36
+$676.00
+Grand Total,36
+$676.00
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed,"02:36 PM on Monday, August 31 2020"
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,Station,Comments,Entered
+34.1,Normal Line / SPOT,09/06/20-09/06/20,4,1:00,10P- LAST MAN STANDING SUN 10PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected: :unselected:,1,$20.00,$20.00,Duluth/Superior (KODS),LAST MAN,8/31/20,missing,missing,missing,missing,missing,missing,missing
+35.0,Revised Line / SPOT,09/06/20-09/06/20,missing,1:00,11:05P. 11:35,:unselected:,-,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,missing,missing,missing,Duluth/Superior (KODS),LAST MAN STANDING,8:31/20,missing,missing,missing,missing,missing,missing,missing
+35.1,Normal Line / SPOT,09/06/20-09/06/20,4,1:00,10:30P- 2 BROKE GIRLS SUN 1035PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected:,1,$40.00,$40.00,Duluth/Superior (KODS),2 BROKE,8/31/20,missing,missing,missing,missing,missing,missing,missing
+36.0,|Normal Line / SPOT,09/06/20-09/06/20,4,1:00,11:30P- MIKE & MOLLY SUN 1135PM,:unselected:,1,missing,missing,missing,missing,missing,missing
+:unselected: :unselected: :unselected: :unselected:,1,$10.00,$10.00,Duluth/Superior (KQDS),MIKE & MOLLY,8/31/20,missing,missing,missing,missing,missing,missing,missing

@@ -1,0 +1,330 @@
+#Record1
+-KV
+Payment To,WMGL-FM
+Billing Inquiries,cmls.ar@cumulus.com
+Invoice #,AA3618454
+Invoice Month,September 2023
+Invoice Date,09/10/23
+Invoice Period,09/01/23 - 09/05/23
+Advertiser,Moore/D/State Representative
+Product,Senate District 42 race
+Estimate #,missing
+Line,4
+Start Date,09/04/23
+End Date,missing
+Description,09/05/23
+M-F
+Start/End Time,6a-10a
+MTWTFSS,MT-
+--
+Length,4
+:30
+Spots/ Week,missing
+Rate,$20.00
+Type,NM
+Start Date,09/04/23
+End Date,09/10/23
+MTWTFSS,22-
+Spots/Week,4
+Rate,$20.00
+Start Date,09/04/23
+End Date,09/10/23
+MTWTFSS,M-
+Spots/Week,2
+Rate,$20.00
+Total Spots,21
+DUE NET 30,2.0% Service Fee on Credit Cards
+Net Total,$420.00
+Invoice Balance as of 12/22/23 13:29:32 ET,$0.00
+-TABLE
+Invoice #,AA3618454,Invoice Month,September 2023
+Invoice Date,09/10/23,Invoice Period,09/01/23 - 09/05/23
+-TABLE
+Advertiser,Moore/D/State Representative
+Product,Senate District 42 race
+Estimate #,missing
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,Start/End Time,Length,Ad-ID,Rate,Type
+1,WMGL,M,09/04/23,7:17 AM,M-F,6a-10a,:30,MOORE SPOT 1,$20.00,NM
+4,WMGL,Tu,09/05/23,6:23 AM,M-F,6a-10a,:30,MOORE SPOT 2,$20.00,NM
+2,WMGL,Tu,09/05/23,9:39 AM,M-F,6a-10a,:30,MOORE SPOT 1,$20.00,NM
+-TABLE
+5 09/04/23,missing,missing,09/05/23,missing,M-F,missing,missing,10a-3p,22 -----,:30,4,missing,$20.00,NM,missing
+-TABLE
+Weeks:,missing,Start Date,missing,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,missing,09/04/23,09/10/23 22-,missing,4,$20.00,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,Ch,missing,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+6,WMGL,M,missing,09/04/23,10:33 AM,M-F,missing,10a-3p,:30,MOORE SPOT 2,missing,missing,$20.00,NM
+8,WMGL,M,missing,09/04/23,11:35 AM,M-F,missing,10a-3p,:30,MOORE,SPOT 1,missing,$20.00,NM
+5,WMGL,Tu,missing,09/05/23,10:36 AM,M-F,missing,10a-3p,:30,MOORE,SPOT 2,missing,$20.00,NM
+7,WMGL,Tu,missing,09/05/23,10:54 AM,M-F,missing,10a-3p,:30,MOORE,SPOT 1,missing,$20.00,NM
+-TABLE
+6 09/04/23,09/04/23,missing,M-F,missing,3p-7p,M --,:30,2,$20.00,NM,missing
+-TABLE
+Weeks:,Start Date,missing,End,Date MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing
+missing,09/04/23,09/10/23,M-,2,$20.00,missing,missing,missing,missing,missing
+-TABLE
+Spots:,Ch,missing,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,Rate,Type
+#10,WMGL,missing,M,09/04/23,3:47 PM M-F,missing,3p-7p,:30,MOORE SPOT 2,missing,missing,$20.00,NM
+2,WMGL,missing,M,09/04/23,4:16 PM M-F,missing,3p-7p,:30,MOORE SPOT 1,missing,missing,$20.00,NM
+#Record2
+-KV
+Send Payment To,"KCCI PO Box 14556 Des Moines, IA 50306-3556"
+Invoice #,2259004-1
+Invoice Month,September 2022
+Invoice Date,09/18/22
+Invoice Period,08/29/22 - 09/12/22
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+Line,5
+Start Date,09/11/22
+End Date,missing
+Description,09/11/22
+Start/End Time,CBS Sunday Morning
+Sun 8-930a
+MTWTFSS,1
+Length,:30
+Spots/ Week,missing
+Rate,"1
+$1,800.00"
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,missing
+Spots/Week,1
+Rate,"$1,800.00"
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,missing
+Spots/Week,1
+Rate,$800.00
+Weeks,missing
+Start Date,09/05/22
+End Date,missing
+MTWTFSS,09/11/22
+Spots/Week,1
+Rate,$600.00
+Price
+Right,958-11a
+MTWTF,missing
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,"$1,100.00"
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,$900.00
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,"$1,500.00"
+Class of Time,- Non Pre-emptible
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,M-W-F --
+Spots/Week,3
+Rate,"$2,400.00"
+Ch,KCCI
+Day,W
+Air Date,09/07/22
+Air Time,missing
+Description,M-F CBS Evening News
+Start/End Time,530-6P
+Length,missing
+Ad-ID,:00
+-TABLE
+Invoice #,2259004-1,Invoice Month,September 2022
+Invoice Date,09/18/22,Invoice Period,08/29/22 - 09/12/22
+-TABLE
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+-TABLE
+Line,Start Date,End Date,Description,missing,Start/End Time,MTWTFSS,Length,Spots/ Week,Rate,Type
+5,09/11/22 Class of Time,- Non,09/11/22,missing,Pre-emptible,CBS,Sunday,missing,Morning,Sun,8-930a,1,:30,1,"$1,800.00",NM
+missing,Weeks:,missing,Start Date,missing,End Date,MTWTFSS,missing,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,09/05/22,09/11/22,missing,missing,1,"$1,800.00",missing,missing,missing,missing,missing
+-TABLE
+Spots: # Ch,Day,Air,Date,Air Time Description,missing,Start/End Time,Length,Ad-ID,missing,Rate Type
+missing,1 KCCI,Su,09/11/22,8:38 AM CBS Sunday,Morning,Sun 8-930a,:30,HMP22IA03T01H,missing,"$1,800.00 NM"
+-TABLE
+7 09/11/22 09/11/22 KCCI POLITICAL NEWS,Class of Time - Non Pre-emptible,1030A-11A,1,:30,1,$600.00,NM
+-TABLE
+Weeks:,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing
+missing,09/05/22,09/11/22,1,$600.00,missing,missing,missing,missing
+-TABLE
+Spots: #1-,Ch,Day,Air Date,Air Time Description,Start/End Time,Length,Ad-ID,missing,Rate Type
+1,KCCI,Su,09/11/22,10:37 AM KCCI POLITICAL NEWS,1030A-11A,:30,HMP22IA03T01H,missing,$600.00 NM
+-TABLE
+8 09/06/22 09/12/22 Class of Time - Non,Pre-emptible Price is Right,missing,958-11a,MTWTF --,:30,3,"$1,100.00",NM,missing
+-TABLE
+Weeks:,Start Date,End,Date,MTWTFSS,Spots/Week,Rate,missing
+missing,09/06/22,09/12/22,MTWTF --,3,"$1,100.00",missing,missing
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,Rate,Type
+2,KCCI,W,09/07/22,10:30 AM,Price is Right,missing,958-11a,:30,HMP22IA03T01H,"$1,100.00",NM
+3,KCCI,F,09/09/22,10:28 AM,Price is,Right,958-11a,:30,HMP22IA03T01H,"$1,100.00",NM
+1,KCCI,M,09/12/22,9:59 AM,Price is,Right,958-11a,:30,HMP22IA03T01H,"$1,100.00",NM
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,$900.00,Start/End Time,Length,Ad-ID,Rate,Type
+3,KCCI,W,09/07/22,12:22 PM,missing,M-F News CH8 @ 12-1230P,12-1230P,:30,HMP22IA03T01H,$900.00,NM
+1,KCCI,Th,09/08/22,12:22 PM,missing,M-F News CH8 @ 12-1230P,12-1230P,:30,HMP22IA03T01H,$900.00,NM
+2,KCCI,M,09/12/22,12:21 PM,missing,M-F News CH8 @ 12-1230P,12-1230P,:30,HMP22IA03T01H,$900.00,NM
+-TABLE
+10 09/06/22,Class,09/12/22,of Time - Non,M-F News CH8,s@Five,Pre-emptible,First New,5-530P,MTWTF --,:30,"3 $1,500.00",NM,missing
+-TABLE
+Weeks:,Start Date,missing,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing
+missing,09/06/22,missing,09/12/22,MTWTF --,3,"$1,500.00",missing,missing,missing,missing,missing
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,Start/End Time,Length,Ad-ID,missing,Rate,Type
+1,KCCI,W,09/07/22,5:28 PM,M-F News CH8 First News@Five,5-530P,:30,HMP22IA03T01H,missing,"$1,500.00",NM
+3,KCCI,F,09/09/22,5:28 PM,M-F News CH8 First News@Five,5-530P,:30,HMP22IA03T01H,missing,"$1,500.00",NM
+2,KCCI,M,09/12/22,5:11,PM,M-F News CH8 First News@Five,5-530P,:30,HMP22IA03T01H,"$1,500.00",NM
+-TABLE
+11 09/07/22 09/12/22 M-F CBS Evening News 530-6P Class of Time - Non Pre-emptible,M-W-F --,:30,3,"$2,400.00",NM
+-TABLE
+Weeks:,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing
+missing,09/06/22,09/12/22,M-W-F --,3,"$2,400.00",missing,missing,missing,missing,missing
+-TABLE
+Spots: Ch #5,Day,Air Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,Rate Type
+5 KCCI,W,Credited,09/07/22,missing,missing,M-F CBS Evening News,530-6P,:00,missing,missing,"$2,400.00 NM"
+#Record3
+-KV
+Send Payment To,"KCCI PO Box 14556 Des Moines, IA 50306-3556"
+Invoice #,2259004-1
+Invoice Month,September 2022
+Invoice Date,09/18/22
+Invoice Period,08/29/22 - 09/12/22
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+Line,18
+Start Date,09/06/22
+End Date,09/06/22
+Description,Tue CBS Prime A
+Start/End Time,7-8p
+MTWTFSS,-1
+Spots/,missing
+Rate,"$2,600.00"
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,-1
+Spots/Week,1
+Rate,"$2,600.00"
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,1
+Spots/Week,1
+Rate,"$1,800.00"
+Weeks,missing
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,S-
+Spots/Week,1
+Rate,$300.00
+Day,missing
+Air Date,Sa 09/10/22
+09/09/22
+Weeks,missing
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,F
+Spots/Week,1
+Rate,"$1,600.00"
+Weeks,missing
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,S-
+Spots/Week,1
+Rate,$800.00
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,missing
+Spots/Week,S
+1
+Rate,$900.00
+Weeks,missing
+Start Date,09/12/22
+End Date,missing
+MTWTFSS,09/18/22
+M
+Spots/Week,1
+Rate,$900.00
+Spots,1 KCCI
+Day,M
+Air Date,09/12/22
+Air Time,7:49
+Description,PM Mon CBS Prime A
+Start/End Time,MON 7-8P
+Length,missing
+Ad-ID,:30 HMP22IA03T01H
+Rate Type,$900.00 NM
+Total Spots,45
+Payment Terms,30 Days
+Gross Total,"$61,200.00"
+-TABLE
+Invoice #,2259004-1,Invoice Month,September 2022
+Invoice Date,09/18/22,Invoice Period,08/29/22 - 09/12/22
+-TABLE
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+-TABLE
+www.kcci.com Line,Start,Date,End Date,missing,Description,missing,missing,Start/End Time,MTWTFSS,Length,Spots/ Week,Rate,Type,missing,missing
+-TABLE
+18,Class,09/06/22,missing,of,Time - Non,09/06/22,missing,Pre-emptible,Tue,CBS,Prime,A,7-8p,-1 -----,:30,1,"$2,600.00",NM,missing,missing
+-TABLE
+missing,Weeks:,missing,Start Date,missing,End Date,MTWTFSS,missing,Spots/Week,Rate,missing,missing,missing
+missing,missing,09/05/22,09/11/22,-1,1,"$2,600.00",missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,missing,Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,#1-,1,KCCI,Tu,09/06/22,7:35,PM,Tue CBS,Prime A,7-8p,:30,HMP22IA03T01H,missing,missing,"$2,600.00",NM
+19,missing,09/11/22,09/11/22,Sun CBS,Prime,A,6-7P,1,:30,1,missing,missing,"$1,800.00",NM,missing,missing
+missing,Class of Time - Non Pre-emptible,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,Weeks:,missing,Start Date,End Date,MTWTFSS,missing,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,#,missing,09/05/22,09/11/22,missing,1,1,"$1,800.00",missing,missing,missing,missing,missing,missing
+-TABLE
+Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+Credited,missing,09/11/22,missing,missing,Sun CBS,Prime A,6-7P,:00,missing,missing,missing,missing,"$1,800.00",NM
+-TABLE
+20,09/10/22,09/10/22,Matter of,Fact LF,missing,1030p-11p,----- S-,:30,1,$300.00,NM,missing,missing
+-TABLE
+missing,Weeks:,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing
+-TABLE
+missing,missing,missing,missing,09/05/22,09/11/22,missing,S-,1,$300.00,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,#1-,Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,1,missing,KCCI Sa,09/10/22,11:27,PM,Matter of,Fact LF,1030p-11p,:30,HMP22IA03T01H,missing,missing,missing,$300.00,NM
+21,Class,09/09/22,of,09/09/22,Time - Non,missing,Pre-emptible CY/HAWK,missing,missing,SHOWDOWN,CY/HAWK SHOWD,-- F --,:30,1,"$1,600.00",NM
+missing,Weeks:,missing,Start Date,missing,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing
+missing,missing,missing,missing,09/05/22,09/11/22,---,F --,1,"$1,600.00",missing,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,#,Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,1,KCCI F,09/09/22,6:50,PM,CY/HAWK,SHOWDOWN,CY/HAWK SHOWD,:30,HMP22IA03TO1H,missing,missing,missing,missing,"$1,600.00",NM
+22,09/10/22,09/10/22,missing,missing,missing,missing,missing,SAT News,CH8,@ 6-630,SAT 6-630P,-- S-,:30,1,$800.00,NM
+missing,Class of,Time - Pre-emptible,with notice p,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,Weeks:,missing,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,#1-,missing,09/05/22,09/11/22,missing,S-,1,$800.00,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,1,KCCI Sa,09/10/22,6:27,PM,SAT News,CH8 @ 6-630p,SAT 6-630P,:30,HMP22IA03T01H,missing,missing,missing,$800.00,NM
+23,09/11/22,missing,09/11/22,missing,Sun CBS,Prime,C,8-9p,S,:30,1,$900.00,NM,missing,missing
+missing,Class of Time - Pre-emptible,with notice,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,Weeks:,Start Date,End Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing
+missing,missing,missing,missing,09/05/22,09/11/22,missing,S,1,$900.00,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,missing,Ch,Day,Air Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+24,09/12/22,missing,09/12/22,missing,Mon,CBS,Prime,A,MON 7-8P,M-,:30,1,$900.00,NM,missing,missing
+-TABLE
+missing,Class of Time - Pre-emptible,with notice,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+missing,Weeks:,Start Date,End Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,Ch,Day,Air,Date,Air,Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,missing,1,missing,KCCI M,09/12/22,7:49,PM,Mon CBS,Prime A,MON 7-8P,:30,HMP22IA03T01H,missing,missing,$900.00,NM

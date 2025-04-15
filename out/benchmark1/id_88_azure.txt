@@ -1,0 +1,158 @@
+#Record1
+-KV
+STATION,KNMF-FM
+MARKET,Unmeasured Market
+REP,Regional Reps Non-Rep
+MOD,Stn Ver: 1 Last:
+SALES OFFICE,PHILADELPHIA
+SALESPERSON,Roger Rafson
+SLS EMAIL,Roger.Rafson@GenMediaPartners.com
+ORDER#,3177953
+AMOUNT,"$1,480.00"
+SPOTS,37
+SLS PH,412 421 2600
+SLS FAX,412 421 6001
+AGENCY,MEDIA FINANCIAL SERVICES
+ADVERTISER,People for Ben
+PRODUCT,Est 8997 10/6-10/12 Candidate
+FLIGHT,10-06-2020 TO 10/12/2020
+TOT # OF DAYS,7
+PRIM. DEMO,Adults 35+
+SEC. DEMO,missing
+AGY CLI,missing
+AGY PRD,missing
+AGY EST,8997
+[X]Unwired,:selected:
+SPOT TYPE,missing
+LAST SENT,10/05/2020 14:24
+DATE,10/05/2020
+AGENCY,MEDIA FINANCIAL SERVICES
+CONTRACT # FOR INVOICING,4390162
+INVOICE,MEDIA FINANCIAL SERVICES
+SpotData,IDB#1828;
+DAY#1,missing
+10/6/2020 To 10/6/2020,missing
+TOT,$200.00
+MC,missing
+TOT,$200.00
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,1,missing,.T .... .,6:00AM,10:00AM,60,10/6/2020,10/6/2020,2,$40,$80
+missing,2,missing,.T .....,10:00AM,3:00PM,60,10/6/2020,10/6/2020,1,$40,$40
+missing,3,missing,.T .... .,3:00PM,7:00PM,60,10/6/2020,10/6/2020,2,$40,$80
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,1,missing,. . W. . .,6:00AM,10:00AM,60,10/7/2020,10/7/2020,2,$40,$80
+missing,2,missing,. . W. . . .,10:00AM,3:00PM,60,10/7/2020,10/7/2020,1,$40,$40
+missing,3,missing,. . W. . . .,3:00PM,7:00PM,60,10/7/2020,10/7/2020,2,$40,$80
+#Record2
+-KV
+STATION,KNMF-FM
+MARKET,Unmeasured Market
+REP,Regional Reps Non-Rep
+MOD,Stn Ver: 1 Last:
+SALES OFFICE,PHILADELPHIA
+SALESPERSON,Roger Rafson
+SLS EMAIL,Roger.Rafson@GenMediaPartners.com
+ORDER#,3177953
+AMOUNT,"$1,480.00"
+SPOTS,37
+SLS PH,412 421 2600
+SLS FAX,412 421 6001
+AGENCY,MEDIA FINANCIAL SERVICES
+ADVERTISER,People for Ben
+PRODUCT,Est 8997 10/6-10/12 Candidate
+FLIGHT,10-06-2020 TO 10/12/2020
+TOT # OF DAYS,7
+PRIM. DEMO,Adults 35+
+SEC. DEMO,missing
+AGY CLI,missing
+AGY PRD,missing
+AGY EST,8997
+[X]Unwired,:selected:
+]Spot,missing
+[X]Cash,missing
+SPOT TYPE,missing
+DATE,10/05/2020
+AGENCY,MEDIA FINANCIAL SERVICES
+CONTRACT # FOR INVOICING,4390162
+INVOICE,MEDIA FINANCIAL SERVICES
+LAST SENT,10/05/2020 14:24
+TOT,$200.00
+TOT,$200.00
+TOT,$240.00
+MC
+LN,4
+SPT TYP,missing
+DAYS,.s.
+START,6:00AM
+END
+LEN,7:00PM
+TIME
+SP/DY,6
+START,60
+10/10/2020
+STOP,10/10/2020
+RATE,$40
+TOTAL,$240
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,1,missing,... T. . .,6:00AM,10:00AM,60,10/8/2020,10/8/2020,2,$40,$80
+missing,2,missing,... T. . .,10:00AM,3:00PM,60,10/8/2020,10/8/2020,1,$40,$40
+missing,3,missing,... T. . .,3:00PM,7:00PM,60,10/8/2020,10/8/2020,2,$40,$80
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,1,missing,.F ..,6:00AM,10:00AM,60,10/9/2020,10/9/2020,2,$40,$80
+missing,2,missing,. . . . F . .,10:00AM,3:00PM,60,10/9/2020,10/9/2020,1,$40,$40
+missing,3,missing,... . F ..,3:00PM,7:00PM,60,10/9/2020,10/9/2020,2,$40,$80
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,4,missing,.s.,6:00AM,7:00PM,60,10/10/2020,10/10/2020,6,$40,$240
+#Record3
+-KV
+STATION,KNMF-FM
+MARKET,Unmeasured Market
+REP,Regional Reps Non-Rep
+MOD,Stn Ver: 1 Last:
+SALES OFFICE,PHILADELPHIA
+SALESPERSON,Roger Rafson
+SLS EMAIL,Roger.Rafson@GenMediaPartners.com
+ORDER#,3177953
+AMOUNT,"$1,480.00"
+SPOTS,37
+SLS PH,412 421 2600
+SLS FAX,412 421 6001
+AGENCY,MEDIA FINANCIAL SERVICES
+ADVERTISER,People for Ben
+PRODUCT,Est 8997 10/6-10/12 Candidate
+FLIGHT,10-06-2020 TO 10/12/2020
+TOT # OF DAYS,7
+PRIM. DEMO,Adults 35+
+SEC. DEMO,missing
+AGY CLI,missing
+AGY PRD,missing
+AGY EST,8997
+[X]Unwired,:selected:
+]Spot,missing
+[X]Cash,missing
+SPOT TYPE,missing
+LAST SENT,10/05/2020 14:24
+DATE,10/05/2020
+AGENCY,MEDIA FINANCIAL SERVICES
+CONTRACT # FOR INVOICING,4390162
+INVOICE,MEDIA FINANCIAL SERVICES
+TOT,$240.00
+TOT,$200.00
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,4,missing,. . . . . S,6:00AM,7:00PM,60,10/11/2020,10/11/2020,6,$40,$240
+-TABLE
+MC,LN,SPT TYP,DAYS,START,END TIME,LEN,START,STOP,SP/DY,RATE,TOTAL
+missing,1,missing,M. . . . . .,6:00AM,10:00AM,60,10/12/2020,10/12/2020,2,$40,$80
+missing,2,missing,M. . .,10:00AM,3:00PM,60,10/12/2020,10/12/2020,1,$40,$40
+missing,3,missing,M. . . . . .,3:00PM,7:00PM,60,10/12/2020,10/12/2020,2,$40,$80
+-TABLE
+TOTAL,Oct,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,Total
+SPOT,37,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,37
+CASH,"1,480.00",missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,"1,480.00"
+TOTAL,"1,480.00",missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,"1,480.00"

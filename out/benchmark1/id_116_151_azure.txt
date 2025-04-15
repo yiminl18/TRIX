@@ -1,0 +1,414 @@
+#Record1
+-KV
+Contract #,28735
+Schedule Dates,09/29/20-10/18/20
+Advertiser,Estelle Fennell for Supervisor (3297)
+Agency,Estelle Fennell for Supervisor (1640)
+Product,CITY/COUNTY POLITICAL RACES (1087)
+Brand,2020 (12967)
+Salesperson,"OLSZEWSKI, JENNY (1060)"
+Sales Office,KVIQ LOCAL
+Buyer Name,"Fennell,Estelle"
+Phone/Fax,(707) 223-5618 /
+CPE,N/A
+Account Types,Local/Political Candidate
+Billing Type,Calendar
+Comments,KIEM
+Date Entered,09/25/20
+Last Modified,09/25/20
+Entered By,JENNY OLSZEWSKI
+CO-OP
+No,missing
+Headline #,missing
+Demo,missing
+Order Type,Normal
+Deal,Package
+Commission %,15.00
+Commission,$990.00
+Net Total,"$5,610.00"
+Sales Tax,missing
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,missing
+1.0,Normal Line / SPOT,09/29/20-10/02/20,5,:30,6A- 7A (PST),missing,missing,1,1,1,1,missing,missing,4,$15.00,$60.00,NBC - CA
+2.0,Normal Line / SPOT,09/29/20-10/02/20,5,:30,7A- 9A (PST),missing,missing,1,1,1,1,missing,missing,4,$35.00,$140.00,NBC - CA
+3.0,Normal Line / SPOT,09/29/20-10/02/20,5,:30,5P- 5:30P (PST),missing,missing,1,1,1,1,missing,missing,4,$135.00,$540.00,NBC - CA
+4.1,Normal Line / SPOT,09/30/20-10/02/20,5,:30,6P- 6:30P (PST),missing,missing,missing,1,1,1,missing,missing,3,$135.00,$405.00,NBC - CA
+5.0,Normal Line / SPOT,09/29/20-10/02/20,5,:30,11P- 11:35P (PST),missing,missing,1,1,1,1,missing,missing,4,$100.00,$400.00,NBC - CA
+6.0,Normal Line / SPOT,09/29/20-10/02/20,5,:30,11:35P- 12:35A (PST),missing,missing,1,1,1,1,missing,missing,4,$30.00,$120.00,NBC - CA
+7.0,Normal Line / SPOT,10/04/20-10/04/20,5,:30,11P- 11:35P (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$75.00,$75.00,NBC - CA
+8.0,Normal Line / SPOT,10/04/20-10/04/20,5,:30,8A- 9A (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$25.00,$25.00,NBC - CA
+9.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,6A- 7A (PST),missing,1,1,1,1,1,missing,missing,5,$15.00,$75.00,NBC - CA
+10.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,7A- 9A (PST),missing,1,1,1,1,1,missing,missing,5,$35.00,$175.00,NBC - CA
+11.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,7A- 9A (PST),missing,1,1,1,1,1,missing,missing,5,$35.00,$175.00,NBC - CA
+12.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,5P- 5:30P (PST),missing,1,1,1,1,1,missing,missing,5,$135.00,$675.00,NBC - CA
+13.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,5P- 5:30P (PST),missing,1,1,1,1,1,missing,missing,5,$135.00,$675.00,NBC - CA
+14.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,6P- 6:30P (PST),missing,1,1,1,1,1,missing,missing,5,$135.00,$675.00,NBC - CA
+15.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,11P- 11:35P (PST),missing,1,1,1,1,1,missing,missing,5,$100.00,$500.00,NBC - CA
+#Record2
+-KV
+Contract #,28735
+Schedule Dates,09/29/20-10/18/20
+Advertiser,Estelle Fennell for Supervisor (3297)
+Agency,Estelle Fennell for Supervisor (1640)
+Product,CITY/COUNTY POLITICAL RACES (1087)
+Brand,2020 (12967)
+Salesperson,"OLSZEWSKI, JENNY (1060)
+KVIQ LOCAL"
+Sales Office,missing
+Buyer Name,"Fennell,Estelle"
+Phone/Fax,(707) 223-5618 /
+CPE,N/A
+Account Types,Local/Political Candidate
+Billing Type,Calendar
+Comments,KIEM
+Date Entered,09/25/20
+Last Modified,09/25/20
+CO-OP
+No,missing
+Entered By,JENNY OLSZEWSKI
+Headline #,missing
+Demo,missing
+Order Type,Normal
+Package Deal,missing
+Commission %,15.00
+Commission,$990.00
+Net Total,"$5,610.00"
+Sales Tax,missing
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed,06:51
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu We Th Fr Sa Su,Spots,Rate,Total,missing
+16.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,11P- 11:35P (PST),missing,1,1,1,1,1,missing,missing,5,$100.00,$500.00,NBC - CA
+17.0,Normal Line / SPOT,10/05/20-10/09/20,5,:30,11:35P- 12:35A (PST),missing,1,1,1,1,1,missing,missing,5,$30.00,$150.00,NBC - CA
+18.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,11:35P- 12:35A (PST),missing,1,1,1,1,1,missing,missing,5,$30.00,$150.00,NBC - CA
+19.0,Normal Line / SPOT,10/11/20-10/11/20,5,:30,11P- 11:35P (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$75.00,$75.00,NBC - CA
+20.0,Normal Line / SPOT,10/18/20-10/18/20,5,:30,11P- 11:35P (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$75.00,$75.00,NBC - CA
+21.0,Normal Line / SPOT,10/11/20-10/11/20,5,:30,8A- 9A (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$25.00,$25.00,NBC - CA
+22.0,Normal Line / SPOT,10/18/20-10/18/20,5,:30,8A- 9A (PST),missing,missing,missing,missing,missing,missing,missing,1,1,$25.00,$25.00,NBC - CA
+23.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,6A- 7A (PST),missing,1,1,1,1,1,missing,missing,5,$15.00,$75.00,NBC - CA
+24.0,Normal Line / SPOT,10/12/20-10/16/20,5,:30,6P- 6:30P (PST),missing,1,1,1,1,1,missing,missing,5,$135.00,$675.00,NBC - CA
+25.0,Normal Line / SPOT,10/06/20-10/06/20,5,:30,9P- 9:30P (PST),missing,missing,1,missing,missing,missing,missing,missing,1,$135.00,$135.00,NBC - CA
+#Record3
+-KV
+Contract #,828059
+Schedule Dates,10/09/12-11/05/12
+Advertiser,Democratic Senatorial Campaign Committee (1635 Entered
+Agency/T-Code,Great American Media (2039)/556615156
+Product,Political - US Senate (1176)
+Brand,Republican (ANTI) (178218)
+Demo,missing
+Salesperson,"Blair, Cheryl (2205)"
+Sales Office,TeleRep - Philadelphia
+Buyer Name,"NAGELBERG,DAN"
+Phone/Fax,/
+49/53/1139
+CPE
+Account Types,National/Political PAC - Agency
+Sales Tax,missing
+Billing Type,Weekly/Irregular
+Comments,DSCC 10/9-11/5
+Date Entered,05/08/12
+CO-OP
+No,missing
+Headline #,06135017
+Order Type,Normal
+Commission %,15.00
+Commission,"$35,423.25"
+Net Total,"$200,731.75"
+Tu,:selected:
+We,:selected:
+Th,:selected:
+Fr,:selected:
+Sa,missing
+2,:selected:
+4
+2,$325.00
+1,:selected:
+Accepted-Agency/Advertiser,missing
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed At,"10:50 AM on Thursday, October 18 2012"
+Page,1
+of,7
+-TABLE
+Norfolk (WVEC) (WVEC)
+By Broadcast Month,Spots,Rate
+Oct. 2012,232,"$156,435.00"
+Nov. 2012,117,"$79,720.00"
+Grand Total:,349,"$236,155.00"
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Sec,Length,Run Times,SPW,Mo Tu,We Th,Fr Sa Su,Spots,Rate,Total,Station,Comments,Entered
+1.0,Normal Line / SPOT,10/30/12-11/02/12,5,:30,12:58P- 3:58P (ET),14,x,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X X : X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,14,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$350.00,"$4,900.00",Norfolk (WVEC) (WVEC),PM ROTATION,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+2.0,Normal Line / SPOT,10/09/12-10/12/12,missing,:30,10A- 10:58A (ET),1,x,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X x X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,:unselected:,$275.00,missing,Norfolk (WVEC) (WVEC),RACHAEL RAY,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+3.1,Normal Line / SPOT,10/16/12-10/19/12,5,missing,:30/10A- 10:58A (ET),2,X,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X X X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,2,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,$275.00,$550.00,Norfolk (WVEC) (WVEC),RACHAEL RAY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+4.1,Normal Line / SPOT,10/23/12-11/02/12,5,:30,10A- 10:58A (ET),5,X,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X X x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,10,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$275.00,"$2,750.00",Norfolk (WVEC) (WVEC),RACHAEL RAY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+5.1,Normal Line / SPOT,10/23/12-10/26/12,missing,missing,:30|11:35P- 12:02A (ET),:unselected:,1,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,1 1 1,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,4,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,$325.00,"$1,300.00",Norfolk (WVEC) (WVEC),ABC NIGHTLINE,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+6.1,Normal Line / SPOT,10/30/12-11/02/12,5,missing,:30/11:35P- 12:02A (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$325.00,"$1,625.00",Norfolk (WVEC) (WVEC),ABC NIGHTLINE,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+7.0,Normal Line / SPOT,10/09/12-10/12/12,4,:30,10:58A- 12P (ET),1,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,:unselected:,$450.00,missing,Norfolk (WVEC) (WVEC),THE VIEW,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+8.1,Normal Line / SPOT,10/16/12-10/19/12,5,:30,10:58A- 12P (ET),2,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,2,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$450.00,$900.00,Norfolk (WVEC) (WVEC),THE VIEW,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+9.1,Normal Line / SPOT,10/23/12-11/02/12,5,:30,10:58A- 12P (ET),5,:selected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,10,$450.00,"$4,500.00",Norfolk (WVEC) (WVEC),THE VIEW,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+10.0,Normal Line / SPOT,10/09/12-10/19/12,4,:30,12P- 12:57P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$275.00,"$1,375.00",Norfolk (WVEC) (WVEC),13 NEWS MIDDAY,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+11.1,Normal Line / SPOT,10/23/12-10/26/12,5,:30,12P- 12:57P (ET),4,:selected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,:selected:,$275.00,"$1,100.00",Norfolk (WVEC) (WVEC),13 NEWS MIDDAY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+12.1,Normal Line / SPOT,10/30/12-11/02/12,5,:30,12P- 12:57P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,5,$275.00,"$1,375.00",Norfolk (WVEC) (WVEC),13 NEWS MIDDAY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+13.0,Normal Line / SPOT,10/09/12-10/26/12,missing,missing,:30|3:58P- 4:58P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected: :unselected:,15,$600.00,"$9,000.00",Norfolk (WVEC) (WVEC),DR. OZ,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+14.0,Normal Line / SPOT,10/30/12-11/02/12,missing,:30,3:58P- 4:58P (ET),4,X,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:unselected:,4,$600.00,"$2,400.00",Norfolk (WVEC) (WVEC),DR. OZ,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing
+#Record4
+-KV
+Contract #,828059
+Schedule Dates,10/09/12-11/05/12
+Advertiser,Democratic Senatorial Campaign Committee (1635
+Entered By,Penne Marsh
+Agency/T-Code,Great American Media (2039)/556615156
+Product,Political - US Senate (1176)
+Brand,Republican (ANTI) (178218)
+Salesperson,"Blair, Cheryl (2205)"
+Sales Office,TeleRep - Philadelphia
+Date Entered,05/08/12
+Last Modified,10/17/12
+CO-OP,06135017
+Headline #,missing
+Buyer Name,"NAGELBERG,DAN"
+Phone/Fax,/
+CPE,49/53/1139
+Account Types,National/Political PAC - Agency
+Billing Type,Weekly/Irregular
+Comments,DSCC 10/9-11/5
+*****
+Demo,missing
+Order Type,Normal
+Commission %,15.00
+Commission,"$35,423.25"
+Net Total,"$200,731.75"
+SPW,missing
+Mo,missing
+Tu,:selected:
+We,:selected:
+Th,:selected:
+Fr,:selected:
+Sa,missing
+Su
+Spots,missing
+5,:selected:
+10,:selected:
+Accepted-Agency/Advertiser,B/E Bookend P/B Piggy Back
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed At,"10:50 AM on Thursday, October 18 2012"
+Page,missing
+of,2
+7
+-TABLE
+Norfolk (WVEC) (WVEC)
+By Broadcast Month,Spots,Rate
+Oct. 2012,232,"$156,435.00"
+Nov. 2012,117,"$79,720.00"
+Grand Total:,349,"$236,155.00"
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Se,Length,Run Times,SPW,Mo Tu,We Th Fr,Sa Su,Spots,Rate,Total,Station,Comments,Entered
+15.0,Normal Line / SPOT,10/09/12-10/12/12,missing,:30,4:58P- 5:29P (ET),5,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected:,X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,:unselected: :unselected:,:unselected:,$750.00,missing,Norfolk (WVEC) (WVEC),13 NEWS AT 5P,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing
+16.1,Normal Line / SPOT,10/16/12-10/19/12,5,:30,4:58P- 5:29P (ET),4,x,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x X : X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,4,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$750.00,"$3,000.00",Norfolk (WVEC) (WVEC),13 NEWS AT 5P,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+17.1,Normal Line / SPOT,10/23/12-11/02/12,5,:30,4:58P- 5:29P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,:unselected: :unselected:,10,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$750.00,"$7,500.00",Norfolk (WVEC) (WVEC),13 NEWS AT 5P,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+18.1,Normal Line / SPOT,10/09/12-10/12/12,5,:30,5A- 5:58A (ET),4,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected:,:selected:,:unselected: :unselected:,missing,$325.00,"$1,300.00",Norfolk (WVEC) (WVEC),5AM NEWS,10/5/12,missing,missing,missing,missing,missing,missing,missing
+19.1,Normal Line / SPOT,10/16/12-11/02/12,5,:30,5A- 5:58A (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,15,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$325.00,"$4,875.00",Norfolk (WVEC) (WVEC),5AM NEWS,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+20.0,Normal Line / SPOT,10/09/12-10/12/12,V,:30,5:29P- 5:58P (ET),missing,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,:unselected:,$800.00,missing,Norfolk (WVEC) (WVEC),NEWS,5/8/12,missing,missing,missing,missing,missing,missing
+21.1,Normal Line / SPOT,10/16/12-11/02/12,missing,:30,5:29P- 5:58P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,:unselected: :unselected:,15,$800.00,"$12,000.00",Norfolk (WVEC) (WVEC),NEWS,10/9/12,missing,missing,missing,missing,missing,missing,missing
+22.1,End Dated Line / SPOT,10/09/12-10/09/12,missing,:30,6P- 6:30P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:unselected:,:unselected:,:unselected: :unselected:,:unselected:,$825.00,missing,Norfolk (WVEC) (WVEC),13 NEWS AT 6P,10/9/12,missing,missing,missing,missing,missing,missing
+23.1,Normal Line / SPOT,10/30/12-11/02/12,5,:30,6P- 6:30P (ET),missing,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,4,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$825.00,"$3,300.00",Norfolk (WVEC) (WVEC),13 NEWS AT 6P,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+24.1,Normal Line / SPOT,10/09/12-10/12/12,5,:30,5:58A- 7A (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$650.00,"$3,250.00",Norfolk (WVEC) (WVEC),13 NEWS DAYBREAK,10/5/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+25.1,Normal Line / SPOT,10/16/12-10/19/12,5,:30,5:58A- 7A (ET),4,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,4,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,$650.00,"$2,600.00",Norfolk (WVEC) (WVEC),13 NEWS DAYBREAK,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+26.1,Normal Line / SPOT,10/23/12-11/02/12,missing,:30,5:58A- 7A (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,10,$650.00,"$6,500.00",Norfolk (WVEC) (WVEC),13 NEWS DAYBREAK,10/9/12,missing,missing,missing,missing,missing,missing
+27.1,End Dated Line / SPOT,10/09/12-10/12/12,missing,:30,6:58P- 7:28P (ET),missing,:selected:,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected:,×,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,:unselected: :unselected:,in,"$1,300.00","$6,500.00",Norfolk (WVEC) (WVEC),WHEEL OF FORTUNE,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing
+28.1,Normal Line / SPOT,10/23/12-10/26/12,5,:30,6:58P- 7:28P (ET),4,×,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,x x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,:unselected: :unselected:,missing,"$1,300.00","$5,200.00",Norfolk (WVEC) (WVEC),WHEEL OF FORTUNE,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+Accepted-Agency/Advertiser: Date:,Accepted-Station: Date:,Comments:
+missing,missing,missing
+#Record5
+-KV
+Contract #,828059
+Schedule Dates,10/09/12-11/05/12
+Advertiser,Democratic Senatorial Campaign Committee (1639
+Entered By,Penne Marsh
+Agency/T-Code,Great American Media (2039)/556615156
+Product,Political - US Senate (1176)
+Brand,Republican (ANTI) (178218)
+Salesperson,"Blair, Cheryl (2205)"
+Sales Office,TeleRep - Philadelphia
+Date Entered,05/08/12
+Last Modified,10/17/12
+CO-OP
+No,06135017
+Headline #,missing
+Buyer Name,"NAGELBERG,DAN"
+Phone/Fax,1
+CPE,49/53/1139
+Account Types,National/Political PAC - Agency
+Sales Tax,missing
+Billing Type,Weekly/Irregular
+Comments,DSCC 10/9-11/5
+*****
+Demo,missing
+Order Type,Normal
+Deal,missing
+Commission %,15.00
+Commission,"$35,423.25"
+Net Total,"$200,731.75"
+SPW,missing
+Mo,missing
+Tu,:selected:
+We,:selected:
+Th,:selected:
+Fr,:selected:
+Sa,missing
+4,:selected:
+5,missing
+2,:selected:
+1,missing
+Accepted-Agency/Advertiser,B/E Bookend P/B Piggy Back
+Date,missing
+Accepted-Station,missing
+Date,missing
+Comments,missing
+Printed At,"10:50 AM on Thursday, October 18 2012"
+Page,3
+of,7
+-TABLE
+Norfolk (WVEC) (WVEC)
+By Broadcast Month,Spots,Rate
+Oct. 2012,232,"$156,435.00"
+Nov. 2012,117,"$79,720.00"
+Grand Total:,349,"$236,155.00"
+-TABLE
+Line,Line Type / Break Type (Ref #),Dates,Se,Length,Run Times,SPW,Mo Tu,We Th,Fr,Sa Su,Spots,Rate,Total,Station,Comments,Entered
+29.1,Normal Line / SPOT,10/30/12-11/02/12,5,:30,6:58P- 7:28P (ET),5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x x x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"$1,300.00","$6,500.00",Norfolk (WVEC) (WVEC),WHEEL OF FORTUNE,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+30.1,Normal Line / SPOT,10/09/12-10/19/12,5,:30,7A- 9A (ET),5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,X X x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,10,$600.00,"$6,000.00",Norfolk (WVEC) (WVEC),GOOD MORNING AMERICA,10/5/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+31.1,Normal Line / SPOT,10/23/12-10/26/12,5,:30,7A- 9A (ET),4,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected:,:selected:,:unselected: :unselected:,4,$600.00,"$2,400.00",Norfolk (WVEC) (WVEC),GOOD MORNING AMERICA,10/9/12,missing,missing,missing,missing,missing,missing,missing
+32.1,Normal Line / SPOT,10/30/12-11/02/12,5,:30,7A- 9A (ET),10,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,10,$600.00,"$6,000.00",Norfolk (WVEC) (WVEC),GOOD MORNING AMERICA,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+33.0,Normal Line / SPOT,10/09/12-10/12/12,missing,:30,7:28P- 7:57P (ET),4,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,:unselected: :unselected:,4,"$1,300.00","$5,200.00",Norfolk (WVEC) (WVEC),JEOPARDY,5/8/12,missing,missing,missing,missing,missing,missing,missing,missing
+34.1,Normal Line / SPOT,10/16/12-11/02/12,5,:30,7:28P- 7:57P (ET),5,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,:unselected: :unselected:,15,"$1,300.00","$19,500.00|",Norfolk (WVEC) (WVEC),JEOPARDY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing
+35.1,Normal Line / SPOT,10/09/12-10/12/12,5,:30,9A- 10A (ET),2,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,:unselected: :unselected:,2,$300.00,$600.00,Norfolk (WVEC) (WVEC),LIVE WITH KELLY,10/5/12,missing,missing,missing,missing,missing,missing,missing,missing
+36.1,Normal Line / SPOT,10/16/12-10/19/12,5,:30,9A- 10A (ET),1,:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:selected: :selected: :selected:,:unselected: :unselected:,1,$300.00,$300.00,Norfolk (WVEC) (WVEC),LIVE WITH KELLY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing
+37.1,Normal Line / SPOT,10/23/12-11/02/12,5,:30,9A- 10A (ET),5,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected:,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,x x,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:selected: :selected: :selected:,:unselected: :unselected:,10,$300.00,"$3,000.00",Norfolk (WVEC) (WVEC),LIVE WITH KELLY,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing
+38.1,Normal Line / SPOT,10/26/12-11/02/12,5,:30,10P- 11P (ET),:unselected:,:unselected: :unselected:,:unselected:,1,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:unselected: :unselected:,2,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"$1,250.00","$2,500.00",Norfolk (WVEC) (WVEC),20/20,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+39.1,Normal Line / SPOT,11/05/12-11/05/12,5,:30,7:58P- 10P (ET),:unselected:,1,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,:unselected: :unselected:,:unselected: :unselected:,1,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+:unselected:,"$3,500.00","$3,500.00",Norfolk (WVEC) (WVEC),DANCING WITH THE STARSEFF 9/24/12,10/9/12,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+40.1,Normal Line / NCAA - FOOTBALL,10/27/12-11/03/12,5,:30,12P- 6:58P (ET),missing,:unselected:,:unselected:,:unselected:,4,8,$950.00,"$7,600.00",Norfolk (WVEC) (WVEC),CLLG FTBL SEP-DEC12,10/9/12
+41.0,Normal Line / SPOT,10/13/12-11/03/12,missing,:30,6P- 6:30P (ET),:unselected:,:unselected:,:unselected:,:unselected:,1,missing,$300.00,missing,Norfolk (WVEC) (WVEC),WEEKEND NEWS,5/8/12
+missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,:unselected:,missing,missing,missing,missing,missing,missing
+-TABLE
+CONFIRMATION CONTRACT
+Accepted-Agency/Advertiser: Date:,Accepted-Station: Date:,Comments:

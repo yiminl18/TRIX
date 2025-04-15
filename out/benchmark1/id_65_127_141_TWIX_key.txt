@@ -1,0 +1,18 @@
+Time
+Estimate Desc.
+Buyer Order #
+Buyer
+Agency
+C/P/E
+Primary Demo
+Property
+AE
+Order Status
+Comments
+Product Desc.
+Sales Region
+Line
+Advertiser
+Total Cost
+Program
+Start/End Dates

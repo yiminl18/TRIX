@@ -1,0 +1,361 @@
+#Record1
+-KV
+Main,(843) 277-1216
+Billing,missing
+Billing Address,Moore/D/State
+Representative,missing
+Attention,"J.A. Moore 7752 Desoto Drive North Charleston, SC 29420"
+Send Payment To,"WMGL-FM
+Cumulus Media- Charleston
+3635 Momentum Place
+Chicago, IL 60689-5336"
+Billing Inquiries,cmls.ar@cumulus.com
+Property,WMGL-FM
+Invoice #,AA3618454
+Invoice Date,09/10/23
+Invoice Month,September 2023
+Invoice Period,09/01/23 - 09/05/23
+Advertiser
+Moore/D/State Representative,missing
+Product,Senate District 42 race
+Estimate #,missing
+Order #,1012206
+Alt Order #,missing
+Deal #,missing
+Flight Dates,09/02/23 - 09/05/23
+Account Executive,Cynthia Alston Bell
+Sales Office,Local-Charleston SC
+Sales Region,Local
+Agency Code,missing
+Advertiser Code,missing
+Billing Calendar
+Calendar,Cash
+Billing Type,missing
+Special Handling,missing
+Agency Ref,missing
+Advertiser Ref,missing
+Product 1,missing
+Product 2,missing
+WO Payments Quick Pay Link,payments.wocentral.com/find
+Quick Pay Code,84DAWLA3XE
+Line,1 09/02/23
+Start Date,missing
+End Date,09/03/23
+Description,Sa-Su
+Start/End Time,6a-10a
+MTWTFSS,----- 22
+Length,:30
+Spots/,missing
+Week,4
+Rate,missing
+Type,$20.00
+NM
+Start Date,08/28/23
+End Date,09/03/23
+MTWTFSS,--- 22
+Spots/Week,4
+Rate,$20.00
+10a-3p,missing
+Weeks,missing
+Start Date,08/28/23
+End Date,09/03/23
+MTWTFSS,-21
+Spots/Week,3
+Rate,$20.00
+Weeks,missing
+Start Date,08/28/23
+End Date,09/03/23
+MTWTFSS,-22
+Spots/Week,4
+Rate,$20.00
+Weeks,missing
+Start Date,09/04/23
+End Date,09/10/23
+MTWTFSS,MT
+Spots/Week,4
+Rate,$20.00
+Ch,WMGL
+-TABLE
+Order #,1012206
+Alt Order #,missing
+Deal #,missing
+Flight Dates,09/02/23 - 09/05/23
+-TABLE
+WO,Payments,missing,Quick,Pay,Link:,missing,payments.wocentral.com/find,missing,Quick Pay,Code:,missing,missing,84DAWLA3XE,missing,missing,missing
+-TABLE
+Line,Start,Date,End,Date,missing,Description,missing,missing,Start/End Time,MTWTFSS,Length,Spots/ Week,missing,missing,Rate,Type,missing,missing
+1,09/02/23,missing,missing,09/03/23,missing,Sa-Su,missing,missing,missing,6a-10a,----- 22,missing,:30,4,missing,missing,$20.00,NM,missing,missing
+missing,Weeks:,missing,Start,Date,missing,End,Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,missing,missing,08/28/23,09/03/23,missing,--- 22,4,$20.00,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spots:,missing,Ch,missing,Day,Air Date,Air,Time,Description,missing,Start/End Time,missing,Length,Ad-ID,missing,missing,missing,missing,Rate,Type
+missing,5,WMGL,missing,Sa,missing,09/02/23,8:59,AM,Sa-Su,missing,6a-10a,missing,:30,MOORE,SPOT,1,missing,missing,$20.00,NM
+missing,3,WMGL,missing,Sa,missing,09/02/23,9:29,AM,Sa-Su,missing,6a-10a,missing,:30,MOORE,SPOT,2,missing,missing,$20.00,NM
+missing,2,WMGL,missing,Su,missing,09/03/23,6:09,AM,Sa-Su,missing,6a-10a,missing,:30,MOORE SPOT,1,missing,missing,$20.00,NM
+missing,4,WMGL,missing,Su,missing,09/03/23,7:05,AM,Sa-Su,missing,6a-10a,missing,:30,MOORE,SPOT,2,missing,missing,$20.00,NM
+2 09/02/23,missing,09/03/23,missing,Sa-Su,missing,10a-3p,-- 21,:30,3,$20.00,NM,missing,missing,missing,missing,missing,missing,missing,missing
+Weeks:,missing,Start Date,missing,End,Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+missing,missing,08/28/23,09/03/23,-21,3,$20.00,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spots: .,Ch,Day,Air Date,Air Time Description,missing,Start/End Time,Length,Ad-ID,missing,Rate,Type,missing,missing,missing,missing,missing,missing,missing
+4,WMGL,missing,Sa,09/02/23,2:38 PM Sa-Su,missing,10a-3p,:30,MOORE SPOT 1,missing,$20.00,NM,missing,missing,missing,missing,missing,missing,missing
+5,WMGL,missing,Sa,09/02/23,missing,2:57 PM Sa-Su,missing,10a-3p,:30,MOORE SPOT 2,missing,$20.00,NM,missing,missing,missing,missing,missing
+6,WMGL,missing,Su,missing,09/03/23,missing,10:22 AM Sa-Su,missing,10a-3p,:30,MOORE SPOT 1,missing,$20.00,NM,missing,missing,missing,missing
+-TABLE
+3 09/02/23,missing,09/03/23,missing,Sa-Su,missing,missing,3p-7p,-- 22,:30,4,missing,$20.00,NM,missing,missing
+Weeks:,missing,Start Date,missing,End,Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing,missing
+missing,missing,08/28/23,09/03/23,-22,4,$20.00,missing,missing,missing,missing,missing,missing,missing,missing,missing
+Spots:,Ch,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type,missing,missing
+3,WMGL,missing,Sa,09/02/23,3:37 PM,Sa-Su,missing,3p-7p,:30,MOORE SPOT 1,missing,$20.00,NM,missing,missing
+5,WMGL,missing,Sa,09/02/23,3:57 PM,Sa-Su,missing,3p-7p,:30,MOORE,SPOT 2,$20.00,NM,missing,missing
+4,WMGL,missing,Su,09/03/23,3:55 PM,Sa-Su,missing,3p-7p,:30,MOORE SPOT 2,missing,$20.00,NM,missing,missing
+6,WMGL,missing,Su,09/03/23,4:33 PM,Sa-Su,missing,3p-7p,:30,MOORE,SPOT 1,missing,$20.00,NM,missing
+-TABLE
+4 09/04/23 09/05/23,M-F,missing,missing,6a-10a,MT --- --,:30,4,$20.00,NM,missing
+Weeks:,missing,Start Date,End Date MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,09/04/23,09/10/23 MT ----,4,$20.00,missing,missing,missing,missing,missing,missing
+Spots: # Ch Day,Air Date Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,Rate,Type,missing
+3,WMGL M 09/04/23 6:18 AM,M-F,missing,6a-10a,:30,MOORE SPOT 2,missing,$20.00,NM,missing
+#Record2
+-KV
+Main,(515)247-8888
+Billing,(704)208-2350
+Billing Address,"Waterfront Strategies
+Attention: Accounts Payable
+3050 K Street NW
+Washington, DC 20007"
+Send Payment To,"KCCI
+PO Box 14556
+Des Moines, IA 50306-3556"
+Property,KCCI
+Invoice #,2259004-1
+Order #,2259004
+Invoice Date,missing
+Alt Order #,missing
+Invoice Month,09/18/22
+September 2022
+Deal #,10370918
+Invoice Period,08/29/22 - 09/12/22
+Flight Dates,09/06/22 - 09/12/22
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+Account Executive,Mary Tricoli
+Sales Office,HRP -Washington DC
+Sales Region,National
+Agency Code,9914573
+Advertiser Code,79
+Billing Calendar,Broadcast
+Billing Type,Cash
+Special Handling,missing
+Agency Ref,missing
+Advertiser Ref,missing
+Product 1,86
+Product 2,missing
+Line,1
+3
+Start Date,09/06/22
+End Date,09/12/22
+Description,M-F News
+Start/End Time,CH8 @ 6-7A 6-7A
+MTWTFSS,MTWTF --
+Length
+Spots/ Week,:30
+Rate,"$1,000.00"
+Type,NM
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,"$1,000.00"
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,"$1,100.00"
+Weeks,missing
+Start Date,09/06/22
+End Date,09/12/22
+MTWTFSS,MTWTF --
+Spots/Week,3
+Rate,$700.00
+Weeks,missing
+Start Date,09/05/22
+End Date,09/11/22
+MTWTFSS,1-
+Spots/Week,1
+Rate,"$1,000.00"
+Day,missing
+-TABLE
+Property,KCCI
+Invoice #,2259004-1,Order #,2259004
+Invoice Date,09/18/22,Alt Order #,10370918
+Invoice Month,September 2022,Deal #,missing
+Invoice Period,08/29/22 - 09/12/22,Flight Dates,09/06/22 - 09/12/22
+Advertiser,House Majority
+Product,HOUSE MAJORITY PAC ANTI NUNN
+Estimate #,10491
+missing,Account Executive,Mary Tricoli
+Sales Office,HRP -Washington DC
+Sales Region,National
+Agency Code,9914573
+Advertiser Code,79
+Billing Calendar,Broadcast
+Billing Type,Cash
+Special Handling,missing
+Agency Ref,missing,missing
+Advertiser Ref,missing,missing
+Product 1,86
+Product 2,missing
+-TABLE
+Line,Start Date,missing,End Date,missing,missing,Description,missing,missing,Start/End Time,MTWTFSS,Length,Spots/ Week,Rate,Type,missing,missing
+1,09/06/22,missing,09/12/22,missing,M-F,News,CH8,@ 6-7A,6-7A,MTWTF --,:30,3,"$1,000.00",NM,missing,missing
+-TABLE
+Class of,Time - Non,Pre-emptible,missing,missing,missing,missing,missing,missing,missing,missing,missing,missing
+-TABLE
+missing,Weeks:,missing,Start Date,missing,End,Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing
+-TABLE
+missing,missing,missing,09/06/22,09/12/22,MTWTF --,3,"$1,000.00",missing,missing,missing,missing,missing,missing
+-TABLE
+Spots:,missing,Ch,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type,missing
+-TABLE
+missing,3,KCCI,Tu,09/06/22,6:29 AM,M-F News,CH8 @ 6-7A,6-7A,:30,HMP22IA03T01H,missing,missing,"$1,000.00",NM
+missing,1,KCCI,W,missing,09/07/22,6:13 AM,M-F News,CH8 @ 6-7A,6-7A,:30,HMP22IA03T01H,missing,missing,"$1,000.00",NM
+missing,2,KCCI,F,09/09/22,6:14,AM,M-F News,CH8 @ 6-7A,6-7A,:30,HMP22IA03T01H,missing,missing,"$1,000.00",NM
+-TABLE
+Class of Time - Non Pre-emptible,7-8a,7-8A,MTWTF --,:30,"3 $1,100.00",NM,missing
+-TABLE
+Weeks:,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing
+missing,09/06/22,09/12/22,MTWTF --,3,"$1,100.00",missing,missing,missing,missing
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,Rate,Type
+1,KCCI,missing,Tu,09/06/22,7:39 AM,The Early Show 7-8a,7-8A,:30,HMP22IA03T01H,"$1,100.00",NM
+3,KCCI,missing,W,09/07/22,7:58 AM,The Early Show 7-8a,7-8A,:30,HMP22IA03T01H,"$1,100.00",NM
+2,KCCI,missing,M,09/12/22,7:25 AM,The Early Show 7-8a,7-8A,:30,HMP22IA03T01H,"$1,100.00",NM
+-TABLE
+3 09/06/22 09/12/22 The Early Show Class of Time - Non Pre-emptible,missing,8-9A,MTWTF --,:30,3,$700.00,NM,missing
+-TABLE
+Weeks:,Start Date,End Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,09/06/22,09/12/22,MTWTF --,3,$700.00,missing,missing,missing,missing,missing,missing
+-TABLE
+Spots: #,Ch,Day,Air Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,Rate,Type
+1,KCCI,missing,missing,Tu,09/06/22,8:17 AM,The Early Show,8-9A,:30,HMP22IA03T01H,$700.00,NM
+3,KCCI,missing,missing,W,09/07/22,8:58 AM,The Early Show,8-9A,:30,HMP22IA03T01H,$700.00,NM
+2,KCCI,missing,missing,M,09/12/22,8:54 AM,The Early Show,8-9A,:30,HMP22IA03T01H,$700.00,NM
+-TABLE
+4 09/10/22 09/10/22 News CH8 TH Morn-Sat
+-TABLE
+8-9A Class of Time - Non Pre-emptible,SAT 8-9A,-- 1-,:30,1,"$1,000.00",NM,missing
+-TABLE
+Weeks:,Start Date,End,Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,09/05/22,09/11/22,missing,1-,missing,1,"$1,000.00",missing,missing,missing,missing,missing
+-TABLE
+Spots: #1-,Ch,Day,Air,Date,missing,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate Type
+1,KCCI Sa,missing,missing,09/10/22,missing,8:13 AM,News CH8,TH Morn-Sat 8-9A,SAT 8-9A,:30,HMP22IA03T01H,missing,missing,"$1,000.00 NM"
+5,missing,missing,09/11/22,09/11/22,CBS,Sunday,Morning,Sun 8-930a,missing,:30,1,"$1,800.00",NM,missing
+-TABLE
+Class of Time - Non Pre-emptible,missing,missing,missing,missing,missing,missing,missing,missing
+#Record3
+-KV
+Main,(216)344-3333
+Billing,A TEGNA Company www.wkyc.com
+Property,WKYC
+Invoice #,2097094-1
+Invoice Date,11/08/20
+Invoice Month,November 2020
+Invoice Period,10/26/20 - 11/03/20
+Advertiser,POL/ Matt Dolan / RSCC / R / St Senate/ OH
+Order #,2097094
+Alt Order #,WOC12736508
+Deal #,missing
+Flight Dates,10/27/20 - 11/03/20
+Product,Dolan 10/27-11/3
+Estimate #,2357
+Address,"SRCP Media, Inc/ POL"
+Attention,"Betsy Vonderheid
+201 North Union Street, Suite 200
+Alexandria, VA 22314"
+Send Payment To,"WKYC
+WKYC
+PO BOX: 637386
+Cincinnati, OH 45263-7386"
+Account Executive,Aleesha Maewall
+Sales Office,TEGNA Sales Washington DC
+Sales Region,National
+Agency Code,missing
+Advertiser Code,128
+Billing Calendar,Broadcast
+Billing Type,Cash
+Special Handling
+Agency Ref,9989AG
+Advertiser Ref,104584
+Product 1,782
+Product 2,missing
+Spots/
+Length
+Week,:30
+Line,1
+Start Date,10/27/20
+End Date,11/02/20
+Description,TODAY SHOW
+Start/End Time,7-9a
+MTWTFSS,MTWTF --
+Rate,$800.00
+Type,NM
+Start Date,10/27/20
+End Date,11/02/20
+MTWTFSS,MTWTF --
+Spots/Week,10
+Rate,$800.00
+Start Date,11/02/20
+End Date,11/08/20
+MTWTFSS,-T-
+Spots/Week,2
+Rate,$800.00
+Start Date,10/27/20
+End Date,11/02/20
+MTWTFSS,MTWTF
+Spots/Week,5
+Rate,"$1,500.00"
+Ch,missing
+Day,missing
+Air Date,missing
+Air Time,missing
+Description,missing
+Start/End Time,missing
+Length,missing
+Ad-ID,missing
+Rate Type,missing
+-TABLE
+Product,Dolan 10/27-11/3
+Estimate #,2357
+-TABLE
+Line,Start,Date,missing,End Date,missing,Description,missing,Start/End Time,MTWTFSS,Length,Week,Rate,Type,missing,missing
+1,10/27/20,missing,missing,11/02/20,missing,TODAY,missing,SHOW,missing,7-9a,MTWTF --,:30,10,$800.00,NM,missing,missing
+missing,Weeks:,missing,Start Date,missing,End,Date,missing,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing,missing
+missing,missing,missing,missing,missing,10/27/20,11/02/20,MTWTF --,10,$800.00,missing,missing,missing,missing,missing,missing
+missing,Spots: #,Ch,missing,Day,Air,Date,Air Time,Description,missing,Start/End Time,Length,Ad-ID,missing,missing,Rate,Type
+missing,9,WKYC,Tu,missing,10/27/20,7:22 AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,1,WKYC,missing,Tu,missing,10/27/20,8:53 AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,2,WKYC,missing,W,missing,10/28/20,6:58 AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,10,WKYC,missing,W,missing,10/28/20,8:33,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,3,WKYC,missing,Th,missing,10/29/20,7:57,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,7,WKYC,missing,Th,missing,10/29/20,8:41,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,4,WKYC,missing,F,missing,10/30/20,7:58,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,8,WKYC,missing,LL,missing,10/30/20,8:29,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,5,WKYC,missing,M,missing,11/02/20,6:59 AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+missing,6,WKYC,missing,M,missing,11/02/20,8:59,AM,TODAY,SHOW,7-9a,:30,MD20TV02H,missing,missing,$800.00,NM
+-TABLE
+2 11/03/20,11/03/20,missing,TODAY
+-TABLE
+Y,SHOW TUESDA,7-9a,-T --- --,:30,2,$800.00,NM,missing
+-TABLE
+Weeks:,Start Date,missing,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,11/02/20,11/08/20 -T-,missing,missing,2,$800.00,missing,missing,missing,missing,missing
+-TABLE
+Spots: # Ch,Day,Air Date,Air Time Description,missing,Start/End Time,Length,Ad-ID,missing,Rate,Type
+2 WKYC,Tu,11/03/20,7:19 AM TODAY,SHOW TUESDAY,7-9a,:30,MD20TV02H,missing,$800.00,NM
+1 WKYC,Tu,11/03/20,8:51 AM TODAY,SHOW TUESDAY,7-9a,:30,MD20TV02H,missing,$800.00,NM
+-TABLE
+3 10/27/20,11/02/20,3 NEWS M-F 6PM,6p-630p,MTWTF --,:30,5,"$1,500.00",NM,missing
+Weeks:,Start Date,End Date,MTWTFSS,Spots/Week,Rate,missing,missing,missing,missing,missing
+missing,10/27/20,11/02/20,MTWTF --,5,"$1,500.00",missing,missing,missing,missing,missing
+Spots: # Ch,Day Air Date Air Time Description,missing,Start/End Time,Length,Ad-ID,missing,missing,missing,Rate Type

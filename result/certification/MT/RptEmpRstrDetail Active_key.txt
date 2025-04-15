@@ -1,0 +1,10 @@
+OCT
+Age
+Employee Type
+I.D.
+Sex
+Instructor
+Employee
+Name
+Supervisor
+Birth Date

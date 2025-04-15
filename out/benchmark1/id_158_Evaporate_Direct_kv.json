@@ -1,0 +1,455 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "10-10-2012"
+                    },
+                    {
+                        "Page": "1 of 3"
+                    },
+                    {
+                        "Station": "ADELSTEIN/LISTON - 41"
+                    },
+                    {
+                        "Contract No": "401752"
+                    },
+                    {
+                        "Contract Dt": "10-05-2012"
+                    },
+                    {
+                        "Revision Dt": "10-08-2012"
+                    },
+                    {
+                        "Rev#": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Advertiser": "POLITICALS"
+                    },
+                    {
+                        "Brand": "WLS - CHICAGO"
+                    },
+                    {
+                        "Product Code": "[MISSING]"
+                    },
+                    {
+                        "Station/Market": "[MISSING]"
+                    },
+                    {
+                        "Agency Est#": "DCCC - EST"
+                    },
+                    {
+                        "CMS #": "245910"
+                    },
+                    {
+                        "Sales Office": "PHILADELPHIA"
+                    },
+                    {
+                        "Account Executive": "D. PARKER"
+                    },
+                    {
+                        "Start Date": "10-14-2012"
+                    },
+                    {
+                        "End Date": "M (Broadcast Month, Cycle 1)"
+                    },
+                    {
+                        "Billing": "N"
+                    },
+                    {
+                        "Package": "[MISSING]"
+                    },
+                    {
+                        "Contract Title": "[MISSING]"
+                    },
+                    {
+                        "MG Group #": "334083"
+                    },
+                    {
+                        "Preempted": "-1"
+                    },
+                    {
+                        "Rate Reason": "CHANGE"
+                    },
+                    {
+                        "Duration": "60PROGRAM"
+                    },
+                    {
+                        "Total Preempt Total": "-60.00"
+                    },
+                    {
+                        "Contracted Gross Total": "106,405.00"
+                    },
+                    {
+                        "Actual Gross Total": "[MISSING]"
+                    },
+                    {
+                        "Agency Commission": "15,960.75"
+                    },
+                    {
+                        "Net Total": "90,444.25"
+                    },
+                    {
+                        "Month/YR": "Oct"
+                    },
+                    {
+                        "Made Good": "0.00"
+                    },
+                    {
+                        "Contract Total": "[MISSING]"
+                    },
+                    {
+                        "Adjustments": "[MISSING]"
+                    },
+                    {
+                        "Actual Total": "TOTAL"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Time Period": "10-12-2012",
+                        "Description": "10:35PM - 11:04PM",
+                        "RCDuration": "LF/NEWS",
+                        "M": "NIGHTLINE",
+                        "T": "M-F 1035-1104P (5527)",
+                        "W": "30",
+                        "F": "X",
+                        "SPW": "[MISSING]",
+                        "Price": "4",
+                        "Tot Spots": "1",
+                        "Total $": "900,7,600.00"
+                    },
+                    {
+                        "Line": "2",
+                        "Time Period": "11:04PM - 12:08AM",
+                        "Description": "LF: JIMMY KIMMEL: 1104PM-1208AM EFF: 9/12-TF",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "760",
+                        "F": "[MISSING]",
+                        "SPW": "[MISSING]",
+                        "Price": "2",
+                        "Tot Spots": "280.00",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "3",
+                        "Time Period": "09:00PM - 10:00PM",
+                        "Description": "PRIME: WED: 9-10P VAR/NASHVILLE EFF:10/10 (56",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "[MISSING]",
+                        "Price": "8",
+                        "Tot Spots": "550",
+                        "Total $": "8,550.00"
+                    },
+                    {
+                        "Line": "4",
+                        "Time Period": "10-13-2012",
+                        "Description": "07:00AM - 08:00AM",
+                        "RCDuration": "WEEKEND/ MORN",
+                        "M": "NEWS GMA SAT 7-8A (5555)",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "950",
+                        "Price": "[MISSING]",
+                        "Tot Spots": "[MISSING]",
+                        "Total $": "950.00"
+                    },
+                    {
+                        "Line": "5",
+                        "Time Period": "08:00AM - 09:00AM",
+                        "Description": "WEEKEND EARLY MORN NEWS: SAT: 8-9A (10600",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "[MISSING]",
+                        "Price": "[MISSING]",
+                        "Tot Spots": "[MISSING]",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "6",
+                        "Time Period": "02:30PM - 06:00PM",
+                        "Description": "SPORTS FOOTBALL SAT COLLEGE 1058A-600P",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "2",
+                        "Price": "000",
+                        "Tot Spots": "2",
+                        "Total $": "000.00"
+                    },
+                    {
+                        "Line": "7",
+                        "Time Period": "[MISSING]",
+                        "Description": "WEEKEND/MORN NEWS GMA SUN 7-8A (5557)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "665",
+                        "Price": "665.00",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "8",
+                        "Time Period": "08:00AM - 09:30AM",
+                        "Description": "SUN 8-930AM/8-10A EFF",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "855",
+                        "Price": "855.00",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "9",
+                        "Time Period": "05:00PM - 05:30PM",
+                        "Description": "WEEKEND/EARLY NEWS SUN 5-530P (5572)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "1",
+                        "Price": "140",
+                        "Tot Spots": "1",
+                        "Total $": "140.00"
+                    },
+                    {
+                        "Line": "10",
+                        "Time Period": "06:00AM - 07:00AM",
+                        "Description": "MORN 6-7A M-F (5511)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "1",
+                        "Price": "235",
+                        "Tot Spots": "3",
+                        "Total $": "705.00"
+                    },
+                    {
+                        "Line": "11",
+                        "Time Period": "07:00AM - 09:00AM",
+                        "Description": "MORN NEWS/GMA 7-9A M-F (5512)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "1",
+                        "Price": "520",
+                        "Tot Spots": "6",
+                        "Total $": "080.00"
+                    },
+                    {
+                        "Line": "12",
+                        "Time Period": "09:00AM - 10:00AM",
+                        "Description": "DAYTIME: WINDY CITY LIVE 9-10A M-F EFF: 5/26-3",
+                        "RCDuration": "420.00",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "[MISSING]",
+                        "Price": "[MISSING]",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "13",
+                        "Time Period": "11:00AM - 12:00PM",
+                        "Description": "DAYTIME/ NEWS 11-12NOON DAYTIME M-F (5516",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "800",
+                        "Price": "4",
+                        "Tot Spots": "000.00",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "14",
+                        "Time Period": "04:00PM - 05:00PM",
+                        "Description": "EARLY NEWS M-F 4-5P (8499)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "1",
+                        "Price": "805",
+                        "Tot Spots": "7",
+                        "Total $": "220.00"
+                    },
+                    {
+                        "Line": "15",
+                        "Time Period": "[MISSING]",
+                        "Description": "EARLY 5-530P M-F (5519)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "2",
+                        "Price": "280",
+                        "Tot Spots": "9",
+                        "Total $": "120.00"
+                    },
+                    {
+                        "Line": "16",
+                        "Time Period": "06:00PM - 06:30PM",
+                        "Description": "6-630P M-F (5524)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "2",
+                        "Price": "660",
+                        "Tot Spots": "5",
+                        "Total $": "320.00"
+                    },
+                    {
+                        "Line": "17",
+                        "Time Period": "06:30PM - 07:00PM",
+                        "Description": "ACCESS WHEEL M-F 628P-7P (5525)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "3",
+                        "Price": "400",
+                        "Tot Spots": "10",
+                        "Total $": "200.00"
+                    },
+                    {
+                        "Line": "18",
+                        "Time Period": "10:00PM - 10:35PM",
+                        "Description": "LN ORBIT NEWS M-F1000-1035P;SU 1000P-1100P",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "5",
+                        "Price": "225",
+                        "Tot Spots": "15",
+                        "Total $": "675.00"
+                    },
+                    {
+                        "Line": "19",
+                        "Time Period": "10:00PM - 11:00PM",
+                        "Description": "[MISSING]",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "[MISSING]",
+                        "Price": "5",
+                        "Tot Spots": "225.00",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "20",
+                        "Time Period": "11:00PM - 11:30PM",
+                        "Description": "LF SUN 190 NORTH-1100P-1130P (5827)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "760.00",
+                        "Price": "",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "21",
+                        "Time Period": "11:30PM - 12:00AM",
+                        "Description": "SUN INSIDE ED.-1130PM-1200A (5828)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "570",
+                        "Price": "570.00",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "22",
+                        "Time Period": "10-09-2012",
+                        "Description": "05:45PM - 05:55PM",
+                        "RCDuration": "*M-SU 400P-700P ROTATOR (M-SU EN/ACCESS) ([MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "2",
+                        "SPW": "660.00",
+                        "Price": "",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    },
+                    {
+                        "Line": "23",
+                        "Time Period": "08:00PM - 09:00PM",
+                        "Description": "PRIME:TUE: 8-9P: VAR/COMEDIES (5604)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "7",
+                        "Price": "400",
+                        "Tot Spots": "7",
+                        "Total $": "400.00"
+                    },
+                    {
+                        "Line": "24",
+                        "Time Period": "02:05AM - 02:40AM",
+                        "Description": "WEEKEND LNR 200A-300A SA-SU (11857)",
+                        "RCDuration": "[MISSING]",
+                        "M": "[MISSING]",
+                        "T": "[MISSING]",
+                        "W": "[MISSING]",
+                        "F": "[MISSING]",
+                        "SPW": "60",
+                        "Price": "60.00",
+                        "Tot Spots": "",
+                        "Total $": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

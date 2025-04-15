@@ -1,0 +1,1252 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Order #": "62924075"
+                    },
+                    {
+                        "Flight Dates": "09/13/21 - 10/03/21"
+                    },
+                    {
+                        "Update Date": "09/15/21"
+                    },
+                    {
+                        "Syscode": "0166"
+                    },
+                    {
+                        "Agency": "Keller Media Consulting"
+                    },
+                    {
+                        "Version": "1 Vs. 1"
+                    },
+                    {
+                        "System Name": "Spectrum/Traverse City Interconnect, MI"
+                    },
+                    {
+                        "Advertiser": "Small Business Association of Michigan"
+                    },
+                    {
+                        "Market": "Traverse City"
+                    },
+                    {
+                        "Total # of Weeks": "3"
+                    },
+                    {
+                        "Total": "$65,422.00"
+                    },
+                    {
+                        "AE": "Leah Losier"
+                    },
+                    {
+                        "Commission": "$9,813.30"
+                    },
+                    {
+                        "Sales Coordinator": "Michael Ryan"
+                    },
+                    {
+                        "Net Total": "$55,608.70"
+                    },
+                    {
+                        "Office": "Chicago"
+                    },
+                    {
+                        "Product Name": "add to sked 9.16-9.30"
+                    },
+                    {
+                        "Total Spots": "2200"
+                    },
+                    {
+                        "Phone": "(312) 527-5755"
+                    },
+                    {
+                        "Credit Status": "Cash in Advance"
+                    },
+                    {
+                        "Affiliate Split": "100.0"
+                    },
+                    {
+                        "Status": "Accepted"
+                    },
+                    {
+                        "Survey": "DMA Nielsen Live+3 Sep20"
+                    },
+                    {
+                        "Primary Demo": "Adults 18+"
+                    },
+                    {
+                        "Comments": "9.14 new order. please confirm. thanks"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "LineNet": "1",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "2",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "3",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "4",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "5",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "6",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$104.00"
+                    },
+                    {
+                        "LineNet": "7",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "8",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "9",
+                        "Program": "AEN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$264.00"
+                    },
+                    {
+                        "LineNet": "10",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "11",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "12",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$190.00"
+                    },
+                    {
+                        "LineNet": "13",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "14",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "15",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$104.00"
+                    },
+                    {
+                        "LineNet": "16",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "17",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "18",
+                        "Program": "AMC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$264.00"
+                    },
+                    {
+                        "LineNet": "19",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "20",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "21",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "22",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "23",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "24",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$56.00"
+                    },
+                    {
+                        "LineNet": "25",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "26",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "27",
+                        "Program": "APL CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$152.00"
+                    },
+                    {
+                        "LineNet": "28",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "29",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "30",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "31",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "32",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "33",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$104.00"
+                    },
+                    {
+                        "LineNet": "34",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "35",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "36",
+                        "Program": "BRVO CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$264.00"
+                    },
+                    {
+                        "LineNet": "37",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "38",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "39",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "40",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "41",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "42",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$56.00"
+                    },
+                    {
+                        "LineNet": "43",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "44",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "45",
+                        "Program": "CMT CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$152.00"
+                    },
+                    {
+                        "LineNet": "46",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$250.00"
+                    },
+                    {
+                        "LineNet": "47",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$250.00"
+                    },
+                    {
+                        "LineNet": "48",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$250.00"
+                    },
+                    {
+                        "LineNet": "49",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$148.00"
+                    },
+                    {
+                        "LineNet": "50",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$148.00"
+                    },
+                    {
+                        "LineNet": "51",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$148.00"
+                    },
+                    {
+                        "LineNet": "52",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "10",
+                        "Cost": "$500.00"
+                    },
+                    {
+                        "LineNet": "53",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "10",
+                        "Cost": "$500.00"
+                    },
+                    {
+                        "LineNet": "54",
+                        "Program": "DISC CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$400.00"
+                    },
+                    {
+                        "LineNet": "55",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "56",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "57",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "58",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "59",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "60",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$56.00"
+                    },
+                    {
+                        "LineNet": "61",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "62",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "63",
+                        "Program": "ESP2 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$152.00"
+                    },
+                    {
+                        "LineNet": "64",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$460.00"
+                    },
+                    {
+                        "LineNet": "65",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$460.00"
+                    },
+                    {
+                        "LineNet": "66",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$460.00"
+                    },
+                    {
+                        "LineNet": "67",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$375.00"
+                    },
+                    {
+                        "LineNet": "68",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$375.00"
+                    },
+                    {
+                        "LineNet": "69",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$300.00"
+                    },
+                    {
+                        "LineNet": "70",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$1,344.00"
+                    },
+                    {
+                        "LineNet": "71",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$1,344.00"
+                    },
+                    {
+                        "LineNet": "72",
+                        "Program": "ESPN CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$768.00"
+                    },
+                    {
+                        "LineNet": "73",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$260.00"
+                    },
+                    {
+                        "LineNet": "74",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$260.00"
+                    },
+                    {
+                        "LineNet": "75",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$260.00"
+                    },
+                    {
+                        "LineNet": "76",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$215.00"
+                    },
+                    {
+                        "LineNet": "77",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$215.00"
+                    },
+                    {
+                        "LineNet": "78",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$172.00"
+                    },
+                    {
+                        "LineNet": "79",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$756.00"
+                    },
+                    {
+                        "LineNet": "80",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$756.00"
+                    },
+                    {
+                        "LineNet": "81",
+                        "Program": "FOOD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$432.00"
+                    },
+                    {
+                        "LineNet": "82",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "83",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "84",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$170.00"
+                    },
+                    {
+                        "LineNet": "85",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "86",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$130.00"
+                    },
+                    {
+                        "LineNet": "87",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$104.00"
+                    },
+                    {
+                        "LineNet": "88",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "89",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$462.00"
+                    },
+                    {
+                        "LineNet": "90",
+                        "Program": "FRFM CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$264.00"
+                    },
+                    {
+                        "LineNet": "91",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "92",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "93",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$80.00"
+                    },
+                    {
+                        "LineNet": "94",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "95",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "96",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$56.00"
+                    },
+                    {
+                        "LineNet": "97",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "98",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "99",
+                        "Program": "FS1 CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$152.00"
+                    },
+                    {
+                        "LineNet": "100",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "101",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "102",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$90.00"
+                    },
+                    {
+                        "LineNet": "103",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "104",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$70.00"
+                    },
+                    {
+                        "LineNet": "105",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$56.00"
+                    },
+                    {
+                        "LineNet": "106",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "107",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$266.00"
+                    },
+                    {
+                        "LineNet": "108",
+                        "Program": "FSD CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "8",
+                        "Cost": "$152.00"
+                    },
+                    {
+                        "LineNet": "109",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$150.00"
+                    },
+                    {
+                        "LineNet": "110",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$150.00"
+                    },
+                    {
+                        "LineNet": "111",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "09:00",
+                        "Stop Time": "16:00",
+                        "Spots": "10",
+                        "Cost": "$150.00"
+                    },
+                    {
+                        "LineNet": "112",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$125.00"
+                    },
+                    {
+                        "LineNet": "113",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "5",
+                        "Cost": "$125.00"
+                    },
+                    {
+                        "LineNet": "114",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/27/21",
+                        "Stop Date": "10/3/21",
+                        "Start Time": "16:00",
+                        "Stop Time": "19:00",
+                        "Spots": "4",
+                        "Cost": "$100.00"
+                    },
+                    {
+                        "LineNet": "115",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/13/21",
+                        "Stop Date": "9/19/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "14",
+                        "Cost": "$420.00"
+                    },
+                    {
+                        "LineNet": "116",
+                        "Program": "FX CABLE",
+                        "Start Date": "9/20/21",
+                        "Stop Date": "9/26/21",
+                        "Start Time": "19:00",
+                        "Stop Time": "24:00",
+                        "Spots": "",
+                        "Cost": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

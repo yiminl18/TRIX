@@ -1,0 +1,164 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "University of Utah": "MUSEUM DOCK"
+                    },
+                    {
+                        "Date": "07/31/2020"
+                    },
+                    {
+                        "General Stores": "Page"
+                    },
+                    {
+                        "1": "Cylinder Billing Report"
+                    },
+                    {
+                        "Amount Total": "29.45"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "01000186000250726250112021",
+                        "Gas": "Argon",
+                        "Size": "K/UU",
+                        "CO #": "0439552",
+                        "PO #CDLocation": "MUSEUM DOCK",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0872050030",
+                        "Chart": "[MISSING]",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "01000226000297706260012021",
+                        "Gas": "Nitrogen",
+                        "Size": "UHP",
+                        "CO #": "200C/Mt.A",
+                        "PO #CDLocation": "0482972",
+                        "Demurrage": "1483 MEB",
+                        "Delivery Code": "7.56",
+                        "Chart": "0051001100",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "01000511001131906260012021",
+                        "Gas": "Helium - 219 CF",
+                        "Size": "0466519",
+                        "CO #": "1820 Warnock Eng",
+                        "PO #CDLocation": "0062016500",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": ""
+                    },
+                    {
+                        "BarCode": "01000512000003396260312021",
+                        "Gas": "Helium - UHP",
+                        "Size": "0420393",
+                        "CO #": "Nanofab East loading dock",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "2027C2o2lle",
+                        "Chart": "[MISSING]",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "8101C1o4lle",
+                        "Gas": "Ammonia Elect",
+                        "Size": "0359145",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "NANOFAB LADING DOCK SMBB",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": ""
+                    },
+                    {
+                        "BarCode": "8190C3o0lle",
+                        "Gas": "[MISSING]",
+                        "Size": "0469712",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "2500 SMBB Nanofab East Loading D",
+                        "Chart": "[MISSING]",
+                        "Amount Total": ""
+                    },
+                    {
+                        "BarCode": "8192U4ta5h",
+                        "Gas": "Chlorine Elect",
+                        "Size": "0468246",
+                        "CO #": "EAST LOADING DOCK SMBB",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": ""
+                    },
+                    {
+                        "BarCode": "8218U7ta3h",
+                        "Gas": "[MISSING]",
+                        "Size": "[MISSING]",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "79.17",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "8218U7ta5h",
+                        "Gas": "[MISSING]",
+                        "Size": "[MISSING]",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "8219U9ta8h",
+                        "Gas": "[MISSING]",
+                        "Size": "0488816",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": ""
+                    },
+                    {
+                        "BarCode": "8220U7ta5h",
+                        "Gas": "[MISSING]",
+                        "Size": "[MISSING]",
+                        "CO #": "[MISSING]",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": "[MISSING]"
+                    },
+                    {
+                        "BarCode": "8220U7ta6h",
+                        "Gas": "[MISSING]",
+                        "Size": "[MISSING]",
+                        "CO #": "789.47",
+                        "PO #CDLocation": "[MISSING]",
+                        "Demurrage": "[MISSING]",
+                        "Delivery Code": "[MISSING]",
+                        "Chart": "[MISSING]",
+                        "Amount Total": "[MISSING]"
+                    }
+                ]
+            }
+        ]
+    }
+]

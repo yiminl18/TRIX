@@ -1,0 +1,309 @@
+#Record1
+-KV
+Report ID,SR201
+Page,1
+No.
+Date,08/12/2021
+of,253
+Run,missing
+Run Time,11:15:26
+Subject,A&C Interdepartmental
+Subject,ACINDP
+493
+Catalog,missing
+Nbr,01
+Section,1070
+Class,missing
+Nbr,missing
+Course Title,ARTS MGMT/MERCH
+Component,INTERN
+Field Studies
+Units,2 - 6
+Topics,missing
+Bldg,missing
+ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Anderson, Marshall B"
+Class Enrl Cap,10
+Class Enrl Tot ,0
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl ,0
+-TABLE
+Subject,Catalog,Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+ACINDP,493,missing,01,1070,ARTS MGMT/MERCH INTERN,Field Studies,2 - 6,missing
+Bldg: ARRANGED,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,missing,missing,"Instructor: Anderson, Marshall B"
+Class,Enrl Cap: 10,missing,Class Enrl Tot,: 0 Class Wait Cap: 0,Class Wait Tot: 0,Class Min Enrl : 0,missing,missing
+#Record2
+-KV
+Report ID,SR201
+Subject,Art Studio
+Page,2
+No.
+Date,08/12/2021
+of,253
+Run,missing
+Run Time,11:15:26
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Kim, Daniel I"
+Class Enrl Cap,18
+ARTSTDIO
+498
+Class Enrl Tot,4
+01
+1587
+Class Wait Cap,0
+INDEPENDENT
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Frame, Teri"
+Class Enrl Cap,35
+498
+Class Enrl Tot,1
+1596
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Porcaro, Greg"
+Class Enrl Cap,35
+Class Enrl Tot,2
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+-TABLE
+Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+ARTSTDIO,492,missing,01,1420,FIELD INTERNSHIP IN ART,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,"Instructor: Kim, Daniel I"
+Class,Enrl Cap: 18,missing,Class Enrl Tot,: 4 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0
+ARTSTDIO,498,01,1587,INDEPENDENT STUDIES,Independent Study,1 - 6,missing
+Bldg:,ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,PHOTOGRAPHY,missing,"Instructor: Frame, Teri"
+Class,Enrl Cap: 35,missing,Class Enrl Tot,: 1 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0
+ARTSTDIO,498,02,1596,INDEPENDENT STUDIES,Independent Study,1 - 6,missing
+Bldg:,ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,PAINTING,missing,"Instructor: Porcaro, Greg"
+Class,Enrl Cap: 35,missing,Class Enrl Tot,: 2 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0
+#Record3
+-KV
+Report ID,SR201
+Subject,Communication
+Page,3
+No.
+Date,08/12/2021
+of,253
+Run,missing
+Run Time,11:15:26
+Bldg,missing
+ARRANGED,missing
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+COMM
+493E
+Class Enrl Tot,9
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,missing
+ARRANGED,01
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+COMM
+493I
+Class Enrl Tot,2
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,missing
+ARRANGED,missing
+Room,01
+1057
+ARRANGED
+Days,PR INTERNSHIP
+TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+COMM
+493M
+Class Enrl Tot,2
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,missing
+ARRANGED,missing
+Room,01
+1058
+ARRANGED
+Days,MAGD INTERNSHIP
+TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+Class Enrl Tot,1
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+-TABLE
+Subject,Catalog Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+COMM,493C,missing,01,1055,INTERNSHIP COMMUNICATION,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,"Instructor: Lowell, William E"
+Class Enrl Cap: 35,missing,Class Enrl,Tot: 9 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0,missing
+COMM,493E,01,1056,INTERNSHIP ELECTR MEDIA,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,"Instructor: Lowell, William E"
+Class Enrl Cap: 35,missing,Class Enrl,Tot : 2 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0,missing
+COMM,493I,01,1057,PR INTERNSHIP,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED Days: TBA Time: TBA,missing,missing,missing,missing,"Instructor: Lowell, William E"
+Class Enrl Cap: 35,missing,Class Enrl,Tot : 2 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0,missing
+COMM,493M,missing,01,1058,MAGD INTERNSHIP,Independent Study,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,"Instructor: Lowell, William E"
+Class Enrl Cap: 35,missing,Class Enrl,Tot : 1 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0,missing
+#Record4
+-KV
+Report ID,SR201
+Page,4
+No.
+Date,08/12/2021
+of,253
+Run,missing
+Run Time,11:15:26
+Bldg,missing
+ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+Class Enrl Tot ,0
+Class Wait Cap,0
+Class Wait Tot ,0
+Class Min Enrl ,0
+Bldg,493G
+ARRANGED
+Room,01
+1060
+ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Lowell, William E"
+Class Enrl Cap,35
+Class Enrl Tot ,2
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl ,0
+Class Equivalents,JOURNLSM 493A/493AEX
+-TABLE
+Subject,Catalog,Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+JOURNLSM,493A,missing,01,1059,INTERNSHIP ADVERTISING,Field Studies,1 - 3,missing
+Bldg: ARRANGED,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,"Instructor: Lowell, William E",Class,Class,Enrl Cap:
+Equivalents:,35,JOURNLSM,Class Enrl Tot, 493A/493AEX,: 0 Class Wait Cap: 0,Class Wait Tot : 0,Class,Min Enrl : 0
+JOURNLSM,493G,missing,01,1060,INTERNSHIP JOURNALISM,Field Studies,1 - 3,missing
+Bldg:,ARRANGED,missing,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,"Instructor: Lowell, William E"
+Class,Enrl Cap:,35,missing,Class Enrl Tot,: 2 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0
+#Record5
+-KV
+Report ID,SR201
+Subject,Theatre
+Page,5
+No.
+Date,253
+08/12/2021
+of,missing
+Run,missing
+Run Time,11:15:26
+Subject,THEATRE
+493
+Catalog,missing
+Nbr,01
+Section,1068
+Class,missing
+Nbr,missing
+Course Title,INTERN THEATRE PRACTICE
+Component,Field Studies
+Units,1 - 12
+Topics,missing
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Anderson, Marshall B"
+Class Enrl Cap,35
+Class Enrl Tot ,0
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl ,0
+-TABLE
+Subject,Catalog,Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+THEATRE,493,missing,01,1068,INTERN THEATRE PRACTICE,Field Studies,1 - 12,missing
+Bldg:,ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,"Instructor: Anderson, Marshall B"
+Class,Enrl Cap: 35,missing,Class Enrl Tot,: 0 Class Wait Cap: 0,Class Wait Tot: 0,Class Min Enrl : 0,missing,missing
+#Record6
+-KV
+Report ID,SR201
+Page,6
+No.
+Date,08/12/2021
+of,253
+Run,missing
+Run Time,11:15:26
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Becker, D'Arcy"
+Class Enrl Cap,35
+ACCOUNT
+493
+Class Enrl Tot,0
+01
+1379
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Bacon, Dawn M"
+Class Enrl Cap,35
+Class Enrl Tot,20
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl,0
+Bldg,ARRANGED
+Room,ARRANGED
+Days,TBA
+Time,TBA
+Instructor,"Becker, D'Arcy"
+Class Enrl Cap,35
+Class Enrl Tot,2
+Class Wait Cap,0
+Class Wait Tot,0
+Class Min Enrl ,0
+-TABLE
+Subject,Catalog,Nbr,Section,Class Nbr,Course Title,Component,Units,Topics
+ACCOUNT,293,missing,01,1376,ACCOUNT & BUS EXPERIENCE,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,missing,"Instructor: Becker, D'Arcy"
+Class Enrl Cap:,35,missing,Class Enrl,Tot : 0 Class Wait Cap: 0,Class Wait Tot : 0,Class,Min Enrl : 0,missing
+ACCOUNT,493,missing,01,1379,INTERNSHIP IN ACCOUNTING,Field Studies,1 - 12,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,missing,"Instructor: Bacon, Dawn M"
+Class Enrl,Cap: 35,missing,Class Enrl,Tot: 20 Class Wait Cap: 0,Class Wait Tot : 0,Class,Min Enrl : 0,missing
+ACCOUNT,793,missing,01,1382,PRACTICUM IN ACCOUNTING,Field Studies,1 - 3,missing
+Bldg: ARRANGED,missing,Room: ARRANGED,Days: TBA Time: TBA,missing,missing,missing,missing,"Instructor: Becker, D'Arcy"
+Class Enrl Cap: 35,missing,Class Enrl,Tot: 2 Class Wait Cap: 0,Class Wait Tot: 0,Class,Min Enrl : 0,missing,missing

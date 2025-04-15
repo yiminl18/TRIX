@@ -1,0 +1,233 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Print Date": "04/12/22"
+                    },
+                    {
+                        "Page": "1 of 6"
+                    },
+                    {
+                        "Contract / Revision": "931552 / 10373344"
+                    },
+                    {
+                        "Advertiser": "[MISSING]"
+                    },
+                    {
+                        "Original Date / Revision": "POL/J Mandel/R/Sen/OH-A"
+                    },
+                    {
+                        "Contract Dates": "04/12/22 - 04/18/22"
+                    },
+                    {
+                        "Estimate #": "3189"
+                    },
+                    {
+                        "Product": "EST 3189 4/12-4/18 And"
+                    },
+                    {
+                        "Billing Cycle": "Cash/Trade"
+                    },
+                    {
+                        "Account Executive": "Broadcast Cash"
+                    },
+                    {
+                        "Sales Office": "AxMedia 1251 NW Briarcliff Pkwy Ste 85 Dallas CoxReps CoxReps Dallas Kansas City, MO 64116"
+                    },
+                    {
+                        "Demographic": "Adults 55+"
+                    },
+                    {
+                        "Agy Code": "TV16670"
+                    },
+                    {
+                        "Advertiser Code": "302"
+                    },
+                    {
+                        "Agency Ref": "P00062204"
+                    },
+                    {
+                        "Advertiser Ref": "P00090931-A"
+                    },
+                    {
+                        "Signature Date": "10/25/22"
+                    },
+                    {
+                        "Station": "WHIO-TV"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Start/End": "D",
+                        "Spots/Line": "WHIO",
+                        "Ch": "",
+                        "Start Date": "04/18/22",
+                        "End Date": "",
+                        "Description": "Daybreak Edition 6a",
+                        "Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": "30",
+                        "Week": "P-05",
+                        "Rate": "NM",
+                        "PCode": "0",
+                        "Type": "0",
+                        "Spots": "",
+                        "Amount": ""
+                    },
+                    {
+                        "Start/End": "",
+                        "Spots/Line": "",
+                        "Ch": "2",
+                        "Start Date": "3",
+                        "End Date": "04/13/22",
+                        "Description": "4",
+                        "Time": "04/14/22",
+                        "Days": "5",
+                        "Length": "04/15/22",
+                        "Week": "",
+                        "Rate": "CBS This Morning",
+                        "PCode": "7:00 AM-8:00 AM",
+                        "Type": "7",
+                        "Spots": "8",
+                        "Amount": "9,,8:00 AM-9:00 AM,10,11,04/16/22,,NewsCenter 7 Sa 8a,8:00 AM-10:00 AM,,,,,$250.00"
+                    },
+                    {
+                        "Start/End": "",
+                        "Spots/Line": "Start Date",
+                        "Ch": "End Date",
+                        "Start Date": "Weekdays",
+                        "End Date": "Spots/Week",
+                        "Description": "",
+                        "Time": "",
+                        "Days": "",
+                        "Length": "",
+                        "Week": "04/11/22",
+                        "Rate": "04/17/22",
+                        "PCode": "-----1-",
+                        "Type": "12",
+                        "Spots": "",
+                        "Amount": "Face The Nation,10:30 AM-11:30 AM,,,,,-,,,,,-,,,,,-"
+                    },
+                    {
+                        "Start/End": "",
+                        "Spots/Line": "",
+                        "Ch": "",
+                        "Start Date": "",
+                        "End Date": "",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Time": "12:00 PM-12:30 PM",
+                        "Days": "",
+                        "Length": "",
+                        "Week": "",
+                        "Rate": "",
+                        "PCode": "",
+                        "Type": "",
+                        "Spots": "",
+                        "Amount": ""
+                    },
+                    {
+                        "Start/End": "-",
+                        "Spots/Line": "",
+                        "Ch": "",
+                        "Start Date": "",
+                        "End Date": "",
+                        "Description": "NewsCenter 7 6p",
+                        "Time": "6:00 PM-6:30 PM",
+                        "Days": "",
+                        "Length": "",
+                        "Week": "",
+                        "Rate": "",
+                        "PCode": "",
+                        "Type": "",
+                        "Spots": "",
+                        "Amount": ""
+                    },
+                    {
+                        "Start/End": "N",
+                        "Spots/Line": "",
+                        "Ch": "",
+                        "Start Date": "",
+                        "End Date": "M-Su 11p News",
+                        "Description": "11:00 PM-11:35 PM",
+                        "Time": "",
+                        "Days": "",
+                        "Length": "",
+                        "Week": "",
+                        "Rate": "-1-----",
+                        "PCode": "",
+                        "Type": "",
+                        "Spots": "",
+                        "Amount": ",,,"
+                    },
+                    {
+                        "Start/End": "-",
+                        "Spots/Line": "",
+                        "Ch": "",
+                        "Start Date": "",
+                        "End Date": "M-F 11p News",
+                        "Description": "",
+                        "Time": "------1",
+                        "Days": "",
+                        "Length": "",
+                        "Week": "",
+                        "Rate": "",
+                        "PCode": "",
+                        "Type": "",
+                        "Spots": "",
+                        "Amount": ""
+                    },
+                    {
+                        "Start/End": "",
+                        "Spots/Line": "",
+                        "Ch": "1",
+                        "Start Date": "2",
+                        "End Date": "3",
+                        "Description": "4",
+                        "Time": "5",
+                        "Days": "6",
+                        "Length": "7",
+                        "Week": "",
+                        "Rate": "",
+                        "PCode": "",
+                        "Type": "",
+                        "Spots": "",
+                        "Amount": ",,,,"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Time Period": "-04/17/22",
+                        "# of Spots": "",
+                        "Gross Amount": "$30",
+                        "Agency Comm.": "800.00",
+                        "Net Amount": "($4,620.00),$26,180.00"
+                    },
+                    {
+                        "Time Period": "-04/24/22",
+                        "# of Spots": "",
+                        "Gross Amount": "$5",
+                        "Agency Comm.": "200.00",
+                        "Net Amount": "($780.00),$4,420.00"
+                    },
+                    {
+                        "Time Period": "",
+                        "# of Spots": "[MISSING]",
+                        "Gross Amount": "($5",
+                        "Agency Comm.": "400.00)",
+                        "Net Amount": "$30,600.00,[MISSING]"
+                    }
+                ]
+            }
+        ]
+    }
+]

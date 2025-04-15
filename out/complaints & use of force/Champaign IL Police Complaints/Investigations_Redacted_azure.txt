@@ -1,0 +1,337 @@
+#Record1
+-KV
+Complaints Occurred Between,1/1/2008 AND 11/20/2020
+Complainant,missing
+Number,08-02
+Complainant,missing
+Date,missing
+DOB,missing
+Gender,FEMAL
+Address,"Terr, Champaign IL 61820"
+Complaint #,1
+R-3B.1 Courtesy:Profanity
+Officer #,"1
+Griffet, David I."
+H,missing
+ID No.,914
+Investigator,"Swan, Scott"
+Date Assigned,missing
+DOB,missing
+Gender,FEMAL
+Address,Champaign IL 61821
+Complaint #,R-3B.1 Courtesy:Profanity
+Complaint #,R-3B.4 COURTESY: COMMENT
+Complaint #,R-5D Use of physical force
+H,missing
+Officer #,"Petrilli, Thomas P."
+Investigator,"Paulus, Michael"
+Racial Category / Type,No
+FORMAL
+3/10/2008
+Complainant,missing
+DOB,missing
+Gender,MALE
+Address,Champaign IL 61821
+H,missing
+Complaint #,R-3B.2 Courtesy: Rude
+Officer #,"Shepard, Charles F."
+ID No.,missing
+-TABLE
+ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+914,SERGEANT,Field Operations,SUSTAINED,COUNSELING,No
+-TABLE
+Name,ID No.,Rank,Division,Officer Disposition,Action Taken Body Cam
+"Petrilli, Thomas P.",939,Senior Officer,Field Operations,SUSTAINED,COUNSELING,No
+-TABLE
+3/5/2008,08-03,"Paulus, Michael",No,FORMAL,Not Stated,NOT SUSTAINED,No
+missing,missing,3/10/2008,missing,Citizen,missing,4/28/2008,missing
+-TABLE
+Complaint #: 1 Complaint #: 2,R-3B.2 Courtesy: Rude Discourteous Conduct,UNFOUNDED
+R-3B.2 Courtesy: Rude Discourteous Conduct,NOT SUSTAINED,missing
+#Record2
+-KV
+Date,3/14/2008
+08-II01
+Number,missing
+Investigator,"Swan, Scott"
+Date Assigned,3/14/2008
+No
+Racial Category / Type,FORMAL
+Date,3/18/2008
+08-06
+Number,missing
+Date,3/22/2008
+08-04a
+Number,missing
+Date,3/22/2008
+Number,08-04b
+H Phone,missing
+Complaint #,1
+R-3B.2 Courtesy: Rude
+Name,"Wilberg, Richard W."
+DOB,missing
+Gender,FEMAL
+Address,Champaign IL 61821
+Officer #,missing
+ID No.,799RESI
+G
+Investigator,"Gallo, Joe"
+Date Assigned,missing
+Racial Category / Type,4/17/2008
+No
+FORMAL
+DOB,missing
+Gender,MALE
+Address,",
+Champaign IL 61821"
+H,missing
+Complaint #,R-3B.1 Courtesy:Profanity
+Investigator,"Swenson,"
+Date Assigned,Jon
+DOB,missing
+Gender,MALE
+Address,"Ct, Rantoul IL 61866"
+H,missing
+Complaint #,R-5D Use of physical force
+Investigator,"Swenson, Jon"
+Date Assigned,missing
+DOB,missing
+Gender,FEMAL
+Address,", CHICAGO IL 60644-2803"
+H Phone,missing
+Complaint #,R-5D
+force
+1
+Officer #,1
+Name,missing
+ID No.,missing
+Rank,missing
+Division,missing
+-TABLE
+3/14/2008,08-II01,"Swan, Scott",No,FORMAL
+missing,missing,3/14/2008,missing,Internal
+-TABLE
+ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+799RESI,missing,missing,missing,missing,missing
+G,Senior Officer,Field Operations,SUSTAINED,COUNSELING,No
+-TABLE
+#: 1
+#: 2,R-3B.1 Courtesy:Profanity,Discourteous Conduct,NOT SUSTAINED
+R-3B.4 COURTESY: COMMENT,Discourteous Conduct,SUSTAINED
+-TABLE
+ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+722-Ret,DETECTIVE,Operations Supp,SUSTAINED,COUNSELING,No
+-TABLE
+"08-04b
+3/22/2008 Swenson, Jon 4/16/2008",No Citizen 5/1/2008 N/A
+-TABLE
+FORMAL Not Stated UNFOUNDED
+-TABLE
+Complainant:,DOB:,Gender,FEMAL,Address:,missing,", CHICAGO IL 60644-2803",H Phone:
+-TABLE
+Name,ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+MULTIPLE OFFICERS/EMPLOY,:unselected:,NOT STATED,NOT ENTERED,UNFOUNDED,NONE,No
+#Record3
+-KV
+Date,08-04c
+3/22/2008
+Number,missing
+Investigator,"Swenson, Jon"
+Date Assigned,No
+4/16/2008
+Complaint #,1
+R-5D Use of physical force
+Officer #,missing
+DOB,missing
+Gender,FEMAL
+Address,",
+Champaign IL 61820"
+Description,Wrong Action by Employee
+H Phone,missing
+Date,3/22/2008
+08-04d
+Number,missing
+Investigator,"Swenson, Jon"
+Date Assigned,missing
+Racial Category / Type,No
+FORMAL
+4/16/2008
+Complaint #,R-5D Use of physical force
+Officer #,missing
+DOB,missing
+Gender,FEMAL
+Address,IL 61866
+H Phone,missing
+Date,4/10/2008
+Number,08-II02
+Investigator,"Nearing, Holly"
+Date Assigned,missing
+Racial Category / Type,4/10/2008
+No
+FACT FINDING
+Date,4/14/2008
+Number,08-05
+Complaint #,1
+S-6 Pursuit Policy
+Officer #,"MALONEY, J. BRIAN"
+Investigator,"Swenson, Jon"
+Date Assigned,4/16/2008
+Racial Category / Type,No
+Inquiry
+DOB,missing
+Gender,missing
+Address,missing
+Name,missing
+H Phone,missing
+ID No.,942
+Complaint #,1
+R-5A3 OPERATIONS
+Officer #,"1
+Sumption, R. Dustin"
+DOB,missing
+Gender,FEMAL
+Address,missing
+H Phone,missing
+ID No.,7108
+Rank,RECRUIT OFFIC
+Operations
+PENDING,missing
+-TABLE
+ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+:unselected:,NOT STATED,NOT ENTERED,UNFOUNDED,NONE,No
+-TABLE
+3/22/2008,08-04d,"Swenson, Jon",No,FORMAL,Not Stated,EXONERATED,No
+missing,missing,4/16/2008,missing,Citizen,missing,5/1/2008,missing
+-TABLE
+Name ID No.,Rank,Division,Officer Disposition,Action Taken,Body,Cam
+MULTIPLE OFFICERS/EMPLOY,missing,missing,missing,missing,missing,missing
+:unselected:,NOT STATED,NOT ENTERED,UNFOUNDED,NONE,missing,No
+-TABLE
+4/10/2008,08-II02,"Nearing, Holly",No,FACT FINDING,Not Stated,Not a complaint,No
+missing,missing,4/10/2008,missing,Internal,missing,5/10/2008,missing
+-TABLE
+Name,ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+"Sumption, R. Dustin",7108,RECRUIT OFFIC,Field Operations,PENDING,NONE,No
+#Record4
+-KV
+Date,4/25/2008
+09-II01
+Number,missing
+Date,5/18/2008
+Number,08-08
+Investigator,"Gallo, Joe"
+Date Assigned,No
+10/2/2008
+Racial Category / Type,Inquiry
+DOB,missing
+Complaint,missing
+Gender,FEMAL
+Complaint #,1
+R-1A2 CONDUCT GENERALLY
+Address,", Loves Park IL 61130"
+H Phone,missing
+Officer #,1
+No Officers Entered
+Investigator,missing
+Date Assigned,"Paulus, Michael"
+Racial Category /,No
+6/5/2008
+Date,5/26/2008
+Date,5/31/2008 08-09
+Number,missing
+DOB,missing
+Gender,MALE
+Address,Champaign
+61820
+H Phone,missing
+Complaint #,R-3B.4 COURTESY: COMMENT
+Complaint #,R-5D Use of physical force
+Officer #,"Bowersock, Jamie"
+ID No.,705-MED
+Date Assigned,missing
+Racial Category / Type,6/2/2008
+No
+Inquiry
+DOB,missing
+Gender,FEMAL
+Address,61821
+Complaint #,R-3B COURTESY
+H,missing
+Officer #,"Olmstead, Kevin A."
+Date Assigned,"Paulus, Michael
+6/5/2008"
+Racial Category / Type,No
+FORMAL
+DOB,missing
+Gender,MALE
+Address,Champaign IL 61821
+Complaint #,"R-5B ARREST, SEARCH AND SEIZURE"
+Complaint #,R-5D
+H Phone,missing
+-TABLE
+Name,ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+No Officers Entered,missing,Not Stated,Not Stated,Not a complaint,Not Stated,No
+-TABLE
+5/18/2008,08-08,"Paulus, Michael",No,FORMAL,Not Stated,SUSTAINED,No
+missing,missing,6/5/2008,missing,Citizen,missing,7/2/2008,missing
+-TABLE
+R-3B.4 COURTESY: COMMENT,Discourteous Conduct,SUSTAINED
+R-5D Use of physical force,Wrong Action by Employee,EXONERATED
+-TABLE
+"Bowersock, Jamie",705-MED,OFFICER,Field Operations,EXONERATED,NONE,No
+"Mitchell, Rodney S.",717RES,OFFICER,Field Operations,EXONERATED,NONE,No
+#Record5
+-KV
+Date,6/7/2008
+08-10
+Complaint #,1
+R-5D Use of physical force
+Officer #,"Mclearin, David M."
+DOB,missing
+Gender,MALE
+Address,", Champaign IL 61821"
+H Phone,missing
+Date,6/29/2008
+Number,08-11
+Investigator,"Paulus, Michael"
+Date,missing
+Complaint #,R-5D Use of physical force
+DOB,missing
+Gender,FEMAL
+Address,Champaign IL 61821
+H Phone,missing
+Officer #,missing
+Complaint #,R-5C2 PERSONS IN CUSTODY
+Complaint #,R-5D Use of physical force
+DOB,missing
+Gender,FEMAL
+Address,61820
+H Phone,missing
+Date,7/13/2008
+08-13
+Number,missing
+Officer #,"Briggs, Mark D."
+Investigator,"Swenson, Jon"
+Complaint,R-5D
+Officer #,missing
+DOB,missing
+Gender,MALE
+Address,", Champaign IL 61820"
+H Phone,missing
+Name,missing
+ID No.,705-MED
+Rank,OFFICER
+Division,Field Operations
+Action,NONE
+-TABLE
+6/7/2008,08-10,"Yohnka, Brad",No,FORMAL
+missing,missing,6/11/2008,missing,Citizen
+-TABLE
+ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+7110,RECRUIT OFFIC,Field Operations,NOT SUSTAINED,NONE,No
+-TABLE
+ID No.,Rank,Division,Officer Disposition
+7104,OFFICER,Field Operations,Inquiry
+-TABLE
+Name,ID No.,Rank,Division,Officer Disposition,Action Taken,Body Cam
+"Bowersock, Jamie",705-MED,OFFICER,Field Operations,UNFOUNDED,NONE,No

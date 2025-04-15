@@ -1,0 +1,51 @@
+Notes
+Gender
+City
+Level of Resistance
+Status
+Included On Alert
+Location
+Action Taken
+Injured
+Action Taken Useful
+Disciplinary Action
+Date Reviewed
+Type Situation
+HGT
+Arrest ID
+Case Number
+Medical Aid
+Crisis Intervention Related
+CIT
+Under The Influence
+Address
+Officer Injured
+Time
+WGT
+Verbal De-Escalation Attempted
+Level Of Resistance
+Date
+Assist
+District
+K-9
+Force Used
+Incident Reviewed By
+Subject #
+Race
+Subject Armed With
+Reason Force Used
+Recorded On Camera
+Force Location
+Type Injuries
+Final Disposition
+Arrested
+DOB
+Agency
+Narrative
+Camera
+Type Premises
+Danger Factors
+Arrested For
+Officer
+Information Taken From
+Drugs/Alcohol

@@ -1,0 +1,7 @@
+Shift
+Pos/Rank
+Service
+Action
+Assignment
+Level
+Class

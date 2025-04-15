@@ -1,0 +1,1508 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Spot State": "missing"
+                    },
+                    {
+                        "Channel Day": "missing"
+                    },
+                    {
+                        "Weekdays": "missing"
+                    },
+                    {
+                        "Air Date": "missing"
+                    },
+                    {
+                        "State": "missing"
+                    },
+                    {
+                        "Makegood": "missing"
+                    },
+                    {
+                        "Spot #": "missing"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Line#": "3"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Line#": "5"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Spot Status": "Placed"
+                    },
+                    {
+                        "[Filtered by": "missing"
+                    },
+                    {
+                        "[Sorted by": "Air Date]"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Th",
+                        "-- WThF ----": "-- WThF ----",
+                        "08/29/12": "08/30/12",
+                        "Today Show M-F": "Today Show M-F",
+                        "7a-9a": "7a-9a",
+                        "8:42 AM": "8:44 AM",
+                        "SPA12TV12H": "SPA12TV12H",
+                        ":30 P1 $2,000.00 No 1": "2\n:30 P1 $2,000.00 No"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "$4,000.00",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "Status: Placed",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "11:29 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "11:56 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "11:59 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "1:13 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "1:53 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "Hampton Roads Show",
+                        "missing.5": "11a-12p",
+                        "missing.6": "1:29 AM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P2"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "Status: Placed",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:42 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:10 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:25 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:53 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:11 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "News 10 @ Noon",
+                        "missing.5": "12p-1p",
+                        "missing.6": "2:30 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "Status: Placed",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "News 10 @6p",
+                        "missing.5": "6p-630p",
+                        "missing.6": "6:21 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "News 10 @6p",
+                        "missing.5": "6p-630p",
+                        "missing.6": "6:28 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "News 10 @6p",
+                        "missing.5": "6p-630p",
+                        "missing.6": "6:07 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "$6,000.00",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "missing",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "Status: Placed",
+                        "missing.1": "missing",
+                        "missing.2": "missing",
+                        "missing.3": "missing",
+                        "missing.4": "missing",
+                        "missing.5": "missing",
+                        "missing.6": "missing",
+                        "missing.7": "missing",
+                        "missing.8": "missing"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "W",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/29/12",
+                        "missing.4": "M-F News 10 @11",
+                        "missing.5": "11\u0440-1130\u0440",
+                        "missing.6": "1:36 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "Th",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/30/12",
+                        "missing.4": "M-F News 10 @11",
+                        "missing.5": "11p-1130p",
+                        "missing.6": "11:41 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1 Special repor"
+                    },
+                    {
+                        "missing": "WAVY",
+                        "missing.1": "F",
+                        "missing.2": "-- WThF ----",
+                        "missing.3": "08/31/12",
+                        "missing.4": "M-F News 10 @11",
+                        "missing.5": "11p-1130p",
+                        "missing.6": "11:25 PM",
+                        "missing.7": "SPA12TV12H",
+                        "missing.8": ":30 P1"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Order": "missing"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Line#": "11"
+                    },
+                    {
+                        "Line#": "missing"
+                    },
+                    {
+                        "Line#": "Placed"
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "Sa": ""
+                    },
+                    {
+                        "----- Sa --": ""
+                    },
+                    {
+                        "Line#": "13"
+                    },
+                    {
+                        "[Filtered by": "missing"
+                    },
+                    {
+                        "[Sorted by": "Air Date]"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Th",
+                        "-- WThF ----": "-- WThF ----",
+                        "08/29/12": "08/30/12",
+                        "Tonight Show w/Leno": "Tonight Show w/Leno",
+                        "1134p-1237a": "1134p-1237a",
+                        "2:15 AM": "2:08 AM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 2"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "F",
+                        "-- WThF ----": "-- WThF ----",
+                        "08/29/12": "08/31/12",
+                        "Tonight Show w/Leno": "Tonight Show w/Leno",
+                        "1134p-1237a": "1134p-1237a",
+                        "2:15 AM": "2:30 AM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 3"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$1,500.00",
+                        "No 1": "3"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$1,500.00",
+                        "No 1": "3"
+                    },
+                    {
+                        "WAVY": "7",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Sa",
+                        "-- WThF ----": "-Sa --",
+                        "08/29/12": "09/01/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sa 6a",
+                        "1134p-1237a": "6a-7a",
+                        "2:15 AM": "6:39 AM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "$500.00",
+                        "$500.00": "1",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "$500.00",
+                        "$500.00": "1",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "8",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Sa",
+                        "-- WThF ----": "-- Sa --",
+                        "08/29/12": "09/01/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sa 7a",
+                        "1134p-1237a": "7a-8a",
+                        "2:15 AM": "7:40 AM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$800.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$800.00",
+                        "No 1": "1"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$800.00",
+                        "No 1": "1"
+                    },
+                    {
+                        "WAVY": "9",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Sa",
+                        "-- WThF ----": "-Sa --",
+                        "08/29/12": "09/01/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sat 6p",
+                        "1134p-1237a": "6p-630p",
+                        "2:15 AM": "5:59 PM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Sa",
+                        "-- WThF ----": "-- Sa --",
+                        "08/29/12": "09/01/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sat 6p",
+                        "1134p-1237a": "6p-630p",
+                        "2:15 AM": "6:15 PM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 2"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$1,000.00",
+                        "No 1": "2"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$1,000.00",
+                        "No 1": "2"
+                    },
+                    {
+                        "WAVY": "10",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Sa",
+                        "-- WThF ----": "----- Sa --",
+                        "08/29/12": "09/01/12",
+                        "Tonight Show w/Leno": "Sa 7-8p",
+                        "1134p-1237a": "7p-8p",
+                        "2:15 AM": "7:34 PM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P2",
+                        "$500.00": "$300.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "$300.00",
+                        "$500.00": "1",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$300.00",
+                        "No 1": "1"
+                    },
+                    {
+                        "WAVY": "11",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Su",
+                        "-- WThF ----": "-- Su",
+                        "08/29/12": "09/02/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sunda",
+                        "1134p-1237a": "7a-8a",
+                        "2:15 AM": "7:10 AM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$800.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "$800.00",
+                        "$500.00": "1",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$800.00",
+                        "No 1": "1"
+                    },
+                    {
+                        "WAVY": "12",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Status: Placed",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Su",
+                        "-- WThF ----": "Su",
+                        "08/29/12": "09/02/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sun",
+                        "1134p-1237a": "6p6p-7p",
+                        "2:15 AM": "6:23 PM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 1"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "W": "Su",
+                        "-- WThF ----": "-Su",
+                        "08/29/12": "09/02/12",
+                        "Tonight Show w/Leno": "WAVY News 10 Sun",
+                        "1134p-1237a": "6p6p-7p",
+                        "2:15 AM": "6:51 PM",
+                        "SPA12TV12H :30 P1": "SPA12TV12H :30 P1",
+                        "$500.00": "$500.00",
+                        "No 1": "No 2"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "W": "missing",
+                        "-- WThF ----": "missing",
+                        "08/29/12": "missing",
+                        "Tonight Show w/Leno": "missing",
+                        "1134p-1237a": "missing",
+                        "2:15 AM": "missing",
+                        "SPA12TV12H :30 P1": "missing",
+                        "$500.00": "$1,000.00",
+                        "No 1": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Spot Status: Placed": "missing"
+                    },
+                    {
+                        "Line#": "19"
+                    },
+                    {
+                        "Spot": ""
+                    },
+                    {
+                        "Placed": "WAVY"
+                    },
+                    {
+                        "M": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "Placed": "WAVY"
+                    },
+                    {
+                        "M": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "Tu": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "Spot": ""
+                    },
+                    {
+                        "Placed": "WAVY"
+                    },
+                    {
+                        "M": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "Tu": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "Spot Status": "Placed"
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "M": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "Tu": ""
+                    },
+                    {
+                        "MT --------": ""
+                    },
+                    {
+                        "Spot Status": "Placed"
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "M": ""
+                    },
+                    {
+                        "MT": ""
+                    },
+                    {
+                        "WAVY": ""
+                    },
+                    {
+                        "Tu": ""
+                    },
+                    {
+                        "MT": ""
+                    },
+                    {
+                        "Line#": "16"
+                    },
+                    {
+                        "Line#": "17"
+                    },
+                    {
+                        "Line#": "18"
+                    },
+                    {
+                        "[Filtered by": "missing"
+                    },
+                    {
+                        "[Sorted by": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "$2,000.00",
+                        "$2,000.00": "1",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "14",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "Today Show M-F",
+                        "11:29 PM": "7a-9a",
+                        "SPA12TV12H": "7:22 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "15",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "Hampton Roads Show",
+                        "11:29 PM": "11a-12p",
+                        "SPA12TV12H": "11:38 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P2",
+                        "No 1": "$200.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "Hampton Roads Show",
+                        "11:29 PM": "11a-12p",
+                        "SPA12TV12H": "11:15 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P2",
+                        "No 1": "$200.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "Hampton Roads Show",
+                        "11:29 PM": "11a-12p",
+                        "SPA12TV12H": "11:10 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P2",
+                        "No 1": "$200.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "Hampton Roads Show",
+                        "11:29 PM": "11a-12p",
+                        "SPA12TV12H": "11:40 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P2",
+                        "No 1": "$200.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$800.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$800.00"
+                    },
+                    {
+                        "WAVY": "16",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "News 10 @ Noon",
+                        "11:29 PM": "12p-1p",
+                        "SPA12TV12H": "2:59 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$300.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "News 10 @ Noon",
+                        "11:29 PM": "12p-1p",
+                        "SPA12TV12H": "2:12 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$300.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$600.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$600.00"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "17",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "News 10 @6p",
+                        "11:29 PM": "6p-630p",
+                        "SPA12TV12H": "6:14 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "News 10 @6p",
+                        "11:29 PM": "6p-630p",
+                        "SPA12TV12H": "6:07 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$4,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$4,000.00"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "18",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "M-F News 10 @11",
+                        "11:29 PM": "11p-1130p",
+                        "SPA12TV12H": "11:32 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "M-F News 10 @11",
+                        "11:29 PM": "11p-1130p",
+                        "SPA12TV12H": "11:28 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$2,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$4,000.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "$4,000.00",
+                        "No 1": "2"
+                    },
+                    {
+                        "WAVY": "19",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "Spot Status: Placed",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "missing"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "M",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/03/12",
+                        "WAVY News 10 @11 S11p-1130p": "Tonight Show w/Leno",
+                        "11:29 PM": "1134p-1237a",
+                        "SPA12TV12H": "2:09 AM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$500.00"
+                    },
+                    {
+                        "WAVY": "WAVY",
+                        "Su": "Tu",
+                        "-- Su": "MT --------",
+                        "09/02/12": "09/04/12",
+                        "WAVY News 10 @11 S11p-1130p": "Tonight Show w/Leno",
+                        "11:29 PM": "1134p-1237a",
+                        "SPA12TV12H": "1:53 PM",
+                        ":30 P1": "SPA12TV12H",
+                        "$2,000.00": ":30 P1",
+                        "No 1": "$500.00"
+                    },
+                    {
+                        "WAVY": "missing",
+                        "Su": "missing",
+                        "-- Su": "missing",
+                        "09/02/12": "missing",
+                        "WAVY News 10 @11 S11p-1130p": "missing",
+                        "11:29 PM": "missing",
+                        "SPA12TV12H": "missing",
+                        ":30 P1": "missing",
+                        "$2,000.00": "missing",
+                        "No 1": "$1,000.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

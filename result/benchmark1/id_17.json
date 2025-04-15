@@ -1,0 +1,775 @@
+[
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {},
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Arts & Communication - College - Arts & Communication College - Subject": "A&C Interdepartmental"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "ACINDP",
+                        "Catalog Nbr": 493,
+                        "Section": 1,
+                        "Class Nbr": 1070,
+                        "Course Title": "ARTS MGMT/MERCH INTERN",
+                        "Component": "Field Studies",
+                        "Units": "2 - 6",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Anderson,Marshall B"
+                    },
+                    {},
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "missing"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Run Date": "08/12/2021"
+                    },
+                    {},
+                    {
+                        "Arts & Communication - College - Art & Design Department - Subject": "Art Studio"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": 492,
+                        "Section": 1,
+                        "Class Nbr": 1420,
+                        "Course Title": "missing",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {},
+                    {
+                        "Instructor": "missing"
+                    },
+                    {
+                        "Class Enrl Cap": "18"
+                    },
+                    {
+                        "Class Enrl Tot": "4"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": 498,
+                        "Class Nbr": 1587,
+                        "Course Title": "INDEPENDENT STUDIES",
+                        "Component": "Independent Study",
+                        "Units": "1 - 6",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "missing"
+                    },
+                    {},
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "1"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {},
+                    {
+                        "Class Min Enrl": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "ARTSTDIO",
+                        "Catalog Nbr": 498,
+                        "Section": 2,
+                        "Class Nbr": 1596,
+                        "Component": "Independent Study",
+                        "Units": "1 - 6",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {},
+                    {
+                        "Instructor": "Porcaro,Greg"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 2
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "SR201"
+                    },
+                    {
+                        "Run Date": "08/12/2021"
+                    },
+                    {},
+                    {
+                        "Arts & Communication - College - Communication Dept - Subject": "Communication"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "missing",
+                        "Section": 1,
+                        "Class Nbr": 1055,
+                        "Course Title": "INTERNSHIP COMMUNICATION",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {},
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Lowell,William E"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "9"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "COMM",
+                        "Class Nbr": 1056,
+                        "Course Title": "INTERNSHIP ELECTR MEDIA",
+                        "Component": "Field Studies",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Lowell,William E"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "missing"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {},
+                    {
+                        "Class Min Enrl": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "COMM",
+                        "Catalog Nbr": "493I",
+                        "Section": 1,
+                        "Class Nbr": 1057,
+                        "Course Title": "PR INTERNSHIP",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {},
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Lowell,William E"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "2"
+                    },
+                    {},
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "missing",
+                        "Catalog Nbr": "missing",
+                        "Section": 1,
+                        "Class Nbr": 1058,
+                        "Course Title": "missing",
+                        "Component": "missing",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "missing"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "missing"
+                    },
+                    {},
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "1"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "missing"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 3
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "missing"
+                    },
+                    {
+                        "Run Date": "08/12/2021"
+                    },
+                    {
+                        "Run Time": "missing"
+                    },
+                    {
+                        "Arts & Communication - College - Communication Dept - Subject": "Journalism"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "JOURNLSM",
+                        "Catalog Nbr": "493A",
+                        "Section": 1,
+                        "Class Nbr": 1059,
+                        "Course Title": "INTERNSHIP ADVERTISING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "missing"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Lowell,William E"
+                    },
+                    {
+                        "Class Enrl Cap": "missing"
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {},
+                    {
+                        "Class Wait Tot": "missing"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    },
+                    {
+                        "Class Equivalents": "JOURNLSM 493A/493AEX"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "JOURNLSM",
+                        "Catalog Nbr": "missing",
+                        "Section": 1,
+                        "Class Nbr": 1060,
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {},
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Lowell,William E"
+                    },
+                    {
+                        "Class Enrl Cap": "missing"
+                    },
+                    {},
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {},
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 4
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "missing"
+                    },
+                    {
+                        "Run Date": "08/12/2021"
+                    },
+                    {
+                        "Run Time": "missing"
+                    },
+                    {
+                        "Arts & Communication - College - Theatre & Dance Dept - Subject": "Theatre"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "THEATRE",
+                        "Catalog Nbr": "missing",
+                        "Section": 1,
+                        "Class Nbr": 1068,
+                        "Course Title": "INTERN THEATRE PRACTICE",
+                        "Component": "missing",
+                        "Units": "missing",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "missing"
+                    },
+                    {},
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "missing"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {},
+                    {
+                        "Class Wait Cap": "missing"
+                    },
+                    {},
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 5
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Report ID": "missing"
+                    },
+                    {},
+                    {
+                        "Run Time": "11:15:26"
+                    },
+                    {
+                        "Business & Economics - College - Accounting Dept - Subject": "Accounting"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "ACCOUNT",
+                        "Catalog Nbr": 293,
+                        "Section": 1,
+                        "Class Nbr": "missing",
+                        "Course Title": "ACCOUNT & BUS EXPERIENCE",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {},
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "missing"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "0"
+                    },
+                    {},
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Subject": "missing",
+                        "Catalog Nbr": 493,
+                        "Section": 1,
+                        "Course Title": "INTERNSHIP IN ACCOUNTING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 12",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Bacon,Dawn M"
+                    },
+                    {
+                        "Class Enrl Cap": "35"
+                    },
+                    {
+                        "Class Enrl Tot": "20"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "missing"
+                    },
+                    {}
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Catalog Nbr": "missing",
+                        "Section": 1,
+                        "Course Title": "PRACTICUM IN ACCOUNTING",
+                        "Component": "Field Studies",
+                        "Units": "1 - 3",
+                        "Topics": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Bldg": "ARRANGED"
+                    },
+                    {
+                        "Room": "ARRANGED"
+                    },
+                    {
+                        "Days": "TBA"
+                    },
+                    {
+                        "Time": "TBA"
+                    },
+                    {
+                        "Instructor": "Becker,D'Arcy"
+                    },
+                    {},
+                    {
+                        "Class Enrl Tot": "missing"
+                    },
+                    {
+                        "Class Wait Cap": "0"
+                    },
+                    {
+                        "Class Wait Tot": "0"
+                    },
+                    {
+                        "Class Min Enrl": "0"
+                    }
+                ],
+                "type": "kv"
+            }
+        ],
+        "id": 6
+    }
+]

@@ -1,0 +1,1247 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Norfolk-Virginia Beach"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Estimate ID": "2415"
+                    },
+                    {
+                        "Contact": "Eileen Baggett"
+                    },
+                    {
+                        "Email": "eileen.baggett@wavy.com"
+                    },
+                    {
+                        "Phone": "757-393-1010"
+                    },
+                    {
+                        "Fax": "757-396-6151"
+                    },
+                    {
+                        "Direct": "missing"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 2:52:48 PM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "WAVY 5a News",
+                        "DP": "EM",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$450.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "1",
+                        "Total": "5"
+                    },
+                    {
+                        "Program Name": "5:00 AM 6:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$2,250.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Q3",
+                        "DP": "missing",
+                        "Length Days": "missing",
+                        "Gross Rate": "missing",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 6a News",
+                        "DP": "EM",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$770.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "1",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "6:00 AM 7:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$4,620.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Today Show",
+                        "DP": "EM",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$770.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "1",
+                        "Total": "7"
+                    },
+                    {
+                        "Program Name": "7:00 AM 9:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$5,390.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Sat 6a News",
+                        "DP": "EM",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$240.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "6:00 AM 7:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$240.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Sun 6a News",
+                        "DP": "EM",
+                        "Length Days": "Su",
+                        "Gross Rate": "$240.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "1",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "6:00 AM 7:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$240.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Hampton Roads Sho",
+                        "DP": "DT",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$140.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "0",
+                        "Total": "3"
+                    },
+                    {
+                        "Program Name": "11:00 AM 12:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$420.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 12p News",
+                        "DP": "DT",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$185.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "2"
+                    },
+                    {
+                        "Program Name": "12:00 PM 1:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$370.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "The Real",
+                        "DP": "DT",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$160.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "2:00 PM 3:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$160.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 4p News",
+                        "DP": "EN",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$385.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "0",
+                        "Total": "5"
+                    },
+                    {
+                        "Program Name": "4:00 PM 5:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$1,925.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 5p News",
+                        "DP": "EN",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$695.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "0",
+                        "Total": "4"
+                    },
+                    {
+                        "Program Name": "5:00 PM 5:30 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$2,780.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 5:30p News",
+                        "DP": "EN",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$695.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "5"
+                    },
+                    {
+                        "Program Name": "5:30 PM 6:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$3,475.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Norfolk-Virginia Beach"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Estimate ID": "2415"
+                    },
+                    {
+                        "Contact": "Eileen Baggett"
+                    },
+                    {
+                        "Email": "eileen.baggett@wavy.com"
+                    },
+                    {
+                        "Phone": "757-393-1010"
+                    },
+                    {
+                        "Fax": "757-396-6151"
+                    },
+                    {
+                        "Direct": "missing"
+                    },
+                    {
+                        "Station Gross Totals": "\"$28,180.00\""
+                    },
+                    {
+                        "Station Net": "\"$23,953.00\""
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "Sat 6p News",
+                        "DP": "EN",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$300.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "6:00 PM 6:30 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$300.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "WAVY 11p News",
+                        "DP": "LN",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$440.00",
+                        "Mon Oct 26": "2",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "2",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "0",
+                        "Total": "8"
+                    },
+                    {
+                        "Program Name": "11:00 PM 11:35 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$3,520.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Sat 11p News",
+                        "DP": "LN",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$615.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "11:00 PM 11:35 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$615.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Sun 11p News",
+                        "DP": "LN",
+                        "Length Days": "Su",
+                        "Gross Rate": "$615.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "1",
+                        "Mon Nov 02": "0",
+                        "Tue Nov 03": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "11:00 PM 11:35 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$615.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Access Hollywood",
+                        "DP": "PA",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$420.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Sun Nov 01": "0",
+                        "Mon Nov 02": "1",
+                        "Tue Nov 03": "0",
+                        "Total": "3"
+                    },
+                    {
+                        "Program Name": "7:30 PM 8:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$1,260.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Station Gross Totals",
+                        "DP": "missing",
+                        "Length Days": "missing",
+                        "Gross Rate": "$28,180.00",
+                        "Mon Oct 26": "8",
+                        "Tue Oct 27": "7",
+                        "Wed Oct 28": "8",
+                        "Thu Oct 29": "8",
+                        "Fri Oct 30": "7",
+                        "Sat Oct 31": "3",
+                        "Sun Nov 01": "2",
+                        "Mon Nov 02": "8",
+                        "Tue Nov 03": "3",
+                        "Total": "54"
+                    },
+                    {
+                        "Program Name": "Station Net",
+                        "DP": "missing",
+                        "Length Days": "missing",
+                        "Gross Rate": "$23,953.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Sun Nov 01": "missing",
+                        "Mon Nov 02": "missing",
+                        "Tue Nov 03": "missing",
+                        "Total": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Lexington-Fayette"
+                    },
+                    {
+                        "Estimate ID": "2417"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Contact": "Benita Tucker"
+                    },
+                    {
+                        "Email": "Benita. Tucker@WKYT.com"
+                    },
+                    {
+                        "Phone": "859-299-0411"
+                    },
+                    {
+                        "Fax": "859-299-2494"
+                    },
+                    {
+                        "Direct": "859-566-1209"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 11:32:44"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "missing": "Market:",
+                        "Station Order Revised Josh Hicks for Congress": "Lexington-Fayette"
+                    },
+                    {
+                        "missing": "Flight Dates:",
+                        "Station Order Revised Josh Hicks for Congress": "10/26/2020 to 11/3/2020"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "Sun 7a News",
+                        "DP": "EM",
+                        "Length Days": "Su",
+                        "Gross Rate": "$30.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "1",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "7:00 AM 8:00 AM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$30.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "25 Words",
+                        "DP": "DT",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "1",
+                        "Nov 03 Tue": "1",
+                        "Total": "7"
+                    },
+                    {
+                        "Program Name": "12:30 PM 1:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$105.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Wknd TMZ",
+                        "DP": "DT",
+                        "Length Days": "Su",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "1",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "2:00 PM 3:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Goldbergs",
+                        "DP": "EF",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "1",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "5:00 PM 5:30 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Golderbergs",
+                        "DP": "EF",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$12.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "1",
+                        "Nov 03 Tue": "0",
+                        "Total": "3"
+                    },
+                    {
+                        "Program Name": "5:30 PM 6:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$36.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Friends",
+                        "DP": "EF",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$8.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "3:00 PM 4:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$8.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Goldbergs",
+                        "DP": "EF",
+                        "Length Days": "Su",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "1",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "4:00 PM 5:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Friends",
+                        "DP": "EF",
+                        "Length Days": "Su",
+                        "Gross Rate": "$38.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "1",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "5:00 PM 6:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$38.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Mom",
+                        "DP": "LF",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "1",
+                        "Nov 03 Tue": "0",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "10:30 PM 11:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$108.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Mike & Molly",
+                        "DP": "LF",
+                        "Length Days": "M-F",
+                        "Gross Rate": "$18.00",
+                        "Mon Oct 26": "1",
+                        "Tue Oct 27": "1",
+                        "Wed Oct 28": "1",
+                        "Thu Oct 29": "1",
+                        "Fri Oct 30": "1",
+                        "Sat Oct 31": "0",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "1",
+                        "Nov 03 Tue": "0",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "11:00 PM 11:30 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$108.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Andy Griffith",
+                        "DP": "PA",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$60.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "7:00 PM 7:30 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$60.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Lexington-Fayette"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Estimate ID": "2417"
+                    },
+                    {
+                        "Contact": "Benita Tucker"
+                    },
+                    {
+                        "Email": "Benita. Tucker@WKYT.com"
+                    },
+                    {
+                        "Phone": "859-299-0411"
+                    },
+                    {
+                        "Fax": "859-299-2494"
+                    },
+                    {
+                        "Direct": "859-566-1209"
+                    },
+                    {
+                        "Station Gross Totals": "$657.00"
+                    },
+                    {
+                        "Station Net": "$558.45"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "Andy Griffith",
+                        "DP": "PA",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$60.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "7:30 PM 8:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$60.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Andy Griffith",
+                        "DP": "PT",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$38.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "9:00 PM 10:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$38.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "NCIS:NO",
+                        "DP": "PT",
+                        "Length Days": "Sa",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "0",
+                        "Tue Oct 27": "0",
+                        "Wed Oct 28": "0",
+                        "Thu Oct 29": "0",
+                        "Fri Oct 30": "0",
+                        "Sat Oct 31": "1",
+                        "Nov 01 Sun": "0",
+                        "Nov 02 Mon": "0",
+                        "Nov 03 Tue": "0",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "10:00 PM 11:00 PM",
+                        "DP": "missing",
+                        "Length Days": "30",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    },
+                    {
+                        "Program Name": "Station Gross Totals",
+                        "DP": "missing",
+                        "Length Days": "missing",
+                        "Gross Rate": "$657.00",
+                        "Mon Oct 26": "3",
+                        "Tue Oct 27": "4",
+                        "Wed Oct 28": "3",
+                        "Thu Oct 29": "3",
+                        "Fri Oct 30": "4",
+                        "Sat Oct 31": "5",
+                        "Nov 01 Sun": "4",
+                        "Nov 02 Mon": "5",
+                        "Nov 03 Tue": "1",
+                        "Total": "32"
+                    },
+                    {
+                        "Program Name": "Station Net",
+                        "DP": "missing",
+                        "Length Days": "missing",
+                        "Gross Rate": "$558.45",
+                        "Mon Oct 26": "missing",
+                        "Tue Oct 27": "missing",
+                        "Wed Oct 28": "missing",
+                        "Thu Oct 29": "missing",
+                        "Fri Oct 30": "missing",
+                        "Sat Oct 31": "missing",
+                        "Nov 01 Sun": "missing",
+                        "Nov 02 Mon": "missing",
+                        "Nov 03 Tue": "missing",
+                        "Total": "missing"
+                    }
+                ]
+            }
+        ]
+    }
+]

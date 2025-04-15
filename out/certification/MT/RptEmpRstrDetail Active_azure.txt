@@ -1,0 +1,342 @@
+#Record1
+-KV
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+-TABLE
+Name,I.D.,Sex,Birth,Date,Age,Employee Type,Employee,Instructor,Supervisor
+"Adair, Christopher M.",022070,M,missing,1978,41,Peace Officer,:selected:,:unselected:,:unselected:
+"Adame, Jesse A.",025042,M,missing,1988,31,Peace Officer,:selected:,:unselected:,:unselected:
+"Adams, Ashley A.",025657,F,:unselected:,-1990,28,Detention & Correction,:selected:,:unselected:,:unselected:
+"Adams, Jeremiah A.",020885,M,missing,1984,35,Peace Officer,:selected:,:unselected:,:unselected:
+"Adams, Ross E.",000012,M,missing,1960,59,Peace Officer,:selected:,:unselected:,:unselected:
+"Adams, Seth H.",022864,M,missing,1989,30,Peace Officer,:selected:,:unselected:,:unselected:
+"Adams, Tyler",023612,M,missing,1984,34,Detention & Correction,:selected:,:unselected:,:unselected:
+"Adkins, Kevin",016759,missing,missing,missing,missing,Peace Officer,:selected:,:unselected:,:unselected:
+"Adolph, Jerry O.",014668,M,missing,-1959,59,Detention & Correction,:selected:,:unselected:,:unselected:
+"Adorni, Larry F.",016753,M,missing,1957,62,Peace Officer,:selected:,:unselected:,:unselected:
+"Adsem, Steven J.",005552,M,missing,1965,54,Peace Officer,:selected:,:unselected:,:unselected:
+"Aggers, Mary",012393,F,missing,1970,49,Probation & Parole,:selected:,:unselected:,:unselected:
+"Ahlin, Benjamin J.",024854,M,missing,1993,26,Detention & Correction,:selected:,:unselected:,:unselected:
+"Ahmann, Jacob G.",023943,M,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Aiello, Antonio D.",023659,M,missing,1984,35,Detention & Correction,:selected:,:unselected:,:unselected:
+"Albright, Christopher B.",010496,M,missing,1970,49,Peace Officer,:selected:,:unselected:,:unselected:
+"Albright, Cody J.",021589,M,missing,1990,29,Detention & Correction,:selected:,:unselected:,:unselected:
+"Aliperto, Benjamin J.",025733,M,missing,1995,24,Detention & Correction,:selected:,:unselected:,:unselected:
+"Allen, Darin C.",015463,M,missing,1974,45,Probation & Parole,:selected:,:unselected:,:unselected:
+"Allen, Jack E.",000025,M,missing,-1959,59,Peace Officer,:selected:,:unselected:,:unselected:
+"Allen, Jesse C.",021937,M,missing,1982,37,Peace Officer,:selected:,:unselected:,:unselected:
+"Allen, Payton E.",025919,M,missing,1999,20,Detention & Correction,:selected:,:unselected:,:unselected:
+"Allen, Robert J.",025593,M,missing,1976,43,Peace Officer,:selected:,:unselected:,:unselected:
+"Allen, Sean C.",024063,M,missing,-1986,32,Peace Officer,:selected:,:unselected:,:unselected:
+"Allen, Tammy A.",017266,missing,missing,-1967,51,Detention & Correction,:selected:,:unselected:,:unselected:
+"Allison, Derek",025076,M,missing,1999,20,Detention & Correction,:selected:,:unselected:,:unselected:
+"Allison, Thomas B.",022103,M,missing,-1992,26,Peace Officer,:selected:,:unselected:,:unselected:
+"Allmendinger, Jacob O.",020851,M,missing,-1987,31,Peace Officer,:selected:,:unselected:,:unselected:
+"Allred, Sabrina",025094,F,missing,1978,41,Probation & Parole,:selected:,:unselected:,:unselected:
+"Althaus, Terry L.",000028,M,missing,1960,59,Peace Officer,:selected:,:unselected:,:unselected:
+"Altmiller, Jason D.",024024,:selected:,missing,missing,:selected:,Peace Officer,:selected:,:unselected:,:unselected:
+"Altschwager, Daniel T.",020936,M,missing,-1983,35,Peace Officer,:selected:,:unselected:,:unselected:
+#Record2
+-KV
+Page,2
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Reserve,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Reserve,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+1964
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+-TABLE
+Name,I.D.,Sex,Birth,Date,Age,Employee Type,Employee,Instructor,Supervisor
+"Amaro, Ishmael G.",025336,M,missing,1995,24,Detention & Correction,:selected:,:unselected:,:unselected:
+"Ames, Danny H.",000034,missing,missing,missing,missing,Peace Officer,:selected:,:unselected:,:unselected:
+"Ames, Joshua A.",024710,M,missing,1981,38,Peace Officer,:selected:,:unselected:,:unselected:
+"Amundsen, Gregory M.",002435,M,missing,1961,58,Peace Officer,:selected:,:unselected:,:unselected:
+"Amundson, Daniel S.",014908,M,missing,1969,50,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderberg, Chad B.",022675,M,missing,1986,33,Peace Officer,:selected:,:unselected:,:unselected:
+"Andersen, Dirk",000036,M,missing,1957,62,Reserve,:selected:,:unselected:,:unselected:
+"Andersen, Shad A.",019490,M,missing,1974,45,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Adam S.",025070,M,missing,1983,36,Detention & Correction,:selected:,:unselected:,:unselected:
+"Anderson, Bryan L.",023954,M,missing,1984,35,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Cache",021951,M,missing,1982,37,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Cactus J.",021851,M,missing,1980,39,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Clint W.",019254,M,missing,1980,39,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Codee R.",019273,missing,missing,-1987,31,Reserve,:selected:,:unselected:,:unselected:
+"Anderson, David A.",014614,M,missing,-1964,54,Detention & Correction,:selected:,:unselected:,:unselected:
+"Anderson, Ian M.",022250,M,missing,-1989,29,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, James R.",013738,M,missing,-1971,47,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Jonathan M.",018722,M,missing,1969,50,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Joshua S.",025301,M,missing,1994,25,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Kent M.",018466,M,missing,1984,35,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Lee R.",007664,M,missing,1972,47,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Michael B.",023290,M,missing,1985,34,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Spencer P.",009378,M,missing,1977,42,Peace Officer,:selected:,:unselected:,:unselected:
+"Anderson, Steve F.",013276,M,missing,1964,55,Detention & Correction,:selected:,:unselected:,:unselected:
+"Andress, Robert W.",019652,missing,missing,missing,:selected:,Peace Officer,:selected:,:unselected:,:unselected:
+"Andrews, Justin C.",020912,M,missing,-1988,30,Peace Officer,:selected:,:unselected:,:unselected:
+"Anglin, Clint C.",021081,M,missing,1978,41,Peace Officer,:selected:,:unselected:,:unselected:
+"Anglin, Jarred G.",020563,M,missing,1986,33,Peace Officer,:selected:,:unselected:,:unselected:
+"Araujo, Christopher R.",021405,M,missing,1988,30,Peace Officer,:selected:,:unselected:,:unselected:
+"Arca, Shelby M.",025106,F,missing,1993,26,Detention & Correction,:selected:,:unselected:,:unselected:
+"Arends, Linda N.",019463,F,missing,-1958,60,Detention & Correction,:selected:,:unselected:,:unselected:
+"Arlee, Travis L.",024828,M,missing,1971,48,Peace Officer,:selected:,:unselected:,:unselected:
+#Record3
+-KV
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Reserve,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+-TABLE
+Name,I.D.,Sex,Birth,Date,Age,Employee Type,Employee,Instructor,Supervisor
+"Arment, Marc T.",025133,M,missing,1982,37,Peace Officer,:selected:,:unselected:,:unselected:
+"Armstrong, Barbara A.",023185,F,missing,1981,38,Peace Officer,:selected:,:unselected:,:unselected:
+"Armstrong, Donald",020144,M,missing,1962,57,Detention & Correction,:selected:,:unselected:,:unselected:
+"Armstrong, Robert J.",006665,M,missing,1970,49,Peace Officer,:selected:,:unselected:,:unselected:
+"Arneson, Jerod",025385,M,missing,1993,26,Detention & Correction,:selected:,:unselected:,:unselected:
+"Arneson, Kyle R.",023417,M,missing,-1992,26,Detention & Correction,:selected:,:unselected:,:unselected:
+"Arnett, Tracie",025220,missing,missing,1975,43,Detention & Correction,:selected:,:unselected:,:unselected:
+"Arnold, Daniel T.",019975,M,missing,1985,34,Peace Officer,:selected:,:unselected:,:unselected:
+"Arnold, Jonathan",023669,M,missing,1989,30,Peace Officer,:selected:,:unselected:,:unselected:
+"Asencio, Ben",008807,M,missing,1973,46,Peace Officer,:selected:,:unselected:,:unselected:
+"Ashby, Steven E.",019525,M,missing,1967,52,Peace Officer,:selected:,:unselected:,:unselected:
+"Atkins, Dustin L.",020950,M,missing,1979,40,Detention & Correction,:selected:,:unselected:,:unselected:
+"Atkinson, Ann E.",018567,F,missing,1962,57,Detention & Correction,:selected:,:unselected:,:unselected:
+"Atkinson Jr., Michael T.",007170,M,missing,1973,46,Peace Officer,:selected:,:unselected:,:unselected:
+"Atsbeha, Eayoall M.",024420,M,missing,1987,32,Detention & Correction,:selected:,:unselected:,:unselected:
+"Auch, Jacob A.",019106,M,missing,1981,38,Peace Officer,:selected:,:unselected:,:unselected:
+"Austin, Alicia M.",018355,F,missing,1978,41,Peace Officer,:selected:,:unselected:,:unselected:
+"Austin, John R.",007163,M,missing,1964,54,Peace Officer,:selected:,:unselected:,:unselected:
+"Axelrod, Bryan J.",023027,M,missing,1984,35,Peace Officer,:selected:,:unselected:,:unselected:
+"Ayers, Brandon L.",025583,M,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Ayers, Jeralyn",011031,F,:unselected:,-1961,57,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bach, Trinity L.",023022,F,missing,1968,51,Detention & Correction,:selected:,:unselected:,:unselected:
+"Baggs, David J.",017559,M,missing,-1975,43,Peace Officer,:selected:,:unselected:,:unselected:
+"Bagnoli, Colton J.",023146,M,missing,1983,36,Peace Officer,:selected:,:unselected:,:unselected:
+"Baiamonte, Stephen",002355,M,missing,1967,51,Reserve,:selected:,:unselected:,:unselected:
+"Bailey, Cory A.",007358,M,missing,-1971,47,Peace Officer,:selected:,:unselected:,:unselected:
+"Bailey, Dunny W.",017225,missing,missing,-1975,43,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bailey, James A.",017111,missing,missing,1975,44,Peace Officer,:selected:,:unselected:,:unselected:
+"Bailey, James S.",012458,M,missing,1962,57,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bain, Dennis A.",021271,M,missing,1977,42,Peace Officer,:selected:,:unselected:,:unselected:
+"Baken, Nicholas",025410,M,missing,1994,25,Detention & Correction,:selected:,:unselected:,:unselected:
+"Baker, Christopher J.",018409,M,missing,1974,45,Peace Officer,:selected:,:unselected:,:unselected:
+#Record4
+-KV
+Peace Officer,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Probation & Parole,:selected:
+Reserve,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Detention & Correction,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+-TABLE
+Name,I.D.,Sex,Birth,Date,Age,Employee Type,Employee,Instructor,Supervisor
+"Baker, Guy A.",002170,M,missing,1968,51,Peace Officer,:selected:,:unselected:,:unselected:
+"Baker, Jason",020803,M,missing,1971,47,Peace Officer,:selected:,:unselected:,:unselected:
+"Baker, Rae M.",021193,F,missing,1967,52,Probation & Parole,:selected:,:unselected:,:unselected:
+"Balis, Bradford A.",022324,M,missing,1987,32,Peace Officer,:selected:,:unselected:,:unselected:
+"Ball, Christopher L.",024117,M,missing,1990,29,Detention & Correction,:selected:,:unselected:,:unselected:
+"Baltezar, Beau C.",020921,M,missing,1988,31,Detention & Correction,:selected:,:unselected:,:unselected:
+"Barbao, Harlee I.",023944,M,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Barbera, Andrew J.",025525,M,missing,1983,36,Peace Officer,:selected:,:unselected:,:unselected:
+"Barce, Austin",025262,M,missing,-1992,26,Detention & Correction,:selected:,:unselected:,:unselected:
+"Barclay, Steven B.",005854,missing,missing,1969,50,Peace Officer,:selected:,:unselected:,:unselected:
+"Bardwell, Allen G.",002205,M,missing,-1956,62,Peace Officer,:selected:,:unselected:,:unselected:
+"Bare, Bryce",023344,M,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Barkell, Tim F.",002178,M,missing,1962,57,Peace Officer,:selected:,:unselected:,:unselected:
+"Barkus, Jason A.",018592,M,missing,1971,48,Peace Officer,:selected:,:unselected:,:unselected:
+"Barnes, Timothy C.",014393,M,missing,1962,57,Peace Officer,:selected:,:unselected:,:unselected:
+"Barnt, James J.",017399,M,missing,1977,42,Detention & Correction,:selected:,:unselected:,:unselected:
+"Barrett, Anthony",025112,M,missing,1963,56,Probation & Parole,:selected:,:unselected:,:unselected:
+"Barrett, Michael P.",023109,M,missing,1987,32,Reserve,:selected:,:unselected:,:unselected:
+"Barry, Chan A.",019972,M,missing,1975,44,Peace Officer,:selected:,:unselected:,:unselected:
+"Barsness, Kyle P.",019386,M,missing,1980,39,Peace Officer,:selected:,:unselected:,:unselected:
+"Barstad, Bruce E.",000099,M,missing,1966,53,Probation & Parole,:selected:,:unselected:,:unselected:
+"Barthel, Jon J.",014630,M,missing,-1974,44,Detention & Correction,:selected:,:unselected:,:unselected:
+"Barthel, Michael J.",000100,M,missing,-1964,54,Probation & Parole,:selected:,:unselected:,:unselected:
+"Barton, Andrew K.",021997,M,missing,1985,34,Peace Officer,:selected:,:unselected:,:unselected:
+"Bartos, Charles D.",006307,M,missing,1966,53,Peace Officer,:selected:,:unselected:,:unselected:
+"Barzen, Jake",025486,M,missing,1994,24,Peace Officer,:selected:,:unselected:,:unselected:
+"Bauer, Dustin L.",022217,M,missing,1989,30,Detention & Correction,:selected:,:unselected:,:unselected:
+"Baugatz Jr., John A.",007011,M,missing,1964,54,Detention & Correction,:selected:,:unselected:,:unselected:
+"Baukema, Toman L.",006667,M,missing,1969,50,Peace Officer,:selected:,:unselected:,:unselected:
+"Baum, Craig A.",006047,M,missing,1971,48,Peace Officer,:selected:,:unselected:,:unselected:
+"Baum, Denise K.",008322,F,missing,-1967,51,Peace Officer,:selected:,:unselected:,:unselected:
+"Baum, Michael J.",023317,M,missing,1988,31,Peace Officer,:selected:,:unselected:,:unselected:
+#Record5
+-KV
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Reserve,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Detention & Correction,:selected:
+Probation & Parole,:selected:
+Detention & Correction,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Peace Officer,:selected:
+Probation & Parole,:selected:
+Peace Officer,:selected:
+-TABLE
+Name,I.D.,Sex,Birth,Date,Age,Employee Type,Employee,Instructor,Supervisor
+"Baumann, Eric A.",008665,M,missing,-1974,44,Peace Officer,:selected:,:unselected:,:unselected:
+"Baxter, Jayson B.",016490,M,missing,1970,49,Probation & Parole,:selected:,:unselected:,:unselected:
+"Bear Medicine, Doyle L.",024354,M,missing,1980,39,Peace Officer,:selected:,:unselected:,:unselected:
+"Beard, Brenton A.",024086,M,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Beasley, Daniel L.",023062,M,missing,1981,38,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bebbington, Brian S.",019543,M,missing,1972,47,Peace Officer,:selected:,:unselected:,:unselected:
+"Beccari, Kathleen M.",010765,F,missing,1961,58,Probation & Parole,:selected:,:unselected:,:unselected:
+"Bechtold, Terry L.",000108,M,missing,1959,60,Peace Officer,:selected:,:unselected:,:unselected:
+"Beck, Benjamin T.",021082,M,missing,1988,31,Peace Officer,:selected:,:unselected:,:unselected:
+"Beck, James J.",022102,M,missing,1991,28,Peace Officer,:selected:,:unselected:,:unselected:
+"Becker, Thomas",025626,M,missing,1984,34,Detention & Correction,:selected:,:unselected:,:unselected:
+"Beckett, Jace A.",022375,missing,missing,1992,27,Peace Officer,:selected:,:unselected:,:unselected:
+"Beckwith, Carl F.",007622,M,missing,1940,78,Reserve,:selected:,:unselected:,:unselected:
+"Bedford, John R.",001902,M,missing,1961,58,Peace Officer,:selected:,:unselected:,:unselected:
+"Beechie, Michael B.",023596,M,missing,1988,31,Peace Officer,:selected:,:unselected:,:unselected:
+"Beecroft, Jeffery D.",002095,M,missing,1962,57,Peace Officer,:selected:,:unselected:,:unselected:
+"Beehler, Anton J.",009746,M,missing,1967,52,Peace Officer,:selected:,:unselected:,:unselected:
+"Beeson Jr., Myron",025744,M,missing,1979,40,Detention & Correction,:selected:,:unselected:,:unselected:
+"Belcourt, Jalin C.",024131,M,missing,1994,25,Peace Officer,:selected:,:unselected:,:unselected:
+"Belford, Austin J.",025558,missing,missing,missing,missing,Peace Officer,:selected:,:unselected:,:unselected:
+"Bell, Donald R.",005860,M,missing,-1958,60,Peace Officer,:selected:,:unselected:,:unselected:
+"Bellusci, George E.",023418,M,missing,1970,49,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bellusci, William W.",000118,M,missing,-1953,65,Probation & Parole,:selected:,:unselected:,:unselected:
+"Bemis, Christopher W.",006284,M,missing,-1964,54,Detention & Correction,:selected:,:unselected:,:unselected:
+"Bender Jr., Robert R.",009665,M,missing,1978,41,Peace Officer,:selected:,:unselected:,:unselected:
+"Bennett, Bryan R.",023948,M,missing,1978,41,Peace Officer,:selected:,:unselected:,:unselected:
+"Bennett, Scott F.",013814,M,missing,1962,57,Peace Officer,:selected:,:unselected:,:unselected:
+"Benson, Christopher J.",024072,M,missing,-1981,37,Peace Officer,:selected:,:unselected:,:unselected:
+"Benson, Michael S.",000127,M,missing,1965,54,Peace Officer,:selected:,:unselected:,:unselected:
+"Benz, Britney B.",024165,F,missing,1991,28,Peace Officer,:selected:,:unselected:,:unselected:
+"Berg, Shannon",025666,F,missing,1988,31,Probation & Parole,:selected:,:unselected:,:unselected:
+"Berger, Brian P.",021900,M,missing,-1985,33,Peace Officer,:selected:,:unselected:,:unselected:

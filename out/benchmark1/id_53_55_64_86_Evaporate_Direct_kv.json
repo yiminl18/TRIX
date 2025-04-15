@@ -1,0 +1,305 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "RemitTo": "3646 Momentum Place Chicago, IL 60689-5336"
+                    },
+                    {
+                        "Station": "Cumulus-Muskegon - WLCS-FM"
+                    },
+                    {
+                        "BillTo": "MEDIUM BUYING LLC"
+                    },
+                    {
+                        "Phone": "616-855-8304"
+                    },
+                    {
+                        "InvoiceNumber": "496497"
+                    },
+                    {
+                        "Date": "11/11/18"
+                    },
+                    {
+                        "OrderNumber": "34630"
+                    },
+                    {
+                        "Client": "MEDIUM"
+                    },
+                    {
+                        "AcctExec": "PHILLY KATZ"
+                    },
+                    {
+                        "AgencyAdvNumber": "2095 2094"
+                    },
+                    {
+                        "Terms": "Due on Receipt"
+                    },
+                    {
+                        "GrossAmount": "$600.00"
+                    },
+                    {
+                        "AgencyCommission": "$90.00"
+                    },
+                    {
+                        "NetAmount": "$510.00"
+                    },
+                    {
+                        "TotalSpots": "30"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Day": "Wed",
+                        "Time": "6:17AM",
+                        "Len": "60",
+                        "Line #": "805910",
+                        "Rate": "$20.00",
+                        "CI": "B",
+                        "Product": "MIGOP-MISD34 & HD91-MUSKEGON RADIO AD A"
+                    },
+                    {
+                        "Day": "Wed",
+                        "Time": "7:39AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "MIGOP-MISD34&HD91-MUSKEGON RADIO AD B"
+                    },
+                    {
+                        "Day": "Wed",
+                        "Time": "10:49AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Wed",
+                        "Time": "5:49PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Wed",
+                        "Time": "6:48PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Thu",
+                        "Time": "8:50AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Thu",
+                        "Time": "9:49AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Thu",
+                        "Time": "12:30PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Thu",
+                        "Time": "2:30PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Thu",
+                        "Time": "4:48PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "6:39AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "8:51AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "11:50AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "1:37PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "2:37PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "3:50PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Fri",
+                        "Time": "4:49PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "6:49AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "10:38AM",
+                        "Len": "[MISSING]",
+                        "Line #": "805915",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "12:29PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "1:29PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "2:17PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "3:29PM",
+                        "Len": "[MISSING]",
+                        "Line #": "805914",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "4:28PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "5:28PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Mon",
+                        "Time": "6:37PM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    },
+                    {
+                        "Day": "Tue",
+                        "Time": "6:37AM",
+                        "Len": "[MISSING]",
+                        "Line #": "[MISSING]",
+                        "Rate": "[MISSING]",
+                        "CI": "[MISSING]",
+                        "Product": "[MISSING]"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,2200 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "\"646492,646493\""
+                    },
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Order Descrp": "62680868_POL - Issue Doctor Patient"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "# of Weeks": "1"
+                    },
+                    {
+                        "SALES": "missing"
+                    },
+                    {
+                        "ActiveWeeks": "missing"
+                    },
+                    {
+                        "Agency": "missing"
+                    },
+                    {
+                        "DEL CIELO MEDIA - NCC": "15.00%"
+                    },
+                    {
+                        "RepFirm": "missing"
+                    },
+                    {
+                        "NCC": "13.00%"
+                    },
+                    {
+                        "Copy Instr ID": "missing"
+                    },
+                    {
+                        "Total Zones": "2"
+                    },
+                    {
+                        "Zones": "\"Detroit MI Interconnect, Detroit MI DI ...\""
+                    },
+                    {
+                        "Total Networks": "6"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {
+                        "Created By": "NCC_Gateway_User"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:07:22 PM"
+                    },
+                    {
+                        "Updated By": "\"Smith, Brogan\""
+                    },
+                    {
+                        "Industry": "Political-Association"
+                    },
+                    {
+                        "Primary": "missing"
+                    },
+                    {
+                        "Secondary": "missing"
+                    },
+                    {
+                        "Tertiary": "NCC - MI - WASH DC"
+                    },
+                    {
+                        "Quarternary": "missing"
+                    },
+                    {
+                        "Address": "NCC MEDIA"
+                    },
+                    {
+                        "Address": "2"
+                    },
+                    {
+                        "\"City": "State, Zip\",\"BLOOMFIELD, NJ\""
+                    },
+                    {
+                        "Zip": "07003"
+                    },
+                    {
+                        "Contact": "missing"
+                    },
+                    {
+                        "Phone": "111-111-1111"
+                    },
+                    {
+                        "Tag": "missing"
+                    },
+                    {
+                        "Contract Type": "Standard"
+                    },
+                    {
+                        "Copy Group": "missing"
+                    },
+                    {
+                        "Division": ""
+                    },
+                    {
+                        "Reference #": "62680868"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed"
+                    },
+                    {
+                        "Gross $": "52672.00"
+                    },
+                    {
+                        "Net $": "37923.84"
+                    },
+                    {
+                        "Units": "115"
+                    },
+                    {
+                        "Credit Hold": ""
+                    },
+                    {
+                        "NO": "missing"
+                    },
+                    {
+                        "Purchase Order #": "8299MI"
+                    },
+                    {
+                        "Billing Schedule": "EndOfFlight"
+                    },
+                    {
+                        "Product": "missing"
+                    },
+                    {
+                        "ORDR": "missing"
+                    },
+                    {
+                        "Estimate": "8299MI"
+                    },
+                    {
+                        "ORDER /INVOICE/TRAFFIC/REPORT NOTES/COMMENTS": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "Order #",
+                        "646492,646493": "2800160"
+                    },
+                    {
+                        "Traffic Order #": "Order Descrp",
+                        "646492,646493": "62680868_POL - Issue Doctor Patient Unity DET-DDSH"
+                    },
+                    {
+                        "Traffic Order #": "Client",
+                        "646492,646493": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Traffic Order #": "Start Date",
+                        "646492,646493": "8/26/2019"
+                    },
+                    {
+                        "Traffic Order #": "End Date",
+                        "646492,646493": "9/1/2019"
+                    },
+                    {
+                        "Traffic Order #": "# of Weeks",
+                        "646492,646493": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "SALES": "ActiveWeeks"
+                    },
+                    {
+                        "SALES": "AE 1"
+                    },
+                    {
+                        "SALES": "AE 2"
+                    },
+                    {
+                        "SALES": "Agency"
+                    },
+                    {
+                        "SALES": "RepFirm"
+                    },
+                    {
+                        "SALES": "Copy Instr ID"
+                    },
+                    {
+                        "SALES": "Total Zones"
+                    },
+                    {
+                        "SALES": "Zones"
+                    },
+                    {
+                        "SALES": "Total Networks"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Created On": "Created By",
+                        "8/28/2019 11:59:36 AM": "NCC_Gateway_User"
+                    },
+                    {
+                        "Created On": "Updated On",
+                        "8/28/2019 11:59:36 AM": "8/28/2019 1:07:22 PM"
+                    },
+                    {
+                        "Created On": "Updated By",
+                        "8/28/2019 11:59:36 AM": "Smith, Brogan"
+                    },
+                    {
+                        "Created On": "Industry",
+                        "8/28/2019 11:59:36 AM": "Political-Association"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order Status": "Gross $",
+                        "Contract Confirmed": "52672.00"
+                    },
+                    {
+                        "Order Status": "Net $",
+                        "Contract Confirmed": "37923.84"
+                    },
+                    {
+                        "Order Status": "Units",
+                        "Contract Confirmed": "115"
+                    },
+                    {
+                        "Order Status": "Credit Hold",
+                        "Contract Confirmed": "NO"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "646492"
+                    },
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Order Descrp": "62680868_POL - Issue Doctor Patient"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {
+                        "Created By": "NCC_Gateway_User"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Updated By": "\"Smith, Brogan\""
+                    },
+                    {
+                        "Source": "Gateway"
+                    },
+                    {
+                        "Zones": "Detroit MI"
+                    },
+                    {
+                        "Interconnect": "missing"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed"
+                    },
+                    {
+                        "Syscode Gross": "$"
+                    },
+                    {
+                        "50168.00": ""
+                    },
+                    {
+                        "Syscode Net": "36120.96"
+                    },
+                    {
+                        "Syscode Units": "75"
+                    },
+                    {
+                        "Zone Status": "Contract Confirmed"
+                    },
+                    {
+                        "Avg Unit Rate": "668.91"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "Printed On": "8/29/2019"
+                    },
+                    {
+                        "Printed By": "\"Becker, Kathleen\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "Order #",
+                        "646492": "2800160"
+                    },
+                    {
+                        "Traffic Order #": "Order Descrp",
+                        "646492": "62680868_POL - Issue Doctor Patient Unity DET-DDSH"
+                    },
+                    {
+                        "Traffic Order #": "Client",
+                        "646492": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Traffic Order #": "Start Date",
+                        "646492": "8/26/2019"
+                    },
+                    {
+                        "Traffic Order #": "End Date",
+                        "646492": "9/1/2019"
+                    },
+                    {
+                        "Traffic Order #": "# of Weeks",
+                        "646492": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Created On": "Created By",
+                        "8/28/2019 11:59:36 AM": "NCC_Gateway_User"
+                    },
+                    {
+                        "Created On": "Updated On",
+                        "8/28/2019 11:59:36 AM": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Created On": "Updated By",
+                        "8/28/2019 11:59:36 AM": "Smith, Brogan"
+                    },
+                    {
+                        "Created On": "Source",
+                        "8/28/2019 11:59:36 AM": "Gateway"
+                    },
+                    {
+                        "Created On": "Zones",
+                        "8/28/2019 11:59:36 AM": "Detroit MI Interconnect"
+                    },
+                    {
+                        "Created On": "missing",
+                        "8/28/2019 11:59:36 AM": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order Status": "Syscode Gross $",
+                        "Contract Confirmed": "50168.00"
+                    },
+                    {
+                        "Order Status": "Syscode Net $",
+                        "Contract Confirmed": "36120.96"
+                    },
+                    {
+                        "Order Status": "Syscode Units",
+                        "Contract Confirmed": "75"
+                    },
+                    {
+                        "Order Status": "Zone Status",
+                        "Contract Confirmed": "Contract Confirmed"
+                    },
+                    {
+                        "Order Status": "Avg Unit Rate",
+                        "Contract Confirmed": "668.91"
+                    },
+                    {
+                        "Order Status": "missing",
+                        "Contract Confirmed": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 1,
+                        "Tr Ln #": 1,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 5557,
+                        "Program": "CNN EM",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 5a-9a",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 2,
+                        "Tr Ln #": 2,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 5557,
+                        "Program": "CNN DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "X",
+                        "Th": ":selected:",
+                        "F": "X",
+                        "Sa": ":selected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "3"
+                    },
+                    {
+                        "Unique Ln #": 3,
+                        "Tr Ln #": 3,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 5557,
+                        "Program": "CNN EF",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "X",
+                        "Th": ":selected:",
+                        "F": "X",
+                        "Sa": ":selected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "2"
+                    },
+                    {
+                        "Unique Ln #": 4,
+                        "Tr Ln #": 4,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 5557,
+                        "Program": "CNN PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "X",
+                        "Th": ":selected:",
+                        "F": "X",
+                        "Sa": ":selected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "8"
+                    },
+                    {
+                        "Unique Ln #": 5,
+                        "Tr Ln #": 5,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 5557,
+                        "Program": "FXNC EM",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 5a-9a",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "X",
+                        "Th": ":selected:",
+                        "F": "X",
+                        "Sa": ":selected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "4"
+                    },
+                    {
+                        "Unique Ln #": 6,
+                        "Tr Ln #": 6,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 5557,
+                        "Program": "FXNC DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "X",
+                        "Th": ":selected:",
+                        "F": "X",
+                        "Sa": ":selected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "3"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    },
+                    {
+                        "X": ":selected:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 7,
+                        "Tr Ln #": 7,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 5557,
+                        "Program": "FXNC EF",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 8,
+                        "Tr Ln #": 8,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 5557,
+                        "Program": "FXNC PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 9,
+                        "Tr Ln #": 9,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Hallmark Channel",
+                        "Sys Code": 5557,
+                        "Program": "HALL DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 10,
+                        "Tr Ln #": 10,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Hallmark Channel",
+                        "Sys Code": 5557,
+                        "Program": "HALL PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 11,
+                        "Tr Ln #": 11,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys Code": 5557,
+                        "Program": "HGTV DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 12,
+                        "Tr Ln #": 12,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys Code": 5557,
+                        "Program": "HGTV PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 13,
+                        "Tr Ln #": 13,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "The History Channel",
+                        "Sys Code": 5557,
+                        "Program": "HIST DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 14,
+                        "Tr Ln #": 14,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "The History Channel",
+                        "Sys Code": 5557,
+                        "Program": "HIST PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "8": ":selected:"
+                    },
+                    {
+                        "Page": "4"
+                    },
+                    {
+                        "9": ""
+                    },
+                    {
+                        "Printed On": "8/29/2019"
+                    },
+                    {
+                        "Printed By": "\"Becker, Kathleen\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 15,
+                        "Tr Ln #": 15,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "TBS",
+                        "Sys Code": 5557,
+                        "Program": "TBSC DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 16,
+                        "Tr Ln #": 16,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "TBS",
+                        "Sys Code": 5557,
+                        "Program": "TBSC PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "646493"
+                    },
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Order Descrp": "62680868_POL - Issue Doctor Patient"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "# of Weeks": "1"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {
+                        "Created By": "NCC_Gateway_User"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Updated By": "\"Smith, Brogan\""
+                    },
+                    {
+                        "Source": "Gateway"
+                    },
+                    {
+                        "Zones": "Detroit MI DISH - I+"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed"
+                    },
+                    {
+                        "Syscode Gross": "$"
+                    },
+                    {
+                        "2504.00": ""
+                    },
+                    {
+                        "Syscode Net": "$"
+                    },
+                    {
+                        "1802.88": ""
+                    },
+                    {
+                        "Syscode Units": "40"
+                    },
+                    {
+                        "Zone Status": "Contract Confirmed"
+                    },
+                    {
+                        "Avg Unit Rate": "62.60"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "Order #",
+                        "646493": "2800160"
+                    },
+                    {
+                        "Traffic Order #": "Order Descrp",
+                        "646493": "62680868_POL - Issue Doctor Patient Unity DET-DDSH"
+                    },
+                    {
+                        "Traffic Order #": "Client",
+                        "646493": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Traffic Order #": "Start Date",
+                        "646493": "8/26/2019"
+                    },
+                    {
+                        "Traffic Order #": "End Date",
+                        "646493": "9/1/2019"
+                    },
+                    {
+                        "Traffic Order #": "# of Weeks",
+                        "646493": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Created On": "Created By",
+                        "8/28/2019 11:59:36 AM": "NCC_Gateway_User"
+                    },
+                    {
+                        "Created On": "Updated On",
+                        "8/28/2019 11:59:36 AM": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Created On": "Updated By",
+                        "8/28/2019 11:59:36 AM": "Smith, Brogan"
+                    },
+                    {
+                        "Created On": "Source",
+                        "8/28/2019 11:59:36 AM": "Gateway"
+                    },
+                    {
+                        "Created On": "Zones",
+                        "8/28/2019 11:59:36 AM": "Detroit MI DISH - I+"
+                    },
+                    {
+                        "Created On": "missing",
+                        "8/28/2019 11:59:36 AM": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order Status": "Syscode Gross $",
+                        "Contract Confirmed": "2504.00"
+                    },
+                    {
+                        "Order Status": "Syscode Net $",
+                        "Contract Confirmed": "1802.88"
+                    },
+                    {
+                        "Order Status": "Syscode Units",
+                        "Contract Confirmed": "40"
+                    },
+                    {
+                        "Order Status": "Zone Status",
+                        "Contract Confirmed": "Contract Confirmed"
+                    },
+                    {
+                        "Order Status": "Avg Unit Rate",
+                        "Contract Confirmed": "62.60"
+                    },
+                    {
+                        "Order Status": "missing",
+                        "Contract Confirmed": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 17,
+                        "Tr Ln #": 1,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 9819,
+                        "Program": "CNN DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu W Th": ":unselected:",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "4"
+                    },
+                    {
+                        "Unique Ln #": 18,
+                        "Tr Ln #": 2,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 9819,
+                        "Program": "CNN EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": ":unselected:",
+                        "Tu W Th": ":unselected:",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "2"
+                    },
+                    {
+                        "Unique Ln #": 19,
+                        "Tr Ln #": 3,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 9819,
+                        "Program": "CNN PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu W Th": "missing",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "2"
+                    },
+                    {
+                        "Unique Ln #": 20,
+                        "Tr Ln #": 4,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 9819,
+                        "Program": "FXNC DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": ":unselected:",
+                        "Tu W Th": ":unselected:",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "4",
+                        "Unit Len": "$48.00"
+                    },
+                    {
+                        "Unique Ln #": 21,
+                        "Tr Ln #": 5,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 9819,
+                        "Program": "FXNC EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": ":unselected:",
+                        "Tu W Th": ":unselected:",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$84.00"
+                    },
+                    {
+                        "Unique Ln #": 22,
+                        "Tr Ln #": 6,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": 9819,
+                        "Program": "FXNC PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu W Th": ":unselected:",
+                        "F": ":unselected:",
+                        "Sa": ":unselected:",
+                        "Su": "X",
+                        "Total Units": ":selected:",
+                        "Unit Rate": "X",
+                        "Total Amount": ":selected:",
+                        "Unit Len": "2"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "4": ":selected:"
+                    },
+                    {
+                        "Politi cal Bun": ":selected:"
+                    },
+                    {
+                        "2": ":selected:"
+                    },
+                    {
+                        "Printed On": "8/29/2019"
+                    },
+                    {
+                        "Printed By": "\"Becker, Kathleen\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 23,
+                        "Tr Ln #": 7,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys Code": 9819,
+                        "Program": "HGTV DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M Tu": ":unselected:",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "4",
+                        "Unit Len": "$40.00"
+                    },
+                    {
+                        "Unique Ln #": 24,
+                        "Tr Ln #": 8,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys Code": 9819,
+                        "Program": "HGTV EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$66.00"
+                    },
+                    {
+                        "Unique Ln #": 25,
+                        "Tr Ln #": 9,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys Code": 9819,
+                        "Program": "HGTV PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p- 12m",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$108.00"
+                    },
+                    {
+                        "Unique Ln #": 26,
+                        "Tr Ln #": 10,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "The History Channel",
+                        "Sys Code": 9819,
+                        "Program": "HIST DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M Tu": ":unselected:",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "missing",
+                        "Su": "missing",
+                        "Total Units": "missing",
+                        "Unit Rate": "$18.00",
+                        "Total Amount": "$72.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": 27,
+                        "Tr Ln #": 11,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "The History Channel",
+                        "Sys Code": 9819,
+                        "Program": "HIST EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$62.00"
+                    },
+                    {
+                        "Unique Ln #": 28,
+                        "Tr Ln #": 12,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "The History Channel",
+                        "Sys Code": 9819,
+                        "Program": "HIST PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p- 12m",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$124.00"
+                    },
+                    {
+                        "Unique Ln #": 29,
+                        "Tr Ln #": 13,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "TBS",
+                        "Sys Code": 9819,
+                        "Program": "TBSC DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "4",
+                        "Unit Len": "$42.00"
+                    },
+                    {
+                        "Unique Ln #": 30,
+                        "Tr Ln #": 14,
+                        "Parent Line#": "missing",
+                        "Rev": "Nati onal Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "TBS",
+                        "Sys Code": 9819,
+                        "Program": "TBSC EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M Tu": ":unselected: :unselected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "2",
+                        "Unit Len": "$76.00"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "12254993"
+                    },
+                    {
+                        "Order #": "3653903"
+                    },
+                    {
+                        "Order Descrp": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-"
+                    },
+                    {
+                        "Client": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Start Date": "6/7/2022"
+                    },
+                    {
+                        "End Date": "6/13/2022"
+                    },
+                    {
+                        "# of Weeks": "2"
+                    },
+                    {
+                        "ActiveWeeks": "2"
+                    },
+                    {
+                        "AE 1": "\"Gray, Jeff (POL)\""
+                    },
+                    {
+                        "AE 2": "missing"
+                    },
+                    {
+                        "Agency": "missing"
+                    },
+                    {
+                        "BUYING TIME": "15.00%"
+                    },
+                    {
+                        "RepFirm": "0%"
+                    },
+                    {
+                        "Copy Instr ID": "missing"
+                    },
+                    {
+                        "Total Zones": "2"
+                    },
+                    {
+                        "Zones": "\"The District Of Columbia, Capital\""
+                    },
+                    {
+                        "Total Networks": "10"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:02:31 AM"
+                    },
+                    {
+                        "Created By": "\"Gauthier, Mary\""
+                    },
+                    {
+                        "On": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Updated By": "\"Daniels, Dawn\""
+                    },
+                    {
+                        "Industry": "Political-State-Local"
+                    },
+                    {
+                        "Primary": "missing"
+                    },
+                    {
+                        "Secondary": "missing"
+                    },
+                    {
+                        "Tertiary": "missing"
+                    },
+                    {
+                        "Quarternary": "missing"
+                    },
+                    {
+                        "Address 1": "650 MASSACHUSETTS AVE NW"
+                    },
+                    {
+                        "Address 2": "STE 210"
+                    },
+                    {
+                        "\"City": "State, Zip\",\"WASHINGTON, DC\""
+                    },
+                    {
+                        "Zip": "20001"
+                    },
+                    {
+                        "Contact": "\"WASHINGTON, DC\""
+                    },
+                    {
+                        "Priority Code": "\"NP=80, IP=74\""
+                    },
+                    {
+                        "Phone": "202-965-5060"
+                    },
+                    {
+                        "Contract Type": "Standard"
+                    },
+                    {
+                        "Division": ""
+                    },
+                    {
+                        "Reference #": "0769389c-a9e5-ec11-910e-005056979d16"
+                    },
+                    {
+                        "Order Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Gross $": "22900.00"
+                    },
+                    {
+                        "Net $": "19465.00"
+                    },
+                    {
+                        "Units": "338"
+                    },
+                    {
+                        "Credit Hold": "NO"
+                    },
+                    {
+                        "Purchase Order #": "missing"
+                    },
+                    {
+                        "Billing Schedule": "missing"
+                    },
+                    {
+                        "Product": "missing"
+                    },
+                    {
+                        "Zone": "missing"
+                    },
+                    {
+                        "Estimate": "607613"
+                    },
+                    {
+                        "/INVOICE/TRAFFIC/REPORT NOTES/COMMENTS": "missing"
+                    },
+                    {
+                        "Printed By": "\"Marryat, Derek\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "Order #",
+                        "12254993": "3653903"
+                    },
+                    {
+                        "Traffic Order #": "Order Descrp",
+                        "12254993": "POL_CAN_SPIVA FOR DC AG 6-7 - 6- 13"
+                    },
+                    {
+                        "Traffic Order #": "Client",
+                        "12254993": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Traffic Order #": "Start Date",
+                        "12254993": "6/7/2022"
+                    },
+                    {
+                        "Traffic Order #": "End Date",
+                        "12254993": "6/13/2022"
+                    },
+                    {
+                        "Traffic Order #": "# of Weeks",
+                        "12254993": "2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "SALES": "ActiveWeeks"
+                    },
+                    {
+                        "SALES": "AE 1"
+                    },
+                    {
+                        "SALES": "AE 2"
+                    },
+                    {
+                        "SALES": "Agency"
+                    },
+                    {
+                        "SALES": "RepFirm"
+                    },
+                    {
+                        "SALES": "Copy Instr ID"
+                    },
+                    {
+                        "SALES": "Total Zones"
+                    },
+                    {
+                        "SALES": "Zones"
+                    },
+                    {
+                        "SALES": "Total Networks"
+                    },
+                    {
+                        "SALES": "GENERAL COMMENTS"
+                    },
+                    {
+                        "SALES": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Created On": "Created By",
+                        "6/6/2022 11:02:31 AM": "Gauthier, Mary"
+                    },
+                    {
+                        "Created On": "Updated On",
+                        "6/6/2022 11:02:31 AM": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Created On": "Updated By",
+                        "6/6/2022 11:02:31 AM": "Daniels, Dawn"
+                    },
+                    {
+                        "Created On": "Industry",
+                        "6/6/2022 11:02:31 AM": "Political-State-Local"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order Status": "Gross $",
+                        "Traffic Updates Accepted": "22900.00"
+                    },
+                    {
+                        "Order Status": "Net $",
+                        "Traffic Updates Accepted": "19465.00"
+                    },
+                    {
+                        "Order Status": "Units",
+                        "Traffic Updates Accepted": "338"
+                    },
+                    {
+                        "Order Status": "Credit Hold",
+                        "Traffic Updates Accepted": "NO"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "12254993"
+                    },
+                    {
+                        "Order #": "3653903"
+                    },
+                    {
+                        "Order Descrp": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-13"
+                    },
+                    {
+                        "Client": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Start Date": "6/7/2022"
+                    },
+                    {
+                        "End Date": "6/13/2022"
+                    },
+                    {
+                        "# of Weeks": "2"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:03:11 AM"
+                    },
+                    {
+                        "Created By": "\"Daniels, Dawn\""
+                    },
+                    {
+                        "Updated On": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Updated By": "\"Daniels, Dawn\""
+                    },
+                    {
+                        "Source": "VIEW"
+                    },
+                    {
+                        "Zones": "The District Of Columbia"
+                    },
+                    {
+                        "Order Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Syscode Gross": "$"
+                    },
+                    {
+                        "18564.00": ""
+                    },
+                    {
+                        "Syscode Net": "$"
+                    },
+                    {
+                        "15779.40": ""
+                    },
+                    {
+                        "Syscode Units": "178"
+                    },
+                    {
+                        "Zone Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Avg Unit Rate": "104.29"
+                    },
+                    {
+                        "9a-4p": ":selected:"
+                    },
+                    {
+                        "4p-7p": ":selected:"
+                    },
+                    {
+                        "4p-7p": ":selected:"
+                    },
+                    {
+                        "F": ":selected:"
+                    },
+                    {
+                        "Printed By": "\"Marryat, Derek\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "Order #",
+                        "12254993": "3653903"
+                    },
+                    {
+                        "Traffic Order #": "Order Descrp",
+                        "12254993": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-13"
+                    },
+                    {
+                        "Traffic Order #": "Client",
+                        "12254993": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Traffic Order #": "Start Date",
+                        "12254993": "6/7/2022"
+                    },
+                    {
+                        "Traffic Order #": "End Date",
+                        "12254993": "6/13/2022"
+                    },
+                    {
+                        "Traffic Order #": "# of Weeks",
+                        "12254993": "2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Created On": "Created By",
+                        "6/6/2022 11:03:11 AM": "Daniels, Dawn"
+                    },
+                    {
+                        "Created On": "Updated On",
+                        "6/6/2022 11:03:11 AM": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Created On": "Updated By",
+                        "6/6/2022 11:03:11 AM": "Daniels, Dawn"
+                    },
+                    {
+                        "Created On": "Source",
+                        "6/6/2022 11:03:11 AM": "VIEW"
+                    },
+                    {
+                        "Created On": "Zones",
+                        "6/6/2022 11:03:11 AM": "The District Of Columbia"
+                    },
+                    {
+                        "Created On": "missing",
+                        "6/6/2022 11:03:11 AM": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Order Status": "Syscode Gross $",
+                        "Traffic Updates Accepted": "18564.00"
+                    },
+                    {
+                        "Order Status": "Syscode Net $",
+                        "Traffic Updates Accepted": "15779.40"
+                    },
+                    {
+                        "Order Status": "Syscode Units",
+                        "Traffic Updates Accepted": "178"
+                    },
+                    {
+                        "Order Status": "Zone Status",
+                        "Traffic Updates Accepted": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Order Status": "Avg Unit Rate",
+                        "Traffic Updates Accepted": "104.29"
+                    },
+                    {
+                        "Order Status": "missing",
+                        "Traffic Updates Accepted": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 1,
+                        "Tr Ln #": 1,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "NEW DAY<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 5a-9a",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": ":unselected:",
+                        "Unit Len": ":unselected:"
+                    },
+                    {
+                        "Unique Ln #": 2,
+                        "Tr Ln #": 2,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "NEW DAY<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 5a-9a",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": ":unselected:",
+                        "Su": ":unselected:",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "2",
+                        "Total Amount": "$95.00",
+                        "Unit Len": "$190.00"
+                    },
+                    {
+                        "Unique Ln #": 3,
+                        "Tr Ln #": 3,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "CNN NEWSROOM<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": ":unselected:",
+                        "Unit Len": ":unselected:"
+                    },
+                    {
+                        "Unique Ln #": 4,
+                        "Tr Ln #": 4,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "CNN NEWSROOM<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 9a-4p",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": ":unselected:",
+                        "Su": "missing",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "1",
+                        "Total Amount": "$60.00",
+                        "Unit Len": "$60.00"
+                    },
+                    {
+                        "Unique Ln #": 5,
+                        "Tr Ln #": 5,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "LEAD WITH JAKE<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 4p-7p",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": ":unselected:",
+                        "Unit Len": ":unselected:"
+                    },
+                    {
+                        "Unique Ln #": 6,
+                        "Tr Ln #": 6,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "LEAD WITH JAKE<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 4p-7p",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": ":unselected:",
+                        "Sa": ":unselected:",
+                        "Su": "missing",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "1",
+                        "Total Amount": "$118.00",
+                        "Unit Len": "$118.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Politi cal Bun": "missing"
+                    },
+                    {
+                        "9a-4p": ":selected:"
+                    },
+                    {
+                        "Printed": "\"Marryat, Derek\""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": 7,
+                        "Tr Ln #": 7,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "MSNBC PRIME",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/12/2022",
+                        "Daypart": "Tu-Su 7p- 12m",
+                        "M": "missing",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 8,
+                        "Tr Ln #": 8,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": 1851,
+                        "Program": "MSNBC PRIME",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 7p-12m",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": "missing",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "1",
+                        "Total Amount": "$140.00",
+                        "Unit Len": "$140.00"
+                    },
+                    {
+                        "Unique Ln #": 9,
+                        "Tr Ln #": 9,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "BET",
+                        "Sys Code": 1851,
+                        "Program": "BET MOVIE OF T<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/12/2022",
+                        "Daypart": "Tu-Su 7p- 12m",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": "X",
+                        "Unit Len": ":selected:"
+                    },
+                    {
+                        "Unique Ln #": 10,
+                        "Tr Ln #": 10,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "BET",
+                        "Sys Code": 1851,
+                        "Program": "BET MOVIE OF T<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 7p-12m",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": ":unselected:",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "1",
+                        "Total Amount": "$140.00",
+                        "Unit Len": "$140.00"
+                    },
+                    {
+                        "Unique Ln #": 11,
+                        "Tr Ln #": 11,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "MSNBC",
+                        "Sys Code": 1851,
+                        "Program": "MORNING JOE<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 5a-9a",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": ":unselected:",
+                        "Unit Len": ":unselected:"
+                    },
+                    {
+                        "Unique Ln #": 12,
+                        "Tr Ln #": 12,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "MSNBC",
+                        "Sys Code": 1851,
+                        "Program": "MORNING JOE<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 5a-9a",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": ":unselected:",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "2",
+                        "Total Amount": "$95.00",
+                        "Unit Len": "$190.00"
+                    },
+                    {
+                        "Unique Ln #": 13,
+                        "Tr Ln #": 13,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "MSNBC",
+                        "Sys Code": 1851,
+                        "Program": "MSNBC DAYTIME",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 9a-4p",
+                        "M": ":unselected:",
+                        "Tu": "X",
+                        "W": ":selected:",
+                        "Th": "X",
+                        "F": ":selected:",
+                        "Sa": "X",
+                        "Su": ":selected:",
+                        "Total Units": "X",
+                        "Unit Rate": ":selected:",
+                        "Total Amount": ":unselected:",
+                        "Unit Len": ":unselected:"
+                    },
+                    {
+                        "Unique Ln #": 14,
+                        "Tr Ln #": 14,
+                        "Parent Line#": "missing",
+                        "Rev": "Reta il Politi cal Bun dle",
+                        "Priority Code": "74 | 74",
+                        "Network": "MSNBC",
+                        "Sys Code": 1851,
+                        "Program": "MSNBC DAYTIME",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 9a-4p",
+                        "M": "X",
+                        "Tu": ":selected:",
+                        "W": ":unselected:",
+                        "Th": ":unselected:",
+                        "F": "missing",
+                        "Sa": ":unselected:",
+                        "Su": ":unselected:",
+                        "Total Units": ":unselected:",
+                        "Unit Rate": "1",
+                        "Total Amount": "$60.00",
+                        "Unit Len": "$60.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

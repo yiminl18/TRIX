@@ -1,0 +1,1127 @@
+[
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Traffic Order #": "646492"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {},
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Created By": "missing"
+                    },
+                    {},
+                    {
+                        "Order Descrp": "62680868_POL - Issue Doctor Patient\\nUnity DET-DDSH"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Syscode Net $": "36120.96"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {},
+                    {
+                        "Syscode Units": "75"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "Source": "Gateway"
+                    },
+                    {
+                        "Zone Status": "Contract Confirmed"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "Zones": "Detroit MI Interconnect"
+                    },
+                    {
+                        "Avg Unit Rate": "missing"
+                    },
+                    {
+                        "# of Weeks": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Unique\\nLn #": 1,
+                        "Tr Ln\\n#": 1,
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "missing",
+                        "Network": "CNN",
+                        "Program": "missing",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "missing",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Unit\\nRate": "$300.00",
+                        "Total\\nAmount": "$1,200.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 2,
+                        "Tr Ln\\n#": 2,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "CNN",
+                        "Sys\\nCode": "missing",
+                        "Program": "CNN DT",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 3,
+                        "Total\\nAmount": "missing",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 3,
+                        "Parent\\Line#": "missing",
+                        "Rev": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "missing",
+                        "Sys\\nCode": 5557,
+                        "Program": "missing",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$450.00",
+                        "Total\\nAmount": "$900.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": "missing",
+                        "Tr Ln\\n#": 4,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "missing",
+                        "Sys\\nCode": 5557,
+                        "Program": "CNN PT",
+                        "Start\\nDate": "missing",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 7p-\\n12m",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Su": "missing",
+                        "Total\\nUnits": 8,
+                        "Unit\\nRate": "$600.00",
+                        "Total\\nAmount": "$4,800.00"
+                    },
+                    {
+                        "Unique\\nLn #": 5,
+                        "Tr Ln\\n#": 5,
+                        "Rev": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "Fox News\\nChannel",
+                        "Sys\\nCode": 5557,
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 4,
+                        "Unit\\nRate": "$720.00",
+                        "Total\\nAmount": "$2,880.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 6,
+                        "Tr Ln\\n#": 6,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Sys\\nCode": 5557,
+                        "Program": "missing",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 3,
+                        "Unit\\nRate": "$480.00",
+                        "Unit\\nLen": "missing"
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Unique\\nLn #": 7,
+                        "Tr Ln\\n#": 7,
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Sys\\nCode": 5557,
+                        "Program": "FXNC EF",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$960.00",
+                        "Total\\nAmount": "$1,920.00",
+                        "Unit\\nLen": 30.0
+                    },
+                    {
+                        "Tr Ln\\n#": 8,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "Fox News\\nChannel",
+                        "Sys\\nCode": 5557,
+                        "Program": "missing",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 7p-\\n12m",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Unit\\nRate": "$1,200.0\\n0",
+                        "Total\\nAmount": "missing",
+                        "Unit\\nLen": NaN
+                    },
+                    {
+                        "Unique\\nLn #": 9,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "missing",
+                        "Network": "Hallmark\\nChannel",
+                        "Sys\\nCode": 5557,
+                        "Program": "HALL DT",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nLen": 30.0
+                    },
+                    {
+                        "Unique\\nLn #": 10,
+                        "Tr Ln\\n#": 10,
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "Hallmark\\nChannel",
+                        "Sys\\nCode": 5557,
+                        "Program": "HALL PT",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "Th-Su 7p-\\n12m",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Total\\nUnits": 8,
+                        "Unit\\nRate": "$190.00",
+                        "Total\\nAmount": "$1,520.00",
+                        "Unit\\nLen": "missing"
+                    },
+                    {
+                        "Unique\\nLn #": 11,
+                        "Tr Ln\\n#": 11,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys\\nCode": 5557,
+                        "Program": "HGTV DT",
+                        "Start\\nDate": "missing",
+                        "End\\nDate": "missing",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Total\\nAmount": "$900.00",
+                        "Unit\\nLen": "missing"
+                    },
+                    {
+                        "Unique\\nLn #": 12,
+                        "Tr Ln\\n#": "missing",
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys\\nCode": "missing",
+                        "Start\\nDate": "08/29/2019",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 8,
+                        "Total\\nAmount": "$7,840.00",
+                        "Unit\\nLen": 30.0
+                    },
+                    {
+                        "Unique\\nLn #": 13,
+                        "Parent\\Line#": "missing",
+                        "Rev": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "missing",
+                        "Program": "HIST DT",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$144.00",
+                        "Total\\nAmount": "missing"
+                    },
+                    {
+                        "Unique\\nLn #": 14,
+                        "Tr Ln\\n#": 14,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "The History\\nChannel",
+                        "Sys\\nCode": 5557,
+                        "Program": "HIST PT",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 8,
+                        "Unit\\nRate": "$900.00",
+                        "Total\\nAmount": "$7,200.00",
+                        "Unit\\nLen": 30.0
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Unique\\nLn #": 15,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "missing",
+                        "Sys\\nCode": 5557,
+                        "Program": "TBSC DT",
+                        "Start\\nDate": "08/29/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Unit\\nRate": "$220.00",
+                        "Total\\nAmount": "$440.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 16,
+                        "Tr Ln\\n#": "missing",
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Network": "missing",
+                        "Sys\\nCode": 5557,
+                        "Program": "TBSC PT",
+                        "Start\\nDate": "08/29/2019",
+                        "Daypart": "Th-Su 7p-\\n12m",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 8,
+                        "Unit\\nRate": "missing",
+                        "Total\\nAmount": "$8,160.00,30",
+                        "Unit\\nLen": 30
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Traffic Order #": "12254993"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:03:11 AM"
+                    },
+                    {},
+                    {},
+                    {
+                        "Created By": "missing"
+                    },
+                    {
+                        "Syscode Gross $": "18564.00"
+                    },
+                    {
+                        "Order Descrp": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-13"
+                    },
+                    {},
+                    {
+                        "Syscode Net $": "missing"
+                    },
+                    {
+                        "Client": "missing"
+                    },
+                    {
+                        "Updated By": "Daniels, Dawn"
+                    },
+                    {},
+                    {},
+                    {},
+                    {
+                        "Zone Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "End Date": "missing"
+                    },
+                    {
+                        "Zones": "The District Of Columbia"
+                    },
+                    {
+                        "Avg Unit Rate": "104.29"
+                    },
+                    {
+                        "# of Weeks": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Unique\\nLn #": 17,
+                        "Tr Ln\\n#": 1,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "CNN",
+                        "Sys\\nCode": 9819,
+                        "Program": "CNN DT",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Total\\nUnits": "missing",
+                        "Total\\nAmount": "$128.00"
+                    },
+                    {
+                        "Unique\\nLn #": 18,
+                        "Tr Ln\\n#": 2,
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "CNN",
+                        "Sys\\nCode": 9819,
+                        "Program": "CNN EF",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$34.00",
+                        "Total\\nAmount": "$68.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": "missing",
+                        "Tr Ln\\n#": 3,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Network": "CNN",
+                        "Sys\\nCode": "missing",
+                        "Program": "CNN PT",
+                        "Start\\nDate": "08/31/2019",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "missing",
+                        "Total\\nUnits": "missing",
+                        "Total\\nAmount": "$108.00"
+                    },
+                    {
+                        "Unique\\nLn #": 20,
+                        "Tr Ln\\n#": 4,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "Fox News\\nChannel",
+                        "Sys\\nCode": 9819,
+                        "Program": "FXNC DT",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Unit\\nRate": "missing",
+                        "Total\\nAmount": "$192.00",
+                        "Unit\\nLen": "missing"
+                    },
+                    {
+                        "Unique\\nLn #": 21,
+                        "Tr Ln\\n#": 5,
+                        "Parent\\Line#": "missing",
+                        "Rev": "missing",
+                        "Network": "Fox News\\nChannel",
+                        "Sys\\nCode": 9819,
+                        "Program": "FXNC EF",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Unit\\nRate": "missing",
+                        "Total\\nAmount": "$168.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 22,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "Fox News\\nChannel",
+                        "Program": "FXNC PT",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "missing",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$126.00",
+                        "Total\\nAmount": "$252.00",
+                        "Unit\\nLen": 30
+                    }
+                ],
+                "type": "table"
+            },
+            {
+                "content": [
+                    {
+                        "Unique\\nLn #": 23,
+                        "Tr Ln\\n#": "missing",
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "missing",
+                        "Network": "HGTV",
+                        "Program": "HGTV DT",
+                        "Start\\nDate": "08/31/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 4,
+                        "Total\\nAmount": "$160.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 24,
+                        "Tr Ln\\n#": 8,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Program": "HGTV EF",
+                        "Start\\nDate": "08/31/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "Sa": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$66.00",
+                        "Total\\nAmount": "$132.00",
+                        "Unit\\nLen": "missing"
+                    },
+                    {
+                        "Tr Ln\\n#": "missing",
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "HGTV",
+                        "Sys\\nCode": 9819,
+                        "Program": "HGTV PT",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Sa-Su 7p-\\n12m",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$108.00",
+                        "Total\\nAmount": "missing"
+                    },
+                    {
+                        "Tr Ln\\n#": 10,
+                        "Parent\\Line#": "missing",
+                        "Rev": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "The History\\nChannel",
+                        "Sys\\nCode": 9819,
+                        "Start\\nDate": "missing",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Total\\nAmount": "$72.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 27,
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Network": "missing",
+                        "Sys\\nCode": 9819,
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "missing",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "$62.00",
+                        "Total\\nAmount": "$124.00",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 28,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "The History\\nChannel",
+                        "Sys\\nCode": 9819,
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": 2,
+                        "Unit\\nRate": "missing",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 29,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "TBS",
+                        "Sys\\nCode": 9819,
+                        "Program": "TBSC DT",
+                        "Start\\nDate": "08/31/2019",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total\\nUnits": "missing",
+                        "Total\\nAmount": "missing",
+                        "Unit\\nLen": 30
+                    },
+                    {
+                        "Unique\\nLn #": 30,
+                        "Tr Ln\\n#": "missing",
+                        "Parent\\Line#": "missing",
+                        "Rev": "Nati\\nonal\\nPoliti\\ncal\\nBun\\ndle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "missing",
+                        "Sys\\nCode": 9819,
+                        "Program": "TBSC EF",
+                        "Start\\nDate": "missing",
+                        "End\\nDate": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "missing",
+                        "W": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Unit\\nRate": "$76.00",
+                        "Total\\nAmount": "$152.00",
+                        "Unit\\nLen": 30
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 1
+    },
+    {
+        "content": [
+            {
+                "content": [
+                    {
+                        "Traffic Order #": "12254993"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:02:31 AM"
+                    },
+                    {
+                        "Order Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Order #": "missing"
+                    },
+                    {
+                        "Created By": "\"Gauthier, Mary\""
+                    },
+                    {
+                        "Gross $": "22900.00"
+                    },
+                    {
+                        "Order Descrp": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-\\n13"
+                    },
+                    {
+                        "Updated On": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Net $": "missing"
+                    },
+                    {
+                        "Client": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Updated By": "\"Daniels, Dawn\""
+                    },
+                    {
+                        "Units": "338"
+                    },
+                    {
+                        "Start Date": "6/7/2022"
+                    },
+                    {
+                        "Industry": "missing"
+                    },
+                    {
+                        "Credit Hold": "NO"
+                    },
+                    {
+                        "End Date": "6/13/2022"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {},
+                    {
+                        "Primary": "missing"
+                    },
+                    {
+                        "Purchase Order #": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Secondary": "missing"
+                    },
+                    {
+                        "Billing Schedule": "EndOfFlight"
+                    },
+                    {
+                        "ActiveWeeks": "missing"
+                    },
+                    {
+                        "Tertiary": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "AE 1": "Gray, Jeff (POL)"
+                    },
+                    {
+                        "Quarternary": "missing"
+                    },
+                    {
+                        "Product": "missing"
+                    },
+                    {
+                        "AE 2": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Estimate": "607613"
+                    },
+                    {
+                        "Agency": "BUYING TIME"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Address 1": "650 MASSACHUSETTS AVE NW"
+                    },
+                    {
+                        "Submit EDI Invoice?": "Submit EDI Invoice"
+                    },
+                    {
+                        "RepFirm": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Address 2": "STE 210"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Total Networks": "10"
+                    },
+                    {
+                        "Phone": "202-965-5060"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Avail Tag": "missing"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Contract Type": "Standard"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Copy Group": "missing"
+                    },
+                    {
+                        "Division": "missing"
+                    },
+                    {
+                        "Reference #": "0769389c-a9e5-ec11-910e-005056979d16"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Traffic Order #": "missing"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:03:11 AM"
+                    },
+                    {
+                        "Order Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Order #": "missing"
+                    },
+                    {
+                        "Created By": "\"Daniels, Dawn\""
+                    },
+                    {},
+                    {
+                        "Order Descrp": "POL_CAN_SPIVA FOR DC AG 6-7 - 6-13"
+                    },
+                    {},
+                    {
+                        "Syscode Net $": "missing"
+                    },
+                    {
+                        "Client": "SPIVA FOR DC AG - WAS"
+                    },
+                    {
+                        "Updated By": "Daniels, Dawn"
+                    },
+                    {
+                        "Syscode Units": "178"
+                    },
+                    {
+                        "Start Date": "6/7/2022"
+                    },
+                    {
+                        "Source": "VIEW"
+                    },
+                    {
+                        "Zone Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "End Date": "6/13/2022"
+                    },
+                    {},
+                    {
+                        "Avg Unit Rate": "missing"
+                    },
+                    {
+                        "# of Weeks": "2"
+                    }
+                ],
+                "type": "kv"
+            },
+            {
+                "content": [
+                    {
+                        "Tr Ln\\n#": 1,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Reta\\nil\\Politi\\cal\\Bun\\dle",
+                        "Network": "CNN",
+                        "Sys\\nCode": "1851",
+                        "Program": "NEW DAY<",
+                        "End\\nDate": "06/10/2022",
+                        "Daypart": "Tu-F 5a-9a",
+                        "M": "missing",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "missing",
+                        "Sa": "missing",
+                        "Total\\nUnits": "7",
+                        "Unit\\nRate": "$95.00",
+                        "Total\\nAmount": "$665.00"
+                    },
+                    {
+                        "Unique\\nLn #": "missing",
+                        "Tr Ln\\n#": 2,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Reta\\nil\\Politi\\cal\\Bun\\dle",
+                        "Program": "NEW DAY<",
+                        "Start\\nDate": "06/13/2022",
+                        "End\\nDate": "06/13/2022",
+                        "Daypart": "M 5a-9a",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "F": "missing",
+                        "Su": "missing",
+                        "Unit\\nRate": "$95.00",
+                        "Total\\nAmount": "$190.00",
+                        "Unit\\nLen": 30.0
+                    },
+                    {
+                        "Unique\\nLn #": 3,
+                        "Tr Ln\\n#": 3,
+                        "Parent\\Line#": "missing",
+                        "Rev": "missing",
+                        "Priority\\nCode": "missing",
+                        "Network": "CNN",
+                        "Sys\\nCode": "1851",
+                        "Program": "CNN NEWSROOM<06/07/2022",
+                        "Start\\nDate": "06/10/2022",
+                        "End\\nDate": "missing",
+                        "Daypart": "missing",
+                        "M": "X",
+                        "Tu": "missing",
+                        "Th": "X",
+                        "Sa": "missing",
+                        "Su": "14",
+                        "Total\\nUnits": "$60.00",
+                        "Unit\\nRate": "$840.00",
+                        "Total\\nAmount": "30",
+                        "Unit\\nLen": NaN
+                    },
+                    {
+                        "Unique\\nLn #": 4,
+                        "Tr Ln\\n#": 4,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "CNN",
+                        "Sys\\nCode": "CNN NEWSROOM<06/13/2022",
+                        "Program": "06/13/2022",
+                        "Start\\nDate": "M 9a-4p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "Th": "missing",
+                        "F": "missing",
+                        "Sa": "1",
+                        "Su": "$60.00",
+                        "Total\\nUnits": "$60.00",
+                        "Unit\\nRate": "30",
+                        "Unit\\nLen": NaN
+                    },
+                    {
+                        "Unique\\nLn #": 5,
+                        "Tr Ln\\n#": 5,
+                        "Parent\\Line#": "missing",
+                        "Rev": "Reta\\nil\\Politi\\cal\\Bun\\dle",
+                        "Priority\\nCode": "74 | 74",
+                        "Network": "CNN",
+                        "Sys\\nCode": "1851",
+                        "End\\nDate": "06/10/2022",
+                        "Daypart": "missing",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "missing",
+                        "Su": "missing",
+                        "Total\\nUnits": "7",
+                        "Unit\\nRate": "$118.00",
+                        "Total\\nAmount": "$826.00",
+                        "Unit\\nLen": 30.0
+                    },
+                    {
+                        "Unique\\nLn #": 6,
+                        "Tr Ln\\n#": 6,
+                        "Parent\\Line#": "missing",
+                        "Priority\\nCode": "74 | 74",
+                        "Sys\\nCode": "1851",
+                        "Program": "LEAD WITH JAKE<",
+                        "Start\\nDate": "06/13/2022",
+                        "End\\nDate": "06/13/2022",
+                        "Daypart": "M 4p-7p",
+                        "M": "missing",
+                        "Tu": "missing",
+                        "W": "missing",
+                        "F": "missing",
+                        "Sa": "missing",
+                        "Su": "missing",
+                        "Total\\nUnits": "1",
+                        "Unit\\nRate": "$118.00",
+                        "Total\\nAmount": "missing",
+                        "Unit\\nLen": 30.0
+                    }
+                ],
+                "type": "table"
+            }
+        ],
+        "id": 2
+    }
+]

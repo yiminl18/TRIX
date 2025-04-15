@@ -1,0 +1,221 @@
+#Record1
+-KV
+Page,1
+-TABLE
+Certificate,Level,Status Date,Status,Cert #,Certified,Expires,Probation
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aarhus, Ryan D.",135-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-19-1993,Valid,missing,11-19-1993,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aarhus, Todd C.",DPS22-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-09-1995,Valid,missing,11-09-1995,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abbas, April S.",WI6-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,10-28-2005,Valid,missing,10-28-2005,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abbey, Jeffery A.",CR21-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,10-18-1991,Valid,missing,10-18-1991,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abbott, Marissa K.",287-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,8-16-2019,Valid,missing,8-16-2019,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abel, Garrett J.",218-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-07-2007,Valid,missing,12-07-2007,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abel, Yon A.",J1997-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,6-27-1997,Valid,missing,6-27-1997,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abell, Samuel T.",253-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-13-2013,Valid,missing,12-13-2013,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abernathy, Ryan S.",T2013-22,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-18-2014,Valid,missing,4-18-2014,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Abodeely, Ryan M.",CR27-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-06-1998,Valid,missing,11-06-1998,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Accola, Anthony J.",232-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-02-2010,Valid,missing,4-02-2010,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Accola, Curtiss N.",191-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-04-2003,Valid,missing,4-04-2003,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Accola, Derek G.",265-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-11-2015,Valid,missing,12-11-2015,missing,missing
+"Achterhoff, Ethan J.",DPS41-01,missing,missing,missing,missing,missing,missing
+#Record2
+-KV
+Page,2
+-TABLE
+Certificate,Level,Status Date,Status,Cert #,Certified,Expires,Probation
+Officer Certification,missing,11-02-2018,Valid,missing,11-02-2018,missing,missing
+"Adam, Seth M.",236-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-10-2010,Valid,missing,12-10-2010,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adamovicz, Patrick J.",195-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-12-2003,Valid,missing,12-12-2003,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Aaron T.",304-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,8-19-2022,Valid,missing,8-19-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Darrin E.",153-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-22-1996,Valid,missing,11-22-1996,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Justin J.",288-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-13-2019,Valid,missing,12-13-2019,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Matthew T.",285-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-19-2019,Valid,missing,4-19-2019,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Nathan A.",CR48-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,10-30-2020,Valid,missing,10-30-2020,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Nicholas A.",DPS44-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,1-08-2021,Valid,missing,1-08-2021,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adams, Scott A.",263-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,8-07-2015,Valid,missing,8-07-2015,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adelmund, Tryston C.",291-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-17-2020,Valid,missing,4-17-2020,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Ades, Mark M.",DPS22-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-09-1995,Valid,missing,11-09-1995,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adkins, Christopher T.",DPS21-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-23-1994,Valid,missing,12-23-1994,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adney, Michael R.",192-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-11-2003,Valid,missing,4-11-2003,missing,missing
+#Record3
+-KV
+Page,3
+-TABLE
+Certificate,Level,Status Date,Status,Cert #,Certified,Expires,Probation
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adolph, Charles H.",276-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-13-2017,Valid,missing,12-13-2017,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Adymy, Brandon D.",292-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,9-16-2020,Valid,missing,9-16-2020,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aeschliman, Kenneth R.",HI27-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-16-1999,Valid,missing,4-16-1999,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aesoph, Jess T.",179-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,3-23-2001,Valid,missing,3-23-2001,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Agan, Kenneth J.",155-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,3-21-1997,Valid,missing,3-21-1997,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aguero Jones, Shannon R.",CR39-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-07-2011,Valid,missing,12-07-2011,missing,missing
+"Aguilera, Mauricio",DPS37-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,2-28-2014,Valid,missing,2-28-2014,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Ahrens, Kobe",305-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-16-2022,Valid,missing,12-16-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Ahrens, Timothy L.",WI5-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,2-25-2005,Valid,missing,2-25-2005,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Ahrens, Zachary T.",264-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-04-2015,Valid,missing,12-04-2015,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aicher, Matthew W.",HI46-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,10-31-2008,Valid,missing,10-31-2008,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aiello, Steve E.",HI39-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-22-2005,Valid,missing,4-22-2005,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aiken, Jamie A.",241-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-09-2011,Valid,missing,12-09-2011,missing,missing
+#Record4
+-KV
+Page,4
+-TABLE
+Certificate,Level,Status Date,Status,Cert #,Certified,Expires,Probation
+Officer Certification,missing,4-18-2014,Valid,missing,4-18-2014,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aistrope, Warren K.",90-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-21-1984,Valid,missing,12-21-1984,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aitchison, Jesse W.",293-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,9-16-2020,Valid,missing,9-16-2020,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Akemann, Lucas C.",303-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,8-19-2022,Valid,missing,8-19-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Akers, Brian E.",264-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-04-2015,Valid,missing,12-04-2015,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Akers, Christopher M.",107-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,5-20-1988,Valid,missing,5-20-1988,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albaugh, Nathan S.",197-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-02-2004,Valid,missing,4-02-2004,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albers, Rafe E.",189-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-13-2002,Valid,missing,12-13-2002,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albers, Ronald A.",172-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-10-1999,Valid,missing,12-10-1999,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albrecht, Nicholas J.",DPS33-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,10-19-2007,Valid,missing,10-19-2007,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albright, Andrew D.",DPS31-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-21-2006,Valid,missing,4-21-2006,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Albright, Anthony B.",209-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-14-2006,Valid,missing,4-14-2006,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Alcala, Omar",303-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,8-19-2022,Valid,missing,8-19-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Alcorn, Jared D.",291-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-17-2020,Valid,missing,4-17-2020,missing,missing
+#Record5
+-KV
+Page,5
+-TABLE
+Certificate,Level,Status Date,Status,Cert #,Certified,Expires,Probation
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aldrich, Nicholas R.",RI2020-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-12-2014,Valid,missing,12-12-2014,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aldridge, Terry W.",151-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,6-14-1996,Valid,missing,6-14-1996,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aleksiejczyk, Richard J.",83-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,6-10-1983,Valid,missing,6-10-1983,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Algreen, Michael S.",239-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-15-2011,Valid,missing,4-15-2011,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Aljets, Noah J.",189-02,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-13-2002,Valid,missing,12-13-2002,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Alke, Ian A.",224-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-05-2008,Valid,missing,12-05-2008,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allaire, Charles E.",148-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-08-1995,Valid,missing,12-08-1995,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Brandon K.",WI15-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,11-04-2011,Valid,missing,11-04-2011,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Clark C.",DM76-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-20-2018,Valid,missing,4-20-2018,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Clayton T.",182-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,6-29-2001,Valid,missing,6-29-2001,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Clinton B.",306-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,12-16-2022,Valid,missing,12-16-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Collin J.",301-01,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,4-21-2022,Valid,missing,4-21-2022,missing,missing
+missing,missing,missing,missing,missing,missing,missing,missing
+"Allen, Connor A.",DM78-05,missing,missing,missing,missing,missing,missing
+Officer Certification,missing,5-15-2020,Valid,missing,5-15-2020,missing,missing

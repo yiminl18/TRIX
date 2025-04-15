@@ -1,0 +1,245 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "CampaignName": "Lierman for Maryland"
+                    },
+                    {
+                        "Station": "EBOC-TV"
+                    },
+                    {
+                        "Market": "Salisbury-Ocean City"
+                    },
+                    {
+                        "FlightDates": "7/12/2022 - 7/19/2022"
+                    },
+                    {
+                        "EstimatedImpressions": "7916"
+                    },
+                    {
+                        "Buyer": "James Wells"
+                    },
+                    {
+                        "Email": "James.Wells@screenstrategies.com"
+                    },
+                    {
+                        "Phone": "703-272-7300"
+                    },
+                    {
+                        "Company": "Screen Strategies Media"
+                    },
+                    {
+                        "CompanyPhone": "703-272-7300"
+                    },
+                    {
+                        "CompanyAddress": "11150 Fairfax Blvd, Suite 505"
+                    },
+                    {
+                        "CompanyCityStateZip": "Fairfax, VA 22030"
+                    },
+                    {
+                        "Pages": "Page 1 of 2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "EBOC 5p News",
+                        "Time": "5:00 PM - 5:30 PM",
+                        "Code": "EN",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$100.00",
+                        "Total Cost": "$400.00",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "[MISSING]",
+                        "Sun": "[MISSING]",
+                        "Mon": "[MISSING]",
+                        "Total Spots": "4"
+                    },
+                    {
+                        "Program Name": "Big Bang Theory",
+                        "Time": "7:00 PM - 7:30 PM",
+                        "Code": "PA",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$60.00",
+                        "Total Cost": "$180.00",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "[MISSING]",
+                        "Sat": "[MISSING]",
+                        "Sun": "[MISSING]",
+                        "Mon": "[MISSING]",
+                        "Total Spots": "3"
+                    },
+                    {
+                        "Program Name": "EBOC 10p News",
+                        "Time": "10:00 PM - 10:30 PM",
+                        "Code": "LN",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$150.00",
+                        "Total Cost": "$600.00",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "[MISSING]",
+                        "Sun": "[MISSING]",
+                        "Mon": "[MISSING]",
+                        "Total Spots": "4"
+                    },
+                    {
+                        "Program Name": "Seinfeld",
+                        "Time": "10:30 PM - 11:00 PM",
+                        "Code": "LF",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$80.00",
+                        "Total Cost": "$80.00",
+                        "Tue": "1",
+                        "Wed": "[MISSING]",
+                        "Thu": "[MISSING]",
+                        "Fri": "[MISSING]",
+                        "Sat": "[MISSING]",
+                        "Sun": "[MISSING]",
+                        "Mon": "[MISSING]",
+                        "Total Spots": "1"
+                    },
+                    {
+                        "Program Name": "Station Totals",
+                        "Time": "$1",
+                        "Code": "260.00",
+                        "Days": "3",
+                        "Length": "2",
+                        "Rate Per Spot": "2",
+                        "Total Cost": "2",
+                        "Tue": "0",
+                        "Wed": "0",
+                        "Thu": "3",
+                        "Fri": "[MISSING]",
+                        "Sat": "",
+                        "Sun": "",
+                        "Mon": "",
+                        "Total Spots": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "CampaignName": "Lierman for Maryland"
+                    },
+                    {
+                        "Station": "EBOC-TV"
+                    },
+                    {
+                        "Market": "Salisbury-Ocean City"
+                    },
+                    {
+                        "FlightDates": "7/12/2022 - 7/19/2022"
+                    },
+                    {
+                        "EstimatedImpressions": "7916"
+                    },
+                    {
+                        "Buyer": "James Wells"
+                    },
+                    {
+                        "Email": "James.Wells@screenstrategies.com"
+                    },
+                    {
+                        "Phone": "703-272-7300"
+                    },
+                    {
+                        "Company": "Screen Strategies Media"
+                    },
+                    {
+                        "CompanyPhone": "703-272-7300"
+                    },
+                    {
+                        "CompanyAddress": "11150 Fairfax Blvd, Suite 505"
+                    },
+                    {
+                        "CompanyCityStateZip": "Fairfax, VA 22030"
+                    },
+                    {
+                        "Pages": "Page 2 of 2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "EBOC 5p News",
+                        "Time": "5:00 PM - 5:30 PM",
+                        "Code": "EN",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$100.00",
+                        "Total Cost": "$400.00",
+                        "Tue": "4",
+                        "Total Spots": ""
+                    },
+                    {
+                        "Program Name": "Big Bang Theory",
+                        "Time": "7:00 PM - 7:30 PM",
+                        "Code": "PA",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$60.00",
+                        "Total Cost": "$180.00",
+                        "Tue": "3",
+                        "Total Spots": ""
+                    },
+                    {
+                        "Program Name": "EBOC 10p News",
+                        "Time": "10:00 PM - 10:30 PM",
+                        "Code": "LN",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$150.00",
+                        "Total Cost": "$600.00",
+                        "Tue": "4",
+                        "Total Spots": ""
+                    },
+                    {
+                        "Program Name": "Seinfeld",
+                        "Time": "10:30 PM - 11:00 PM",
+                        "Code": "LF",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Rate Per Spot": "$80.00",
+                        "Total Cost": "$80.00",
+                        "Tue": "1",
+                        "Total Spots": ""
+                    },
+                    {
+                        "Program Name": "Station Totals",
+                        "Time": "$1",
+                        "Code": "260.00",
+                        "Days": "0",
+                        "Length": "12",
+                        "Rate Per Spot": "",
+                        "Total Cost": "",
+                        "Tue": "",
+                        "Total Spots": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
