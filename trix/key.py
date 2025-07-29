@@ -45,8 +45,8 @@ def read_dict(file):
 
 
 def get_extracted_path(path, method = 'plumber'):
-    path = path.replace('raw','extracted')
-    if('benchmark1' in path):
+    path = path.replace('raw','intermediate')
+    if('open_benchmark' in path):
         path = path.replace('.pdf', '_' + method +  '.txt')
     else:
         path = path.replace('.pdf', '.txt')
@@ -62,7 +62,7 @@ def read_file(file):
     return data
 
 def get_extracted_image_path(path,page_id):
-    path = path.replace('raw','extracted')
+    path = path.replace('raw','intermediate')
     path = path.replace('.pdf','_' + str(page_id) + '.jpg')
     return path
 
@@ -82,7 +82,7 @@ def perfect_match(v1,v2,k):
     return 1
 
 def load_candidate(pdf_path):
-    path = pdf_path.replace('data/raw','result').replace('.pdf','_key.txt')
+    path = pdf_path.replace('raw','intermediate').replace('.pdf','_candidate.txt')
     cans = read_file(path)
     return cans
 
@@ -285,18 +285,18 @@ def get_keys(cans, cluters, key_clusters):
     ks = set(keys).intersection(cans)
     return list(ks)
 
-def get_result_path(raw_path, method = 'TWIX'):
+def get_result_path(raw_path, method = 'TRIX'):
     path = raw_path.replace('data/raw','out')
     path = path.replace('.pdf', '_' + method + '_key.txt')
     return path
 
 def get_key_val_path(raw_path, approach):
     path = raw_path.replace('data/raw','out')
-    path = path.replace('.pdf', '_' + approach + '_kv.json')
+    path = path.replace('.pdf', '_' + approach + '.json')
     return path
 
 def get_baseline_result_path(raw_path,baseline_name):
-    path = raw_path.replace('data/raw','result')
+    path = raw_path.replace('raw','intermediate')
     path = path.replace('.pdf', '_' + baseline_name + '.txt')
     return path
 
@@ -312,7 +312,7 @@ def write_raw_response(result_path, content):
         file.write(content)
 
 def get_truth_path(raw_path):
-    path = raw_path.replace('raw','truths/')
+    path = raw_path.replace('raw','truths')
     path = path.replace('.pdf','.json')
     return path
 
@@ -330,6 +330,8 @@ def key_prediction(pdf_path):
     print('re-clustering starts...')
     key_clusters = clustering_group(phrases, remap, candidate_key_clusters, k=1)
     keys = get_keys(cans, remap, key_clusters)
+
+    print(result_path)
 
     write_result(result_path,keys)
     return keys

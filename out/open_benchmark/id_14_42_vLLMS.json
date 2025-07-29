@@ -1,0 +1,1439 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Traffic Order #": "646492,646493",
+                        "Order #": "6280106",
+                        "Order Descr": "62680868_POL - Issue Doctor Patient Unity DET-DTSH",
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI",
+                        "Start Date": "8/26/2019",
+                        "End Date": "9/1/2019",
+                        "# of Weeks": "1",
+                        "ActiveWeeks": "1",
+                        "AE 1": "NCC - MI - WASH DC",
+                        "AE 2": "",
+                        "Agency": "DEL CIELO MEDIA - NCC",
+                        "RepFirm": "NCC",
+                        "Copy Instr ID": "",
+                        "Total Zones": "2",
+                        "Zones": "Detroit MI Interconnect,Detroit MI D... ",
+                        "Total Networks": "6"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM",
+                        "Created By": "NCC_Gateway_User",
+                        "Updated On": "8/28/2019 1:07:22 PM",
+                        "Updated By": "Smith, Brogan",
+                        "Industry": "Political-Association",
+                        "Primary": "REFERENCES",
+                        "Secondary": "",
+                        "Tertiary": "",
+                        "Quarternary": "",
+                        "Address 1": "NCC MEDIA",
+                        "Address 2": "",
+                        "City, State, Zip": "BLOOMFIELD, NJ",
+                        "Zip": "07003",
+                        "Contact": "",
+                        "Phone": "111-111-1111",
+                        "Avail Tag": "",
+                        "Contract Type": "Standard",
+                        "Copy Group": "",
+                        "Division": "",
+                        "Reference #": "62680868"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed",
+                        "Gross $": "52672.00",
+                        "Net $": "37923.84",
+                        "Units": "115",
+                        "Credit Hold": "NO",
+                        "Billing Information": "BILLING INFORMATION",
+                        "Purchase Order #": "8299MI",
+                        "Billing Schedule": "EndOfFlight",
+                        "Product": "ORDR",
+                        "Estimate": "8299MI",
+                        "Submit EDI Invoice?": "Submit EDI Invoice",
+                        "ORDER / INVOICE / TRAFFIC / REPORT NOTES / COMMENTS": ""
+                    },
+                    {
+                        "Syscode": "5557,9819"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "General Comments": ""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "1",
+                        "Tr Ln Parent Line#": "1",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": "5557",
+                        "Program": "CNN EM",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-9a",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Total Rate": "$300.00",
+                        "Total Amount": "$1,200.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "2",
+                        "Tr Ln Parent Line#": "2",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": "5557",
+                        "Program": "CNN DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "3",
+                        "Total Rate": "$300.00",
+                        "Total Amount": "$900.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "3",
+                        "Tr Ln Parent Line#": "3",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": "5557",
+                        "Program": "CNN EF",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "$450.00",
+                        "Total Amount": "$900.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "4",
+                        "Tr Ln Parent Line#": "4",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "CNN",
+                        "Sys Code": "5557",
+                        "Program": "CNN PT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "8",
+                        "Total Rate": "$600.00",
+                        "Total Amount": "$4,800.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "5",
+                        "Tr Ln Parent Line#": "5",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": "5557",
+                        "Program": "FXNC EM",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 5a-9a",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Total Rate": "$720.00",
+                        "Total Amount": "$2,880.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "6",
+                        "Tr Ln Parent Line#": "6",
+                        "Rev Priority Code": "74 | 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": "5557",
+                        "Program": "FXNC DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "3",
+                        "Total Rate": "$480.00",
+                        "Total Amount": "$1,440.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "646492"
+                    },
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Order Descrp": "6288068B_POL - Issue Doctor Patient Unity DDBD_DDSH"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "# of Weeks": "1"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {
+                        "Created By": "NCC_Gateway_User"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Updated By": "Smith, Brogan"
+                    },
+                    {
+                        "Source": "Gateway"
+                    },
+                    {
+                        "Zones": "Detroit MI Interconnect"
+                    },
+                    {
+                        "Syscode Gross $": "50168.00"
+                    },
+                    {
+                        "Syscode Net $": "36120.96"
+                    },
+                    {
+                        "Syscode Units": "75"
+                    },
+                    {
+                        "Zone Status": "Contract Confirmed"
+                    },
+                    {
+                        "Avg Unit Rate": "668.91"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "7",
+                        "Tr Ln #": "7",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "Fox News Channel",
+                        "Program Code": "FXNC EF",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 4p-7p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "2",
+                        "Total Rate": "$960.00",
+                        "Unit Amount": "$1,920.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "8",
+                        "Tr Ln #": "8",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "Fox News Channel",
+                        "Program Code": "FXNC EF",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "8",
+                        "Total Rate": "$1,200.00",
+                        "Unit Amount": "$9,600.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "9",
+                        "Tr Ln #": "9",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "Hallmark Channel",
+                        "Program Code": "HALL DT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "$90.00",
+                        "Unit Amount": "$180.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "10",
+                        "Tr Ln #": "10",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "Hallmark Channel",
+                        "Program Code": "HALL PT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "8",
+                        "Total Rate": "$190.00",
+                        "Unit Amount": "$1,520.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "11",
+                        "Tr Ln #": "11",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "HGTV",
+                        "Program Code": "HGTV DT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "3",
+                        "Total Rate": "$300.00",
+                        "Unit Amount": "$900.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "12",
+                        "Tr Ln #": "12",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "HGTV",
+                        "Program Code": "HGTV PT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "8",
+                        "Total Rate": "$980.00",
+                        "Unit Amount": "$7,840.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "13",
+                        "Tr Ln #": "13",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "History Channel",
+                        "Program Code": "HIST DT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "$144.00",
+                        "Unit Amount": "$288.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "14",
+                        "Tr Ln #": "14",
+                        "Parent Line#": "N/A",
+                        "Rev": "74",
+                        "Priority": "74",
+                        "Network Code": "5557",
+                        "Network": "History Channel",
+                        "Program Code": "HIST PT",
+                        "Program": "",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "8",
+                        "Total Rate": "$900.00",
+                        "Unit Amount": "$7,200.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract Data (Traffic) Report": ""
+                    },
+                    {
+                        "Page": "3 of 9"
+                    },
+                    {
+                        "Printed On": "8/29/2019 10:16:54 AM"
+                    },
+                    {
+                        "Printed By": "Becker, Kathleen"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "15",
+                        "Tr Ln Parent #": "15",
+                        "Parent Line#": "",
+                        "Rev Code": "74",
+                        "Priority Code": "1",
+                        "Network Code": "TBS",
+                        "Sys Code": "5557",
+                        "Program Code": "TBSC DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 9a-4p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "2",
+                        "Unit Rate": "$220.00",
+                        "Total Amount": "$440.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "16",
+                        "Tr Ln Parent #": "16",
+                        "Parent Line#": "",
+                        "Rev Code": "74",
+                        "Priority Code": "1",
+                        "Network Code": "TBS",
+                        "Sys Code": "5557",
+                        "Program Code": "TBSC DT",
+                        "Start Date": "08/29/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Th-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "8",
+                        "Unit Rate": "$1,020.00",
+                        "Total Amount": "$8,160.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract Data (Traffic) Report": "Page 4 of 9"
+                    },
+                    {
+                        "Printed On": "8/29/2019 10:16:54 AM"
+                    },
+                    {
+                        "Printed By": "Becker, Kathleen"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "646493"
+                    },
+                    {
+                        "Order #": "2800160"
+                    },
+                    {
+                        "Order Descrp": "6288068B_POL - Issue Doctor Patient Unity 7\nDTC-PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Client": "DOCTOR PATIENT UNITY - NCC - MI"
+                    },
+                    {
+                        "Start Date": "8/26/2019"
+                    },
+                    {
+                        "End Date": "9/1/2019"
+                    },
+                    {
+                        "Created On": "8/28/2019 11:59:36 AM"
+                    },
+                    {
+                        "Created By": "NCC_Gateway_User"
+                    },
+                    {
+                        "# of Weeks": "1"
+                    },
+                    {
+                        "Updated On": "8/28/2019 1:02:15 PM"
+                    },
+                    {
+                        "Updated By": "Smith, Brogan"
+                    },
+                    {
+                        "Source": "Gateway"
+                    },
+                    {
+                        "Zones": "Detroit MI DISH - I+"
+                    },
+                    {
+                        "Order Status": "Contract Confirmed"
+                    },
+                    {
+                        "Syscode Gross $": "2504.00"
+                    },
+                    {
+                        "Syscode Net $": "1802.88"
+                    },
+                    {
+                        "Syscode Units": "40"
+                    },
+                    {
+                        "Zone Status": "Contract Confirmed"
+                    },
+                    {
+                        "Avg Unit Rate": "62.60"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "17",
+                        "Tr Ln #": "1",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "CNN",
+                        "Sys Code": "9819",
+                        "Program": "CNN DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Total Rate": "32.00",
+                        "Total Amount": "128.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "18",
+                        "Tr Ln #": "2",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "CNN",
+                        "Sys Code": "9819",
+                        "Program": "CNN EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "34.00",
+                        "Total Amount": "68.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "19",
+                        "Tr Ln #": "3",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "CNN",
+                        "Sys Code": "9819",
+                        "Program": "CNN PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p-12m",
+                        "M": "",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "54.00",
+                        "Total Amount": "108.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "20",
+                        "Tr Ln #": "4",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": "9819",
+                        "Program": "FXNC DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "X",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Total Rate": "48.00",
+                        "Total Amount": "192.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "21",
+                        "Tr Ln #": "5",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": "9819",
+                        "Program": "FXNC EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "84.00",
+                        "Total Amount": "168.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "22",
+                        "Tr Ln #": "6",
+                        "Parent Line#": "",
+                        "Rev": "",
+                        "Priority": "74 74",
+                        "Network": "Fox News Channel",
+                        "Sys Code": "9819",
+                        "Program": "FXNC PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p-12m",
+                        "M": "",
+                        "T": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Total Rate": "126.00",
+                        "Total Amount": "252.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "23",
+                        "Tr Ln #": "7",
+                        "Parent Line#": "7",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "HGTV",
+                        "Sys Code": "9819",
+                        "Program Code": "HGTV DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Unit Rate": "$40.00",
+                        "Total Amount": "$160.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "24",
+                        "Tr Ln #": "8",
+                        "Parent Line#": "8",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "HGTV",
+                        "Sys Code": "9819",
+                        "Program Code": "HGTV EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Unit Rate": "$66.00",
+                        "Total Amount": "$132.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "25",
+                        "Tr Ln #": "9",
+                        "Parent Line#": "9",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "HGTV",
+                        "Sys Code": "9819",
+                        "Program Code": "HGTV PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p-12m",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Unit Rate": "$108.00",
+                        "Total Amount": "$216.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "26",
+                        "Tr Ln #": "10",
+                        "Parent Line#": "10",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "The History Channel",
+                        "Sys Code": "9819",
+                        "Program Code": "HIST DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Unit Rate": "$18.00",
+                        "Total Amount": "$72.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "27",
+                        "Tr Ln #": "11",
+                        "Parent Line#": "11",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "The History Channel",
+                        "Sys Code": "9819",
+                        "Program Code": "HIST EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Unit Rate": "$62.00",
+                        "Total Amount": "$124.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "28",
+                        "Tr Ln #": "12",
+                        "Parent Line#": "12",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "The History Channel",
+                        "Sys Code": "9819",
+                        "Program Code": "HIST PT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 7p-12m",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Unit Rate": "$124.00",
+                        "Total Amount": "$248.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "29",
+                        "Tr Ln #": "13",
+                        "Parent Line#": "13",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "TBS",
+                        "Sys Code": "9819",
+                        "Program Code": "TBSC DT",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 9a-4p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "4",
+                        "Unit Rate": "$42.00",
+                        "Total Amount": "$168.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "30",
+                        "Tr Ln #": "14",
+                        "Parent Line#": "14",
+                        "Rev": "Nat",
+                        "Priority Code": "74 74",
+                        "Network Code": "TBS",
+                        "Sys Code": "9819",
+                        "Program Code": "TBSC EF",
+                        "Start Date": "08/31/2019",
+                        "End Date": "09/01/2019",
+                        "Daypart": "Sa-Su 4p-7p",
+                        "M": "",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "2",
+                        "Unit Rate": "$76.00",
+                        "Total Amount": "$152.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract Data (Traffic) Report": "Page 6 of 9"
+                    },
+                    {
+                        "Printed On": "8/29/2019 10:16:54 AM"
+                    },
+                    {
+                        "Printed By": "Becker, Kathleen"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {"Traffic Order #": "12254993"},
+                    {"Order #": "3653903"},
+                    {"Order Descr": "POL_CAN_SP.VIVA FOR DC AG 6-7 - 6-13"},
+                    {"Client": "SP.VIVA FOR DC AG - WAS"},
+                    {"Start Date": "6/7/2022"},
+                    {"End Date": "6/13/2022"},
+                    {"# of Weeks": "2"},
+                    {"SALES": "ActiveWeeks 2"},
+                    {"AE 1": "Gray, Jeff (POL)"},
+                    {"AE 2": ""},
+                    {"Agency": "BUYING TIME"},
+                    {"RepFirm": ""},
+                    {"Copy Instr ID": ""},
+                    {"Total Zones": "2"},
+                    {"Zones": "The District Of Columbia,Capital"},
+                    {"Total Networks": "10"},
+                    {"GENERAL COMMENTS": ""},
+                    {"Created On": "6/6/2022 11:02:31 AM"},
+                    {"Created By": "Gauthier, Mary"},
+                    {"Updated On": "6/7/2022 12:26:34 PM"},
+                    {"Updated By": "Daniels, Dawn"},
+                    {"Industry": "Political-State-Local"},
+                    {"Primary": "REFERENCES"},
+                    {"Secondary": ""},
+                    {"Tertiary": ""},
+                    {"Quarterary": ""},
+                    {"Address 1": "650 MASSACHUSETTS AVE NW"},
+                    {"Address 2": "STE 210"},
+                    {"City, State, Zip": "WASHINGTON, DC"},
+                    {"Zip": "20001"},
+                    {"Contact": ""},
+                    {"Phone": "202-965-5060"},
+                    {"Avail Tag": ""},
+                    {"Contract Type": "Standard"},
+                    {"Copy Group": ""},
+                    {"Division": ""},
+                    {"Reference #": "0769389c-a9e5-ec11-910e-00505687916"},
+                    {"Order Status": "Traffic Updates Accepted"},
+                    {"Gross $": "22900.00"},
+                    {"Net $": "19465.00"},
+                    {"Units": "338"},
+                    {"Credit Hold": "NO"},
+                    {"Billing Information": "BILLING INFORMATION"},
+                    {"Purchase Order #": "EndOfFlight"},
+                    {"Billing Schedule": "EDI INFORMATION"},
+                    {"Product": "Zone"},
+                    {"Estimate": "607613"},
+                    {"Submit EDI Invoice?": "Submit EDI Invoice"},
+                    {"ORDER/INVOICE/TRAFFIC/REPORT NOTES/COMMENTS": ""},
+                    {"SYSCODE LIST": "1851,1855"}
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Traffic Order #": "1254993"
+                    },
+                    {
+                        "Order #": "3653903"
+                    },
+                    {
+                        "Order Descrip": "POL_CAN_SPVIA FOR DC AG 6-7 - 6-13"
+                    },
+                    {
+                        "Client": "SPVIA FOR DC AG - WAS"
+                    },
+                    {
+                        "Start Date": "6/7/2022"
+                    },
+                    {
+                        "End Date": "6/13/2022"
+                    },
+                    {
+                        "Created On": "6/6/2022 11:03:11 AM"
+                    },
+                    {
+                        "Created By": "Daniels, Dawn"
+                    },
+                    {
+                        "Updated On": "6/7/2022 12:26:34 PM"
+                    },
+                    {
+                        "Updated By": "Daniels, Dawn"
+                    },
+                    {
+                        "Source": "VIEW"
+                    },
+                    {
+                        "Zones": "The District Of Columbia"
+                    },
+                    {
+                        "Order Status": "Syscode Gross $ 18564.00"
+                    },
+                    {
+                        "Traffic Updates Accepted": "Syscode Net $ 15779.40"
+                    },
+                    {
+                        "Syscode Units": "178"
+                    },
+                    {
+                        "Zone Status": "Traffic Updates Accepted"
+                    },
+                    {
+                        "Avg Unit Rate": "104.29"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "1",
+                        "Tr Ln Parent Line#": "1",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "NEW DAY<-",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 5a-9a",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "7",
+                        "Unit Rate": "$95.00",
+                        "Total Amount": "$665.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "2",
+                        "Tr Ln Parent Line#": "2",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "NEW DAY<-",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 5a-9a",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "2",
+                        "Unit Rate": "$95.00",
+                        "Total Amount": "$190.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "3",
+                        "Tr Ln Parent Line#": "3",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "CNN NEWSROOM<-",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 9a-4p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "14",
+                        "Unit Rate": "$60.00",
+                        "Total Amount": "$840.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "4",
+                        "Tr Ln Parent Line#": "4",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "CNN NEWSROOM<-",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 9a-4p",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "1",
+                        "Unit Rate": "$60.00",
+                        "Total Amount": "$60.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "5",
+                        "Tr Ln Parent Line#": "5",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "LEAD WITH JAKE<-",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 4p-7p",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "7",
+                        "Unit Rate": "$118.00",
+                        "Total Amount": "$826.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "6",
+                        "Tr Ln Parent Line#": "6",
+                        "Rev Code": "74 | 74",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Sys Code": "1851",
+                        "Program": "LEAD WITH JAKE<-",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 4p-7p",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "1",
+                        "Unit Rate": "$118.00",
+                        "Total Amount": "$118.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unique Ln #": "7",
+                        "Tr Ln #": "7",
+                        "Parent Line#": "7",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Program Code": "1851",
+                        "Sys Code": "MSNBC PRIME",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/12/2022",
+                        "Daypart": "Tu-Su 7p-12m",
+                        "M": "X",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "14",
+                        "Unit Rate": "$140.00",
+                        "Total Amount": "$1,960.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "8",
+                        "Tr Ln #": "8",
+                        "Parent Line#": "8",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "CNN",
+                        "Program Code": "1851",
+                        "Sys Code": "MSNBC PRIME",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 7p-12m",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "1",
+                        "Unit Rate": "$140.00",
+                        "Total Amount": "$140.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "9",
+                        "Tr Ln #": "9",
+                        "Parent Line#": "9",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "BET",
+                        "Program Code": "1851",
+                        "Sys Code": "BET MOVIE OF T<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/12/2022",
+                        "Daypart": "Tu-Su 7p-12m",
+                        "M": "",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "X",
+                        "Total Units": "5",
+                        "Unit Rate": "$140.00",
+                        "Total Amount": "$700.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "10",
+                        "Tr Ln #": "10",
+                        "Parent Line#": "10",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "BET",
+                        "Program Code": "1851",
+                        "Sys Code": "BET MOVIE OF T<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 7p-12m",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "1",
+                        "Unit Rate": "$140.00",
+                        "Total Amount": "$140.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "11",
+                        "Tr Ln #": "11",
+                        "Parent Line#": "11",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "MSNBC",
+                        "Program Code": "1851",
+                        "Sys Code": "MORNING JOE<",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 5a-9a",
+                        "M": "",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "7",
+                        "Unit Rate": "$95.00",
+                        "Total Amount": "$665.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "12",
+                        "Tr Ln #": "12",
+                        "Parent Line#": "12",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "MSNBC",
+                        "Program Code": "1851",
+                        "Sys Code": "MORNING JOE<",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 5a-9a",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "2",
+                        "Unit Rate": "$95.00",
+                        "Total Amount": "$190.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "13",
+                        "Tr Ln #": "13",
+                        "Parent Line#": "13",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "MSNBC",
+                        "Program Code": "1851",
+                        "Sys Code": "MSNBC DAYTIME",
+                        "Start Date": "06/07/2022",
+                        "End Date": "06/10/2022",
+                        "Daypart": "Tu-F 9a-4p",
+                        "M": "",
+                        "Tu": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "14",
+                        "Unit Rate": "$60.00",
+                        "Total Amount": "$840.00",
+                        "Unit Len": "30"
+                    },
+                    {
+                        "Unique Ln #": "14",
+                        "Tr Ln #": "14",
+                        "Parent Line#": "14",
+                        "Rev": "4",
+                        "Priority": "74",
+                        "Network": "MSNBC",
+                        "Program Code": "1851",
+                        "Sys Code": "MSNBC DAYTIME",
+                        "Start Date": "06/13/2022",
+                        "End Date": "06/13/2022",
+                        "Daypart": "M 9a-4p",
+                        "M": "X",
+                        "Tu": "",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Total Units": "1",
+                        "Unit Rate": "$60.00",
+                        "Total Amount": "$60.00",
+                        "Unit Len": "30"
+                    }
+                ]
+            }
+        ]
+    }
+]

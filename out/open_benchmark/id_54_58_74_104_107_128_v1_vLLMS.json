@@ -1,0 +1,694 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Sinclair Broadcast Group Inc": "C/O WRSP"
+                    },
+                    {
+                        "PO BOX 206270": "DALLAS TX 75320-6270"
+                    },
+                    {
+                        "ASSEMBLY": "711 THIRD AVE 3RD FLOOR NEW YORK, NY 10017"
+                    },
+                    {
+                        "Inv #": "7237942"
+                    },
+                    {
+                        "Acct #": "8824"
+                    },
+                    {
+                        "Invoice Date": "2/9/2020"
+                    },
+                    {
+                        "Advertiser": "Mike Bloomberg 2020 Inc (133903)"
+                    },
+                    {
+                        "Agency": "Assembly (196207)"
+                    },
+                    {
+                        "Agency Acct #": "A232008-2/6/2020"
+                    },
+                    {
+                        "Salesperson": "Washington DC Millennium,DC (ph): (202) 955-5342"
+                    },
+                    {
+                        "Product": "POLITICAL CANDIDATE (1186)"
+                    },
+                    {
+                        "Brand": "MBBML2020ML0121 (133906) Acct Type: National/Political"
+                    },
+                    {
+                        "Contract": "4225820"
+                    },
+                    {
+                        "Terms": "CIA"
+                    },
+                    {
+                        "Buyer": "Laura Reckford"
+                    },
+                    {
+                        "Estimate/H/L": "01/21/20LC729293G"
+                    },
+                    {
+                        "Comments": "MIKE BLOOMBERG 2020"
+                    },
+                    {
+                        "For Billing Inquiries Call": "(217) 523-8855"
+                    },
+                    {
+                        "Send Payment To": "Sinclair Broadcast Group c/o WRSP"
+                    },
+                    {
+                        "PO Box 206270": "Dallas TX 75320-6270"
+                    },
+                    {
+                        "Line": "1.0"
+                    },
+                    {
+                        "Type": "NEWS"
+                    },
+                    {
+                        "Scheduled Times": "7:00:00AM-8:00:00A"
+                    },
+                    {
+                        "Scheduled Day to Run": "Per Week (4),Mo,Tu,We,Th,Fr"
+                    },
+                    {
+                        "Air Date/Time": "02/03/20 07:53 AM (Mo)"
+                    },
+                    {
+                        "Length": "00:30"
+                    },
+                    {
+                        "Program": "News-FOX Illinois Sunrise"
+                    },
+                    {
+                        "AD-ID / ISCI": "MRBBPK3036EH"
+                    },
+                    {
+                        "Amount": "$20.00"
+                    },
+                    {
+                        "Remarks": ""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "2.0",
+                        "Type": "NEWS",
+                        "Scheduled Times": "7:00:00AM-8:00:00A",
+                        "Scheduled Day to Run": "Per Week (4),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/04/20 07:30 am (Tu)",
+                        "Length": "00:30",
+                        "Program": "News-FOX Illinois Sunrise",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$20.00",
+                        "Remarks": "1 pre-empt ($20.00)"
+                    },
+                    {
+                        "Line": "3.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "8:00:00AM-8:30:00A",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/03/20 08:25 am (Mo)",
+                        "Length": "00:30",
+                        "Program": "EXTRA",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$25.00",
+                        "Remarks": "[$25.00]"
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "9:00:00AM-10:00:00A",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/05/20 09:59 am (We)",
+                        "Length": "00:30",
+                        "Program": "Wendy Williams",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$25.00",
+                        "Remarks": "1 pre-empt ($25.00)"
+                    },
+                    {
+                        "Line": "5.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "10:00:00AM-11:00A",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/06/20 10:25 am (Th)",
+                        "Length": "00:30",
+                        "Program": "The Real",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$25.00",
+                        "Remarks": "[$25.00]"
+                    },
+                    {
+                        "Line": "6.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "4:00:00PM-4:30:00P",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/03/20 04:24 pm (Mo)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy",
+                        "AD-ID / ISCI": "MRBBPK3031EH",
+                        "Amount": "$150.00",
+                        "Remarks": "1 pre-empt ($150.00)"
+                    },
+                    {
+                        "Line": "7.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "4:30:00PM-5:00:00P",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/03/20 04:55 pm (Mo)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISCI": "MRBBPK3031EH",
+                        "Amount": "$150.00",
+                        "Remarks": "[$150.00]"
+                    },
+                    {
+                        "Line": "8.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "5:00:00PM-5:30:00P",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/03/20 05:20 pm (Mo)",
+                        "Length": "00:30",
+                        "Program": "FAMILY FEUD",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$125.00",
+                        "Remarks": "[FAMILY FEUD]"
+                    },
+                    {
+                        "Line": "9.0",
+                        "Type": "SPOT",
+                        "Scheduled Times": "6:30:00PM-7:00:00P",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/05/20 06:54 pm (We)",
+                        "Length": "00:30",
+                        "Program": "Big Bang Theory 2",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$350.00",
+                        "Remarks": "[Big Bang Theory 2]"
+                    },
+                    {
+                        "Line": "10.0",
+                        "Type": "NEWS",
+                        "Scheduled Times": "9:00:00PM-10:00:00P",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "02/04/20 10:14 pm (Tu)",
+                        "Length": "00:30",
+                        "Program": "News-FOX Illinois News at 9p",
+                        "AD-ID / ISCI": "MRBBPK3036EH",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Sinclair Broadcast Group": "CONTINUED"
+                    },
+                    {
+                        "C/O WRSP": "PO BOX 206270"
+                    },
+                    {
+                        "DALLAS TX": "75230-6270"
+                    },
+                    {
+                        "Inv #": "6176196"
+                    },
+                    {
+                        "Acct #": "7041"
+                    },
+                    {
+                        "Invoice Date": "10/21/2018"
+                    },
+                    {
+                        "Advertiser": "Women Vote (74334)"
+                    },
+                    {
+                        "Agency": "Waterfront Strategies (7591)"
+                    },
+                    {
+                        "10/15/2018 - 10/21/2018": "Page 1 of 2"
+                    },
+                    {
+                        "Salesperson": "Washington DC Millenium/DC, ph: (202) 955-5342"
+                    },
+                    {
+                        "Product": "POLITICAL ISSUE (1063466)"
+                    },
+                    {
+                        "Brand": "14417501"
+                    },
+                    {
+                        "Contract #": "3483364"
+                    },
+                    {
+                        "Acct Type": "National/Political Issue"
+                    },
+                    {
+                        "Terms": "CIA"
+                    },
+                    {
+                        "Buyer": "Bassett, Laura"
+                    },
+                    {
+                        "Estimate/HL": "710LECB1435656"
+                    },
+                    {
+                        "Comments": "ISSUE ALEXANDRA BRADLEY"
+                    },
+                    {
+                        "Coop": "No"
+                    },
+                    {
+                        "For Billing Inquires Call": "(217) 523-8855"
+                    },
+                    {
+                        "Send Payment To": "Sinclair Broadcast Group C/O WRSP PO Box 206270 Dallas TX 75230-6270"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:00:00AM-10:00:00AM",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/15/2018 09:54 AM (Tu)",
+                        "Length": "00:30",
+                        "Program": "Wendy Williams",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$300.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "2.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:00:00AM-10:00:00AM",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/16/2018 09:38 AM (We)",
+                        "Length": "00:30",
+                        "Program": "Wendy Williams",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$300.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "3.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00:00PM-3:30:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/17/2018 03:21 PM (We)",
+                        "Length": "00:30",
+                        "Program": "Family Feud B",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "3.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00:00PM-3:30:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/18/2018 03:19 PM (Th)",
+                        "Length": "00:30",
+                        "Program": "Family Feud B",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "3.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00:00PM-3:30:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/19/2018 03:05 PM (Fr)",
+                        "Length": "00:30",
+                        "Program": "Family Feud C",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00:00PM-4:00:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/15/2018 03:51 PM (Mo)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:30:00PM-4:00:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/16/2018 03:44 PM (Tu)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:30:00PM-4:00:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/17/2018 03:49 PM (We)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00:00PM-4:00:00PM",
+                        "Scheduled Day to Run": "Per Week (3),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/18/2018 04:44 PM (Th)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "5.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "5:00:00PM-5:30:00PM",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/17/2018 05:15 PM (We)",
+                        "Length": "00:30",
+                        "Program": "FAMILY FEUD",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$250.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "5.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "5:00:00PM-5:30:00PM",
+                        "Scheduled Day to Run": "Per Week (2),Mo,Tu,We,Th,Fr",
+                        "Air Date/Time": "10/18/2018 05:27 PM (Th)",
+                        "Length": "00:30",
+                        "Program": "FAMILY FEUD",
+                        "AD-ID / ISC#": "WV18-L6-T30H",
+                        "Amount": "$250.00",
+                        "Remarks": ""
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Invoice #": "7748821"
+                    },
+                    {
+                        "Act #": "95523"
+                    },
+                    {
+                        "Invoice Date": "10/4/2020"
+                    },
+                    {
+                        "Advertiser": "Betsy Dirksen Londrigan for Congress-D (12223)"
+                    },
+                    {
+                        "Agency": "Bespoken Media (7264)"
+                    },
+                    {
+                        "Period": "9/28/2020 - 10/4/2020"
+                    },
+                    {
+                        "Salesperson": "Washington DC Millenium/DC, Ph: (202) 955-5342"
+                    },
+                    {
+                        "Product": "POLITICAL CANDIDATE (1148525)"
+                    },
+                    {
+                        "Brand": "88568/88568"
+                    },
+                    {
+                        "Contract": "4565760"
+                    },
+                    {
+                        "Terms": "CIA"
+                    },
+                    {
+                        "Buyer": "Placemat, Media 1"
+                    },
+                    {
+                        "Estimate/HL": "8836ECR72T34516"
+                    },
+                    {
+                        "Comments": "Candidate"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "For Billing Inquires Call": "(217) 523-8855"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Send Payment To": "Sinclair Broadcast Group c/o WRSP PO Box 206270 Dallas TX 75320-6270"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00PM-3:30PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 03:28 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Family Feud B",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$75.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "2.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "3:00PM-4:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 03:49 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Family Feud C",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$75.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "3.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "4:00PM-5:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 04:49 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "4.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "4:30PM-5:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 04:58 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Judge Judy 2",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "5.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "5:00PM-5:30PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 05:22 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "FAMILY FEUD",
+                        "AD-ID / ISCI": "BL9553",
+                        "Amount": "$150.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "6.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "5:30PM-6:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 05:57 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "News-FOX Illinois News at 530p",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$100.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "7.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "6:00PM-6:30PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 06:13 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Big Bang Theory",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "8.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "6:30PM-7:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 06:40 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "Big Bang Theory 2",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$250.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "9.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:00PM-10:00PM",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 09:43 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "News-FOX News at 9 9p",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$200.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "10.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "11:00PM-11:30",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/2/20 11:28 pm (Fr)",
+                        "Length": "00:30",
+                        "Program": "TMZ",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$40.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "12.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "12:00AM-12:30",
+                        "Scheduled Day to Run": "Day_Fr-1",
+                        "Air Date/Time": "10/3/20 12:28 am (Sa)",
+                        "Length": "00:30",
+                        "Program": "Access Hollywood",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$10.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "13.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "",
+                        "Scheduled Day to Run": "10/3/20 (Sa)",
+                        "Air Date/Time": "",
+                        "Length": "",
+                        "Program": "",
+                        "AD-ID / ISCI": "",
+                        "Amount": "@$30.00 1 preempt @$75.00",
+                        "Remarks": "Program Change Charge - Program Live Program Overrun ..."
+                    },
+                    {
+                        "Line": "14.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "",
+                        "Scheduled Day to Run": "10/3/20 (Sa)",
+                        "Air Date/Time": "",
+                        "Length": "",
+                        "Program": "",
+                        "AD-ID / ISCI": "",
+                        "Amount": "1 preempt @$75.00",
+                        "Remarks": "Program Change Charge ..."
+                    },
+                    {
+                        "Line": "15.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "6:00PM-6:30PM",
+                        "Scheduled Day to Run": "Day_Sa-1",
+                        "Air Date/Time": "10/3/20 06:29 pm (Sa)",
+                        "Length": "00:30",
+                        "Program": "Big Bang Theory Wendt",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$75.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "16.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:30PM-10:00",
+                        "Scheduled Day to Run": "Day_Sa-1",
+                        "Air Date/Time": "10/3/20 09:59 pm (Sa)",
+                        "Length": "00:30",
+                        "Program": "Mike and Molly",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$75.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "28.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:00PM-9:30PM",
+                        "Scheduled Day to Run": "Day_Su-1",
+                        "Air Date/Time": "10/4/20 09:32 pm (Su)",
+                        "Length": "00:30",
+                        "Program": "News-FOX Illinois News at 9",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$125.00",
+                        "Remarks": ""
+                    },
+                    {
+                        "Line": "29.0",
+                        "Type": "SPOT",
+                        "Scheduled Time": "9:35PM-10:05:00",
+                        "Scheduled Day to Run": "Day_Su-1",
+                        "Air Date/Time": "10/4/20 10:00 pm (Su)",
+                        "Length": "00:30",
+                        "Program": "Mike and Molly Wendt 2",
+                        "AD-ID / ISCI": "BL1020H",
+                        "Amount": "$75.00",
+                        "Remarks": ""
+                    }
+                ]
+            }
+        ]
+    }
+]

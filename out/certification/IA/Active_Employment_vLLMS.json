@@ -1,0 +1,1123 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "9-21-2007",
+                        "FP": "F 135-01",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Trpr 3",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "5-23-1994",
+                        "FP": "",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Trooper",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "LINN COUNTY SHERIFF'S OFFICE",
+                        "Date": "5-22-1994",
+                        "FP": "",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "LINN COUNTY SHERIFF'S OFFICE",
+                        "Date": "2-15-1993",
+                        "FP": "",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    ... more key-value pairs ...
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "APR 18,2023"
+                    },
+                    {
+                        "Time": "02:46PM"
+                    },
+                    {
+                        "Page": "1"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Agency": "JOHNSTON POLICE DEPARTMENT",
+                        "Date": "2-22-2018",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CRESTON POLICE DEPARTMENT",
+                        "Date": "2-16-2018",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CRESTON POLICE DEPARTMENT",
+                        "Date": "3-25-2013",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Abernathy, Ryan S.",
+                        "Date": "T2013-22",
+                        "FP": "Telecom",
+                        "Action": "Active",
+                        "Status": "Telecom",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ALTOONA POLICE DEPARTMENT",
+                        "Date": "12-16-2013",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "WESTCOM",
+                        "Date": "12-10-2013",
+                        "FP": "F",
+                        "Action": "Telecom",
+                        "Status": "Active",
+                        "Assignment": "Telecom",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "WESTCOM",
+                        "Date": "3-04-2013",
+                        "FP": "F",
+                        "Action": "Telecom",
+                        "Status": "Active",
+                        "Assignment": "Telecomm.",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Aboodley, Ryan M.",
+                        "Date": "C2727-01",
+                        "FP": "Active",
+                        "Action": "",
+                        "Status": "",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "4-23-2022",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Captain",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "6-22-2013",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Lieutenant",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "9-25-2004",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "8-03-1998",
+                        "FP": "Hired",
+                        "Action": "Active",
+                        "Status": "Police Off",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Accola, Anthony J.",
+                        "Date": "F232-01",
+                        "FP": "Promotion",
+                        "Action": "Active",
+                        "Status": "Lieutenant",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "MARSHALLTOWN POLICE DEPARTMENT",
+                        "Date": "9-12-2022",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Lieutenant",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "MARSHALLTOWN POLICE DEPARTMENT",
+                        "Date": "11-30-2009",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Accola, Curtis N.",
+                        "Date": "F191-01",
+                        "FP": "Hired",
+                        "Action": "Active",
+                        "Status": "Sergeant",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "DES MOINES POLICE DEPARTMENT",
+                        "Date": "09-06-2007",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "DES MOINES POLICE DEPARTMENT",
+                        "Date": "4-04-2001",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "",
+                        "Level": "Fulltime",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    ... more key-value pairs ...
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "APR 18,2023"
+                    },
+                    {
+                        "Time": "02:46PM"
+                    },
+                    {
+                        "Report": "Iowa Law Enforcement Academy Employment Report"
+                    },
+                    {
+                        "Subtitle": "MuckRock ORR Report - Employment"
+                    },
+                    {
+                        "Page": "2"
+                    }
+                    ... more key-value pairs ...
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "4-11-2021"
+                    },
+                    {
+                        "F/P": "F"
+                    },
+                    {
+                        "Action": "Resigned"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Assignment": "Deputy"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "Fulltime"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "8-15-2019"
+                    },
+                    {
+                        "F/P": "F"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": "Deputy"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "Fulltime"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "4-23-2018"
+                    },
+                    {
+                        "F/P": "F"
+                    },
+                    {
+                        "Action": "Inactive"
+                    },
+                    {
+                        "Status": "Reserve"
+                    },
+                    {
+                        "Assignment": "Resrv Offc"
+                    },
+                    {
+                        "Pos/Rank": "No Super"
+                    },
+                    {
+                        "Level": "Temp Emp"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Agency": "SIOUX CITY POLICE DEPARTMENT",
+                        "Date": "4-22-2020",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "AESCHLIMAN, KENNETH R.",
+                        "Date": "10-11-1999",
+                        "FP Action": "Hired",
+                        "Status": "Inactive",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "FAYETTE COUNTY SHERIFF'S OFFICE",
+                        "Date": "10-01-1999",
+                        "FP Action": "Resigned",
+                        "Status": "Active",
+                        "Assignment": "Chief",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "DAYTON POLICE DEPARTMENT",
+                        "Date": "4-20-1999",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Chief",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "DAYTON POLICE DEPARTMENT",
+                        "Date": "1-14-1998",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Aesoph, Jess T.",
+                        "Date": "4-28-2018",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "SIOUX CITY POLICE DEPARTMENT",
+                        "Date": "7-31-2007",
+                        "FP Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "MONONA COUNTY SHERIFF'S OFFICE",
+                        "Date": "7-30-2001",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "SIOUX CITY POLICE DEPARTMENT",
+                        "Date": "7-15-2002",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "MONONA COUNTY SHERIFF'S OFFICE",
+                        "Date": "7-13-2002",
+                        "FP Action": "Resigned",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Onawa Police Department",
+                        "Date": "11-01-2000",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Agan, Kenneth J.",
+                        "Date": "12-9-2013",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Lieutenant",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "JOHNSTON POLICE DEPARTMENT",
+                        "Date": "7-03-2012",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "JOHNSTON POLICE DEPARTMENT",
+                        "Date": "4-23-2006",
+                        "FP Action": "Fired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "DES MOINES POLICE DEPARTMENT",
+                        "Date": "12-07-2004",
+                        "FP Action": "Volus.Terem.",
+                        "Status": "Active",
+                        "Assignment": "Resrv Offc",
+                        "Pos/Rank": "Temp Emp",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "JOHNSTON POLICE DEPARTMENT",
+                        "Date": "4-23-2004",
+                        "FP Action": "Resumed Functions:",
+                        "Status": "Inactive",
+                        "Assignment": "Resrv Offc",
+                        "Pos/Rank": "Temp Emp",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ANKENY POLICE DEPARTMENT",
+                        "Date": "6-08-2003",
+                        "FP Action": "Resigned",
+                        "Status": "Reserve",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ANKENY POLICE DEPARTMENT",
+                        "Date": "12-19-1996",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Aguero Jones, Shannon R.",
+                        "Date": "CR39-01",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "6-04-2022",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sergeant",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
+                        "Date": "8-01-2011",
+                        "FP Action": "Fired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Aguilera, Mauricio",
+                        "Date": "DP537-01",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Spec Agnt2",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "4-10-2015",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Trpr 2",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "9-27-2013",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Trpr 1",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Ahrens, Kobe",
+                        "Date": "8-25-2022",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "SCOTT COUNTY SHERIFF'S OFFICE",
+                        "Date": "DMI5-01",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Ahrens, Timothy L.",
+                        "Date": "9-11-2015",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "12-07-2010",
+                        "FP Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "2-12-2010",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "8-28-2006",
+                        "FP Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "11-24-2003",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Agency": "Ahrens, Zachary T.",
+                        "Date": "264-01",
+                        "FP Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18,2023": "Iowa Law Enforcement Academy Employment Report"
+                    },
+                    {
+                        "02:46PM": "MuckRock ORR by Region - Employment"
+                    },
+                    {
+                        "Page:": "4"
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18,2023": "02:46PM"
+                    },
+                    {
+                        "Iowa Law Enforcement Academy": "Page: 5"
+                    },
+                    {
+                        "Employment Report": "MuckRock ORR - Employment"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Agency": "SCOTT COUNTY SHERIFF'S OFFICE",
+                        "Date": "10-31-2019",
+                        "FP": "F",
+                        "Action": "Fired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "BURLINGTON POLICE DEPARTMENT",
+                        "Date": "10-31-2019",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "BURLINGTON POLICE DEPARTMENT",
+                        "Date": "8-04-2015",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Aicher, Matthew W.",
+                        "Date": "H146-01",
+                        "FP": "Active",
+                        "Action": "Police Off",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Police Off"
+                    },
+                    {
+                        "Agency": "POLK COUNTY CONSERVATION BOARD",
+                        "Date": "3-07-2018",
+                        "FP": "P",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "POLK COUNTY CONSERVATION BOARD",
+                        "Date": "5-09-2016",
+                        "FP": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "BELLE PLAINE POLICE DEPARTMENT",
+                        "Date": "7-08-2010",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "POLK CITY POLICE DEPARTMENT",
+                        "Date": "7-08-2009",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "BELLE PLAINE POLICE DEPARTMENT",
+                        "Date": "2-04-2008",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Aiello, Steve E.",
+                        "Date": "H139-01",
+                        "FP": "Active",
+                        "Action": "Chief",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Chief"
+                    },
+                    {
+                        "Agency": "READLYN POLICE DEPARTMENT",
+                        "Date": "12-06-2004",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Chief",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Aiken, Jamie A.",
+                        "Date": "241-01",
+                        "FP": "Active",
+                        "Action": "Deputy",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Agency": "POLK COUNTY SHERIFF'S OFFICE",
+                        "Date": "2-27-2021",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "MARION COUNTY SHERIFF'S OFFICE",
+                        "Date": "5-01-2015",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "POLK COUNTY SHERIFF'S OFFICE",
+                        "Date": "4-01-2014",
+                        "FP": "F",
+                        "Action": "Fired",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "WELCHER-DALLAS POLICE DEPARTMENT",
+                        "Date": "6-20-2015",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "MELCHER-DALLAS POLICE DEPARTMENT",
+                        "Date": "8-12-2013",
+                        "FP": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "WATERLOO POLICE DEPARTMENT",
+                        "Date": "4-25-2013",
+                        "FP": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "GREENFIELD POLICE DEPARTMENT",
+                        "Date": "3-20-2013",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "GREENFIELD POLICE DEPARTMENT",
+                        "Date": "3-15-2011",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Aistrope, Derek K.",
+                        "Date": "R55-01",
+                        "FP": "Inactive",
+                        "Action": "Police Off",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Police Off"
+                    },
+                    {
+                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
+                        "Date": "10-05-2017",
+                        "FP": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "10-01-2017",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Chief",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
+                        "Date": "6-02-2015",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "1-01-2014",
+                        "FP": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "Aistrope, Warren K.",
+                        "Date": "90-01",
+                        "FP": "Active",
+                        "Action": "Sheriff",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Sheriff"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "1-01-2009",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Sheriff",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "2-01-1993",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Dep. Dep.",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "8-01-1987",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Deputy",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "7-31-1984",
+                        "FP": "P",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "Chief",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "7-01-1987",
+                        "FP": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "7-01-1978",
+                        "FP": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Partime"
+                    },
+                    {
+                        "Agency": "Atchison, Jesse W.",
+                        "Date": "H293-01",
+                        "FP": "Active",
+                        "Action": "Police Off",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Police Off"
+                    },
+                    {
+                        "Agency": "WATERLOO POLICE DEPARTMENT",
+                        "Date": "1-13-2020",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Akerman, Lucas C.",
+                        "Date": "3-01-2013",
+                        "FP": "Active",
+                        "Action": "Police Off",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Police Off"
+                    },
+                    {
+                        "Agency": "MASON CITY POLICE DEPARTMENT",
+                        "Date": "1-17-2022",
+                        "FP": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "Police Off",
+                        "Pos/Rank": "Fulltime"
+                    },
+                    {
+                        "Agency": "Akers, Brian E.",
+                        "Date": "264-02",
+                        "FP": "Active",
+                        "Action": "Police Off",
+                        "Status": "Fulltime",
+                        "Assignment": "Fulltime",
+                        "Pos/Rank": "Police Off"
+                    }
+                ]
+            }
+        ]
+    }
+]

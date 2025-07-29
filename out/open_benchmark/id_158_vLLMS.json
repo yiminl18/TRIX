@@ -1,0 +1,701 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "LF/NEWS: NIGHTLINE: M-F 1035P-1040P (5527)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "4",
+                        "Price": "1,900",
+                        "Total Spots": "4",
+                        "Total $": "7,600.00"
+                    },
+                    {
+                        "Line": "2",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "LF: JIMMY KIMMEL: 1104PM-1208AM EFF: 9/12-TF",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "3",
+                        "Price": "760",
+                        "Total Spots": "3",
+                        "Total $": "2,280.00"
+                    },
+                    {
+                        "Line": "3",
+                        "Start Date": "10-10-2012",
+                        "End Date": "10-10-2012",
+                        "Daypart": "PRIME: WED: 9-10P VARNASHVILLE EFF:10/10 (5",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "X",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "1",
+                        "Price": "8,550",
+                        "Total Spots": "1",
+                        "Total $": "8,550.00"
+                    },
+                    {
+                        "Line": "4",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Daypart": "WEEKEND/ MORN NEWS: GMA SAT 7-8A (5555)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "X",
+                        "Sun": "",
+                        "SP/W": "1",
+                        "Price": "950",
+                        "Total Spots": "1",
+                        "Total $": "950.00"
+                    },
+                    {
+                        "Line": "5",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Daypart": "WEEKEND EARLY MORN NEWS: SAT: 8-9A (10600",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "X",
+                        "Sun": "",
+                        "SP/W": "1",
+                        "Price": "950",
+                        "Total Spots": "1",
+                        "Total $": "950.00"
+                    },
+                    {
+                        "Line": "6",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "Daypart": "SPORTS: FOOTBALL SAT COLLEGE 1058A-600P",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "X",
+                        "Sun": "",
+                        "SP/W": "1",
+                        "Price": "2,000",
+                        "Total Spots": "1",
+                        "Total $": "2,000.00"
+                    },
+                    {
+                        "Line": "7",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Daypart": "WEEKEND/MORN NEWS: GMA SUN 7-8A (5557)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "X",
+                        "SP/W": "1",
+                        "Price": "665",
+                        "Total Spots": "1",
+                        "Total $": "665.00"
+                    },
+                    {
+                        "Line": "8",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Daypart": "WEEKEND/MORN NEWS: SUN 8-930AM-18 EFF",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "X",
+                        "SP/W": "1",
+                        "Price": "855",
+                        "Total Spots": "1",
+                        "Total $": "855.00"
+                    },
+                    {
+                        "Line": "9",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "Daypart": "WEEKEND/EARLY NEWS: SUN 5-530P (5572)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "X",
+                        "SP/W": "1",
+                        "Price": "1,140",
+                        "Total Spots": "1",
+                        "Total $": "1,140.00"
+                    },
+                    {
+                        "Line": "10",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "MORN NEWS: 6-7A M-F (5511)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "3",
+                        "Price": "1,235",
+                        "Total Spots": "3",
+                        "Total $": "3,705.00"
+                    },
+                    {
+                        "Line": "11",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "MORN NEWS/GMA: 7-9A M-F (5512)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "4",
+                        "Price": "1,520",
+                        "Total Spots": "4",
+                        "Total $": "6,080.00"
+                    },
+                    {
+                        "Line": "12",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "DAYTIME: WINDY CITY LIVE 9-10A M-F EFF: 5/26",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "4",
+                        "Price": "855",
+                        "Total Spots": "4",
+                        "Total $": "3,420.00"
+                    },
+                    {
+                        "Line": "13",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "DAYTIME/ NEWS: 11-12NOON DAYTIME M-F (5516",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "5",
+                        "Price": "800",
+                        "Total Spots": "5",
+                        "Total $": "4,000.00"
+                    },
+                    {
+                        "Line": "14",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "EARLY NEWS M-F 4-5P (8499)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "4",
+                        "Price": "1,805",
+                        "Total Spots": "4",
+                        "Total $": "7,220.00"
+                    },
+                    {
+                        "Line": "15",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "Daypart": "EARLY NEWS: 5-530P M-F (5519)",
+                        "Length": "30",
+                        "Act": "X",
+                        "Mon": "X",
+                        "Tue": "X",
+                        "Wed": "X",
+                        "Thu": "X",
+                        "Fri": "X",
+                        "Sat": "",
+                        "Sun": "",
+                        "SP/W": "4",
+                        "Price": "2,280",
+                        "Total Spots": "4",
+                        "Total $": "9,120.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract No": "401752"
+                    },
+                    {
+                        "Contract Dt": "10-05-2012"
+                    },
+                    {
+                        "Revision Dt": "10-08-2012"
+                    },
+                    {
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Brand": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Product Code": "POLITICALS"
+                    },
+                    {
+                        "Station/Market": "WLS - CHICAGO"
+                    },
+                    {
+                        "Agency Est#/": "CMS # 2465910"
+                    },
+                    {
+                        "Sales Office": "PHILADELPHIA"
+                    },
+                    {
+                        "Account Executive": "D. PARKER"
+                    },
+                    {
+                        "Start Date": "10-08-2012"
+                    },
+                    {
+                        "End Date": "10-14-2012"
+                    },
+                    {
+                        "Billing": "M (Broadcast Month, Cycle 1)"
+                    },
+                    {
+                        "Package Control Title": "N_245910"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "16",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-08-2012",
+                        "EST/EDT": "EST",
+                        "Day": "MON",
+                        "Time Period": "06:00PM - 06:30PM",
+                        "Program": "EARLY NEWS: 6-630P MF (5524)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "2",
+                        "Spots": "2",
+                        "Total $": "5,320.00"
+                    },
+                    {
+                        "Line": "17",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-08-2012",
+                        "EST/EDT": "EST",
+                        "Day": "MON",
+                        "Time Period": "06:30PM - 07:00PM",
+                        "Program": "ACCESS: WHEEL M-F 628P-7P (5525)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "3",
+                        "Spots": "3",
+                        "Total $": "10,200.00"
+                    },
+                    {
+                        "Line": "18",
+                        "Start Date": "10-08-2012",
+                        "End Date": "10-12-2012",
+                        "EST/EDT": "EST",
+                        "Day": "M-F",
+                        "Time Period": "10:00PM - 10:35PM",
+                        "Program": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P-1100P",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "3",
+                        "Spots": "3",
+                        "Total $": "15,675.00"
+                    },
+                    {
+                        "Line": "19",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "EST/EDT": "EST",
+                        "Day": "SUN",
+                        "Time Period": "10:00PM - 11:00PM",
+                        "Program": "LN ORBIT:NEWS M-F1000-1035P;SU 1000P-1100P",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "5,225.00"
+                    },
+                    {
+                        "Line": "20",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "EST/EDT": "EST",
+                        "Day": "SUN",
+                        "Time Period": "11:00PM - 11:30PM",
+                        "Program": "LF: SUN 190 NORTHH-1100P-1130P (5827)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "760.00"
+                    },
+                    {
+                        "Line": "21",
+                        "Start Date": "10-14-2012",
+                        "End Date": "10-14-2012",
+                        "EST/EDT": "EST",
+                        "Day": "SUN",
+                        "Time Period": "11:30PM - 12:00AM",
+                        "Program": "LF: SUN INSIDE ED.-1130PM-1200A (5828)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "570.00"
+                    },
+                    {
+                        "Line": "22",
+                        "Start Date": "10-09-2012",
+                        "End Date": "10-09-2012",
+                        "EST/EDT": "EST",
+                        "Day": "TUE",
+                        "Time Period": "05:45PM - 05:55PM",
+                        "Program": "M-SU 400P-700P ROTATOR (M-SU EN/ACCESS) (",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "2,660.00"
+                    },
+                    {
+                        "Line": "23",
+                        "Start Date": "10-09-2012",
+                        "End Date": "10-09-2012",
+                        "EST/EDT": "EST",
+                        "Day": "TUE",
+                        "Time Period": "08:00PM - 09:00PM",
+                        "Program": "PRIME:TUE: 8-9P: VAR/COMEDIES (5604)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "7,400.00"
+                    },
+                    {
+                        "Line": "24",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "EST/EDT": "EST",
+                        "Day": "SAT",
+                        "Time Period": "02:05AM - 02:40AM",
+                        "Program": "WEEKEND-LNR 200A-300A SA-SU (11857)",
+                        "Len": "30",
+                        "Rate": "X",
+                        "Aud (000)": "X",
+                        "Rating": "X",
+                        "SHR": "X",
+                        "CPP": "X",
+                        "Cume Rtg": "X",
+                        "Cume IMP (000)": "X",
+                        "Freq": "1",
+                        "Spots": "1",
+                        "Total $": "60.00"
+                    },
+                    {
+                        "Line": "M",
+                        "Start Date": "10-13-2012",
+                        "End Date": "10-13-2012",
+                        "EST/EDT": "Preempted",
+                        "Day": "",
+                        "Time Period": "",
+                        "Program": "",
+                        "Len": "30",
+                        "Rate": "",
+                        "Aud (000)": "",
+                        "Rating": "",
+                        "SHR": "",
+                        "CPP": "",
+                        "Cume Rtg": "",
+                        "Cume IMP (000)": "",
+                        "Freq": "",
+                        "Spots": "",
+                        "Total $": "-600.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract No": "401752"
+                    },
+                    {
+                        "Contract Dt": "10-05-2012"
+                    },
+                    {
+                        "Revision Dt": "10-08-2012"
+                    },
+                    {
+                        "Rev#": "3"
+                    },
+                    {
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Brand": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Product Code": "POLITICALS"
+                    },
+                    {
+                        "Station/Market": "WLS - CHICAGO"
+                    },
+                    {
+                        "Agency Est#/ID": "245910"
+                    },
+                    {
+                        "CMS #": "Time Period"
+                    },
+                    {
+                        "Sales Office": "PHILADELPHIA"
+                    },
+                    {
+                        "Account Executive": "D. PARKER"
+                    },
+                    {
+                        "Start Date": "10-08-2012"
+                    },
+                    {
+                        "End Date": "10-14-2012"
+                    },
+                    {
+                        "Billing": "M (Broadcast Month, Cycle 1)"
+                    },
+                    {
+                        "Package": "N_245910"
+                    },
+                    {
+                        "Contract Title": "RC Duration"
+                    },
+                    {
+                        "Contracted Gross Total": "106,405.00"
+                    },
+                    {
+                        "Actual Gross Total": "106,405.00"
+                    },
+                    {
+                        "Agency Commission": "15,960.75"
+                    },
+                    {
+                        "Net Total": "90,444.25"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract No": "401752"
+                    },
+                    {
+                        "Contract Dt": "10-05-2012"
+                    },
+                    {
+                        "Revision Dt": "10-08-2012"
+                    },
+                    {
+                        "Ref#": "3"
+                    },
+                    {
+                        "Advertiser": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Brand": "BRAD SCHNEIDER FOR CONGRESS"
+                    },
+                    {
+                        "Product Code": "POLITICALS"
+                    },
+                    {
+                        "Station/Market": "WLS - CHICAGO"
+                    },
+                    {
+                        "Agency Est#/": "DCCC - EST"
+                    },
+                    {
+                        "CMS #": "245910"
+                    },
+                    {
+                        "Sales Office": "PHILADELPHIA"
+                    },
+                    {
+                        "Account Executive": "D. PARKER"
+                    },
+                    {
+                        "Start Date": "10-08-2012"
+                    },
+                    {
+                        "End Date": "10-14-2012"
+                    },
+                    {
+                        "Billing": "M (Broadcast Month, Cycle 1)"
+                    },
+                    {
+                        "Description": "R/C Duration"
+                    },
+                    {
+                        "Package": "N"
+                    },
+                    {
+                        "Contract Title": "245910"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line#": "1",
+                        "Month/YR": "Oct 12",
+                        "Preempted": "60.00",
+                        "Made Good": "60.00",
+                        "Contract Total": "106,405.00",
+                        "Adjustments": "0.00",
+                        "Actual Total": "106,405.00"
+                    },
+                    {
+                        "Line#": "TOTAL",
+                        "Month/YR": "",
+                        "Preempted": "60.00",
+                        "Made Good": "60.00",
+                        "Contract Total": "106,405.00",
+                        "Adjustments": "0.00",
+                        "Actual Total": "106,405.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

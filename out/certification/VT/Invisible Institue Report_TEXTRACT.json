@@ -1,0 +1,875 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "Law Enforcement 7-01-2015",
+                        "Status": "Level III / Certified Certified",
+                        "Certified": "11-18-1994",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "MJA2024"
+                    },
+                    {
+                        "Date": "Law Enforcement 11-18-1994",
+                        "Status": "Full-Time Lapsed",
+                        "Certified": "11-18-1994",
+                        "Expires": "7-01-2015",
+                        "Probation": NaN,
+                        "Cert #": "001160"
+                    },
+                    {
+                        "Date": "Law Enforcement 4-04-1994",
+                        "Status": "Part-Time Lapsed",
+                        "Certified": "3-29-1994",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "001579"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "Aamodt": ",null"
+                    },
+                    {
+                        "Service": "2 Years 306 Days"
+                    },
+                    {
+                        "Date": "10-16-2016"
+                    },
+                    {
+                        "Status": "Active Full-time"
+                    },
+                    {
+                        "Action": "Transfer"
+                    },
+                    {
+                        "Pos/Rank": "Sergeant"
+                    },
+                    {
+                        "Assignment": "St Albans Barracks"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "3 Years 151 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "5-19-2013"
+                    },
+                    {
+                        "Action": "Promotion"
+                    },
+                    {
+                        "Pos/Rank": "Detective Sergeant"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "1 Years 183 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Promotion"
+                    },
+                    {
+                        "Date": "11-18-2011"
+                    },
+                    {
+                        "Pos/Rank": "Sergeant"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "11 Years 109 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "5-01-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "null"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "null"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "15 Years 28 Days"
+                    },
+                    {
+                        "Date": "10-21-1996"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Trooper"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Date": "10-21-1996"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Action": "Terminated (Not Specified)"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Class": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "2"
+                    },
+                    {
+                        "Service": "2 Years 113 Days"
+                    },
+                    {
+                        "Date": "7-01-1994"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Corporal"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "1 Years 65 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "4-27-1993"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "Law Enforcement 7-10-2015",
+                        "Status": "Level Il - spec III / Certified Certified",
+                        "Certified": "7-10-2015",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "DJA1121"
+                    },
+                    {
+                        "Date": "Law Enforcement 6-09-2015",
+                        "Status": "Level II-E / Certified Lapsed",
+                        "Certified": "6-09-2015",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "DJA1121"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "Abell": ",J."
+                    },
+                    {
+                        "Service": "7 Years 230 Days"
+                    },
+                    {
+                        "Action": "Promotion"
+                    },
+                    {
+                        "Date": "1-01-2012"
+                    },
+                    {
+                        "Status": "Active Part-time"
+                    },
+                    {
+                        "Pos/Rank": "Sergeant"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level II-S"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Date": "1-12-2010"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Action": "Resigned"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level II"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "2 Years 184 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "7-01-2009"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Action": "Terminated"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Date": "7-18-2008"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "1 Years 272 Days"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "4-15-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "1 Years 172 Days"
+                    },
+                    {
+                        "Date": "1-28-2007"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "Law Enforcement 5-24-2019",
+                        "Status": "Level III / Certified Certified",
+                        "Certified": "5-24-2019",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "EA3743"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "Acevedo": ",null"
+                    },
+                    {
+                        "Status": "Level Certified III / Certified"
+                    },
+                    {
+                        "Date": "Law 5-24-2019 Enforcement"
+                    },
+                    {
+                        "Certified": "5-24-2019"
+                    },
+                    {
+                        "Cert": "EA3743"
+                    },
+                    {
+                        "Probation": "null"
+                    },
+                    {
+                        "Expires": "null"
+                    },
+                    {
+                        "Service": "Years 217 Days"
+                    },
+                    {
+                        "Date": "1-14-2019"
+                    },
+                    {
+                        "Status": "Active Full-time"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Pos/Rank": "Trooper"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "Law Enforcement 7-01-2015",
+                        "Status": "Level III / Certified Certified",
+                        "Certified": "11-17-2006",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "BJA3068"
+                    },
+                    {
+                        "Date": "Law Enforcement 7-01-2015",
+                        "Status": "Full-Time Lapsed",
+                        "Certified": "11-17-2006",
+                        "Expires": "7-01-2015",
+                        "Probation": NaN,
+                        "Cert #": "BJA3068"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "Adams": ",null"
+                    },
+                    {
+                        "Date": "7-01-2015"
+                    },
+                    {
+                        "Years": "86 Days"
+                    },
+                    {
+                        "Service": "null"
+                    },
+                    {
+                        "Action": "Reduced hours"
+                    },
+                    {
+                        "Date": "5-25-2019"
+                    },
+                    {
+                        "Status": "Active Part-time"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Years": "117 Days"
+                    },
+                    {
+                        "Service": "null"
+                    },
+                    {
+                        "Status": "Active Full-time"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Date": "4-24-2019"
+                    },
+                    {
+                        "Pos/Rank": "Investigator"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Years": "12 307 Days"
+                    },
+                    {
+                        "Service": "null"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Date": "7-23-2006"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Action": "Terminated"
+                    },
+                    {
+                        "Date": "4-01-2006"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Years": "null"
+                    },
+                    {
+                        "Service": "142 Days"
+                    },
+                    {
+                        "Date": "11-11-2005"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "Law Enforcement 7-01-2015",
+                        "Status": "Level III / Certified Certified",
+                        "Certified": "12-05-2008",
+                        "Expires": NaN,
+                        "Probation": NaN,
+                        "Cert #": "JJA7277"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG": "19,2019"
+                    },
+                    {
+                        "Page": "1"
+                    },
+                    {
+                        "Adams": ",J."
+                    },
+                    {
+                        "Date": "null"
+                    },
+                    {
+                        "Expires": "null"
+                    },
+                    {
+                        "Date": "1-31-2019"
+                    },
+                    {
+                        "Status": "Inactive Full-time"
+                    },
+                    {
+                        "Action": "Resigned"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Years": "206 Days"
+                    },
+                    {
+                        "Service": "null"
+                    },
+                    {
+                        "Status": "Active Full-time"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Date": "1-25-2019"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "10 Years 180 Days"
+                    },
+                    {
+                        "Status": "Active Full-time"
+                    },
+                    {
+                        "Date": "8-04-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    },
+                    {
+                        "Service": "Years 140 Days"
+                    },
+                    {
+                        "Date": "3-18-2008"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Assignment": "null"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Level": "null"
+                    },
+                    {
+                        "Shift": "null"
+                    }
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,1081 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "28735"
+                    },
+                    {
+                        "Schedule Dates": "09/29/20-10/18/20"
+                    },
+                    {
+                        "Advertiser": "Estelle Fennell for Supervisor (3297)"
+                    },
+                    {
+                        "Agency": "Estelle Fennell for Supervisor (1640)"
+                    },
+                    {
+                        "Product": "CITY/COUNTY POLITICAL RACES (1087)"
+                    },
+                    {
+                        "Brand": "2020 (12697)"
+                    },
+                    {
+                        "Salesperson": "OLSZEWSKI, JENNY (1066)"
+                    },
+                    {
+                        "Sales Office": "KVIQ LOCAL"
+                    },
+                    {
+                        "Buyer Name": "Fennell,Estelle"
+                    },
+                    {
+                        "Phone/Fax": "(707) 223-5618"
+                    },
+                    {
+                        "CPE": "N/A"
+                    },
+                    {
+                        "Account Types": "Local/Political Candidate"
+                    },
+                    {
+                        "Billing Type": "Calendar"
+                    },
+                    {
+                        "Comments": "KIEM"
+                    },
+                    {
+                        "Date Entered": "09/25/20"
+                    },
+                    {
+                        "Last Modified": "09/25/20"
+                    },
+                    {
+                        "Entered By": "JENNY OLSZEWSKI"
+                    },
+                    {
+                        "CO-OP": "No"
+                    },
+                    {
+                        "Headline": "Normal"
+                    },
+                    {
+                        "Demo": "Normal"
+                    },
+                    {
+                        "Package Deal": "No"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Commission": "15.00"
+                    },
+                    {
+                        "Net Total": "$5,610.00"
+                    },
+                    {
+                        "Sales Tax": "$0.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "7a-9a (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$15.00",
+                        "Total": "$60.00 NBC - CA"
+                    },
+                    {
+                        "Line": "2.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "6p-7:30 (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$140.00",
+                        "Total": "$560.00 NBC - CA"
+                    },
+                    {
+                        "Line": "3.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "5p-6:30 (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$135.00",
+                        "Total": "$540.00 NBC - CA"
+                    },
+                    {
+                        "Line": "4.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "6p-6:30 (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$135.00",
+                        "Total": "$540.00 NBC - CA"
+                    },
+                    {
+                        "Line": "5.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "11p-11:35p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$100.00",
+                        "Total": "$400.00 NBC - CA"
+                    },
+                    {
+                        "Line": "6.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "09/29/20-10/02/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "11p-11:35p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "4",
+                        "Rate": "$120.00",
+                        "Total": "$480.00 NBC - CA"
+                    },
+                    {
+                        "Line": "7.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/04/20-10/04/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "11p-11:35p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$75.00",
+                        "Total": "$375.00 NBC - CA"
+                    },
+                    {
+                        "Line": "8.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/04/20-10/04/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "9a-9a (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$25.00",
+                        "Total": "$125.00 NBC - CA"
+                    },
+                    {
+                        "Line": "9.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/05/20-10/09/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "7a-9a (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$15.00",
+                        "Total": "$75.00 NBC - CA"
+                    },
+                    {
+                        "Line": "10.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/05/20-10/09/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "7a-9a (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$35.00",
+                        "Total": "$175.00 NBC - CA"
+                    },
+                    {
+                        "Line": "11.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/12/20-10/16/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "7a-9a (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$35.00",
+                        "Total": "$175.00 NBC - CA"
+                    },
+                    {
+                        "Line": "12.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/05/20-10/09/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "5p-6:30p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$135.00",
+                        "Total": "$675.00 NBC - CA"
+                    },
+                    {
+                        "Line": "13.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/12/20-10/16/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "5p-6:30p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$135.00",
+                        "Total": "$675.00 NBC - CA"
+                    },
+                    {
+                        "Line": "14.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/05/20-10/09/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "6p-6:30p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$135.00",
+                        "Total": "$675.00 NBC - CA"
+                    },
+                    {
+                        "Line": "15.0 Normal Line / SPOT",
+                        "Type / Break Type (Ref #)": "30Ja-7a (957)",
+                        "Dates": "10/05/20-10/09/20",
+                        "Seq": "5",
+                        "Length": ":30",
+                        "Run Times": "11p-11:35p (PST)",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "1",
+                        "Su": "1",
+                        "Spots": "5",
+                        "Rate": "$100.00",
+                        "Total": "$500.00 NBC - CA"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "16.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": ":30",
+                        "Length": "11:30P-11:35P (PST)",
+                        "Run Times": "5",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$100.00",
+                        "Total": "$500.00 NBC - CA"
+                    },
+                    {
+                        "Line": "17.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/05/20-10/09/20",
+                        "Sec": ":30",
+                        "Length": "11:30P-11:35P (PST)",
+                        "Run Times": "5",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$70.00",
+                        "Total": "$350.00 NBC - CA"
+                    },
+                    {
+                        "Line": "18.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": ":30",
+                        "Length": "11:30P-11:35P (PST)",
+                        "Run Times": "5",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$95.00",
+                        "Total": "$475.00 NBC - CA"
+                    },
+                    {
+                        "Line": "19.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/19/20-11/13/20",
+                        "Sec": "5",
+                        "Length": "3:08A-9A (PST)",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$75.00",
+                        "Total": "$375.00 NBC - CA"
+                    },
+                    {
+                        "Line": "20.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/18/20",
+                        "Sec": "5",
+                        "Length": "3:08A-9A (PST)",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$25.00",
+                        "Total": "$125.00 NBC - CA"
+                    },
+                    {
+                        "Line": "22.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/18/20-10/18/20",
+                        "Sec": "5",
+                        "Length": "3:08A-9A (PST)",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sa": "1",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$25.00",
+                        "Total": "$25.00 NBC - CA"
+                    },
+                    {
+                        "Line": "23.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": "5",
+                        "Length": "3:08A-6A (PST)",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$15.00",
+                        "Total": "$75.00 NBC - CA"
+                    },
+                    {
+                        "Line": "24.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/12/20-10/16/20",
+                        "Sec": "5",
+                        "Length": "3:06A-6:30P (PST)",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "5",
+                        "Rate": "$135.00",
+                        "Total": "$675.00 NBC - CA"
+                    },
+                    {
+                        "Line": "25.0",
+                        "Type / Break / Type (Ref #)": "Normal Line / SPOT",
+                        "Dates": "10/06/20-10/06/20",
+                        "Sec": "5",
+                        "Length": "3:09P-9:30P (PST)",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mon": "",
+                        "Tue": "1",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$135.00",
+                        "Total": "$135.00 NBC - CA"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "28735"
+                    },
+                    {
+                        "Date Entered": "09/25/20"
+                    },
+                    {
+                        "Last Modified": "09/25/20"
+                    },
+                    {
+                        "Entered By": "JENNY OLSZEWSKI"
+                    },
+                    {
+                        "Schedule Dates": "09/29/20-10/18/20"
+                    },
+                    {
+                        "Advertiser": "Estelle Fennell for Supervisor (3297)"
+                    },
+                    {
+                        "Agency": "Estelle Fennell for Supervisor (1640)"
+                    },
+                    {
+                        "CO-OP": "No"
+                    },
+                    {
+                        "Product": "CITY/COUNTY POLITICAL RACES (1087)"
+                    },
+                    {
+                        "Brand": "2020 (12697)"
+                    },
+                    {
+                        "Headline #": ""
+                    },
+                    {
+                        "Salesperson": "OLSZEWSKI, JENNY (1066)"
+                    },
+                    {
+                        "Demo": ""
+                    },
+                    {
+                        "Sales Office": "KVIQ LOCAL"
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Buyer Name": "Fennell, Estelle"
+                    },
+                    {
+                        "Package Deal": "N/A"
+                    },
+                    {
+                        "Phone/Fax": "(707) 223-5618 /"
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Account Types": "Local/Political Candidate"
+                    },
+                    {
+                        "Net Total": "$5,610.00"
+                    },
+                    {
+                        "Billing Type": "Local"
+                    },
+                    {
+                        "Sales Tax": "N/A"
+                    },
+                    {
+                        "Comments": "KIEM"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "828059"
+                    },
+                    {
+                        "Date Ordered": "05/08/12"
+                    },
+                    {
+                        "Last Modified": "10/17/12"
+                    },
+                    {
+                        "Advertiser/Code": "Democratic Senate Campaign Committee (1336)"
+                    },
+                    {
+                        "Product - General Media Order ID": "246051565165 6160"
+                    },
+                    {
+                        "Est. or Actual": "Estimate"
+                    },
+                    {
+                        "Salesperson": "Penno Mashir"
+                    },
+                    {
+                        "Station": "Norfolk (WVEC)"
+                    },
+                    {
+                        "DUNS": "No DUNS Number"
+                    },
+                    {
+                        "Brand": "General - Media Campaign"
+                    },
+                    {
+                        "Rep Firm": "Great American Media"
+                    },
+                    {
+                        "Buyer Name": "MAGGIE, DRAGAN"
+                    },
+                    {
+                        "Buyer Phone": "[Redacted]"
+                    },
+                    {
+                        "Account Exec": "N/A"
+                    },
+                    {
+                        "Order Type": "Agency/Political PAC - Agency"
+                    },
+                    {
+                        "Billing Type": "Weekly/Irregular"
+                    },
+                    {
+                        "Comments": "ORDER THRU EAGLE COM AS AN ADVANCE SCHEDULE ***** DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Type / Book / Break Type": "Normal Line / SPOT",
+                        "Day of Wk": "4",
+                        "Dates": "10/09/12-10/09/12",
+                        "Len": "30",
+                        "Copy Rot.": "G-",
+                        "Start Times": "1500-1550 (EDT)",
+                        "Run Times": "1",
+                        "SP/WT": "X",
+                        "Mon.": "X",
+                        "Tue.": "",
+                        "Wed.": "",
+                        "Thu.": "X",
+                        "Fri.": "X",
+                        "Sat.": "",
+                        "Sun.": "X",
+                        "Spots": "1",
+                        "Rate": "$1250.00",
+                        "Total": "$1250.00",
+                        "Station": "660 Norfolk (WVEC) (WVEC)",
+                        "Comments": "5/08 ROTATION"
+                    },
+                    {
+                        "Line": "2",
+                        "Type / Book / Break Type": "Normal Line / SPOT",
+                        "Day of Wk": "4",
+                        "Dates": "10/09/12-10/09/12",
+                        "Len": "30",
+                        "Copy Rot.": "G-",
+                        "Start Times": "1500-1550 (EDT)",
+                        "Run Times": "1",
+                        "SP/WT": "X",
+                        "Mon.": "X",
+                        "Tue.": "",
+                        "Wed.": "",
+                        "Thu.": "X",
+                        "Fri.": "X",
+                        "Sat.": "",
+                        "Sun.": "X",
+                        "Spots": "1",
+                        "Rate": "$750.00",
+                        "Total": "$750.00",
+                        "Station": "660 Norfolk (WVEC) (WVEC)",
+                        "Comments": "FUN & GAMES"
+                    },
+                    {
+                        "Line": "3",
+                        "Type / Book / Break Type": "Normal Line / SPOT",
+                        "Day of Wk": "4",
+                        "Dates": "10/09/12-10/09/12",
+                        "Len": "30",
+                        "Copy Rot.": "G-",
+                        "Start Times": "1950-2000 (EDT)",
+                        "Run Times": "1",
+                        "SP/WT": "X",
+                        "Mon.": "X",
+                        "Tue.": "",
+                        "Wed.": "",
+                        "Thu.": "X",
+                        "Fri.": "X",
+                        "Sat.": "",
+                        "Sun.": "X",
+                        "Spots": "1",
+                        "Rate": "$275.00",
+                        "Total": "$275.00",
+                        "Station": "660 Norfolk (WVEC) (WVEC)",
+                        "Comments": "HARDAWAY, RAY"
+                    }
+                    /* Additional rows are omitted for brevity */
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "By (AE/Coord)": "[Redacted]"
+                    },
+                    {
+                        "Date": "11/01/12"
+                    },
+                    {
+                        "Accepted Station": ""
+                    },
+                    {
+                        "Comments": ""
+                    },
+                    {
+                        "Total Spots": "213"
+                    },
+                    {
+                        "Total": "$78,475.00"
+                    },
+                    {
+                        "Commission": "$15,435.25"
+                    },
+                    {
+                        "Net Total": "$63,039.75"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "kv",
+                "content": [
+                    { "Contract #": "828059" },
+                    { "Date Entered": "05/08/12" },
+                    { "Schedule Dates": "10/29/11-11/05/12" },
+                    { "Last Modified": "10/17/12" },
+                    { "Advertiser/Client": "Democratic Senatorial Campaign Committee" },
+                    { "Hse. Dist/Office": "VA Senate (3)" },
+                    { "Order #": "0630107" },
+                    { "Agent Agency": "Great American Media" },
+                    { "Rep/Pub": "Reilley, Cathy (NZS)" },
+                    { "Est. Cost of Buy": "153,456.00" },
+                    { "Billed Cost": "No One" },
+                    { "Invoice #": "None" },
+                    { "Period": "06:00 10/29/12" },
+                    { "Station": "Norfolk (WVEC)" },
+                    { "Buyer Name": "ANGELBURG,DAN" },
+                    { "Demographic": "Persons 35+" },
+                    { "Order Type": "Normal" },
+                    { "Sales Office": "Rep. - Chen (2146)" },
+                    { "Rate": "$79,200.00" },
+                    { "Buyer Phone #": "(456) 123-9807" },
+                    { "Billing Type": "National/Political PAC – Agency" },
+                    { "Package Deal": "No" },
+                    { "End Date": "11/05/12" },
+                    { "Sales Person": "SPIEGEL,SARAH" },
+                    { "Commission": "15.00" },
+                    { "Net Cost": "$3,423,235" },
+                    { "Comments": "DCCC HELPS US GOTV IN ADVANCED SCHEDULE WITHIN DEMOCRATIC SENARTORAL CAMPAIGN COMMITTEE" }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line #": "150",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "28",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "96",
+                        "Rate": "$755.00",
+                        "Total": "$79,200.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "30 NEWS AT 5P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "160",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "22",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "",
+                        "Spots": "88",
+                        "Rate": "$750.00",
+                        "Total": "$75,000.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "13 NEWS AT 6P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "180",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "85",
+                        "Rate": "$850.00",
+                        "Total": "$83,250.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "SAN NEWS",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "210",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "16",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "80",
+                        "Rate": "$1255.00",
+                        "Total": "$120,400.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "13 NEWS AT 6P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "220",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "18",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "90",
+                        "Rate": "$1500.00",
+                        "Total": "$135,000.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "13 NEWS AT 6P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "230",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "20",
+                        "M": "",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "X",
+                        "Spots": "100",
+                        "Rate": "$1000.00",
+                        "Total": "$120,000.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "13 NEWS AT 6P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "240",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "26",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "104",
+                        "Rate": "$750.00",
+                        "Total": "$123,000.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "13 NEWS AT 5P",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "250",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "14",
+                        "M": "X",
+                        "T": "X",
+                        "W": "X",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "X",
+                        "Su": "",
+                        "Spots": "70",
+                        "Rate": "$1200.00",
+                        "Total": "$145,200.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "3 EVERYDAY",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "271",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "14",
+                        "M": "X",
+                        "T": "",
+                        "W": "",
+                        "Th": "X",
+                        "F": "X",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "28",
+                        "Rate": "$755.00",
+                        "Total": "$54,120.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "WHEEL OF FORTUNE",
+                        "Entered": "10/9/12"
+                    },
+                    {
+                        "Line #": "273",
+                        "Daypart": "Local time / SPOT",
+                        "Dates": "10/29/12-11/05/12",
+                        "Length": "30 secs",
+                        "Title": "Spot/Theme (ET)",
+                        "Sp/Wk": "14",
+                        "M": "X",
+                        "T": "X",
+                        "W": "",
+                        "Th": "",
+                        "F": "",
+                        "Sa": "X",
+                        "Su": "",
+                        "Spots": "42",
+                        "Rate": "$720.00",
+                        "Total": "$54,360.00",
+                        "Station": "Norfolk (WVEC) (WVEC)",
+                        "Comments/Info": "WHEEL OF FORTUNE",
+                        "Entered": "10/9/12"
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "kv",
+                "content": [
+                    {"Station": "WVEC"},
+                    {"Advertiser/Agency": "Great American Media"},
+                    {"Market/City": "Norfolk (WVEC)"},
+                    {"Agency Code": "01363510"},
+                    {"Product": "DEMO SENATE (campaign)"},
+                    {"Contract #": "828059"},
+                    {"Date Entered": "05/08/12"},
+                    {"Est. Start": "10/29/12"},
+                    {"Est. End": "11/06/12"},
+                    {"Last Modified": "10/17/12"},
+                    {"Est. # of Weeks": "2"},
+                    {"Est. Cost": "$15,458.60"},
+                    {"1st Date Aired": "10/30/12"},
+                    {"Length": "30"},
+                    {"# of Times": "117"},
+                    {"Gross Amt": "$79,720.00"},
+                    {"Net Amt": "$70,116.00"}
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {"Line": "29.1", "Len/Type/Break Type": "30/l/M1", "Start Date": "10/29/12", "End Date": "10/29/12", "Days": "M", "Run Times": "7a-9a M-F", "Sp/Wk": "1", "Rate": "$5,000.00", "Est. Total": "$5,000.00", "Position": "Fixed", "Comments": "ENTERED 10/15/12"}
+                    // All other cells would be listed similar to the above, but this example will include only one entry per table for brevity.
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {"Great American Media c/o": "Wilson, Thos W.AIW/Robson, Dan"},
+                    {"Billing To": "4561 Market St, Washington, DC 20007-3618"},
+                    {"Phone": "703/555-1313"},
+                    {"Account Type": "National/Political PAC - Agency"},
+                    {"Billing Type": "Weekly/Ingress"},
+                    {"Comments": "SEE INSERTS IN GOLD IN ADVANCE SCHEDULE *****, DEMOCRATIC SENATORIAL CAMPAIGN COMMITTEE"}
+                ]
+            }
+        ]
+    }
+]

@@ -1,0 +1,264 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "1/27/2008",
+                        "Number": "08-01",
+                        "Investigator": "Swenson",
+                        "Date Assigned": "Jon",
+                        "Racial": "1/30/2008",
+                        "Category / Type": "No",
+                        "Location Of Occurrence": "FORMAL Citizen",
+                        "Disposition Completed": "Not Stated",
+                        "Recorded On Camera": "SUSTAINED 2/7/2008"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Gender": "1/30/2008"
+                    },
+                    {
+                        "Address": "FORMAL Citizen"
+                    },
+                    {
+                        "Complainant": "Terr, Champaign IL 61820"
+                    },
+                    {
+                        "DOB": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "2/24/2008",
+                        "Number": "08-02",
+                        "Investigator": "Swan",
+                        "Date Assigned": "Scott",
+                        "Racial": "2/27/2008",
+                        "Category / Type": "No",
+                        "Location Of Occurrence": "FORMAL Citizen",
+                        "Disposition Completed": "Not Stated",
+                        "Recorded On Camera": "SUSTAINED 3/17/2008"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "Champaign , IL 61821"
+                    },
+                    {
+                        "Complainant": "null"
+                    },
+                    {
+                        "DOB": "null"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unnamed: 0": "Complaint #: 1",
+                        "Type Of Complaint": "R-3B.1 Courtesy: Profanity",
+                        "Description": "Discourteous Conduct",
+                        "Complaint Disposition": "NOT SUSTAINED"
+                    },
+                    {
+                        "Unnamed: 0": "Complaint #: 2",
+                        "Type Of Complaint": "R-3B.4 COURTESY: COMMENT",
+                        "Description": "Discourteous Conduct",
+                        "Complaint Disposition": "SUSTAINED"
+                    },
+                    {
+                        "Unnamed: 0": "Complaint #: 3",
+                        "Type Of Complaint": "R-5D Use of physical force",
+                        "Description": "Wrong Action by Employee",
+                        "Complaint Disposition": "EXONERATED"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unnamed: 0": "Officer #: 1",
+                        "Name": "Petrilli",
+                        "ID No.": "Thomas P.",
+                        "Rank": 939,
+                        "Division": "Senior Officer",
+                        "Officer Disposition": "Field Operations",
+                        "Action Taken Body": "SUSTAINED",
+                        "Cam": "COUNSELING"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "3/5/2008",
+                        "Number": "08-03",
+                        "Investigator": "Paulus",
+                        "Date Assigned": "Michael",
+                        "Racial": "3/10/2008",
+                        "Category / Type": "No",
+                        "Location Of Occurrence": "FORMAL Citizen",
+                        "Disposition Completed": "Not Stated",
+                        "Recorded On Camera": "NOT SUSTAINED 4/28/2008"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "null"
+                    },
+                    {
+                        "DOB": "null"
+                    },
+                    {
+                        "Complainant": "null"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unnamed: 0": "Complaint #: 1",
+                        "Type Of Complaint": "R-3B.2 Courtesy:",
+                        "Unnamed: 2": "Rude",
+                        "Description": "Discourteous Conduct",
+                        "Complaint Disposition": "UNFOUNDED"
+                    },
+                    {
+                        "Unnamed: 0": "Complaint #: 2",
+                        "Type Of Complaint": "R-3B.2 Courtesy:",
+                        "Unnamed: 2": "Rude",
+                        "Description": "Discourteous Conduct",
+                        "Complaint Disposition": "NOT SUSTAINED"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Unnamed: 0": "Officer #: 1",
+                        "Name": "Shepard",
+                        "ID No.": "Charles F.",
+                        "Rank": "921RET",
+                        "Division": "SERGEANT",
+                        "Officer Disposition": "Field Operations",
+                        "Action Taken Body": "NOT SUSTAINED",
+                        "Cam": "NONE"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "3/14/2008",
+                        "Number": "08-1101",
+                        "Investigator": "Swan",
+                        "Date Assigned": "Scott",
+                        "Racial": "3/14/2008",
+                        "Category / Type": "No",
+                        "Location Of Occurrence": "FORMAL Internal",
+                        "Disposition Completed": "Not Stated",
+                        "Recorded On Camera": "SUSTAINED 3/14/2008"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Gender": "FEMAL"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "Complainant": "null"
+                    },
+                    {
+                        "DOB": "null"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "3/18/2008",
+                        "Number": "08-06",
+                        "Investigator": "Gallo",
+                        "Date Assigned": "Joe",
+                        "Racial": "4/17/2008",
+                        "Category / Type": "No",
+                        "Location Of Occurrence": "FORMAL Citizen",
+                        "Disposition Completed": "Not Stated",
+                        "Recorded On Camera": "SUSTAINED 4/23/2008"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Gender": "MALE"
+                    },
+                    {
+                        "Address": "Champaign IL 61821"
+                    },
+                    {
+                        "Complainant": "null"
+                    },
+                    {
+                        "DOB": "null"
+                    }
+                ]
+            }
+        ]
+    }
+]

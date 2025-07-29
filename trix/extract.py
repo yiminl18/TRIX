@@ -343,7 +343,7 @@ def get_root_path():
     return parent_path
 
 def get_text_path(raw_path, mode, approach = ''):
-    text_path = raw_path.replace('raw','extracted')
+    text_path = raw_path.replace('raw','intermediate')
     text_path = text_path.replace('.pdf', mode)
     return text_path
 

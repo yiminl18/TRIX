@@ -22,14 +22,17 @@ if __name__ == "__main__":
     for pdf_path in pdfs:
         #if a dataset does not have ground truth, skip it
         truth_path = key.get_truth_path(pdf_path)
+        print(pdf_path)
+        print(truth_path)
 
         if not os.path.exists(truth_path):
             continue
 
-        print(pdf_path)
+        #print(pdf_path)
 
         # #predict fields
         key.key_prediction(pdf_path)
         #predict the template and extract data
-        out_path = key.get_key_val_path(pdf_path, 'TWIX')
+        out_path = key.get_key_val_path(pdf_path, 'TRIX')
+        print(out_path)
         pattern.template_based_data_extraction(pdf_path, out_path)

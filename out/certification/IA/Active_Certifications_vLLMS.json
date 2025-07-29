@@ -1,0 +1,928 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18,2023 03:16PM": "Iowa Law Enforcement Academy Employee Certification Report"
+                    },
+                    {
+                        "Page": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Certificate": "Aarhus, Ryan D. Officer Certification",
+                        "Level": "135-01",
+                        "Status Date": "11-19-1993",
+                        "Status": "Valid",
+                        "Cert #": "11-19-1993",
+                        "Certified": "11-19-1993",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aarhus, Todd C. Officer Certification",
+                        "Level": "DPS22-01",
+                        "Status Date": "11-09-1995",
+                        "Status": "Valid",
+                        "Cert #": "11-09-1995",
+                        "Certified": "11-09-1995",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abbas, April S. Officer Certification",
+                        "Level": "WI6-01",
+                        "Status Date": "10-28-2005",
+                        "Status": "Valid",
+                        "Cert #": "10-28-2005",
+                        "Certified": "10-28-2005",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abbey, Jeffery A. Officer Certification",
+                        "Level": "CR21-01",
+                        "Status Date": "10-18-1991",
+                        "Status": "Valid",
+                        "Cert #": "10-18-1991",
+                        "Certified": "10-18-1991",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abbott, Marissa K. Officer Certification",
+                        "Level": "287-01",
+                        "Status Date": "8-16-2019",
+                        "Status": "Valid",
+                        "Cert #": "8-16-2019",
+                        "Certified": "8-16-2019",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abel, Garrett J. Officer Certification",
+                        "Level": "218-01",
+                        "Status Date": "12-07-2007",
+                        "Status": "Valid",
+                        "Cert #": "12-07-2007",
+                        "Certified": "12-07-2007",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abel, Yon A. Officer Certification",
+                        "Level": "J1997-01",
+                        "Status Date": "6-27-1997",
+                        "Status": "Valid",
+                        "Cert #": "6-27-1997",
+                        "Certified": "6-27-1997",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abell, Samuel T. Officer Certification",
+                        "Level": "253-01",
+                        "Status Date": "12-13-2013",
+                        "Status": "Valid",
+                        "Cert #": "12-13-2013",
+                        "Certified": "12-13-2013",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abernathy, Ryan S. Officer Certification",
+                        "Level": "T2013-22",
+                        "Status Date": "4-18-2014",
+                        "Status": "Valid",
+                        "Cert #": "4-18-2014",
+                        "Certified": "4-18-2014",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Abodeely, Ryan M. Officer Certification",
+                        "Level": "CR27-01",
+                        "Status Date": "11-06-1998",
+                        "Status": "Valid",
+                        "Cert #": "11-06-1998",
+                        "Certified": "11-06-1998",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Accola, Anthony J. Officer Certification",
+                        "Level": "232-01",
+                        "Status Date": "4-02-2010",
+                        "Status": "Valid",
+                        "Cert #": "4-02-2010",
+                        "Certified": "4-02-2010",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Accola, Curtiss N. Officer Certification",
+                        "Level": "191-01",
+                        "Status Date": "4-04-2003",
+                        "Status": "Valid",
+                        "Cert #": "4-04-2003",
+                        "Certified": "4-04-2003",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Accola, Derek G. Officer Certification",
+                        "Level": "265-01",
+                        "Status Date": "12-11-2015",
+                        "Status": "Valid",
+                        "Cert #": "12-11-2015",
+                        "Certified": "12-11-2015",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Achterhoff, Ethan J. Officer Certification",
+                        "Level": "DPS41-01",
+                        "Status Date": "",
+                        "Status": "",
+                        "Cert #": "",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18,2023 03:16PM": "Iowa Law Enforcement Academy Employee Certification Report MuckRock ORR Report - Certifications Page: 2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "236-01",
+                        "Status Date": "11-02-2018",
+                        "Status": "Valid",
+                        "Cert #": "11-02-2018"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "195-01",
+                        "Status Date": "12-10-2010",
+                        "Status": "Valid",
+                        "Cert #": "12-10-2010"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "304-01",
+                        "Status Date": "12-12-2003",
+                        "Status": "Valid",
+                        "Cert #": "12-12-2003"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "153-01",
+                        "Status Date": "8-19-2022",
+                        "Status": "Valid",
+                        "Cert #": "8-19-2022"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "288-01",
+                        "Status Date": "11-22-1996",
+                        "Status": "Valid",
+                        "Cert #": "11-22-1996"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "285-01",
+                        "Status Date": "12-13-2019",
+                        "Status": "Valid",
+                        "Cert #": "12-13-2019"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "4-19-2019",
+                        "Status Date": "4-19-2019",
+                        "Status": "Valid",
+                        "Cert #": "4-19-2019"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "CR48-01",
+                        "Status Date": "10-30-2020",
+                        "Status": "Valid",
+                        "Cert #": "10-30-2020"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "DPS44-01",
+                        "Status Date": "1-08-2021",
+                        "Status": "Valid",
+                        "Cert #": "1-08-2021"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "263-02",
+                        "Status Date": "8-07-2015",
+                        "Status": "Valid",
+                        "Cert #": "8-07-2015"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "291-01",
+                        "Status Date": "4-17-2020",
+                        "Status": "Valid",
+                        "Cert #": "4-17-2020"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "DPS22-02",
+                        "Status Date": "11-09-1995",
+                        "Status": "Valid",
+                        "Cert #": "11-09-1995"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "DPS21-01",
+                        "Status Date": "12-23-1994",
+                        "Status": "Valid",
+                        "Cert #": "12-23-1994"
+                    },
+                    {
+                        "Certificate": "Officer Certification",
+                        "Level": "192-01",
+                        "Status Date": "4-11-2003",
+                        "Status": "Valid",
+                        "Cert #": "4-11-2003"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Certificate": "Adolph, Charles H.",
+                        "Level": "276-01",
+                        "Status Date": "12-13-2017",
+                        "Status": "Valid",
+                        "Cert #": "12-13-2017",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Adymy, Brandon D.",
+                        "Level": "292-01",
+                        "Status Date": "9-16-2020",
+                        "Status": "Valid",
+                        "Cert #": "9-16-2020",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aeschliman, Kenneth R.",
+                        "Level": "HI27-01",
+                        "Status Date": "4-16-1999",
+                        "Status": "Valid",
+                        "Cert #": "4-16-1999",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aesoph, Jess T.",
+                        "Level": "179-02",
+                        "Status Date": "3-23-2001",
+                        "Status": "Valid",
+                        "Cert #": "3-23-2001",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Agan, Kenneth J.",
+                        "Level": "155-01",
+                        "Status Date": "3-21-1997",
+                        "Status": "Valid",
+                        "Cert #": "3-21-1997",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aguero Jones, Shannon R.",
+                        "Level": "CR39-01",
+                        "Status Date": "12-07-2011",
+                        "Status": "Valid",
+                        "Cert #": "12-07-2011",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aguilera, Mauricio",
+                        "Level": "DPS37-01",
+                        "Status Date": "2-28-2014",
+                        "Status": "Valid",
+                        "Cert #": "2-28-2014",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Ahrens, Kobe",
+                        "Level": "305-01",
+                        "Status Date": "12-16-2022",
+                        "Status": "Valid",
+                        "Cert #": "12-16-2022",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Ahrens, Timothy L.",
+                        "Level": "WI5-01",
+                        "Status Date": "2-25-2005",
+                        "Status": "Valid",
+                        "Cert #": "2-25-2005",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Ahrens, Zachary T.",
+                        "Level": "264-01",
+                        "Status Date": "12-04-2015",
+                        "Status": "Valid",
+                        "Cert #": "12-04-2015",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aicher, Matthew W.",
+                        "Level": "HI46-01",
+                        "Status Date": "10-31-2008",
+                        "Status": "Valid",
+                        "Cert #": "10-31-2008",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aiello, Steve E.",
+                        "Level": "HI39-01",
+                        "Status Date": "4-22-2005",
+                        "Status": "Valid",
+                        "Cert #": "4-22-2005",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aiken, Jamie A.",
+                        "Level": "241-01",
+                        "Status Date": "12-09-2011",
+                        "Status": "Valid",
+                        "Cert #": "12-09-2011",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aistrope, Derek K.",
+                        "Level": "255-01",
+                        "Status Date": "",
+                        "Status": "",
+                        "Cert #": "",
+                        "Certified": "",
+                        "Expires": "",
+                        "Probation": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18,2023": "03:16PM"
+                    },
+                    {
+                        "Page": "3"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "90-01"
+                    },
+                    {
+                        "Status Date": "4-18-2014"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "4-18-2014"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "293-01"
+                    },
+                    {
+                        "Status Date": "12-21-1984"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "12-21-1984"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "303-01"
+                    },
+                    {
+                        "Status Date": "9-16-2020"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "9-16-2020"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "264-02"
+                    },
+                    {
+                        "Status Date": "8-19-2022"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "8-19-2022"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "107-01"
+                    },
+                    {
+                        "Status Date": "12-04-2015"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "12-04-2015"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "197-01"
+                    },
+                    {
+                        "Status Date": "5-20-1988"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "5-20-1988"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "189-01"
+                    },
+                    {
+                        "Status Date": "4-02-2004"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "4-02-2004"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "172-01"
+                    },
+                    {
+                        "Status Date": "12-13-2002"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "12-13-2002"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "DPS33-01"
+                    },
+                    {
+                        "Status Date": "12-10-1999"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "12-10-1999"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "DPS31-01"
+                    },
+                    {
+                        "Status Date": "10-19-2007"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "10-19-2007"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "209-01"
+                    },
+                    {
+                        "Status Date": "4-21-2006"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "4-21-2006"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "209-01"
+                    },
+                    {
+                        "Status Date": "4-14-2006"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "4-14-2006"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "303-02"
+                    },
+                    {
+                        "Status Date": "8-19-2022"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "8-19-2022"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Officer Certification"
+                    },
+                    {
+                        "Level": "291-02"
+                    },
+                    {
+                        "Status Date": "4-17-2020"
+                    },
+                    {
+                        "Status": "Valid"
+                    },
+                    {
+                        "Cert #": "4-17-2020"
+                    },
+                    {
+                        "Certified": ""
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": ""
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Certificate": "Aldrich, Nicholas R.",
+                        "Level": "RI2020-01",
+                        "Status Date": "12-12-2014",
+                        "Status": "Valid",
+                        "Cert #": "12-12-2014",
+                        "Certified": "12-12-2014",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aldridge, Terry W.",
+                        "Level": "151-01",
+                        "Status Date": "6-14-1996",
+                        "Status": "Valid",
+                        "Cert #": "6-14-1996",
+                        "Certified": "6-14-1996",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aleksiejczyk, Richard J.",
+                        "Level": "83-01",
+                        "Status Date": "6-10-1983",
+                        "Status": "Valid",
+                        "Cert #": "6-10-1983",
+                        "Certified": "6-10-1983",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Algreen, Michael S.",
+                        "Level": "239-01",
+                        "Status Date": "4-15-2011",
+                        "Status": "Valid",
+                        "Cert #": "4-15-2011",
+                        "Certified": "4-15-2011",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Aljets, Noah J.",
+                        "Level": "189-02",
+                        "Status Date": "12-13-2002",
+                        "Status": "Valid",
+                        "Cert #": "12-13-2002",
+                        "Certified": "12-13-2002",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Alke, Ian A.",
+                        "Level": "224-01",
+                        "Status Date": "12-05-2008",
+                        "Status": "Valid",
+                        "Cert #": "12-05-2008",
+                        "Certified": "12-05-2008",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allaire, Charles E.",
+                        "Level": "148-01",
+                        "Status Date": "12-08-1995",
+                        "Status": "Valid",
+                        "Cert #": "12-08-1995",
+                        "Certified": "12-08-1995",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Brandon K.",
+                        "Level": "WI15-01",
+                        "Status Date": "11-04-2011",
+                        "Status": "Valid",
+                        "Cert #": "11-04-2011",
+                        "Certified": "11-04-2011",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Clark C.",
+                        "Level": "DM76-01",
+                        "Status Date": "4-20-2018",
+                        "Status": "Valid",
+                        "Cert #": "4-20-2018",
+                        "Certified": "4-20-2018",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Clayton T.",
+                        "Level": "182-01",
+                        "Status Date": "6-29-2001",
+                        "Status": "Valid",
+                        "Cert #": "6-29-2001",
+                        "Certified": "6-29-2001",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Clinton B.",
+                        "Level": "306-01",
+                        "Status Date": "12-16-2022",
+                        "Status": "Valid",
+                        "Cert #": "12-16-2022",
+                        "Certified": "12-16-2022",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Collin J.",
+                        "Level": "301-01",
+                        "Status Date": "4-21-2022",
+                        "Status": "Valid",
+                        "Cert #": "4-21-2022",
+                        "Certified": "4-21-2022",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Connor A.",
+                        "Level": "DM78-05",
+                        "Status Date": "5-15-2020",
+                        "Status": "Valid",
+                        "Cert #": "5-15-2020",
+                        "Certified": "5-15-2020",
+                        "Expires": "",
+                        "Probation": ""
+                    },
+                    {
+                        "Certificate": "Allen, Jason M.",
+                        "Level": "179-03",
+                        "Status Date": "1-7-2003",
+                        "Status": "Valid",
+                        "Cert #": "1-7-2003",
+                        "Certified": "1-7-2003",
+                        "Expires": "",
+                        "Probation": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "APR 18, 2023 03:16PM": "Iowa Law Enforcement Academy Employee Certification Report MuckRock ORR Report - Certifications Page: 5"
+                    }
+                ]
+            }
+        ]
+    }
+]

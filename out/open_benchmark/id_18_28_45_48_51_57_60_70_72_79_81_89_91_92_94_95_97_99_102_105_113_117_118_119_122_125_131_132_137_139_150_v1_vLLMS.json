@@ -1,0 +1,387 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Start Date": "09/02/23",
+                        "End Date": "09/03/23",
+                        "Description": "Sa-Su",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": "----22",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Length": ":30",
+                        "Ad-ID": "HOORE SPOT 1",
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "09/02/23",
+                        "End Date": "09/03/23",
+                        "Description": "Sa-Su",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": "----22",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Length": ":30",
+                        "Ad-ID": "HOORE SPOT 2",
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "09/02/23",
+                        "End Date": "09/03/23",
+                        "Description": "Sa-Su",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": "----22",
+                        "Spots/Week": "3",
+                        "Rate": "$20.00",
+                        "Length": ":30",
+                        "Ad-ID": "HOORE SPOT 1",
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "09/02/23",
+                        "End Date": "09/03/23",
+                        "Description": "Sa-Su",
+                        "Start/End Time": "3p-7p",
+                        "MTWTFSS": "----22",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Length": ":30",
+                        "Ad-ID": "HOORE SPOT 2",
+                        "Type": "NM"
+                    },
+                    {
+                        "Start Date": "09/04/23",
+                        "End Date": "09/05/23",
+                        "Description": "M-F",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": "1111122",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Length": ":30",
+                        "Ad-ID": "HOORE SPOT 2",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Property": "WMGL-FM"
+                    },
+                    {
+                        "Invoice #": "AA3618454"
+                    },
+                    {
+                        "Order #": "1012206"
+                    },
+                    {
+                        "Invoice Date": "09/10/23"
+                    },
+                    {
+                        "Invoice Month": "September 2023"
+                    },
+                    {
+                        "Invoice Period": "09/01/23 - 09/05/23"
+                    },
+                    {
+                        "Flight Dates": "09/02/23 - 09/05/23"
+                    },
+                    {
+                        "Advertiser": "Moore/D/State Representative"
+                    },
+                    {
+                        "Product": "Senate District 42 race"
+                    },
+                    {
+                        "Billing Address": "Moore/D/State Representative\nAttention: J.A. Moore\n7752 Desoto Drive\nNorth Charleston, SC 29420"
+                    },
+                    {
+                        "Send Payment To:": "WMGL-FM\nCumulus Media- Charleston\n3635 Momentum Place\nChicago, IL 60689-5336"
+                    },
+                    {
+                        "Billing Inquiries": "cmls.ar@cumulus.com"
+                    },
+                    {
+                        "WO Payments Quick Pay Link": "payments.wocentral.com/find"
+                    },
+                    {
+                        "Quick Pay Code": "B4ADWLA3XE"
+                    },
+                    {
+                        "Account Executive": "Cynthia Alston Bell"
+                    },
+                    {
+                        "Sales Office": "Local-Charleston SC"
+                    },
+                    {
+                        "Sales Region": "Local"
+                    },
+                    {
+                        "Agency Code": ""
+                    },
+                    {
+                        "Advertiser Code": ""
+                    },
+                    {
+                        "Billing Calendar": "Calendar"
+                    },
+                    {
+                        "Billing Type": "Cash"
+                    },
+                    {
+                        "Special Handling": ""
+                    },
+                    {
+                        "Agency Ref": ""
+                    },
+                    {
+                        "Product 1": ""
+                    },
+                    {
+                        "Product 2": ""
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    { "KCCI": "888 - 9th Street Des Moines, IA 50309 Main: (515)247-8888 Billing: (704)208-2350" },
+                    { "www.kcci.com": "Property" },
+                    { "Property": "KCCI" },
+                    { "Invoice #": "2259004-1" },
+                    { "Order #": "2259004" },
+                    { "Invoice Date": "09/18/22" },
+                    { "Alt Order #": "10370918" },
+                    { "Invoice Month": "September 2022" },
+                    { "Deal #": "House Majority" },
+                    { "Invoice Period": "09/29/22 - 09/12/22" },
+                    { "Flight Dates": "09/06/22 - 09/12/22" },
+                    { "Advertiser": "HOUSE MAJORITY PAC ANTN INUNN" },
+                    { "Product": "House Majority" },
+                    { "Estimate #": "10491" },
+                    { "Billing Address": "Waterfront Strategies Attention: Accounts Payable 3050 K Street NW Washington, DC 20007" },
+                    { "Account Executive": "Mary Tricoli" },
+                    { "Sales Office": "HRP - Washington DC" },
+                    { "Sales Region": "National" },
+                    { "Agency Code": "9914573" },
+                    { "Advertiser Code": "79" },
+                    { "Billing Calendar": "Broadcast" },
+                    { "Billing Type": "Cash" },
+                    { "Special Handling": "" },
+                    { "Agency Ref": "" },
+                    { "Advertiser Ref": "" },
+                    { "Product 1": "86" },
+                    { "Product 2": "" }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "Description": "M-F News CH8 @ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "MTWTFSS": "MTWTF --",
+                        "Length": ":30",
+                        "Spots/Week": "3",
+                        "Rate": "$1,000.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Weeks": "Start Date - End Date",
+                        "Description": "09/06/22 - 09/12/22",
+                        "Spots/Week": "Spots/Week",
+                        "Rate": "3",
+                        "Type": "$1,000.00"
+                    },
+                    {
+                        "Day": "CH",
+                        "Air Date": "6-7A",
+                        "Time Description": "M-F News CH8 @ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "Length": ":30",
+                        "Length Ad-ID": "HP221A83T01H",
+                        "Rate": "$1,000.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/06/22",
+                        "Time Description": "6:29 AM M-F News CH8 @ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,000.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/07/22",
+                        "Time Description": "6:19 AM M-F News CH8 @ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,000.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/08/22",
+                        "Time Description": "6:14 AM M-F News CH8 @ 6-7A",
+                        "Start/End Time": "6-7A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,000.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "3",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "Description": "The Early Show",
+                        "Start/End Time": "7-8A",
+                        "MTWTFSS": "MTWTF --",
+                        "Length": ":30",
+                        "Spots/Week": "3",
+                        "Rate": "$700.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Weeks": "Start Date - End Date",
+                        "Description": "09/06/22 - 09/12/22",
+                        "Spots/Week": "Spots/Week",
+                        "Rate": "3",
+                        "Type": "$700.00"
+                    },
+                    {
+                        "Day": "CH",
+                        "Air Date": "7-8A",
+                        "Time Description": "7:39 AM The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length": ":30",
+                        "Length Ad-ID": "HP221A83T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/06/22",
+                        "Time Description": "7:28 AM The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/07/22",
+                        "Time Description": "7:55 AM The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots": "#",
+                        "Day": "KCCI",
+                        "Air Date": "09/12/22",
+                        "Time Description": "7:54 AM The Early Show 7-8a",
+                        "Start/End Time": "7-8A",
+                        "Length Ad-ID": ":30 HP221A83T01H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "5",
+                        "Start Date": "09/11/22",
+                        "End Date": "09/11/22",
+                        "Description": "Sunday Morning News",
+                        "Start/End Time": "SAT 8-9A",
+                        "MTWTFSS": "-- -- -- -- -- S --",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$1,800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Weeks": "Start Date - End Date",
+                        "Description": "09/05/22 - 09/11/22",
+                        "Spots/Week": "Spots/Week",
+                        "Rate": "1",
+                        "Type": "$1,800.00"
+                    },
+                    {
+                        "Day": "CH",
+                        "Air Date": "SAT 8-9A",
+                        "Time Description": "8:13 AM News CH8 Th Sun-Mon- Sat 8-9A",
+                        "Start/End Time": "SAT 8-9A",
+                        "Length": ":30",
+                        "Length Ad-ID": "HP221A83T01H",
+                        "Rate": "$1,800.00",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    { "Property": "WKYC" },
+                    { "Invoice #": "2097094-1" },
+                    { "Order #": "2097094" },
+                    { "Invoice Date": "11/08/20" },
+                    { "AI Order #": "WOC12736508" },
+                    { "Invoice Month": "November 2020" },
+                    { "Deal #": " " },
+                    { "Invoice Period": "10/26/20 - 11/03/20" },
+                    { "Flight Dates": "10/27/20 - 11/03/20" },
+                    { "Advertiser": "POL/U Mati Dolan / RSCC / Rt St Senate/ OH" },
+                    { "Product": "Dolan 10/27-11/3" },
+                    { "Estimate #": "2357" },
+                    { "Account Executive": "AleeSha Maewall" },
+                    { "Sales Office": "TEGNA Sales Washington DC" },
+                    { "Sales Region": "National" },
+                    { "Agency Code": "128" },
+                    { "Advertiser Code": "Broadcast" },
+                    { "Billing Calendar": "Cash" },
+                    { "Special Handling": " " },
+                    { "Agency Ref": "98984G" },
+                    { "Advertiser Ref": "104584" },
+                    { "Product 1": "782" },
+                    { "Product 2": " " },
+                    { "WKYC": "WKYC" },
+                    { "Billing Address": "SRCP Media, Inc/ POL\nAttention: Betsy Vonderheid\n201 North Union Street, Suite 200\nAlexandria, VA 22314" },
+                    { "Send Payment To": "WKYC\nWKYC\nPO BOX: 637386\nCincinnati, OH 45263-7386" }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "1", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "10", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "2", "Start Date": "11/03/20", "End Date": "11/03/20", "Description": "TODAY SHOW", "Start/End Time": "7-9a", "MTWTF$$": "----T--", "Length": "30", "Spots/Week": "1", "Rate": "$800.00", "Type": "NM" },
+                    { "Line": "3", "Start Date": "10/27/20", "End Date": "11/02/20", "Description": "NEWS M-F 6P", "Start/End Time": "6p-630p", "MTWTF$$": "MTWTF--", "Length": "30", "Spots/Week": "5", "Rate": "$1,500.00", "Type": "NM" }
+                ]
+            }
+        ]
+    }
+]

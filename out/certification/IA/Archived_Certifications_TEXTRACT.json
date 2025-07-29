@@ -1,0 +1,1931 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "metadata",
+                "content": "1\n03:28PM\nMuckRock ORR Report - Certifications\nStatus Date Status\nlowa Law Enforcement Academy\nPage:\nCertification Status Report\nAPR 18,2023\n"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Abben",
+                        "I.D.": "Richard D.",
+                        "Certificate Level": "HI2-10",
+                        "Status Date": NaN,
+                        "Status": "9-26-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-26-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abben",
+                        "I.D.": "Sandra K.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-19-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-19-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abbott",
+                        "I.D.": "Michael G.",
+                        "Certificate Level": "242-01",
+                        "Status Date": NaN,
+                        "Status": "12-16-2011",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-16-2011",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abbott",
+                        "I.D.": "Rex L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-30-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-30-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abel",
+                        "I.D.": "Michael E.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-26-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-26-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abels",
+                        "I.D.": "Gordon L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-09-1970",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-09-1970",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abeltins",
+                        "I.D.": "John R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-30-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-30-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abens",
+                        "I.D.": "Jana C.",
+                        "Certificate Level": "DM60-16",
+                        "Status Date": NaN,
+                        "Status": "4-27-2001",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-27-2001",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abens",
+                        "I.D.": "Darren P.",
+                        "Certificate Level": "171-01",
+                        "Status Date": NaN,
+                        "Status": "11-19-1999",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-19-1999",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abernathy",
+                        "I.D.": "Brian K.",
+                        "Certificate Level": "DPS13-01",
+                        "Status Date": NaN,
+                        "Status": "7-02-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-02-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abernathy",
+                        "I.D.": "Mark S.",
+                        "Certificate Level": "193-01",
+                        "Status Date": NaN,
+                        "Status": "7-11-2003",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-11-2003",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abild",
+                        "I.D.": "Gloria A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "4-29-1983",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-29-1983",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Abitz",
+                        "I.D.": "Josh J.",
+                        "Certificate Level": "175-01",
+                        "Status Date": NaN,
+                        "Status": "6-16-2000",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-16-2000",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aboud",
+                        "I.D.": "George Z.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "8-25-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "8-25-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Achenbach",
+                        "I.D.": "Daryl D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-20-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-20-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Achenbach",
+                        "I.D.": "Loren E.",
+                        "Certificate Level": "IW1-01",
+                        "Status Date": NaN,
+                        "Status": "6-19-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-19-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Achenbach",
+                        "I.D.": "Robert W.",
+                        "Certificate Level": "109-01",
+                        "Status Date": NaN,
+                        "Status": "11-11-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-11-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Achey",
+                        "I.D.": "Roland J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "11-17-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-17-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ackerman Jr.",
+                        "I.D.": "John D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "6-23-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-23-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ackerson",
+                        "I.D.": "Jerry L.",
+                        "Certificate Level": "102-01",
+                        "Status Date": NaN,
+                        "Status": "5-22-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-22-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ackerson",
+                        "I.D.": "Jim L.",
+                        "Certificate Level": "97-01",
+                        "Status Date": NaN,
+                        "Status": "5-02-1986",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-02-1986",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adair",
+                        "I.D.": "Britt C.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-15-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-15-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Andrew C.",
+                        "Certificate Level": "NW5-01",
+                        "Status Date": NaN,
+                        "Status": "5-02-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-02-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Gage D.",
+                        "Certificate Level": "D3-01",
+                        "Status Date": NaN,
+                        "Status": "10-12-1973",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-12-1973",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Larry D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-23-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-23-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Michael J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-17-1997",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-17-1997",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Jerry L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-25-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-25-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Loretta L.",
+                        "Certificate Level": "CR27-02",
+                        "Status Date": NaN,
+                        "Status": "11-06-1998",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-06-1998",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Miranda L.",
+                        "Certificate Level": "247-01",
+                        "Status Date": NaN,
+                        "Status": "12-14-2012",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-14-2012",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "William L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-20-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-20-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "David M.",
+                        "Certificate Level": "IWI2-01",
+                        "Status Date": NaN,
+                        "Status": "5-28-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-28-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Duane R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-19-1973",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-19-1973",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Richard R.",
+                        "Certificate Level": "124-01",
+                        "Status Date": NaN,
+                        "Status": "11-15-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-15-1991",
+                        "Probation": NaN
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "metadata",
+                "content": "Page: 2\n03:28PM\nMuckRock ORR Report - Certifications\nStatus Date Status\nlowa Law Enforcement Academy\nCertification Status Report\nAPR 18,2023\n"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Michael S.",
+                        "Certificate Level": "J1997-17",
+                        "Status Date": NaN,
+                        "Status": "6-13-1997",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-13-1997",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Mark T.",
+                        "Certificate Level": "187-01",
+                        "Status Date": NaN,
+                        "Status": "6-28-2002",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-28-2002",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Edmund W.",
+                        "Certificate Level": "HI10-01",
+                        "Status Date": NaN,
+                        "Status": "10-16-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-16-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adams",
+                        "I.D.": "Robert W.",
+                        "Certificate Level": "105-01",
+                        "Status Date": NaN,
+                        "Status": "12-18-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-18-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adamson",
+                        "I.D.": "Gregory P.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-12-1972",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-12-1972",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adcock",
+                        "I.D.": "Frank W.",
+                        "Certificate Level": "IH29-01",
+                        "Status Date": NaN,
+                        "Status": "11-07-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-07-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Addison",
+                        "I.D.": "Mark E.",
+                        "Certificate Level": "IH12-01",
+                        "Status Date": NaN,
+                        "Status": "6-28-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-28-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Addy",
+                        "I.D.": "Gary J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "9-26-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-26-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adema",
+                        "I.D.": "Justin R.",
+                        "Certificate Level": "CTE2017-08",
+                        "Status Date": NaN,
+                        "Status": "4-05-2017",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-05-2017",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ades",
+                        "I.D.": "David J.",
+                        "Certificate Level": "179-01",
+                        "Status Date": NaN,
+                        "Status": "3-23-2001",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-23-2001",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ades",
+                        "I.D.": "Bruce L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "1-06-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "1-06-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ades",
+                        "I.D.": "Carl L.",
+                        "Certificate Level": "DPS3-01",
+                        "Status Date": NaN,
+                        "Status": "12-19-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-19-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ades",
+                        "I.D.": "Richard L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-17-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-17-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ades",
+                        "I.D.": "Arthur V.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "1-15-1969",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "1-15-1969",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adkins",
+                        "I.D.": "Kristen E.",
+                        "Certificate Level": "139-23",
+                        "Status Date": NaN,
+                        "Status": "6-03-1994",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-03-1994",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adkins",
+                        "I.D.": "Paul E.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-11-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-11-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adkins",
+                        "I.D.": "Lowell L.",
+                        "Certificate Level": "IW4-01",
+                        "Status Date": NaN,
+                        "Status": "12-01-1976",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-01-1976",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adolph",
+                        "I.D.": "Brian T.",
+                        "Certificate Level": "117-01",
+                        "Status Date": NaN,
+                        "Status": "5-18-1990",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-18-1990",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adreon",
+                        "I.D.": "Phillip C.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-09-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-09-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Adrian",
+                        "I.D.": "Jacob L.",
+                        "Certificate Level": "283-01",
+                        "Status Date": NaN,
+                        "Status": "12-14-2018",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-14-2018",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aeschliman",
+                        "I.D.": "Daniel J.",
+                        "Certificate Level": "233-01",
+                        "Status Date": NaN,
+                        "Status": "4-09-2010",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-09-2010",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aeschliman",
+                        "I.D.": "Nicholas R.",
+                        "Certificate Level": "204-01",
+                        "Status Date": NaN,
+                        "Status": "7-01-2005",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-01-2005",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Agan",
+                        "I.D.": "Bradley C.",
+                        "Certificate Level": "108-01",
+                        "Status Date": NaN,
+                        "Status": "7-08-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-08-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Agapitos",
+                        "I.D.": "Paul R.",
+                        "Certificate Level": "98-01",
+                        "Status Date": NaN,
+                        "Status": "6-13-1986",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-13-1986",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Agnitsch",
+                        "I.D.": "Robert M.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-03-1969",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-03-1969",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Agnitsch",
+                        "I.D.": "George P.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "4-05-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-05-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahart",
+                        "I.D.": "Jill E.",
+                        "Certificate Level": "DPS20-14",
+                        "Status Date": NaN,
+                        "Status": "9-09-1994",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-09-1994",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahlstrom",
+                        "I.D.": "Donna S.",
+                        "Certificate Level": "103-01",
+                        "Status Date": NaN,
+                        "Status": "8-07-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "8-07-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahlstrom",
+                        "I.D.": "Richard T.",
+                        "Certificate Level": "H8-01",
+                        "Status Date": NaN,
+                        "Status": "8-30-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "8-30-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahrens",
+                        "I.D.": "Erich A.",
+                        "Certificate Level": "CTE2008-05",
+                        "Status Date": NaN,
+                        "Status": "5-01-2008",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-01-2008",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahrens",
+                        "I.D.": "Richard J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-24-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-24-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ahrens",
+                        "I.D.": "James W.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-02-1969",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-02-1969",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aitkins Jr.",
+                        "I.D.": "Ray E.",
+                        "Certificate Level": "124-02",
+                        "Status Date": NaN,
+                        "Status": "11-15-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-15-1991",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Akers",
+                        "I.D.": "Vernon A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-16-1979",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-16-1979",
+                        "Probation": NaN
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "metadata",
+                "content": "3\n03:28PM\nMuckRock ORR Report - Certifications\nStatus Date Status\nlowa Law Enforcement Academy\nPage:\nCertification Status Report\nAPR 18,2023\n"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Akers",
+                        "I.D.": "Aaron K.",
+                        "Certificate Level": "293-02",
+                        "Status Date": NaN,
+                        "Status": "9-16-2020",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-16-2020",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alba",
+                        "I.D.": "Mark G.",
+                        "Certificate Level": "102-02",
+                        "Status Date": NaN,
+                        "Status": "5-22-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-22-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Albee",
+                        "I.D.": "Brad A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-26-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-26-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alber",
+                        "I.D.": "Shawn M.",
+                        "Certificate Level": "196-01",
+                        "Status Date": NaN,
+                        "Status": "12-19-2003",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-19-2003",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Albers",
+                        "I.D.": "Michael D.",
+                        "Certificate Level": "132-01",
+                        "Status Date": NaN,
+                        "Status": "4-02-1993",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-02-1993",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Albert",
+                        "I.D.": "Derek A.",
+                        "Certificate Level": "279-01",
+                        "Status Date": NaN,
+                        "Status": "4-18-2018",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-18-2018",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alberts",
+                        "I.D.": "Mark A.",
+                        "Certificate Level": "118-01",
+                        "Status Date": NaN,
+                        "Status": "6-22-1990",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-22-1990",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Albrecht",
+                        "I.D.": "Larry D.",
+                        "Certificate Level": "145-01",
+                        "Status Date": NaN,
+                        "Status": "6-16-1995",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-16-1995",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alcala",
+                        "I.D.": "James A.",
+                        "Certificate Level": "183-01",
+                        "Status Date": NaN,
+                        "Status": "11-30-2001",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-30-2001",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldeman",
+                        "I.D.": "David E.",
+                        "Certificate Level": "282-01",
+                        "Status Date": NaN,
+                        "Status": "12-14-2018",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-14-2018",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldinger",
+                        "I.D.": "Justin P.",
+                        "Certificate Level": "166-01",
+                        "Status Date": NaN,
+                        "Status": "12-11-1998",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-11-1998",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldis",
+                        "I.D.": "Bill R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "6-06-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-06-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldrich",
+                        "I.D.": "Brent J.",
+                        "Certificate Level": "117-02",
+                        "Status Date": NaN,
+                        "Status": "5-18-1990",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-18-1990",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldrich",
+                        "I.D.": "Jeffrey M.",
+                        "Certificate Level": "DM52-1",
+                        "Status Date": NaN,
+                        "Status": "4-19-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-19-1991",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldridge",
+                        "I.D.": "Kenneth E.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-14-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-14-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldridge",
+                        "I.D.": "Larry M.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-20-1972",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-20-1972",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aldridge",
+                        "I.D.": "Brian S.",
+                        "Certificate Level": "169-01",
+                        "Status Date": NaN,
+                        "Status": "6-18-1999",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-18-1999",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ales",
+                        "I.D.": "Gregory A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-25-1979",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-25-1979",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alesch",
+                        "I.D.": "Kristopher S.",
+                        "Certificate Level": "HI60-01",
+                        "Status Date": NaN,
+                        "Status": "10-30-2015",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-30-2015",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Aletheia",
+                        "I.D.": "Tori",
+                        "Certificate Level": "DM72-01",
+                        "Status Date": NaN,
+                        "Status": "1-31-2014",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "1-31-2014",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alex",
+                        "I.D.": "Dennis A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "11-30-1979",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-30-1979",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alexander",
+                        "I.D.": "Daniel D.",
+                        "Certificate Level": "140-01",
+                        "Status Date": NaN,
+                        "Status": "6-17-1994",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-17-1994",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alexander",
+                        "I.D.": "Douglas E.",
+                        "Certificate Level": "CTE2001-04",
+                        "Status Date": NaN,
+                        "Status": "3-15-2001",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-15-2001",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alexander",
+                        "I.D.": "Fred E.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-13-1976",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-13-1976",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alexander",
+                        "I.D.": "Jonathan P.",
+                        "Certificate Level": "241-02",
+                        "Status Date": NaN,
+                        "Status": "12-09-2011",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-09-2011",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alexander",
+                        "I.D.": "Craig W.",
+                        "Certificate Level": "94-01",
+                        "Status Date": NaN,
+                        "Status": "11-15-1985",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-15-1985",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allard",
+                        "I.D.": "Allan J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-16-1973",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-16-1973",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Eugene",
+                        "Certificate Level": "IW5-01",
+                        "Status Date": NaN,
+                        "Status": "5-18-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-18-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Keith",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-16-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-16-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Tex",
+                        "Certificate Level": "112-01",
+                        "Status Date": NaN,
+                        "Status": "4-24-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-24-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Charles A.",
+                        "Certificate Level": "IH13-01",
+                        "Status Date": NaN,
+                        "Status": "10-11-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-11-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Gene C.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-26-1968",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-26-1968",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Michael C.",
+                        "Certificate Level": "CR12-01",
+                        "Status Date": NaN,
+                        "Status": "7-09-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-09-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Steven C.",
+                        "Certificate Level": "IH23-01",
+                        "Status Date": NaN,
+                        "Status": "12-07-1976",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-07-1976",
+                        "Probation": NaN
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "metadata",
+                "content": "03:28PM\nMuckRock ORR Report - Certifications\nStatus Date Status\nlowa Law Enforcement Academy\nPage:\nCertification Status Report\n4\nAPR 18,2023\n"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Edward D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-11-1970",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-11-1970",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Gerald D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-11-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-11-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Gregory E.",
+                        "Certificate Level": "125-01",
+                        "Status Date": NaN,
+                        "Status": "12-06-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-06-1991",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen Jr.",
+                        "I.D.": "Donald K.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "6-13-1969",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-13-1969",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "David L.",
+                        "Certificate Level": "H7-01",
+                        "Status Date": NaN,
+                        "Status": "3-22-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-22-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Fredrick L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "11-03-1981",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-03-1981",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Jerry L.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "4-21-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-21-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Brandi M.",
+                        "Certificate Level": "223-01",
+                        "Status Date": NaN,
+                        "Status": "7-18-2008",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-18-2008",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Herbert M.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-17-1980",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-17-1980",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Oral M.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-20-1983",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-20-1983",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Ronald N.",
+                        "Certificate Level": "IW7-01",
+                        "Status Date": NaN,
+                        "Status": "6-01-1979",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-01-1979",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allen",
+                        "I.D.": "Melvin R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-18-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-18-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allerdings",
+                        "I.D.": "Andrew J.",
+                        "Certificate Level": "266-01",
+                        "Status Date": NaN,
+                        "Status": "4-08-2016",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-08-2016",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alles",
+                        "I.D.": "Robert G.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-03-1973",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-03-1973",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alles",
+                        "I.D.": "John K.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-03-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-03-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alley",
+                        "I.D.": "Dennis D.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "4-08-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-08-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alley",
+                        "I.D.": "Mitchell D.",
+                        "Certificate Level": "CTE2016-07",
+                        "Status Date": NaN,
+                        "Status": "11-03-2016",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-03-2016",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allgood",
+                        "I.D.": "William G.",
+                        "Certificate Level": "IH2-01",
+                        "Status Date": NaN,
+                        "Status": "4-01-1971",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-01-1971",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allison",
+                        "I.D.": "Justin R.",
+                        "Certificate Level": "196-02",
+                        "Status Date": NaN,
+                        "Status": "12-19-2003",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-19-2003",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allison",
+                        "I.D.": "Misti R.",
+                        "Certificate Level": "DM50-12",
+                        "Status Date": NaN,
+                        "Status": "11-03-1989",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-03-1989",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allison",
+                        "I.D.": "Bradford S.",
+                        "Certificate Level": "159-01",
+                        "Status Date": NaN,
+                        "Status": "11-21-1997",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-21-1997",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alliss",
+                        "I.D.": "Vincent D.",
+                        "Certificate Level": "152-01",
+                        "Status Date": NaN,
+                        "Status": "6-28-1996",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-28-1996",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allmon",
+                        "I.D.": "Derwin W.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "5-20-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-20-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alloway",
+                        "I.D.": "Robert W.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-02-1982",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-02-1982",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allspach",
+                        "I.D.": "Cory S.",
+                        "Certificate Level": "148-02",
+                        "Status Date": NaN,
+                        "Status": "12-08-1995",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-08-1995",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Allumbaugh",
+                        "I.D.": "Darrell L.",
+                        "Certificate Level": "IW2-01",
+                        "Status Date": NaN,
+                        "Status": "12-24-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-24-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alman",
+                        "I.D.": "Rudolph V.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-08-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-08-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Almeida",
+                        "I.D.": "Francis P.",
+                        "Certificate Level": "162-01",
+                        "Status Date": NaN,
+                        "Status": "4-10-1998",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-10-1998",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alt",
+                        "I.D.": "Michael H.",
+                        "Certificate Level": "163-01",
+                        "Status Date": NaN,
+                        "Status": "6-19-1998",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-19-1998",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alt",
+                        "I.D.": "Steven R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "9-04-1970",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-04-1970",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Altena",
+                        "I.D.": "Daniel W.",
+                        "Certificate Level": "NW11-01",
+                        "Status Date": NaN,
+                        "Status": "2-19-1981",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-19-1981",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Altenbaumer",
+                        "I.D.": "Karla R.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-09-2005",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-09-2005",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Althaus",
+                        "I.D.": "Harry J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-12-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-12-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Alvarez",
+                        "I.D.": "Gloria M.",
+                        "Certificate Level": "115-01",
+                        "Status Date": NaN,
+                        "Status": "12-15-1989",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-15-1989",
+                        "Probation": NaN
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "metadata",
+                "content": "03:28PM\nMuckRock ORR Report - Certifications\nStatus Date Status\nlowa Law Enforcement Academy\nPage:\nCertification Status Report\n5\nAPR 18,2023\n"
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Name": "Alvis",
+                        "I.D.": "Michael J.",
+                        "Certificate Level": "107-02",
+                        "Status Date": NaN,
+                        "Status": "5-20-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-20-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Amato",
+                        "I.D.": "Stephen W.",
+                        "Certificate Level": "101-01",
+                        "Status Date": NaN,
+                        "Status": "3-13-1987",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-13-1987",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ames",
+                        "I.D.": "Robert E.",
+                        "Certificate Level": "140-02",
+                        "Status Date": NaN,
+                        "Status": "6-17-1994",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-17-1994",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ames",
+                        "I.D.": "Lyle H.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-01-1983",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-01-1983",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Amick",
+                        "I.D.": "David H.",
+                        "Certificate Level": "NW7-01",
+                        "Status Date": NaN,
+                        "Status": "4-30-1976",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-30-1976",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Ammon",
+                        "I.D.": "Thomas B.",
+                        "Certificate Level": "257-01",
+                        "Status Date": NaN,
+                        "Status": "8-08-2014",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "8-08-2014",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Amos",
+                        "I.D.": "Randy A.",
+                        "Certificate Level": "HI12-01",
+                        "Status Date": NaN,
+                        "Status": "10-13-1989",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-13-1989",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "Jesse A.",
+                        "Certificate Level": "WI13-1",
+                        "Status Date": NaN,
+                        "Status": "11-05-2010",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-05-2010",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "Dennis E.",
+                        "Certificate Level": "124-03",
+                        "Status Date": NaN,
+                        "Status": "11-15-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-15-1991",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "Lindsay E.",
+                        "Certificate Level": "33-01",
+                        "Status Date": NaN,
+                        "Status": "10-18-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-18-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "Marvin J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "9-15-1977",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-15-1977",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "Robert J.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "9-26-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-26-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Andersen",
+                        "I.D.": "LaDonn M.",
+                        "Certificate Level": "216-10",
+                        "Status Date": NaN,
+                        "Status": "7-13-2007",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-13-2007",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Calvin",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "10-04-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "10-04-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "David",
+                        "Certificate Level": "DM3B-01",
+                        "Status Date": NaN,
+                        "Status": "4-05-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-05-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Gary",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "3-03-1973",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-03-1973",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Gerald",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "9-28-1978",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-28-1978",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Jean",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "11-12-1976",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-12-1976",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Bruce A.",
+                        "Certificate Level": "IH15-01",
+                        "Status Date": NaN,
+                        "Status": "2-14-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-14-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Roger A.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-15-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-15-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Michael B.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "12-13-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-13-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Robert B.",
+                        "Certificate Level": "136-01",
+                        "Status Date": NaN,
+                        "Status": "12-17-1993",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-17-1993",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Jack C.",
+                        "Certificate Level": "IH12-08",
+                        "Status Date": NaN,
+                        "Status": "6-28-1974",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-28-1974",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Stanley C.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "2-15-1975",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "2-15-1975",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Tyson C.",
+                        "Certificate Level": "HI47-01",
+                        "Status Date": NaN,
+                        "Status": "4-24-2009",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-24-2009",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Dale D.",
+                        "Certificate Level": "107-03",
+                        "Status Date": NaN,
+                        "Status": "5-20-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "5-20-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Jaclyn D.",
+                        "Certificate Level": "184-01",
+                        "Status Date": NaN,
+                        "Status": "3-13-2002",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "3-13-2002",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Robert D.",
+                        "Certificate Level": "DPS31-2",
+                        "Status Date": NaN,
+                        "Status": "4-21-2006",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "4-21-2006",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Troy D.",
+                        "Certificate Level": "DM49-01",
+                        "Status Date": NaN,
+                        "Status": "12-16-1988",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-16-1988",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson II",
+                        "I.D.": "Charles E.",
+                        "Certificate Level": "134-01",
+                        "Status Date": NaN,
+                        "Status": "9-01-1993",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "9-01-1993",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Dean E.",
+                        "Certificate Level": "187-03",
+                        "Status Date": NaN,
+                        "Status": "6-28-2002",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "6-28-2002",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Lance E.",
+                        "Certificate Level": "252-01",
+                        "Status Date": NaN,
+                        "Status": "12-06-2013",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "12-06-2013",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson",
+                        "I.D.": "Leonard E.",
+                        "Certificate Level": "(n/a)",
+                        "Status Date": NaN,
+                        "Status": "7-26-1968",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "7-26-1968",
+                        "Probation": NaN
+                    },
+                    {
+                        "Name": "Anderson Jr.",
+                        "I.D.": "Thomas F.",
+                        "Certificate Level": "124-04",
+                        "Status Date": NaN,
+                        "Status": "11-15-1991",
+                        "Cert #": "Valid",
+                        "Certified": NaN,
+                        "Expires": "11-15-1991",
+                        "Probation": NaN
+                    }
+                ]
+            }
+        ]
+    }
+]

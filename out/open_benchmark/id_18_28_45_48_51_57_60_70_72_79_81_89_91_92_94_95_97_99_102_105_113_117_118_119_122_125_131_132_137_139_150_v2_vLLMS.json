@@ -1,0 +1,598 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Invoice #": "AA3618454"
+                    },
+                    {
+                        "Invoice Date": "09/10/23"
+                    },
+                    {
+                        "Invoice Month": "September 2023"
+                    },
+                    {
+                        "Advertiser": "Moore/D/Senate Representative"
+                    },
+                    {
+                        "Product": "Senate District 42 race"
+                    },
+                    {
+                        "Estimate #": ""
+                    },
+                    {
+                        "Net Total": "$420.00"
+                    },
+                    {
+                        "Invoice Balance as of 12/22/23 13:39:22 ET": "$0.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "4",
+                        "Start Date": "09/04/23",
+                        "End Date": "09/05/23",
+                        "Description": "M-F",
+                        "Air Time Description": "6a-10a",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": ". . . f . . .",
+                        "Length": ":30",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "4",
+                        "Start Date": "WMGL",
+                        "End Date": "Tu",
+                        "Description": "09/05/23",
+                        "Air Time Description": "6:23 AM M-F",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": ". . . f . . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "4",
+                        "Start Date": "WMGL",
+                        "End Date": "W",
+                        "Description": "Tu 09/05/23",
+                        "Air Time Description": "9:39 AM M-F",
+                        "Start/End Time": "6a-10a",
+                        "MTWTFSS": ". . . . f . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "5",
+                        "Start Date": "09/04/23",
+                        "End Date": "09/05/23",
+                        "Description": "M-F",
+                        "Air Time Description": "",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ". . . . f . .",
+                        "Length": ":30",
+                        "Spots/Week": "4",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "6",
+                        "Start Date": "09/04/23",
+                        "End Date": "09/05/23",
+                        "Description": "M-F",
+                        "Air Time Description": "Air Time Description",
+                        "Start/End Time": "Start/End Time",
+                        "MTWTFSS": "MTWTFSS",
+                        "Length": "Length",
+                        "Spots/Week": "Spots/Week",
+                        "Rate": "Rate",
+                        "Type": "Type"
+                    },
+                    {
+                        "Line": "6",
+                        "Start Date": "WMGL",
+                        "End Date": "M",
+                        "Description": "09/04/23",
+                        "Air Time Description": "10:33 AM M-F",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ". f . . . . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "6",
+                        "Start Date": "WMGL",
+                        "End Date": "Tu",
+                        "Description": "09/04/23",
+                        "Air Time Description": "10:35 AM M-F",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ". . f . . . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "7",
+                        "Start Date": "WMGL",
+                        "End Date": "Tu 09/05/23",
+                        "Description": "10:36 AM M-F",
+                        "Air Time Description": "",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ". . . . f . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "8",
+                        "Start Date": "WMGL",
+                        "End Date": "Th 09/05/23",
+                        "Description": "10:54 AM M-F",
+                        "Air Time Description": "",
+                        "Start/End Time": "10a-3p",
+                        "MTWTFSS": ". . . . . f .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "9",
+                        "Start Date": "09/04/23",
+                        "End Date": "09/05/23",
+                        "Description": "M-F",
+                        "Air Time Description": "3p-7p",
+                        "Start/End Time": "3p-7p",
+                        "MTWTFSS": ". . . . . f .",
+                        "Length": ":30",
+                        "Spots/Week": "2",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "3",
+                        "Start Date": "WMGL",
+                        "End Date": "M 09/04/23",
+                        "Description": "3:47 PM M-F",
+                        "Air Time Description": "",
+                        "Start/End Time": "3p-7p",
+                        "MTWTFSS": ". f . . . . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "2",
+                        "Start Date": "WMGL",
+                        "End Date": "M 09/04/23",
+                        "Description": "4:16 PM M-F",
+                        "Air Time Description": "",
+                        "Start/End Time": "3p-7p",
+                        "MTWTFSS": ". f . . . . .",
+                        "Length": ":30",
+                        "Spots/Week": "",
+                        "Rate": "$20.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Total Spots": "21"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Send Payment To": "KCCI"
+                    },
+                    {
+                        "PO Box": "14556"
+                    },
+                    {
+                        "Des Moines, IA, SOCODE": "50306-3556"
+                    },
+                    {
+                        "www.kcci.com": "www.kcci.com"
+                    },
+                    {
+                        "Invoice #": "2259004-1"
+                    },
+                    {
+                        "Invoice Date": "09/18/22"
+                    },
+                    {
+                        "Advertiser": "House Majority"
+                    },
+                    {
+                        "Product": "HOUSE MAJORITY PAC ANTI NUNN"
+                    },
+                    {
+                        "Estimate #": "10491"
+                    },
+                    {
+                        "Invoice Period": "08/29/22 - 09/12/22"
+                    },
+                    {
+                        "Invoice Month": "September 2022"
+                    },
+                    {
+                        "Total New Charges": "$42,000.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "5",
+                        "Start Date": "09/11/22",
+                        "End Date": "09/11/22",
+                        "Description": "CBS Sunday Morning",
+                        "Start/End Time": "Sun 8-930a",
+                        "M T W T F S S": "-----1",
+                        "Spots/Week": "1",
+                        "Rate": "$1,800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$1,800.00"
+                    },
+                    {
+                        "Spots: #": "1",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/11/22",
+                        "Air Time Description": "Sun 8-930a",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$1,800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "6",
+                        "Start Date": "09/11/22",
+                        "End Date": "09/11/22",
+                        "Description": "Face the Nation",
+                        "Start/End Time": "SU 930-1030A",
+                        "M T W T F S S": "-----1",
+                        "Spots/Week": "1",
+                        "Rate": "$800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Spots: #": "1",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/11/22",
+                        "Air Time Description": "SU 930-1030A",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$800.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "7",
+                        "Start Date": "09/11/22",
+                        "End Date": "09/11/22",
+                        "Description": "KCCI POLITICAL NEWS 1030A-11A",
+                        "Start/End Time": "-----1",
+                        "M T W T F S S": "-----1",
+                        "Spots/Week": "1",
+                        "Rate": "$600.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$600.00"
+                    },
+                    {
+                        "Spots: #": "2",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/11/22",
+                        "Air Time Description": "1030A-11A",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$600.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "8",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "Description": "KCCI POLITICAL NEWS",
+                        "Start/End Time": "6-7AM",
+                        "M T W T F S S": "MTWTF--",
+                        "Spots/Week": "5",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$1,100.00"
+                    },
+                    {
+                        "Spots: #": "3",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/06/22",
+                        "Air Time Description": "6-7AM",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$1,100.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "9",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "Description": "M-F News CH8 @ 12-12 1230P",
+                        "Start/End Time": "12-1230P",
+                        "M T W T F S S": "MTWTF--",
+                        "Spots/Week": "5",
+                        "Rate": "$900.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$900.00"
+                    },
+                    {
+                        "Spots: #": "3",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/07/22",
+                        "Air Time Description": "12-12 PM M-F News CH8 @ 12-1230P",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$900.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "10",
+                        "Start Date": "09/06/22",
+                        "End Date": "09/12/22",
+                        "Description": "Non Pre-emptive CH8 First News 5-530P",
+                        "Start/End Time": "5-530P",
+                        "M T W T F S S": "MTWTF--",
+                        "Spots/Week": "5",
+                        "Rate": "$1,500.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$1,500.00"
+                    },
+                    {
+                        "Spots: #": "3",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/06/22",
+                        "Air Time Description": "5-528 PM M-F News CH8 First News@Five 5-530P",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$1,500.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Line": "11",
+                        "Start Date": "09/07/22",
+                        "End Date": "09/12/22",
+                        "Description": "CBS Evening News",
+                        "Start/End Time": "530-6P",
+                        "M T W T F S S": "-----F-",
+                        "Spots/Week": "1",
+                        "Rate": "$2,400.00",
+                        "Type": "NM"
+                    },
+                    {
+                        "Class of Time - Non Pre-emptible": "Rate",
+                        "Weeks:": "$2,400.00"
+                    },
+                    {
+                        "Spots: #": "1",
+                        "Ch": "KCCI",
+                        "Day Air Date": "09/09/22",
+                        "Air Time Description": "5-528 PM M-F CBS Evening News",
+                        "Length Ad-ID": ":30 HMP221A3TQ18H",
+                        "Rate": "$2,400.00",
+                        "Type": "NM"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {"Send Payment To": "KCCI"},
+                    {"PO Box": "14556"},
+                    {"Des Moines, IA": "50306-3556"},
+                    {"Invoice #": "2259004-1"},
+                    {"Invoice Date": "09/18/22"},
+                    {"Invoice Period": "08/29/22 - 09/12/22"},
+                    {"Advertiser": "House Majority"},
+                    {"Product": "HOUSE MAJORITY PAC ANTI NUNN"},
+                    {"Estimate #": "10491"},
+                    {"www.kcci.com": "www.kcci.com"},
+                    {"Page": "4 of 5"}
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {"Line": "18"},
+                    {"Start Date": "09/06/22"},
+                    {"End Date": "09/06/22"},
+                    {"Description": "Tue CBS Prime A"},
+                    {"Start/End Time": "7-8p"},
+                    {"M": "1"},
+                    {"T": "1"},
+                    {"W": "1"},
+                    {"T": "1"},
+                    {"F": "1"},
+                    {"S": "1"},
+                    {"S": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$2,600.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Tu 09/06/22"},
+                    {"Air Time Description": "7-8p Tue CBS Prime A"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$2,600.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "19"},
+                    {"Start Date": "09/11/22"},
+                    {"End Date": "09/11/22"},
+                    {"Description": "Sun CBS Prime A"},
+                    {"Start/End Time": "6-7P"},
+                    {"S": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$1,800.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Su 09/11/22"},
+                    {"Air Time Description": "6-7P Sun CBS Prime A"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$1,800.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "20"},
+                    {"Start Date": "09/10/22"},
+                    {"End Date": "09/10/22"},
+                    {"Description": "Matter of Fact LF"},
+                    {"Start/End Time": "1030p-11p"},
+                    {"S": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$300.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Sa 09/10/22"},
+                    {"Air Time Description": "11:27 PM Matter of Fact LF"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$300.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "21"},
+                    {"Start Date": "09/09/22"},
+                    {"End Date": "09/09/22"},
+                    {"Description": "EMPIRE HAWK SHOWDOWN CYHAWK SHOWD"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$1,600.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Fr 09/09/22"},
+                    {"Air Time Description": "6:50 PM EMPIRE HAWK SHOWDOWN CYHAWK SHOWD"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$1,600.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "22"},
+                    {"Start Date": "09/10/22"},
+                    {"End Date": "09/10/22"},
+                    {"Description": "News CH 8-630 SAT 6-630P"},
+                    {"Start/End Time": "6-7P"},
+                    {"S": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$800.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Sa 09/10/22"},
+                    {"Air Time Description": "6-630P SAT News CH8 @ 6-630P"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$800.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "23"},
+                    {"Start Date": "09/11/22"},
+                    {"End Date": "09/11/22"},
+                    {"Description": "Sun CBS Prime C"},
+                    {"Start/End Time": "8-9p"},
+                    {"S": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$900.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/05/22 - 09/11/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Su 09/11/22"},
+                    {"Air Time Description": "8-9P Sun CBS Prime C"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$900.00"},
+                    {"Type": "NM"},
+
+                    {"Line": "24"},
+                    {"Start Date": "09/12/22"},
+                    {"End Date": "09/12/22"},
+                    {"Description": "Mon CBS Prime A"},
+                    {"Start/End Time": "MON 7-8P"},
+                    {"M": "1"},
+                    {"Spots/Week": "30"},
+                    {"Length": "30"},
+                    {"Rate": "$900.00"},
+                    {"Type": "NM"},
+                    {"Week of": "09/12/22 - 09/18/22"},
+                    {"Class of Time - Non Pre-emptible": "Non Pre-emptible"},
+                    {"Weeks": "Start Date End Date"},
+                    {"Spots/Week": "M T W T F S S"},
+                    {"Spots": "1"},
+                    {"Ch": "KCCI"},
+                    {"Day Air Date": "Mo 09/12/22"},
+                    {"Air Time Description": "7-8P Mon CBS Prime A"},
+                    {"Length Ad-ID": "30 HHP221A3T01H"},
+                    {"Rate": "$900.00"},
+                    {"Type": "NM"},
+                    {"Total Spots": "45"},
+                    {"Gross Total": "$61,200.00"}
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {"Payment Terms": "30 Days"}
+                ]
+            }
+        ]
+    }
+]

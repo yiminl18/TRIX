@@ -275,12 +275,12 @@ def get_kv_pairs_csv(result_path):
 
 
 def get_key_val_path(raw_path, approach):
-    path = raw_path.replace('data/raw','result')
+    path = raw_path.replace('raw','intermediate')
     path = path.replace('.pdf', '_' + approach + '_kv.json')
     return path
 
 def get_baseline_result(raw_path, approach):
-    path = raw_path.replace('data/raw','result')
+    path = raw_path.replace('raw','intermediate')
     path = path.replace('.pdf','.csv') 
     file_name = path.split('/')[-1]
     file_name = approach + '_' + file_name
@@ -301,9 +301,9 @@ def eval(approach):
     for pdf_path in pdfs:
         result_path = ''
         if approach == 'TRIX':
-            result_path = pdf_path.replace('data/raw','out').replace('.pdf','_TWIX_kv.json')
+            result_path = pdf_path.replace('data/raw','out').replace('.pdf','_TRIX.json')
         if approach == 'Evaporate-Direct': 
-            result_path = pdf_path.replace('data/raw','out').replace('.pdf','_Evaporate_Direct_kv.json')
+            result_path = pdf_path.replace('data/raw','out').replace('.pdf','_Eva_D.json')
         #print(result_path)
         if(not os.path.isfile(result_path)):
             #print('result not exsist:', result_path)
@@ -362,14 +362,14 @@ def match_phrases(keys, phrases):
 def load_keys():
     root_path = get_root_path()
 
-    pdf_folder_path = root_path + '/data/raw/benchmark1'
+    pdf_folder_path = root_path + '/data/raw/open_benchmark'
     pdfs = scan_folder(pdf_folder_path,'.pdf')
     for pdf_path in pdfs:
         print(pdf_path)
         truth_path = pdf_path.replace('raw','truths').replace('.pdf','.json')
         if(not os.path.isfile(truth_path)):
             continue 
-        extracted_path = pdf_path.replace('raw','extracted').replace('.pdf','.txt')
+        extracted_path = pdf_path.replace('raw','intermediate').replace('.pdf','.txt')
 
         if(not os.path.isfile(extracted_path)):
             continue
@@ -378,7 +378,7 @@ def load_keys():
         truth = read_json(truth_path)
         truth_kvs, keys = get_leaf_nodes_paris(truth)
         keys = match_phrases(keys, phrases)
-        target_path = pdf_path.replace('data/raw','result').replace('.pdf','_key.txt')
+        target_path = pdf_path.replace('raw','intermediate').replace('.pdf','_key.txt')
         print(keys)
         print(target_path)
         write_list(target_path, keys)

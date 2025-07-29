@@ -1,0 +1,468 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    { "STATION": "KNMF-FM" },
+                    { "ORDER#": "3177953" },
+                    { "DATE": "10/05/2020" },
+                    { "MARKET": "Unmeasured Market" },
+                    { "AMOUNT": "$7,480.00" },
+                    { "AGENCY": "MEDIA FINANCIAL SERVICES" },
+                    { "REP": "Regional Reps Non-Rep" },
+                    { "SPOTS": "37" },
+                    { "INVOICE": "Invoices@mediafinancial.com" },
+                    { "MOD": "Stn Ver 1: Last" },
+                    { "SALES OFFICE": "PHILADELPHIA" },
+                    { "SLS PH": "412 421 2600" },
+                    { "SALESPERSON": "Roger Rafson" },
+                    { "SLS FAX": "412 421 6001" },
+                    { "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com" },
+                    { "MEDIA FINANCIAL SERVICES": "AGY CLI" },
+                    { "ADVERTISER": "People for Ben" },
+                    { "AGY PRD": "Est 8997 10/6-10/12 Candidate" },
+                    { "CONTRACT # FOR INVOICING 4390162": "INVOICE" },
+                    { "PRODUCT": "10-06-2020 TO 10/12/2020" },
+                    { "AGY EST": "8997" },
+                    { "FLIGHT": "[X]Unwired | [Spot ] [Mod" },
+                    { "TOT # OF DAYS": "7" },
+                    { "PRIM. DEMO": "Adults 35+" },
+                    { "SEC. DEMO": "[X]Cash | [ ]Trade" },
+                    { "SPOT TYPE": "LAST SENT: 10/05/2020 14:24" }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "MC": "1",
+                        "LN": "",
+                        "SPT TYP": "..T.....",
+                        "DAYS": "60",
+                        "START TIME": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": "60",
+                        "START": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "2",
+                        "LN": "",
+                        "SPT TYP": "..T.....",
+                        "DAYS": "60",
+                        "START TIME": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": "60",
+                        "START": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": "1",
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "3",
+                        "LN": "",
+                        "SPT TYP": "..T.....",
+                        "DAYS": "60",
+                        "START TIME": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START": "10/6/2020",
+                        "STOP": "10/6/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "1",
+                        "LN": "",
+                        "SPT TYP": "...W...",
+                        "DAYS": "60",
+                        "START TIME": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": "60",
+                        "START": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "2",
+                        "LN": "",
+                        "SPT TYP": "...W...",
+                        "DAYS": "60",
+                        "START TIME": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": "60",
+                        "START": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": "1",
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "3",
+                        "LN": "",
+                        "SPT TYP": "...W...",
+                        "DAYS": "60",
+                        "START TIME": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START": "10/7/2020",
+                        "STOP": "10/7/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "REPKT": "Unmeasured Market"
+                    },
+                    {
+                        "MARKET": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "MOD": "Sth Vtier 1: Last"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "ADVERTISER": "People for Ben"
+                    },
+                    {
+                        "PRODUCT": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "TOT # OF DAYS": "7"
+                    },
+                    {
+                        "PRIM. DEMO": "Adults 35+"
+                    },
+                    {
+                        "SEC. DEMO": ""
+                    },
+                    {
+                        "SPOT TYPE": ""
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "AMOUNT": "$1,480.00"
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "SLS PH": "412 421 2600"
+                    },
+                    {
+                        "SLS FAX": "412 421 6001"
+                    },
+                    {
+                        "AGY CL": ""
+                    },
+                    {
+                        "AGY PRD": ""
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "X[Unwired | [Spot | [Mod": ""
+                    },
+                    {
+                        "[X]Cash | [J]Trade": ""
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    },
+                    {
+                        "CONTRACT # FOR INVOICING": "4390162"
+                    },
+                    {
+                        "INVOICE": "MEDIA FINANCIAL SERVICES"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "DAY/#": "10/8/2020 To 10/8/2020",
+                        "MC LN": "1",
+                        "SPT TYP": "",
+                        "DAYS": "...T...",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": "60",
+                        "START STOP": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "DAY/#": "10/8/2020 To 10/8/2020",
+                        "MC LN": "2",
+                        "SPT TYP": "",
+                        "DAYS": "...T...",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": "60",
+                        "START STOP": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": "1",
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "DAY/#": "10/8/2020 To 10/8/2020",
+                        "MC LN": "3",
+                        "SPT TYP": "",
+                        "DAYS": "...T...",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START STOP": "10/8/2020",
+                        "STOP": "10/8/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "DAY/#": "10/9/2020 To 10/9/2020",
+                        "MC LN": "1",
+                        "SPT TYP": "",
+                        "DAYS": "....F..",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": "60",
+                        "START STOP": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "DAY/#": "10/9/2020 To 10/9/2020",
+                        "MC LN": "2",
+                        "SPT TYP": "",
+                        "DAYS": "....F..",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": "60",
+                        "START STOP": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": "1",
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "DAY/#": "10/9/2020 To 10/9/2020",
+                        "MC LN": "3",
+                        "SPT TYP": "",
+                        "DAYS": "....F..",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START STOP": "10/9/2020",
+                        "STOP": "10/9/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "DAY/#": "10/10/2020 To 10/10/2020",
+                        "MC LN": "4",
+                        "SPT TYP": "",
+                        "DAYS": ".....S.",
+                        "START": "6:00AM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START STOP": "10/10/2020",
+                        "STOP": "10/10/2020",
+                        "SP/DY": "6",
+                        "RATE": "$40",
+                        "TOTAL": "$240"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "STATION": "KNMF-FM"
+                    },
+                    {
+                        "MKT": "Unnamed Market"
+                    },
+                    {
+                        "REP": "Regional Reps Non-Rep"
+                    },
+                    {
+                        "MOD": "Stn Ver 1: Last"
+                    },
+                    {
+                        "SALES OFFICE": "PHILADELPHIA"
+                    },
+                    {
+                        "SALESPERSON": "Roger Rafson"
+                    },
+                    {
+                        "SLS EMAIL": "Roger.Rafson@GenMediaPartners.com"
+                    },
+                    {
+                        "ORDER#": "3177953"
+                    },
+                    {
+                        "DATE": "10/05/2020"
+                    },
+                    {
+                        "AMOUNT": "$1,480.00"
+                    },
+                    {
+                        "SPOTS": "37"
+                    },
+                    {
+                        "AGENCY": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "AGY CL": "People for Ben"
+                    },
+                    {
+                        "AGY PRD": "Est 8997 10/6-10/12 Candidate"
+                    },
+                    {
+                        "AGY EST": "8997"
+                    },
+                    {
+                        "FLIGHT": "10-06-2020 TO 10/12/2020"
+                    },
+                    {
+                        "SLS PH": "412 421 2600"
+                    },
+                    {
+                        "SLS FAX": "412 421 6001"
+                    },
+                    {
+                        "CONTRACT # FOR INVOICING": "4390162"
+                    },
+                    {
+                        "INVOICE": "MEDIA FINANCIAL SERVICES"
+                    },
+                    {
+                        "[X]Unwired": "[X]Spot | [ ]Mod"
+                    },
+                    {
+                        "SPOT TYPE": "[X]Cash | [ ]Trade"
+                    },
+                    {
+                        "LAST SENT": "10/05/2020 14:24"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "DAY#": "DAY#6",
+                        "DATE": "10/11/2020 To 10/11/2020",
+                        "TOT": "$240.00",
+                        "TOTAL SPOTS": "6"
+                    },
+                    {
+                        "MC": "4",
+                        "LN": "",
+                        "SPT TYP": ".....S",
+                        "DAYS": "",
+                        "START": "6:00AM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START": "10/11/2020",
+                        "STOP": "10/11/2020",
+                        "SP/DY": "6",
+                        "RATE": "$40",
+                        "TOTAL": "$240"
+                    },
+                    {
+                        "DAY#": "DAY#7",
+                        "DATE": "10/12/2020 To 10/12/2020",
+                        "TOT": "$200.00",
+                        "TOTAL SPOTS": "5"
+                    },
+                    {
+                        "MC": "1",
+                        "LN": "",
+                        "SPT TYP": "M.....",
+                        "DAYS": "",
+                        "START": "6:00AM",
+                        "END TIME": "10:00AM",
+                        "LEN": "60",
+                        "START": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    },
+                    {
+                        "MC": "2",
+                        "LN": "",
+                        "SPT TYP": "M.....",
+                        "DAYS": "",
+                        "START": "10:00AM",
+                        "END TIME": "3:00PM",
+                        "LEN": "60",
+                        "START": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": "1",
+                        "RATE": "$40",
+                        "TOTAL": "$40"
+                    },
+                    {
+                        "MC": "3",
+                        "LN": "",
+                        "SPT TYP": "M.....",
+                        "DAYS": "",
+                        "START": "3:00PM",
+                        "END TIME": "7:00PM",
+                        "LEN": "60",
+                        "START": "10/12/2020",
+                        "STOP": "10/12/2020",
+                        "SP/DY": "2",
+                        "RATE": "$40",
+                        "TOTAL": "$80"
+                    }
+                ]
+            }
+        ]
+    }
+]

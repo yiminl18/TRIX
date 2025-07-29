@@ -1,0 +1,712 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "CONTRACT NO. REV.": "1141-53980-1"
+                    },
+                    {
+                        "DATE PRINTED": "10/16/12"
+                    },
+                    {
+                        "PAGE": "1"
+                    },
+                    {
+                        "AGENCY (OR SERVICE) ACTING AS AGENT FOR": "STRATEGIC MEDIA PLACEMENT"
+                    },
+                    {
+                        "NAME": "7669 Stagers Loop"
+                    },
+                    {
+                        "ADDRESS": "Delaware"
+                    },
+                    {
+                        "CITY": "Blaine"
+                    },
+                    {
+                        "STATE": "OH"
+                    },
+                    {
+                        "ZIP CODE": "43015-7010"
+                    },
+                    {
+                        "COUNTRY": "USA"
+                    },
+                    {
+                        "CONTACT": "WHITNEY EVERSOLE"
+                    },
+                    {
+                        "LOCAL SALESPERSON": "Nicole Roy Pol"
+                    },
+                    {
+                        "AGENCY EST. NO.": "2930"
+                    },
+                    {
+                        "ADVERTISER (OR AGENCY AND ADVERTISER)": "BACHMANN FOR CONGRESS"
+                    },
+                    {
+                        "NAME": "PO Box 49756"
+                    },
+                    {
+                        "ADDRESS": "Blaine"
+                    },
+                    {
+                        "CITY": "MN"
+                    },
+                    {
+                        "STATE": "55449-0756"
+                    },
+                    {
+                        "COUNTRY": "USA"
+                    },
+                    {
+                        "PRODUCT": "BACHMANN FOR CONGRESS 10/16-22"
+                    },
+                    {
+                        "PRODUCT CODE": "1300"
+                    },
+                    {
+                        "Cancellation Notice": "Required"
+                    },
+                    {
+                        "Announcement": "28 days prior notice"
+                    },
+                    {
+                        "BROADCAST SCHEDULE STARTING 10/16/12 AND ENDING 10/22/12 NO. WEEKS:": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ITEM": "00211..",
+                        "DAYS": "MTWTF",
+                        "SPORTS PGM.": "",
+                        "TIME FROM": "04:58A",
+                        "TIME TO": "05:58A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/17/12-10/19/12",
+                        "PROGRAMS": "SUNRISE THIS MORNING",
+                        "TOTAL B'CST.": "4",
+                        "UNIT RATE": "250.00",
+                        "TOTAL VALUE($)": "1000.00"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "MTWTF",
+                        "SPORTS PGM.": "",
+                        "TIME FROM": "04:58A",
+                        "TIME TO": "05:58A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "SUNRISE THIS MORNING",
+                        "TOTAL B'CST.": "1",
+                        "UNIT RATE": "250.00",
+                        "TOTAL VALUE($)": "250.00"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "F",
+                        "SPORTS PGM.": "",
+                        "TIME FROM": "05:58A",
+                        "TIME TO": "07:00A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/17/12-10/19/12",
+                        "PROGRAMS": "THIS MORNING",
+                        "TOTAL B'CST.": "4",
+                        "UNIT RATE": "425.00",
+                        "TOTAL VALUE($)": "1700.00"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "F",
+                        "SPORTS PGM.": "",
+                        "TIME FROM": "05:58A",
+                        "TIME TO": "07:00A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "THIS MORNING",
+                        "TOTAL B'CST.": "1",
+                        "UNIT RATE": "425.00",
+                        "TOTAL VALUE($)": "425.00"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "MTWTF",
+                        "SPORTS PGM.": "",
+                        "TIME FROM": "07:00A",
+                        "TIME TO": "09:00A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/20/12-10/20/12",
+                        "PROGRAMS": "CBS THIS MORNING: SATURDAY",
+                        "TOTAL B'CST.": "1",
+                        "UNIT RATE": "400.00",
+                        "TOTAL VALUE($)": "400.00"
+                    },
+                    {
+                        "ITEM": "Sa",
+                        "DAYS": "05:58A",
+                        "SPORTS PGM.": "08:00A",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/20/12-10/20/12",
+                        "LENGTH": "CBS SUNDAY MORNING",
+                        "EFFECTIVE DATES": "1",
+                        "PROGRAMS": "1200.00",
+                        "TOTAL B'CST.": "1200.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "Su",
+                        "DAYS": "07:58A",
+                        "SPORTS PGM.": "09:30A",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/21/12-10/21/12",
+                        "LENGTH": "FACE THE NATION",
+                        "EFFECTIVE DATES": "1",
+                        "PROGRAMS": "1800.00",
+                        "TOTAL B'CST.": "1800.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "Su",
+                        "DAYS": "09:30A",
+                        "SPORTS PGM.": "10:00A",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/21/12-10/21/12",
+                        "LENGTH": "FACE THE NATION",
+                        "EFFECTIVE DATES": "2",
+                        "PROGRAMS": "950.00",
+                        "TOTAL B'CST.": "1900.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "00211..",
+                        "DAYS": "09:58A",
+                        "SPORTS PGM.": "11:00A",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/17/12-10/19/12",
+                        "LENGTH": "PRICE IS RIGHT",
+                        "EFFECTIVE DATES": "4",
+                        "PROGRAMS": "475.00",
+                        "TOTAL B'CST.": "1900.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "09:58A",
+                        "SPORTS PGM.": "11:00A",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/22/12-10/22/12",
+                        "LENGTH": "PRICE IS RIGHT",
+                        "EFFECTIVE DATES": "1",
+                        "PROGRAMS": "475.00",
+                        "TOTAL B'CST.": "475.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "00211..",
+                        "DAYS": "11:58A",
+                        "SPORTS PGM.": "12:30P",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/17/12-10/19/12",
+                        "LENGTH": "NOON NEWS",
+                        "EFFECTIVE DATES": "4",
+                        "PROGRAMS": "675.00",
+                        "TOTAL B'CST.": "2700.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "10000..",
+                        "DAYS": "11:58A",
+                        "SPORTS PGM.": "12:30P",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/22/12-10/22/12",
+                        "LENGTH": "NOON NEWS",
+                        "EFFECTIVE DATES": "1",
+                        "PROGRAMS": "675.00",
+                        "TOTAL B'CST.": "675.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    },
+                    {
+                        "ITEM": "01110..",
+                        "DAYS": "03:57P",
+                        "SPORTS PGM.": "05:00P",
+                        "TIME FROM": "30s",
+                        "TIME TO": "10/16/12-10/18/12",
+                        "LENGTH": "ELLEN DEGENERES",
+                        "EFFECTIVE DATES": "3",
+                        "PROGRAMS": "750.00",
+                        "TOTAL B'CST.": "2250.00",
+                        "UNIT RATE": "0",
+                        "TOTAL VALUE($)": "0"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "CONTRACT NO. REV.": "1141-5390-1"
+                    },
+                    {
+                        "DATE PRINTED": "10/16/12"
+                    },
+                    {
+                        "PAGE": "2"
+                    },
+                    {
+                        "Cancellation Notice Required": "Announcement 28 days prior notice"
+                    },
+                    {
+                        "AGENCY (OR SERVICE) ACTING AS AGENT FOR": "STRATEGIC MEDIA PLACEMENT"
+                    },
+                    {
+                        "ADDRESS": "7669 Stagers Loop Delaware OH 43015-7010"
+                    },
+                    {
+                        "CONTACT": "WHITNEY EVERSOL"
+                    },
+                    {
+                        "LOCAL SALES PERSON": "Nicole Roy Pol"
+                    },
+                    {
+                        "AGENCY EST. NO.": "2930"
+                    },
+                    {
+                        "ADVERTISER (OR AGENCY AND ADVERTISER)": "BACHMANN FOR CONGRESS"
+                    },
+                    {
+                        "ADDRESS": "P O Box 49756 Blaine MN 55449-0756 USA"
+                    },
+                    {
+                        "PRODUCTACHMANN FOR CONGRESS": "10/16-22"
+                    },
+                    {
+                        "CODE": "1300"
+                    },
+                    {
+                        "BROADCAST SCHEDULE STARTING 10/16/12 AND ENDING 10/22/12": "NO. WEEKS: 1"
+                    },
+                    {
+                        "ITEM": "15"
+                    },
+                    {
+                        "DAY": " ......"
+                    },
+                    {
+                        "DATE": "10/22/12-10/22/12"
+                    },
+                    {
+                        "FROM TIME": "03:57P"
+                    },
+                    {
+                        "TO TIME": "05:00P"
+                    },
+                    {
+                        "LENGTH": "30s"
+                    },
+                    {
+                        "EFFECTIVE DATES": "10/22/12-10/22/12"
+                    },
+                    {
+                        "PROGRAMS": "ELLEN DEGENERES"
+                    },
+                    {
+                        "TOTAL COST": "750.00"
+                    },
+                    {
+                        "UNIT RATE": "750.00"
+                    },
+                    {
+                        "TOTAL VALUE)": "750.00"
+                    },
+                    {
+                        "ACCEPTED BY AGENCY": "AS AGENT FOR [ADVERTISER]"
+                    },
+                    {
+                        "ACCEPTED BY STATION": ""
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "ITEM": "16",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "04:59P",
+                        "TO TIME": "05:30P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "M-F 5PM NEWS",
+                        "TOTAL COST": "1650.00",
+                        "UNIT RATE": "1650.00",
+                        "TOTAL VALUE)": "6600.00"
+                    },
+                    {
+                        "ITEM": "17",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "04:59P",
+                        "TO TIME": "05:30P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "M-F 5PM NEWS",
+                        "TOTAL COST": "1650.00",
+                        "UNIT RATE": "1650.00",
+                        "TOTAL VALUE)": "1650.00"
+                    },
+                    {
+                        "ITEM": "18",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "05:30P",
+                        "TO TIME": "05:58P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "CBS EVENING NEWS",
+                        "TOTAL COST": "2500.00",
+                        "UNIT RATE": "2500.00",
+                        "TOTAL VALUE)": "10000.00"
+                    },
+                    {
+                        "ITEM": "19",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "05:30P",
+                        "TO TIME": "05:58P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "CBS EVENING NEWS",
+                        "TOTAL COST": "2500.00",
+                        "UNIT RATE": "2500.00",
+                        "TOTAL VALUE)": "2500.00"
+                    },
+                    {
+                        "ITEM": "20",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "05:59P",
+                        "TO TIME": "06:30P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "6PM NEWS",
+                        "TOTAL COST": "2200.00",
+                        "UNIT RATE": "2200.00",
+                        "TOTAL VALUE)": "8800.00"
+                    },
+                    {
+                        "ITEM": "21",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "05:59P",
+                        "TO TIME": "06:30P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "6PM NEWS",
+                        "TOTAL COST": "2200.00",
+                        "UNIT RATE": "2200.00",
+                        "TOTAL VALUE)": "2200.00"
+                    },
+                    {
+                        "ITEM": "22",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "06:27P",
+                        "TO TIME": "07:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "WHEEL OF FORTUNE",
+                        "TOTAL COST": "3100.00",
+                        "UNIT RATE": "3100.00",
+                        "TOTAL VALUE)": "12400.00"
+                    },
+                    {
+                        "ITEM": "23",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "06:27P",
+                        "TO TIME": "07:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "WHEEL OF FORTUNE",
+                        "TOTAL COST": "3100.00",
+                        "UNIT RATE": "3100.00",
+                        "TOTAL VALUE)": "3100.00"
+                    },
+                    {
+                        "ITEM": "24",
+                        "DAY": "Sa",
+                        "DATE": "10/20/12-10/20/12",
+                        "FROM TIME": "11:00A",
+                        "TO TIME": "06:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/20/12-10/20/12",
+                        "PROGRAMS": "NCAA COLLEGE FOOTBALL",
+                        "TOTAL COST": "300.00",
+                        "UNIT RATE": "300.00",
+                        "TOTAL VALUE)": "600.00"
+                    },
+                    {
+                        "ITEM": "25",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "10:00P",
+                        "TO TIME": "10:35P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "LATE NEWS M-F/SU",
+                        "TOTAL COST": "2000.00",
+                        "UNIT RATE": "2000.00",
+                        "TOTAL VALUE)": "8000.00"
+                    },
+                    {
+                        "ITEM": "26",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "10:00P",
+                        "TO TIME": "10:35P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "LATE NEWS M-F/SU",
+                        "TOTAL COST": "2700.00",
+                        "UNIT RATE": "2700.00",
+                        "TOTAL VALUE)": "2700.00"
+                    },
+                    {
+                        "ITEM": "27",
+                        "DAY": "Su",
+                        "DATE": "10/21/12-10/21/12",
+                        "FROM TIME": "10:35P",
+                        "TO TIME": "11:05P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/21/12-10/21/12",
+                        "PROGRAMS": "WCCO 4 NEWS AT 10:30",
+                        "TOTAL COST": "900.00",
+                        "UNIT RATE": "900.00",
+                        "TOTAL VALUE)": "900.00"
+                    },
+                    {
+                        "ITEM": "28",
+                        "DAY": "Sa",
+                        "DATE": "10/20/12-10/20/12",
+                        "FROM TIME": "10:00P",
+                        "TO TIME": "10:35P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/20/12-10/20/12",
+                        "PROGRAMS": "LATE NEWS SAT",
+                        "TOTAL COST": "2200.00",
+                        "UNIT RATE": "2200.00",
+                        "TOTAL VALUE)": "2200.00"
+                    },
+                    {
+                        "ITEM": "29",
+                        "DAY": "0111...",
+                        "DATE": "10/16/12-10/19/12",
+                        "FROM TIME": "10:35P",
+                        "TO TIME": "11:38P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "LATE NIGHT WITH DAVID",
+                        "TOTAL COST": "650.00",
+                        "UNIT RATE": "650.00",
+                        "TOTAL VALUE)": "2600.00"
+                    },
+                    {
+                        "ITEM": "30",
+                        "DAY": "10000...",
+                        "DATE": "10/22/12-10/22/12",
+                        "FROM TIME": "10:35P",
+                        "TO TIME": "11:38P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/22/12-10/22/12",
+                        "PROGRAMS": "LATE NIGHT WITH DAVID",
+                        "TOTAL COST": "650.00",
+                        "UNIT RATE": "650.00",
+                        "TOTAL VALUE)": "650.00"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "DAYS": "T",
+                        "SPOTS/PWK": "1",
+                        "FROM": "08:00P",
+                        "TO": "09:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/16/12",
+                        "PROGRAMS": "NCIS: LOS ANGELES",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "7400.00",
+                        "TOTAL VALUE(1)": "7400.00"
+                    },
+                    {
+                        "DAYS": "W",
+                        "SPOTS/PWK": "1",
+                        "FROM": "06:58P",
+                        "TO": "07:58P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/17/12-10/17/12",
+                        "PROGRAMS": "SURVIVOR: PHILIPPINES",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "4500.00",
+                        "TOTAL VALUE(1)": "4500.00"
+                    },
+                    {
+                        "DAYS": "W",
+                        "SPOTS/PWK": "1",
+                        "FROM": "09:00P",
+                        "TO": "10:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/17/12-10/17/12",
+                        "PROGRAMS": "CSI: CRIME SCENE",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "4150.00",
+                        "TOTAL VALUE(1)": "4150.00"
+                    },
+                    {
+                        "DAYS": "F",
+                        "SPOTS/PWK": "1",
+                        "FROM": "08:00P",
+                        "TO": "09:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/19/12-10/19/12",
+                        "PROGRAMS": "CSI: NY",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "3500.00",
+                        "TOTAL VALUE(1)": "3500.00"
+                    },
+                    {
+                        "DAYS": "Su",
+                        "SPOTS/PWK": "1",
+                        "FROM": "05:58P",
+                        "TO": "07:00P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/21/12-10/21/12",
+                        "PROGRAMS": "SIXTY MINUTES SUNDAY",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "5500.00",
+                        "TOTAL VALUE(1)": "5500.00"
+                    },
+                    {
+                        "DAYS": "Su",
+                        "SPOTS/PWK": "1",
+                        "FROM": "08:30P",
+                        "TO": "09:30P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/21/12-10/21/12",
+                        "PROGRAMS": "THE GOOD WIFE",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "3700.00",
+                        "TOTAL VALUE(1)": "3700.00"
+                    },
+                    {
+                        "DAYS": "T-F",
+                        "SPOTS/PWK": "2",
+                        "FROM": "03:58P",
+                        "TO": "03:57P",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "DR. PHIL",
+                        "TOTAL BDCST.": "3",
+                        "UNIT RATE": "475.00",
+                        "TOTAL VALUE(1)": "1425.00"
+                    },
+                    {
+                        "DAYS": "T",
+                        "SPOTS/PWK": "1",
+                        "FROM": "09:00A",
+                        "TO": "09:58A",
+                        "LENGTH": "30s",
+                        "EFFECTIVE DATES": "10/16/12-10/19/12",
+                        "PROGRAMS": "JEFF PROBST SHOW",
+                        "TOTAL BDCST.": "1",
+                        "UNIT RATE": "350.00",
+                        "TOTAL VALUE(1)": "350.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "CONTRACT NO. REV.": "1141-53980-1"
+                    },
+                    {
+                        "DATE PRINTED": "10/16/12"
+                    },
+                    {
+                        "PAGE": "3"
+                    },
+                    {
+                        "AGENCY (OR SERVICE) ACTING AS AGENT FOR": "170490"
+                    },
+                    {
+                        "ADVERTISER (OR AGENCY AND ADVERTISER)": "BACHMANN FOR CONGRESS"
+                    },
+                    {
+                        "NAME": "STRATEGIC MEDIA PLACEMENT"
+                    },
+                    {
+                        "ADDRESS": "7669 Stagers Loop"
+                    },
+                    {
+                        "CITY_STATE_ZIP": "Delaware OH 43015-7010"
+                    },
+                    {
+                        "CONTACT": "WHITNEY EVERSOLE"
+                    },
+                    {
+                        "AGENCY EST. NO.": "2930"
+                    },
+                    {
+                        "PRODUCT": "BACHMANN FOR CONGRESS 10/16-22"
+                    },
+                    {
+                        "PRODUCT CODE": "1300"
+                    },
+                    {
+                        "Cancellation Notice Required": "Announcement 28 days prior notice"
+                    },
+                    {
+                        "BROADCAST SCHEDULE STARTING 10/16/12 AND ENDING 10/22/12 NO. WEEKS:": "1"
+                    },
+                    {
+                        "Qtr 4'12": "110775.00"
+                    },
+                    {
+                        "Oct": "110775.00"
+                    },
+                    {
+                        "Nov": ".00"
+                    },
+                    {
+                        "Dec": ".00"
+                    },
+                    {
+                        "Total": "110775.00"
+                    },
+                    {
+                        "GRAND TOTAL": "110775.00"
+                    }
+                ]
+            }
+        ]
+    }
+]

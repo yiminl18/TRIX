@@ -1,0 +1,706 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Norfolk-Virginia Beach"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Contact": "Eileen Baggett"
+                    },
+                    {
+                        "Email": "eileen.baggett@wavy.com"
+                    },
+                    {
+                        "Phone": "757-393-1010"
+                    },
+                    {
+                        "Fax": "757-396-6151"
+                    },
+                    {
+                        "Direct": ""
+                    },
+                    {
+                        "Estimate ID": "2415"
+                    },
+                    {
+                        "Station Order Revised": "Jody Wagner for Mayor"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 2:52:48 PM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "WAVY 5a News",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$450.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "5"
+                    },
+                    {
+                        "Program Name": "WAVY 6a News",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$770.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "Today Show",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$770.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "1",
+                        "Sun": "",
+                        "Total": "7"
+                    },
+                    {
+                        "Program Name": "Sat 6a News",
+                        "Days": "Sa",
+                        "DP Length": "30",
+                        "Gross Rate": "$240.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "1",
+                        "Sun": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Sun 6a News",
+                        "Days": "Su",
+                        "DP Length": "30",
+                        "Gross Rate": "$240.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "1",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Hampton Roads Sho",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$140.00",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "3"
+                    },
+                    {
+                        "Program Name": "WAVY 12p News",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$185.00",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "1",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "2"
+                    },
+                    {
+                        "Program Name": "The Real",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$160.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "WAVY 4p News",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$385.00",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "5"
+                    },
+                    {
+                        "Program Name": "WAVY 5p News",
+                        "Days": "M-F",
+                        "DP Length": "30",
+                        "Gross Rate": "$695.00",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Wed": "1",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "4"
+                    },
+                    {
+                        "Program Name": "WAVY 5:30p News",
+                        "Days": "EN",
+                        "DP Length": "30",
+                        "Gross Rate": "$695.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Total": "5"
+                    }
+                ]
+            },
+            {"record" : 2},  
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Norfolk-Virginia Beach"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Estimate ID": "2415"
+                    },
+                    {
+                        "Contact": "Eileen Baggett"
+                    },
+                    {
+                        "Email": "eileen.baggett@wavy.com"
+                    },
+                    {
+                        "Phone": "757-393-1010"
+                    },
+                    {
+                        "Fax": "757-396-6151"
+                    },
+                    {
+                        "Station": "WAVY-TV"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Please submit all invoices electronically.": "Mary Wittemyer"
+                    },
+                    {
+                        "BlueWest Media": "5130 E. 18th Ave., Denver, CO 80220"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 2:52:48 PM"
+                    },
+                    {
+                        "mary@bluewestmedia.com": "WAVY-TV"
+                    },
+                    {
+                        "Page": "2 of 2"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Days": "Mon",
+                        "Oct 26": "2",
+                        "Oct 27": "",
+                        "Oct 28": "1",
+                        "Oct 29": "1",
+                        "Oct 30": "1",
+                        "Oct 31": "1",
+                        "Nov 01": "",
+                        "Nov 02": "2",
+                        "Nov 03": "1",
+                        "Total": "8"
+                    },
+                    {
+                        "Days": "Tue",
+                        "Oct 26": "",
+                        "Oct 27": "1",
+                        "Oct 28": "",
+                        "Oct 29": "",
+                        "Oct 30": "",
+                        "Oct 31": "",
+                        "Nov 01": "",
+                        "Nov 02": "",
+                        "Nov 03": "1",
+                        "Total": "2"
+                    },
+                    {
+                        "Days": "Wed",
+                        "Oct 26": "1",
+                        "Oct 27": "",
+                        "Oct 28": "",
+                        "Oct 29": "",
+                        "Oct 30": "",
+                        "Oct 31": "",
+                        "Nov 01": "",
+                        "Nov 02": "",
+                        "Nov 03": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Days": "Thu",
+                        "Oct 26": "",
+                        "Oct 27": "1",
+                        "Oct 28": "",
+                        "Oct 29": "",
+                        "Oct 30": "",
+                        "Oct 31": "",
+                        "Nov 01": "",
+                        "Nov 02": "",
+                        "Nov 03": "1",
+                        "Total": "2"
+                    },
+                    {
+                        "Days": "Fri",
+                        "Oct 26": "",
+                        "Oct 27": "",
+                        "Oct 28": "1",
+                        "Oct 29": "",
+                        "Oct 30": "1",
+                        "Oct 31": "",
+                        "Nov 01": "",
+                        "Nov 02": "",
+                        "Nov 03": "",
+                        "Total": "2"
+                    },
+                    {
+                        "Days": "Sat",
+                        "Oct 26": "1",
+                        "Oct 27": "",
+                        "Oct 28": "",
+                        "Oct 29": "",
+                        "Oct 30": "",
+                        "Oct 31": "1",
+                        "Nov 01": "1",
+                        "Nov 02": "",
+                        "Nov 03": "",
+                        "Total": "3"
+                    },
+                    {
+                        "Days": "Sun",
+                        "Oct 26": "",
+                        "Oct 27": "",
+                        "Oct 28": "",
+                        "Oct 29": "",
+                        "Oct 30": "",
+                        "Oct 31": "",
+                        "Nov 01": "1",
+                        "Nov 02": "",
+                        "Nov 03": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Sat 6p News",
+                        "DP": "EN",
+                        "Length": "30",
+                        "Gross Rate": "$300.00",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Sat 11p News",
+                        "DP": "LN",
+                        "Length": "30",
+                        "Gross Rate": "$615.00",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Sun 11p News",
+                        "DP": "LN",
+                        "Length": "30",
+                        "Gross Rate": "$615.00",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Access Hollywood",
+                        "DP": "PA",
+                        "Length": "30",
+                        "Gross Rate": "$420.00",
+                        "Total": "3"
+                    },
+                    {
+                        "Station Gross Totals": "",
+                        "DP": "",
+                        "Length": "",
+                        "Gross Rate": "$28,180.00",
+                        "Total": "54"
+                    },
+                    {
+                        "Station Net": "",
+                        "DP": "",
+                        "Length": "",
+                        "Gross Rate": "$23,953.00",
+                        "Total": ""
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "Sun 7A News",
+                        "DP": "EM",
+                        "Days": "Su",
+                        "Length": "30",
+                        "Gross Rate": "$30.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "1",
+                        "Sun": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "25 Words",
+                        "DP": "DT",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Gross Rate": "$15.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "1",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Total": "7"
+                    },
+                    {
+                        "Program Name": "Wknd TMZ",
+                        "DP": "DT",
+                        "Days": "Su",
+                        "Length": "30",
+                        "Gross Rate": "$15.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "1",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Goldbergs",
+                        "DP": "EF",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Mon": "1",
+                        "Tue": "",
+                        "Total": "3"
+                    },
+                    {
+                        "Program Name": "Friends",
+                        "DP": "EF",
+                        "Days": "Sa",
+                        "Length": "30",
+                        "Gross Rate": "$8.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "1",
+                        "Sun": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Goldbergs",
+                        "DP": "EF",
+                        "Days": "Su",
+                        "Length": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "1",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Friends",
+                        "DP": "EF",
+                        "Days": "Su",
+                        "Length": "30",
+                        "Gross Rate": "$38.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "",
+                        "Sun": "1",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Mom",
+                        "DP": "LF",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "Mike & Molly",
+                        "DP": "LF",
+                        "Days": "M-F",
+                        "Length": "30",
+                        "Gross Rate": "$18.00",
+                        "Mon": "1",
+                        "Tue": "1",
+                        "Wed": "1",
+                        "Thu": "1",
+                        "Fri": "1",
+                        "Sat": "",
+                        "Sun": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "6"
+                    },
+                    {
+                        "Program Name": "Andy Griffith",
+                        "DP": "PA",
+                        "Days": "Sa",
+                        "Length": "30",
+                        "Gross Rate": "$60.00",
+                        "Mon": "",
+                        "Tue": "",
+                        "Wed": "",
+                        "Thu": "",
+                        "Fri": "",
+                        "Sat": "1",
+                        "Sun": "",
+                        "Mon": "",
+                        "Tue": "",
+                        "Total": "1"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Lexington-Fayette"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Contact": "Benita Tucker"
+                    },
+                    {
+                        "Email": "Benita.Tucker@WKYT.com"
+                    },
+                    {
+                        "Phone": "859-299-0411"
+                    },
+                    {
+                        "Fax": "859-299-2494"
+                    },
+                    {
+                        "Direct": "859-566-1209"
+                    },
+                    {
+                        "Station Order Revised": "Josh Hicks for Congress"
+                    },
+                    {
+                        "Estimate ID": "2417"
+                    },
+                    {
+                        "Please submit all invoices electronically. Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Mary Wittemyer": "BlueWest Media"
+                    },
+                    {
+                        "5130 E. 18th Ave., Denver, CO 80220": ""
+                    },
+                    {
+                        "mary@bluewestmedia.com": ""
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 11:32:44 AM"
+                    },
+                    {
+                        "Page": "1 of 2"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Market": "Lexington-Fayette"
+                    },
+                    {
+                        "Flight Dates": "10/26/2020 to 11/3/2020"
+                    },
+                    {
+                        "Estimate ID": "2417"
+                    },
+                    {
+                        "Contact": "Benita Tucker"
+                    },
+                    {
+                        "Email": "Benita.Tucker@WKYT.com"
+                    },
+                    {
+                        "Phone": "859-299-0411"
+                    },
+                    {
+                        "Fax": "859-299-2494"
+                    },
+                    {
+                        "Direct": "859-566-1209"
+                    },
+                    {
+                        "Agency ID": "TV17137 or 9917137"
+                    },
+                    {
+                        "Date/Time Sent": "10/22/2020 11:32:44 AM"
+                    },
+                    {
+                        "Mary Wittemyer": "BlueWest Media"
+                    },
+                    {
+                        "Address": "5130 E. 18th Ave., Denver, CO 80220"
+                    },
+                    {
+                        "Email": "mary@bluewestmedia.com"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "Andy Griffith",
+                        "Days": "PA",
+                        "DP Length": "30",
+                        "Gross Rate": "$60.00",
+                        "Mon Oct 26": "1",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "Andy Griffith",
+                        "Days": "PT",
+                        "DP Length": "30",
+                        "Gross Rate": "$38.00",
+                        "Mon Oct 26": "1",
+                        "Total": "1"
+                    },
+                    {
+                        "Program Name": "NCIS:NO",
+                        "Days": "PT",
+                        "DP Length": "30",
+                        "Gross Rate": "$15.00",
+                        "Mon Oct 26": "1",
+                        "Total": "1"
+                    },
+                    {
+                        "Station Gross Totals": "$657.00",
+                        "Station Gross Totals Days Mon Oct 26": "3",
+                        "Station Gross Totals Days Tue Oct 27": "4",
+                        "Station Gross Totals Days Wed Oct 28": "3",
+                        "Station Gross Totals Days Thu Oct 29": "3",
+                        "Station Gross Totals Days Fri Oct 30": "4",
+                        "Station Gross Totals Days Sat Oct 31": "5",
+                        "Station Gross Totals Days Sun Nov 01": "4",
+                        "Station Gross Totals Days Mon Nov 02": "5",
+                        "Station Gross Totals Days Tue Nov 03": "1",
+                        "Station Gross Totals Total": "32"
+                    },
+                    {
+                        "Station Net": "$558.45"
+                    }
+                ]
+            }
+        ]
+    }
+]

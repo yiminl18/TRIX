@@ -1,0 +1,1032 @@
+
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    { "Print Date": "04/12/22" },
+                    { "Page": "1 of 6" },
+                    { "Contract # / Revision": "931552 / _______" },
+                    { "Alt Order #": "10373344" },
+                    { "Advertiser": "POLJ Mandrell/Sen/OH-A" },
+                    { "Original Date / Revision": "04/12/22 / 04/12/22" },
+                    { "Contract Dates": "04/12/22 - 04/18/22" },
+                    { "Estimate #": "3189" },
+                    { "Product": "EST 3189 4/12-4/18" },
+                    { "Billing Cycle": "WEEKLY" },
+                    { "Billing Calendar": "Broadcast" },
+                    { "Cash/Trade": "Cash" },
+                    { "Property": "WHIO-TV" },
+                    { "Account Executive": "Dallas CoxReps" },
+                    { "Sales Office": "CoxReps Dallas" },
+                    { "Special Handling": "" },
+                    { "Demographic": "Adults 55+" },
+                    { "Agy Code": "TY16670" },
+                    { "Advertiser Code": "302" },
+                    { "Product #:": "403" },
+                    { "Agency Ref": "P00026204" },
+                    { "Advertiser Ref": "P0009931-A" }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    { "Line #": "D 1", "Start Date": "WHIO 04/12/22", "End Date": "04/18/22", "Description": "Daybreak Edition 6a", "Start/End Time": "6:00 AM-7:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 2", "Start Date": "WHIO 04/12/22", "End Date": "04/12/22", "Description": "Daybreak Edition 6a", "Start/End Time": "6:00 AM-7:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 3", "Start Date": "WHIO 04/13/22", "End Date": "04/13/22", "Description": "Daybreak Edition 6a", "Start/End Time": "6:00 AM-7:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 4", "Start Date": "WHIO 04/14/22 ", "End Date": "04/14/22", "Description": "Daybreak Edition 6a", "Start/End Time": "6:00 AM-7:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 5", "Start Date": " WHIO 04/15/22", "End Date": "04/15/22", "Description": "Daybreak Edition 6a", "Start/End Time": "6:00 AM-7:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 6", "Start Date": "WHIO 04/18/22", "End Date": "04/18/22", "Description": "CBS This Morning", "Start/End Time": "7:00 AM-8:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 7", "Start Date": "WHIO 04/12/22", "End Date": "04/12/22", "Description": "CBS This Morning ", "Start/End Time": "7:00 AM-8:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 8", "Start Date": "WHIO 04/14/22", "End Date": "04/14/22", "Description": "CBS This Morning", "Start/End Time": "7:00 AM-8:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 9", "Start Date": "WHIO 04/13/22", "End Date": "04/13/22", "Description": "CBS This Morning", "Start/End Time": "8:00 AM-9:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 10", "Start Date": "WHIO 04/15/22", "End Date": "04/15/22", "Description": "CBS This Morning", "Start/End Time": "8:00 AM-9:00 AM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "11", "Start Date": "WHIO 04/16/22", "End Date": "04/16/22", "Description": "NewsCenter 7 Sat 8a", "Start/End Time": "8:00 AM-10:00 AM", "Day": "Weekdays", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "1", "Amount": "$250.00" },
+                    { "Line #": "12", "Start Date": "WHIO 04/17/22", "End Date": "04/17/22", "Description": "Face The Nation", "Start/End Time": "10:30 AM-11:30 A", "Day": "Weekdays", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "1", "Amount": "$300.00" },
+                    { "Line #": "Week: 04/11/22", "Start Date": "04/11/22", "End Date": "04/17/22", "Description": "NewsCenter 7 noon 12-12:30 P", "Start/End Time": "M-F Sat", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 13", "Start Date": "WHIO 04/18/22", "End Date": "04/18/22", "Description": "NewsCenter 7 @ noon12:00 PM-12:30 P", "Start/End Time": "", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 14", "Start Date": "WHIO 04/12/22", "End Date": "04/12/22", "Description": "NewsCenter 7 @ noon12:00 PM-12:30 P", "Start/End Time": "", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 15", "Start Date": "WHIO 04/13/22", "End Date": "04/13/22", "Description": "NewsCenter 7 @ noon12:00 PM-12:30 P", "Start/End Time": "", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 16", "Start Date": "WHIO 04/14/22", "End Date": "04/14/22", "Description": "NewsCenter 7 @ noon12:00 PM-12:30 P", "Start/End Time": "", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 17", "Start Date": "WHIO 04/15/22", "End Date": "04/15/22", "Description": "NewsCenter 7 @ noon12:00 PM-12:30 P", "Start/End Time": "", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 18", "Start Date": "WHIO 04/18/22", "End Date": "04/18/22", "Description": "NewsCenter 7 6p", "Start/End Time": "6:00 PM-6:30 PM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 19", "Start Date": "WHIO 04/12/22", "End Date": "04/12/22", "Description": "NewsCenter 7 6p", "Start/End Time": "6:00 PM-6:30 PM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 20", "Start Date": "WHIO 04/13/22", "End Date": "04/13/22", "Description": "NewsCenter 7 6p", "Start/End Time": "6:00 PM-6:30 PM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" },
+                    { "Line #": "D 21", "Start Date": "WHIO 04/14/22", "End Date": "04/14/22", "Description": "NewsCenter 7 6p ", "Start/End Time": "6:00 PM-6:30 PM", "Day": "30", "Length": ":30", "Spots/Week": "30", "Rate": "P-05", "PCode": "NM", "Type Spots": "0", "Amount": "$0.00" }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract/Revision": "931552 /"
+                    },
+                    {
+                        "Alt Order#": "10373344"
+                    },
+                    {
+                        "Advertiser": "POLJ/MANDEL/RS/EN/OH-A"
+                    },
+                    {
+                        "Original Date / Revision": "04/12/22 / 04/12/22"
+                    },
+                    {
+                        "Contract Dates": "04/12/22 - 04/18/22"
+                    },
+                    {
+                        "Product": "EST 3189 4/12-4/18"
+                    },
+                    {
+                        "Estimate #": "3189"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line #": "22",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End Time": "6:00 PM-6:30 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "350.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "350.00"
+                    },
+                    {
+                        "Line #": "23",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/16/22",
+                        "End Date": "04/16/22",
+                        "Description": "NewsCenter 7 6p Sa",
+                        "Start/End Time": "6:00 PM-7:00 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "375.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "375.00"
+                    },
+                    {
+                        "Line #": "24",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/17/22",
+                        "End Date": "04/17/22",
+                        "Description": "WeekSa-Su Early News",
+                        "Start/End Time": "6:00 PM-7:00 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "375.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "375.00"
+                    },
+                    {
+                        "Line #": "25",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "M-Su 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "26",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/19/22",
+                        "End Date": "04/19/22",
+                        "Description": "M-F 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "27",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "M-F 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "28",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "M-F 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "29",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "M-F 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "30",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/16/22",
+                        "End Date": "04/16/22",
+                        "Description": "M-Su 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "31",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/17/22",
+                        "End Date": "04/17/22",
+                        "Description": "M-Su 11p News",
+                        "Start/End Time": "11:00 PM-11:35 PM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "750.00",
+                        "PCCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "750.00"
+                    },
+                    {
+                        "Line #": "32",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "Daybreak Edition 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "475.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "475.00"
+                    },
+                    {
+                        "Line #": "33",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/19/22",
+                        "End Date": "04/19/22",
+                        "Description": "Daybreak Edition 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "475.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "475.00"
+                    },
+                    {
+                        "Line #": "34",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "Daybreak Edition 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "475.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "475.00"
+                    },
+                    {
+                        "Line #": "35",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "Daybreak Edition 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "475.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "475.00"
+                    },
+                    {
+                        "Line #": "36",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "Daybreak Edition 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "475.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "475.00"
+                    },
+                    {
+                        "Line #": "37",
+                        "Ch ID": "WHIO",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "7:00 AM-8:00 AM",
+                        "Days": "",
+                        "Length": ":30",
+                        "Week": "Weekdays",
+                        "Spots/Week": "1",
+                        "Rate": "400.00",
+                        "PCCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "400.00"
+                    }
+                ]
+            },
+            {"record" : 3},  
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Print Date": "04/12/22"
+                    },
+                    {
+                        "Page": "3 of 6"
+                    },
+                    {
+                        "Contract # / Revision": "931552 / 1"
+                    },
+                    {
+                        "Alt Order #": "10373344"
+                    },
+                    {
+                        "PO/Authorization/Rep/Sen/OH-A": "POJL/ Mandle/IR/Sen/OH-A"
+                    },
+                    {
+                        "Original Date / Revision Date": "04/12/22 / 04/12/22"
+                    },
+                    {
+                        "Contract Dates": "04/12/22 - 04/18/22"
+                    },
+                    {
+                        "Product": "EST 3189 4/12-4/18"
+                    },
+                    {
+                        "Estimate #": "3189"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line #": "38",
+                        "Ch": "WHOI Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "7:00 AM-8:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "39",
+                        "Ch": "WHOI Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "7:00 AM-8:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "40",
+                        "Ch": "WHOI Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "7:00 AM-8:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "41",
+                        "Ch": "WHOI Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "8:00 AM-9:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "42",
+                        "Ch": "WHOI Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "8:00 AM-9:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "43",
+                        "Ch": "WHOI Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "8:00 AM-9:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$400.00",
+                        "PCode": "P-04",
+                        "Type Spots": "NM",
+                        "Amount": "$400.00"
+                    },
+                    {
+                        "Line #": "44",
+                        "Ch": "WHOI Date": "04/16/22",
+                        "End Date": "04/16/22",
+                        "Description": "NewsCenter 7 Sat 6a",
+                        "Start/End Time": "6:00 AM-7:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$175.00",
+                        "PCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "$175.00"
+                    },
+                    {
+                        "Line #": "45",
+                        "Ch": "WHOI Date": "04/16/22",
+                        "End Date": "04/16/22",
+                        "Description": "CBS This Morning Sa",
+                        "Start/End Time": "7:00 AM-12:00 PM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$225.00",
+                        "PCode": "P-05",
+                        "Type Spots": "NM",
+                        "Amount": "$225.00"
+                    },
+                    {
+                        "Line #": "46",
+                        "Ch": "WHOI Date": "04/17/22",
+                        "End Date": "04/17/22",
+                        "Description": "CBS This Morning Su",
+                        "Start/End Time": "9:00 AM-10:30 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$325.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$325.00"
+                    },
+                    {
+                        "Line #": "47",
+                        "Ch": "WHOI Date": "04/17/22",
+                        "End Date": "04/17/22",
+                        "Description": "CBS This Morning Su",
+                        "Start/End Time": "11:30 AM-12:00 P",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$150.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$150.00"
+                    },
+                    {
+                        "Line #": "48",
+                        "Ch": "WHOI Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "9:00 AM-10:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$200.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$200.00"
+                    },
+                    {
+                        "Line #": "49",
+                        "Ch": "WHOI Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "9:00 AM-10:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$200.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$200.00"
+                    },
+                    {
+                        "Line #": "50",
+                        "Ch": "WHOI Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "9:00 AM-10:00 AM",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$200.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$200.00"
+                    },
+                    {
+                        "Line #": "51",
+                        "Ch": "WHOI Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "10:00 AM-11:00 A",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$225.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$225.00"
+                    },
+                    {
+                        "Line #": "52",
+                        "Ch": "WHOI Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "10:00 AM-11:00 A",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$225.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$225.00"
+                    },
+                    {
+                        "Line #": "53",
+                        "Ch": "WHOI Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "CBS This Morning",
+                        "Start/End Time": "10:00 AM-11:00 A",
+                        "Days": "Weekdays",
+                        "Length": ":30",
+                        "Spots/Week": "1",
+                        "Rate": "$225.00",
+                        "PCode": "P-O5",
+                        "Type Spots": "NM",
+                        "Amount": "$225.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Disclaimer": "* (Line # Transactions: N = New, E = Edited, D = Deleted) CMG does not accept advertising contracts that impermissibly discriminate on the basis of race or ethnicity. This non-discrimination provision is a condition of each advertising contract with CMG whether verbal or written, unless otherwise specified in writing."
+                    },
+                    {
+                        "Thank You Note": "Notwithstanding to whom bills are rendered, advertiser, agency and service, jointly and severally, shall remain obligated to pay CMG within terms specified and until payment in full is received by CMG. Payment by advertiser to agency or to service or payment by agency to service shall not constitute payment to CMG. Cox Media Group will not be bound by conditions, printed or otherwise on contracts, insertion orders, copy instructions or any correspondence when such conflict with the above terms and conditions."
+                    },
+                    {
+                        "Powered By": "WideOrbit"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "54",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/13/22",
+                        "End Date": "04/17/22",
+                        "Description": "The Price is Right",
+                        "Start/End Time": "11:00 AM-12:00 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$225.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$475.00"
+                    },
+                    {
+                        "Line": "55",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/22/22",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$475.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$625.00"
+                    },
+                    {
+                        "Line": "56",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$625.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$625.00"
+                    },
+                    {
+                        "Line": "57",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$625.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$625.00"
+                    },
+                    {
+                        "Line": "58",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$625.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$625.00"
+                    },
+                    {
+                        "Line": "59",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "NewsCenter 7 @ noon",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$625.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$625.00"
+                    },
+                    {
+                        "Line": "60",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/16/22",
+                        "End Date": "04/16/22",
+                        "Description": "NewsCenter 7 Noon S",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$175.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$175.00"
+                    },
+                    {
+                        "Line": "61",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/17/22",
+                        "End Date": "04/17/22",
+                        "Description": "NewsCenter 7 Noon S",
+                        "Start/End Time": "12:00 PM-12:30 P",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$175.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$175.00"
+                    },
+                    {
+                        "Line": "62",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "MF-F 4-5p",
+                        "Start/End Time": "____",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$275.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$275.00"
+                    },
+                    {
+                        "Line": "63",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/19/22",
+                        "End Date": "04/19/22",
+                        "Description": "MF-F 4-5p",
+                        "Start/End Time": "____",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$275.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$0.00"
+                    },
+                    {
+                        "Line": "NG",
+                        "Ch": "Spot Ch ID",
+                        "Start Date": "04/20/22",
+                        "End Date": "04/20/22",
+                        "Description": "MF-F 4-5p",
+                        "Start/End Time": "____",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$275.00",
+                        "PCode": "NM",
+                        "Type Spots": "___",
+                        "Amount": "___"
+                    },
+                    {
+                        "Line": "64",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "MF 4-5p",
+                        "Start/End Time": "____",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-05",
+                        "Rate": "$275.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$275.00"
+                    },
+                    {
+                        "Line": "65",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "NewsCenter 7 5p",
+                        "Start/End Time": "5:00 PM-5:30 PM",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$800.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$800.00"
+                    },
+                    {
+                        "Line": "66",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/19/22",
+                        "End Date": "04/19/22",
+                        "Description": "NewsCenter 7 5p",
+                        "Start/End Time": "5:00 PM-5:30 PM",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$800.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$800.00"
+                    },
+                    {
+                        "Line": "67",
+                        "Ch": "Start Date End Date Weekdays Spots/Week",
+                        "Start Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "NewsCenter 7 5p",
+                        "Start/End Time": "5:00 PM-5:30 PM",
+                        "Days": "____",
+                        "Length": ":30",
+                        "Week": "P-04",
+                        "Rate": "$800.00",
+                        "PCode": "NM",
+                        "Type Spots": "1",
+                        "Amount": "$800.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract Agreement Between": "WHIO-TV"
+                    },
+                    {
+                        "P.O Box 89606": ""
+                    },
+                    {
+                        "Chicago, IL": "60680-9606"
+                    },
+                    {
+                        "(855) 333-2676": ""
+                    },
+                    {
+                        "Print Date": "04/12/22"
+                    },
+                    {
+                        "Page": "4 of 6"
+                    },
+                    {
+                        "Contract # / Revision": "931552 /"
+                    },
+                    {
+                        "Alt Order #": "10373344"
+                    },
+                    {
+                        "Advertiser": "POLJ Mandel/Ir/SEN/OH-A"
+                    },
+                    {
+                        "Original Date": "04/12/22"
+                    },
+                    {
+                        "Revision": ""
+                    },
+                    {
+                        "Contract Dates": "04/12/22 - 04/18/22"
+                    },
+                    {
+                        "Product": "EST 3189 4/12-4/18"
+                    },
+                    {
+                        "Estimate #": "3189"
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "68",
+                        "Ch": "WHOI",
+                        "Start Date": "04/18/22",
+                        "End Date": "04/18/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End": "6:00 PM-6:30 PM",
+                        "Weekdays": "----",
+                        "Spots/Week": "1",
+                        "Rate": "$1,000.00",
+                        "Days": "30",
+                        "Length": ":30",
+                        "Week": "04/11/22",
+                        "Rate PCode": "P-04",
+                        "Type": "NM",
+                        "Spots": "1",
+                        "Amount": "$1,000.00"
+                    },
+                    {
+                        "Line": "69",
+                        "Ch": "WHOI",
+                        "Start Date": "04/12/22",
+                        "End Date": "04/12/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End": "6:00 PM-6:30 PM",
+                        "Weekdays": "----",
+                        "Spots/Week": "1",
+                        "Rate": "$1,000.00",
+                        "Days": "30",
+                        "Length": ":30",
+                        "Week": "04/11/22",
+                        "Rate PCode": "P-04",
+                        "Type": "NM",
+                        "Spots": "1",
+                        "Amount": "$1,000.00"
+                    },
+                    {
+                        "Line": "70",
+                        "Ch": "WHOI",
+                        "Start Date": "04/13/22",
+                        "End Date": "04/13/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End": "6:00 PM-6:30 PM",
+                        "Weekdays": "----",
+                        "Spots/Week": "1",
+                        "Rate": "$1,000.00",
+                        "Days": "30",
+                        "Length": ":30",
+                        "Week": "04/11/22",
+                        "Rate PCode": "P-04",
+                        "Type": "NM",
+                        "Spots": "1",
+                        "Amount": "$1,000.00"
+                    },
+                    {
+                        "Line": "71",
+                        "Ch": "WHOI",
+                        "Start Date": "04/14/22",
+                        "End Date": "04/14/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End": "6:00 PM-6:30 PM",
+                        "Weekdays": "----",
+                        "Spots/Week": "1",
+                        "Rate": "$1,000.00",
+                        "Days": "30",
+                        "Length": ":30",
+                        "Week": "04/11/22",
+                        "Rate PCode": "P-04",
+                        "Type": "NM",
+                        "Spots": "1",
+                        "Amount": "$1,000.00"
+                    },
+                    {
+                        "Line": "72",
+                        "Ch": "WHOI",
+                        "Start Date": "04/15/22",
+                        "End Date": "04/15/22",
+                        "Description": "NewsCenter 7 6p",
+                        "Start/End": "6:00 PM-6:30 PM",
+                        "Weekdays": "----",
+                        "Spots/Week": "1",
+                        "Rate": "$1,000.00",
+                        "Days": "30",
+                        "Length": ":30",
+                        "Week": "04/11/22",
+                        "Rate PCode": "P-04",
+                        "Type": "NM",
+                        "Spots": "1",
+                        "Amount": "$1,000.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Print Date": "04/12/22"
+                    },
+                    {
+                        "Page": "5 of 6"
+                    },
+                    {
+                        "Contract# / Revision": "931552 /"
+                    },
+                    {
+                        "Alt Order#": "10373344"
+                    },
+                    {
+                        "Advertiser": "POLJ/Mandler/RSen/OH-A"
+                    },
+                    {
+                        "Original Date / Revision": "04/12/22 / 04/12/22"
+                    },
+                    {
+                        "Contract Dates": "04/12/22 - 04/18/22"
+                    },
+                    {
+                        "Product": "EST 3189 4/12-4/18"
+                    },
+                    {
+                        "Estimate #": "3189"
+                    }
+                ]
+            }
+        ]
+    }
+]

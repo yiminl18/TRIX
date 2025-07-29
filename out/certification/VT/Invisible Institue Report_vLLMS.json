@@ -1,0 +1,656 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG 19,2019": "07:41AM"
+                    },
+                    {
+                        "Page": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "7-01-2015",
+                        "Status": "Certified",
+                        "Certified": "11-18-1994",
+                        "Expires": "Certified",
+                        "Probation": "MJA2024"
+                    },
+                    {
+                        "Date": "11-18-1994",
+                        "Status": "Certified",
+                        "Certified": "11-18-1994",
+                        "Expires": "7-01-2015",
+                        "Probation": "001160"
+                    },
+                    {
+                        "Date": "4-04-1994",
+                        "Status": "Lapsed",
+                        "Certified": "3-29-1994",
+                        "Expires": "",
+                        "Probation": "001579"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "10-16-2016",
+                        "Action": "Transfer",
+                        "Status": "Active",
+                        "Service": "2 Years 306 Days",
+                        "Assignment": "St Albans Barracks",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "Level III",
+                        "Class": "",
+                        "Shift": "Full-time"
+                    },
+                    {
+                        "Date": "5-19-2013",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Service": "3 Years 151 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Detective Sergeant",
+                        "Level": "",
+                        "Class": "Full-Time",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "11-18-2011",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Service": "1 Years 183 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Sergeant",
+                        "Level": "",
+                        "Class": "Full-Time",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "5-01-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "11 Years 109 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "10-21-1996",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "15 Years 28 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Trooper",
+                        "Level": "",
+                        "Class": "Full-Time",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "10-21-1996",
+                        "Action": "Terminated (Not Specified)",
+                        "Status": "Inactive",
+                        "Service": "",
+                        "Assignment": "",
+                        "Pos/Rank": "Deputy",
+                        "Level": "",
+                        "Class": "",
+                        "Shift": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "7-01-1994"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Service": "2 Years 113 Days"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Corporal"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Shift": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "4-27-1993"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Service": "1 Years 65 Days"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Shift": ""
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Certification": "Law Enforcement Level II - spec III / Certified"
+                    },
+                    {
+                        "Status": "Certified"
+                    },
+                    {
+                        "Certified": "7-10-2015"
+                    },
+                    {
+                        "Expires": "7-10-2015"
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Cert #": "DJA1121"
+                    },
+                    {
+                        "Certification": "Law Enforcement Level II-E / Certified"
+                    },
+                    {
+                        "Status": "Lapsed"
+                    },
+                    {
+                        "Certified": "6-09-2015"
+                    },
+                    {
+                        "Expires": "6-09-2015"
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Cert #": "DJA1121"
+                    },
+                    {
+                        "Certification": "Law Enforcement Part-Time"
+                    },
+                    {
+                        "Status": "Lapsed"
+                    },
+                    {
+                        "Certified": "7-27-2007"
+                    },
+                    {
+                        "Expires": "7-27-2007"
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Cert #": "DJA1121"
+                    },
+                    {
+                        "Grand Isle County Sheriff's Department": "Service: 7 Years 230 Days"
+                    },
+                    {
+                        "Date": "1-01-2012"
+                    },
+                    {
+                        "Action": "Promotion"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Sergeant"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Level II-S"
+                    },
+                    {
+                        "Shift": ""
+                    },
+                    {
+                        "St. Albans Police Department": "Service: "
+                    },
+                    {
+                        "Date": "1-12-2010"
+                    },
+                    {
+                        "Action": "Resigned"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Level II"
+                    },
+                    {
+                        "Shift": ""
+                    },
+                    {
+                        "Grand Isle County Sheriff's Department": "Service: 2 Years 184 Days"
+                    },
+                    {
+                        "Date": "7-01-2009"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Shift": ""
+                    },
+                    {
+                        "Chittenden County Sheriff's Department": "Service: "
+                    },
+                    {
+                        "Date": "7-18-2008"
+                    },
+                    {
+                        "Action": "Terminated"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Shift": ""
+                    },
+                    {
+                        "St. Albans Police Department": "Service: 1 Years 272 Days"
+                    },
+                    {
+                        "Date": "4-15-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Patrol Officer"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Full-Time"
+                    },
+                    {
+                        "Shift": ""
+                    },
+                    {
+                        "Chittenden County Sheriff's Department": "Service: 1 Years 172 Days"
+                    },
+                    {
+                        "Date": "1-28-2007"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": ""
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": ""
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Shift": ""
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "5-24-2019",
+                        "Status": "Certified",
+                        "Certified": "5-24-2019",
+                        "Expires": "",
+                        "Probation": "",
+                        "Cert #": "EA3743"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG 19,2019": "07:41AM"
+                    },
+                    {
+                        "VT Criminal Justice Training Council": "Page: 1"
+                    },
+                    {
+                        "Employee History": "Employee training"
+                    },
+                    {
+                        "Date": "1-14-2019"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Service": "Years 217 Days"
+                    },
+                    {
+                        "Assignment:": "Trooper"
+                    },
+                    {
+                        "Level:": "III"
+                    },
+                    {
+                        "Shift:": ""
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "AUG 19,2019"
+                    },
+                    {
+                        "Time": "07:41AM"
+                    },
+                    {
+                        "Page": "1"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Status": "Certified"
+                    },
+                    {
+                        "Certified": "11-17-2006"
+                    },
+                    {
+                        "Expires": "7-01-2015"
+                    },
+                    {
+                        "Probation": ""
+                    },
+                    {
+                        "Cert #": "BJA3068"
+                    },
+                    {
+                        "Certification Date": "7-01-2015"
+                    },
+                    {
+                        "Status": "Lapsed"
+                    },
+                    {
+                        "Certified": "11-17-2006"
+                    },
+                    {
+                        "Expires": ""
+                    },
+                    {
+                        "Probation": "7-01-2015"
+                    },
+                    {
+                        "Cert #": "BJA3068"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "5-25-2019",
+                        "Action": "Reduced hours",
+                        "Status": "Active",
+                        "Service": "86 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Patrol Officer",
+                        "Years": "",
+                        "Level": "",
+                        "Class": "Level III",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "4-24-2019",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Service": "117 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Investigator",
+                        "Years": "",
+                        "Level": "",
+                        "Class": "Level III",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "7-23-2006",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "12 Years",
+                        "Assignment": "",
+                        "Pos/Rank": "Patrol Officer",
+                        "Years": "307 Days",
+                        "Level": "",
+                        "Class": "Part-Time",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "4-01-2006",
+                        "Action": "Terminated",
+                        "Status": "Inactive",
+                        "Service": "142 Days",
+                        "Assignment": "",
+                        "Pos/Rank": "Patrol Officer",
+                        "Years": "",
+                        "Level": "",
+                        "Class": "Part-Time",
+                        "Shift": ""
+                    },
+                    {
+                        "Date": "11-11-2005",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "",
+                        "Assignment": "",
+                        "Pos/Rank": "Patrol Officer",
+                        "Years": "",
+                        "Level": "",
+                        "Class": "Part-Time",
+                        "Shift": ""
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG 19,2019 07:41AM": "VT Criminal Justice Training Council Employee History"
+                    },
+                    {
+                        "Page:": "1"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "7-01-2015",
+                        "Status": "Certified",
+                        "Certified": "12-05-2008",
+                        "Probation": "",
+                        "Cert #": "JJA7277"
+                    },
+                    {
+                        "Date": "7-01-2015",
+                        "Status": "Lapsed",
+                        "Certified": "12-05-2008",
+                        "Probation": "",
+                        "Cert #": "JJA7277"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Date": "1-31-2019",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Service": "Full-time"
+                    },
+                    {
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "",
+                        "Class": "Level III"
+                    },
+                    {
+                        "Date": "1-25-2019",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Service": "Years 206 Days"
+                    },
+                    {
+                        "Assignment": "Chittenden County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "",
+                        "Class": "Level III"
+                    },
+                    {
+                        "Date": "8-04-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "10 Years 180 Days"
+                    },
+                    {
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "",
+                        "Class": "Level III"
+                    },
+                    {
+                        "Date": "3-18-2008",
+                        "Action": "Appointed",
+                        "Status": "Active",
+                        "Service": "Years 140 Days"
+                    },
+                    {
+                        "Assignment": "Franklin County Sheriff's Department",
+                        "Pos/Rank": "Deputy",
+                        "Level": "",
+                        "Class": "Part-Time"
+                    }
+                ]
+            }
+        ]
+    }
+]
+

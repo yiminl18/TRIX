@@ -1078,10 +1078,11 @@ def pattern_detect_by_row(pv, predict_labels, rid, debug = 0):
     return blk, blk_id, row_mp
     
 def load_cands(pdf_path):
-    if('benchmark1' in pdf_path):
-        path = pdf_path.replace('data/raw','result').replace('.pdf','.json')
+    if('open_benchmark' in pdf_path):
+        path = pdf_path.replace('raw','intermediate').replace('.pdf','.json') #ihe
     else:
-        path = pdf_path.replace('data/raw','result').replace('.pdf','_TWIX_kv.json')
+        path = pdf_path.replace('raw','intermediate').replace('.pdf','_tem.json')
+    print('stats_path:', path)
     data = read_json(path)
     return data
     
@@ -1524,15 +1525,15 @@ def write_string(result_path, content):
         file.write(content)
 
 def get_extracted_path(path, method = 'plumber'):
-    path = path.replace('raw','extracted')
-    if('benchmark1' in path):
+    path = path.replace('raw','intermediate')
+    if('open_benchmark' in path):
         path = path.replace('.pdf', '_' + method +  '.txt')
     else:
         path = path.replace('.pdf', '.txt')
     return path
 
 def template_based_data_extraction(pdf_path, out_path):
-    key_path = pdf_path.replace('data/raw','out').replace('.pdf','_TWIX_key.txt')
+    key_path = pdf_path.replace('data/raw','out').replace('.pdf','_TRIX_key.txt')
     extracted_path = get_extracted_path(pdf_path)
     
     if(not os.path.isfile(extracted_path)):

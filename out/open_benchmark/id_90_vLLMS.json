@@ -1,0 +1,1132 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "59119"
+                    },
+                    {
+                        "Schedule Dates": "09/04/20-09/07/20"
+                    },
+                    {
+                        "Last Modified": "08/31/20"
+                    },
+                    {
+                        "Entered By": "Lori Kempton"
+                    },
+                    {
+                        "By Broadcast Month": "Sep. 2020"
+                    },
+                    {
+                        "Spots": "36"
+                    },
+                    {
+                        "Rate": "$676.00"
+                    },
+                    {
+                        "Station": "KQDS"
+                    },
+                    {
+                        "PO Box 9115": "Fargo, ND 58106"
+                    },
+                    {
+                        "Phone": "(218) 728-1622"
+                    },
+                    {
+                        "Agency": "Media Buying and Analytics (2146)"
+                    },
+                    {
+                        "Advertiser": "Political-Candidate (1058)"
+                    },
+                    {
+                        "Product": "1106/1350/8137 (38888)"
+                    },
+                    {
+                        "Brand": "BIDEN FOR PRESIDENT (10887)"
+                    },
+                    {
+                        "Sales Office": "HRP-Philadelphia"
+                    },
+                    {
+                        "Salesperson": "HUTTON, SHEILA Philadelphia (1087)"
+                    },
+                    {
+                        "Phone/Fax": "1106/1350/8137"
+                    },
+                    {
+                        "CPE": ""
+                    },
+                    {
+                        "Account Types": "National/Political Agency"
+                    },
+                    {
+                        "Billing Type": "Standard"
+                    },
+                    {
+                        "Comments": "BIDEN FOR PRES IN ADVANCE SCHEDULE *****,"
+                    },
+                    {
+                        "CO-OP": "No"
+                    },
+                    {
+                        "Headline #": "099189296"
+                    },
+                    {
+                        "Demo": "Other",
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Package Deal": ""
+                    },
+                    {
+                        "Commission %": "15.00"
+                    },
+                    {
+                        "Commission": "$101.40"
+                    },
+                    {
+                        "Net Total": "$574.60"
+                    },
+                    {
+                        "Sales Tax": ""
+                    },
+                    {
+                        "Grand Total": "$676.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.04A- MIKE & MOLLY 6AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MIKE & MOLLY",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "2.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1.00-1.04A- MIKE & MOLLY 6AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MIKE & MOLLY",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "3.0 ",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.06:30A- TMZ 630AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "TMZ",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "4.0 ",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1.00-1.06:30A- TMZ 630AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "TMZ",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "5.0 ",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.09A- FAMILY FEUD 9AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FAMILY FEUD",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "6.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1.00-1.09A- FAMILY FEUD 9AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FAMILY FEUD",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "7.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.09:30A- FAMILY FEUD",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FAMILY FEUD",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "8.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1.00-1.09:30A- FAMILY FEUD",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FAMILY FEUD",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "9.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.09A (CST)",
+                        "Length": "30",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKEGIRLS/HM&M",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "10.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1.00-1.09A (CST)",
+                        "Length": "30",
+                        "Run Times": "",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKEGIRLS/HM&M",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "11.0",
+                        "Type / Break Type (RF)": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1.00-1.10A- PATERNITY COURT 11AM",
+                        "Length": "30",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "PATERNITY COURT",
+                        "Entered": "8/31/20"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "12.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "11AM",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "PATERNITY COURT",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "13.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "11:30AM",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DIVORCE COURT",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "14.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "11:30AM",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DIVORCE COURT",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "15.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/07-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "12P-PEOPLE'S COURT 12PM",
+                        "SPW": "1",
+                        "Mo": "",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$14.00",
+                        "Total": "$14.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "THE PEOPLE'S COURT",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "16.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "12P-PEOPLE'S COURT 12PM",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$14.00",
+                        "Total": "$14.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "THE PEOPLE'S COURT",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "17.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/07-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "1P CST",
+                        "SPW": "1",
+                        "Mo": "",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "AMERICA SAYS",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "18.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "1P CST (CST)",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "AMERICA SAYS",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "19.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/07-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "2P-ACCESS DAILY 2PM",
+                        "SPW": "1",
+                        "Mo": "",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DAILY MAIL 2X",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "20.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/07-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "3P-ACCESS DAILY 3PM",
+                        "SPW": "1",
+                        "Mo": "",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DAILY MAIL 2X",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "21.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "3P CST",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DAILY MAIL 2X",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "22.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/04-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "3P CST",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "1",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$6.00",
+                        "Total": "$6.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "DAILY MAIL 2X",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "23.0",
+                        "Type / Break Type (Ref #)": "Local Line / SPOT",
+                        "Dates": "09/07-09/09/20",
+                        "Sec": "4 :00",
+                        "Length": "1 :00",
+                        "Run Times": "5:30P-LOCAL NEWS 530PM",
+                        "SPW": "1",
+                        "Mo": "",
+                        "Tu": "1",
+                        "We": "1",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FOX 21 NEWS AT 5:30P",
+                        "Entered": "8/31/20"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "59119"
+                    },
+                    {
+                        "Date Entered": "08/31/20"
+                    },
+                    {
+                        "Last Modified": "08/31/20"
+                    },
+                    {
+                        "Entered By": "Lori Kempton"
+                    },
+                    {
+                        "Schedule Dates": "09/04-09/09/20"
+                    },
+                    {
+                        "Advertiser": "POIJQ Biden/Pres/US (2146)"
+                    },
+                    {
+                        "Agency": "Media Buying and Analytics (2146)"
+                    },
+                    {
+                        "CO-OP #": "No"
+                    },
+                    {
+                        "Headline #": "09918296"
+                    },
+                    {
+                        "Demo": ""
+                    },
+                    {
+                        "Product": "Political-Candidate (1058)"
+                    },
+                    {
+                        "Brand": "1106/1350/8137 (8888)"
+                    },
+                    {
+                        "Salesperson": "HRP-Philadelphia"
+                    },
+                    {
+                        "Sales Office": "HRP-Philadelphia, Philadelphia (1087)"
+                    },
+                    {
+                        "Buyer Name": "HUTTON, SHELIA"
+                    },
+                    {
+                        "Phone/Fax": "1 /"
+                    },
+                    {
+                        "CPE": "1106/1350/8137"
+                    },
+                    {
+                        "Account Type": "National/Political Agency"
+                    },
+                    {
+                        "Billing Types": "Standard"
+                    },
+                    {
+                        "Comments": "*** THIS IS A CASH IN ADVANCE SCHEDULE ****"
+                    },
+                    {
+                        "Duluth/Superior (KQDS)": "By Broadcast Month: Sep. 2020"
+                    },
+                    {
+                        "Spots": "36"
+                    },
+                    {
+                        "Rate": "$675.00"
+                    },
+                    {
+                        "Grand Total": "$575.60"
+                    },
+                    {
+                        "Package %": "15.00"
+                    },
+                    {
+                        "Commission": "$101.40"
+                    },
+                    {
+                        "Net Total": "$574.60"
+                    },
+                    {
+                        "Sales Tax": "$0.00"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Contract #": "59119"
+                    },
+                    {
+                        "KQDS": "KQDS"
+                    },
+                    {
+                        "PO Box 9115": "PO Box 9115"
+                    },
+                    {
+                        "Fargo, ND 58106": "Fargo, ND 58106"
+                    },
+                    {
+                        "(218) 728-1622": "(218) 728-1622"
+                    },
+                    {
+                        "Schedule Dates": "09/04/20-09/07/20"
+                    },
+                    {
+                        "Advertiser": "Media Buying and Analytics (2146)"
+                    },
+                    {
+                        "Product": "Political-Candidate (1058)"
+                    },
+                    {
+                        "Brand": "1106/1350/8137 (3888)"
+                    },
+                    {
+                        "Salesperson": "HRP-Philadelphia, Philadelphia (1087)"
+                    },
+                    {
+                        "Sales Office": "HRP-Philadelphia"
+                    },
+                    {
+                        "Buyer Name": "HUTTON, SHEL"
+                    },
+                    {
+                        "Phone/Fax": "1 106/1350/8137"
+                    },
+                    {
+                        "CPE": ""
+                    },
+                    {
+                        "Account Types": "National/Political Agency"
+                    },
+                    {
+                        "Billing Types": "Standard"
+                    },
+                    {
+                        "Comments": "BBB NET THIS IS A CASH IN ADVANCE SCHEDULE *****"
+                    },
+                    {
+                        "Date Entered": "08/31/20"
+                    },
+                    {
+                        "Last Modified": "08/31/20"
+                    },
+                    {
+                        "Entered By": "Lori Kempton"
+                    },
+                    {
+                        "CO-OP #: "No"
+                    },
+                    {
+                        "Headline #": "099189296"
+                    },
+                    {
+                        "Demo": ""
+                    },
+                    {
+                        "Order Type": "Normal"
+                    },
+                    {
+                        "Package %": "Commission Deal"
+                    },
+                    {
+                        "Commission": "15.00"
+                    },
+                    {
+                        "Net Total": "$101.40"
+                    },
+                    {
+                        "Sales Tax": "$754.60"
+                    },
+                    {
+                        "September": "Sept. 2020"
+                    },
+                    {
+                        "Spots": "36"
+                    },
+                    {
+                        "Rate": "$576.00"
+                    },
+                    {
+                        "Grand Total": "$576.00"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "24.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1 :00",
+                        "Length": "1-00:30P- LOCAL NEWS 530PM",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FOX 21 NEWS AT 5:30P",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "25.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/05/20-09/05/20",
+                        "Sec": "1 :00",
+                        "Length": "1-09:15P- LOCAL NEWS",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "1",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$150.00",
+                        "Total": "$150.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FOX 21 NEWS @ 9",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "26.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1 :00",
+                        "Length": "1-09:15P- 2 BROKE GIRLS 10PM",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKE GIRLS",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "27.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1 :00",
+                        "Length": "1-09:15P- 2 BROKE GIRLS 10PM",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "1",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKE GIRLS",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "28.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1 :00",
+                        "Length": "1-11:35P- MODERN FAMILY",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MODERN FAMILY",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "29.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1 :00",
+                        "Length": "1-11:35P- MODERN FAMILY",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "1",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MODERN FAMILY",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "30.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/07/20-09/07/20",
+                        "Sec": "1 :00",
+                        "Length": "1-12:00A- 1:05A (CST)",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "1",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MOM/HIMYM",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "31.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/04/20-09/04/20",
+                        "Sec": "1 :00",
+                        "Length": "1-12:00A - 1:05A (CST)",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "1",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MOM/HIMYM",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "32.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/05/20-09/05/20",
+                        "Sec": "1 :00",
+                        "Length": "1-05:30P- FAMILY FEUD SAT",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "1",
+                        "Su": "",
+                        "Spots": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FAMILY FEUD",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "33.0 Normal Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/06/20-09/06/20",
+                        "Sec": "1 :00",
+                        "Length": "1-08:00P- FOX NEWS SUNDAY",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "1",
+                        "Spots": "1",
+                        "Rate": "$20.00",
+                        "Total": "$20.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "FOX NEWS SUNDAY",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "34.0 tagline / Line / SPOT",
+                        "Type": "SPOT",
+                        "Dates": "09/06/20-09/06/20",
+                        "Sec": "1 :00",
+                        "Length": "1-06:05P- 10:05P (CST)",
+                        "Run Times": "1",
+                        "SPW": "",
+                        "Mo": "",
+                        "Tu": "",
+                        "We": "",
+                        "Th": "",
+                        "Fr": "",
+                        "Sa": "",
+                        "Su": "1",
+                        "Spots": "1",
+                        "Rate": "$20.00",
+                        "Total": "$20.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKE GIRLS",
+                        "Entered": "8/31/20"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "kv",
+                "content": [
+                    {"Contract #": "59119"},
+                    {"Schedule Dates": "09/04/20-09/07/20"},
+                    {"Last Modified": "08/31/20"},
+                    {"Date Entered": "08/31/20"},
+                    {"Entered By": "Lori Kempton"},
+                    {"By Broadcast Month": "Sep. 2020"},
+                    {"Spots": "36"},
+                    {"Rate": "$675.00"},
+                    {"Grand Total": "$675.00"},
+                    {"PO Box": "9115"},
+                    {"Fargo, ND": "58106"},
+                    {"(218) 728-1622": ""},
+                    {"Agency": "Media Buying and Analytics (2146)"},
+                    {"Advertiser": "Political-Candidate (1058)"},
+                    {"Product": "116/1350/8137 (3888)"},
+                    {"Brand": "HRP-Philadelphia, Philadelphia (1087)"},
+                    {"Sales Office": "HRP-Philadelphia"},
+                    {"Buyer Name": "HUTTON, SHELL"},
+                    {"Phone/Fax": "1 /"},
+                    {"CPE": "116/1350/8137"},
+                    {"Account Type": "National/Political Agency"},
+                    {"Billing Instructions": "STANDARD PREPAY ***** THIS IS A CASH IN ADVANCE SCHEDULE *****"},
+                    {"Comments": ""},
+                    {"Package %": "Normal"},
+                    {"Commission": "15.00"},
+                    {"Net Total": "$101.40"},
+                    {"Sales Tax": "$574.60"}
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "34.", 
+                        "Type": "Normal Line / SPOT",
+                        "Dates": "09/06/20-09/06/20",
+                        "Sec": "4",
+                        "Length": "1:00", 
+                        "Run Times": "1:00P LAST MAN STANDING",
+                        "SPW": "1",
+                        "Su": "1",
+                        "Rate": "$20.00",
+                        "Total": "$20.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "LAST MAN",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "35.", 
+                        "Type": "Normal Line / SPOT", 
+                        "Dates": "09/06/20-09/06/20", 
+                        "Sec": "4",
+                        "Length": "1:00", 
+                        "Run Times": "1:30P-2 BROKE GIRLS",
+                        "SPW": "1",
+                        "Mo": "1",
+                        "Rate": "$40.00",
+                        "Total": "$40.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "2 BROKE",
+                        "Entered": "8/31/20"
+                    },
+                    {
+                        "Line": "36.", 
+                        "Type": "Normal Line / SPOT", 
+                        "Dates": "09/06/20-09/06/20", 
+                        "Sec": "4",
+                        "Length": "1:00", 
+                        "Run Times": "11:30P MIKE & MOLLY SUN",
+                        "SPW": "1",
+                        "Su": "1",
+                        "Rate": "$10.00",
+                        "Total": "$10.00",
+                        "Station": "Duluth/Superior (KQDS)",
+                        "Comments": "MIKE & MOLLY",
+                        "Entered": "8/31/20"
+                    }
+                ]
+            }
+        ]
+    }
+]

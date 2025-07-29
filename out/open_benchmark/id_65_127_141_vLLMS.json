@@ -1,0 +1,561 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "List Items": "1",
+                        "Program": "(TEXAS TODAY II)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "6:00 AM-7:00 AM",
+                        "Days": "WTFSSMT",
+                        "Rate": "440.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "440.00"
+                    },
+                    {
+                        "List Items": "1",
+                        "Program": "(TEXAS TODAY II)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "6:00 AM-7:00 AM",
+                        "Days": "T-----",
+                        "Rate": "440.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "440.00"
+                    },
+                    {
+                        "List Items": "1",
+                        "Program": "(TEXAS TODAY II)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "6:00 AM-7:00 AM",
+                        "Days": "---M--",
+                        "Rate": "440.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "440.00"
+                    },
+                    {
+                        "List Items": "2",
+                        "Program": "(JEOPARDY-OPARDY)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "4:30 PM-5:00 PM",
+                        "Days": "T-----",
+                        "Rate": "480.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "480.00"
+                    },
+                    {
+                        "List Items": "2",
+                        "Program": "(JEOPARDY-OPARDY)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "4:30 PM-5:00 PM",
+                        "Days": "---M--",
+                        "Rate": "480.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "480.00"
+                    },
+                    {
+                        "List Items": "3",
+                        "Program": "(KCREN NEWS @ 5)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "5:00 PM-5:30 PM",
+                        "Days": "F-----",
+                        "Rate": "675.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "675.00"
+                    },
+                    {
+                        "List Items": "3",
+                        "Program": "(KCREN NEWS @ 5)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "5:00 PM-5:30 PM",
+                        "Days": "W-----",
+                        "Rate": "675.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "675.00"
+                    },
+                    {
+                        "List Items": "3",
+                        "Program": "(KCREN NEWS @ 5)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "5:00 PM-5:30 PM",
+                        "Days": "------T",
+                        "Rate": "675.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "675.00"
+                    },
+                    {
+                        "List Items": "4",
+                        "Program": "(KCREN: KCEN NEWS @ 5)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "6:00 PM-6:30 PM",
+                        "Days": "T-----",
+                        "Rate": "980.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "980.00"
+                    },
+                    {
+                        "List Items": "5",
+                        "Program": "(WHEEL-FORTNE)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "6:30 PM-7:00 PM",
+                        "Days": "F-----",
+                        "Rate": "1,980.00",
+                        "Oct 21": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "1,980.00"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Order Status": "Confirmed"
+                    },
+                    {
+                        "Traffic #": "2092810"
+                    },
+                    {
+                        "Agency": "NEBO"
+                    },
+                    {
+                        "Buyer Order #": "10030376"
+                    },
+                    {
+                        "AE": "Aleesha Maewall"
+                    },
+                    {
+                        "Property": "KCCEN TV"
+                    },
+                    {
+                        "Sales Region": "National"
+                    },
+                    {
+                        "Advertiser": "Judicial Fairness PAC"
+                    },
+                    {
+                        "Buyer": "Primary Demo:"
+                    },
+                    {
+                        "C/P/E": "632 / 717 / 7583"
+                    },
+                    {
+                        "Product Desc.": "issue"
+                    },
+                    {
+                        "Estimate Desc.": "JFP 10-21.10.27"
+                    },
+                    {
+                        "Total Cost": "$12,065.00 (Cash)"
+                    },
+                    {
+                        "Received Date": "10/02/20 12:15 PM"
+                    },
+                    {
+                        "Start/End Dates": "10/21/20 - 10/27/20"
+                    },
+                    {
+                        "NET COST": "Electronic invoices preferred. TVinvoices.com EI Number: 9912521Marketron Code: E141074"
+                    },
+                    {
+                        "Generated Date": "10/02/20 1:57 PM"
+                    },
+                    {
+                        "WOC": "WOC12728878 [00.00]"
+                    },
+                    {
+                        "Page": "Page 1 of 2"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line Items": "1",
+                        "Program": "SUNRISE 6:30-6",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:15 AM-6:30 AM",
+                        "Days": "WTFS----T",
+                        "Rate": "200.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "200.00"
+                    },
+                    {
+                        "Line Items": "1",
+                        "Program": "(Program: SUNRISE 7 6:30AM)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:15 AM-6:30 AM",
+                        "Days": "W-------",
+                        "Rate": "200.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "200.00"
+                    },
+                    {
+                        "Line Items": "1",
+                        "Program": "(Program: SUNRISE 7 6:30-7)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:15 AM-6:30 AM",
+                        "Days": "-----M--",
+                        "Rate": "200.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "200.00"
+                    },
+                    {
+                        "Line Items": "2",
+                        "Program": "SUNRISE 7 6:30-7",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:45 AM-7:00 AM",
+                        "Days": "W-------",
+                        "Rate": "300.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "300.00"
+                    },
+                    {
+                        "Line Items": "2",
+                        "Program": "(Program: SUNRISE 7 6:30-7)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:45 AM-7:00 AM",
+                        "Days": "--F----",
+                        "Rate": "300.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "300.00"
+                    },
+                    {
+                        "Line Items": "2",
+                        "Program": "(Program: SUNRISE 7 6:30-7)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:45 AM-7:00 AM",
+                        "Days": "-----M--",
+                        "Rate": "300.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "300.00"
+                    },
+                    {
+                        "Line Items": "2",
+                        "Program": "(Program: SUNRISE 7 6:30-7)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "6:45 AM-7:00 AM",
+                        "Days": "------T-",
+                        "Rate": "300.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "300.00"
+                    },
+                    {
+                        "Line Items": "3",
+                        "Program": "CBS THIS MORNING",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "7:00 AM-9:00 AM",
+                        "Days": "--T-----",
+                        "Rate": "250.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "250.00"
+                    },
+                    {
+                        "Line Items": "3",
+                        "Program": "CBS THIS MORNING",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "7:00 AM-9:00 AM",
+                        "Days": "---F----",
+                        "Rate": "250.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "250.00"
+                    },
+                    {
+                        "Line Items": "3",
+                        "Program": "(Program: CBS THIS MORNING)WSAW 2020",
+                        "ST": "NM",
+                        "Len": "30",
+                        "Time": "7:00 AM-9:00 AM",
+                        "Days": "W-------",
+                        "Rate": "250.00",
+                        "May 6": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "250.00"
+                    }                    
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "WOC": "WOC12498370"
+                    },
+                    {
+                        "Order Status": "Opened-New"
+                    },
+                    {
+                        "Traffic #": "1619211"
+                    },
+                    {
+                        "Buyer Order #": "9575879"
+                    },
+                    {
+                        "AE": "Wausau House"
+                    },
+                    {
+                        "Property": "WSAW TV"
+                    },
+                    {
+                        "Sales Region": "Local"
+                    },
+                    {
+                        "Comments": ""
+                    },
+                    {
+                        "Separation": "30"
+                    },
+                    {
+                        "Terms Of Sale": ""
+                    },
+                    {
+                        "Start/End Dates": "05/06/20 - 05/12/20"
+                    },
+                    {
+                        "Agency": "Flexpoint Media"
+                    },
+                    {
+                        "Advertiser": "Tom Tiffany WICD-07"
+                    },
+                    {
+                        "Buyer": ""
+                    },
+                    {
+                        "Primary Demo": ""
+                    },
+                    {
+                        "C/P/E": "136 / 159 / 945"
+                    },
+                    {
+                        "Product Desc.": "WICD-07 Special 2020"
+                    },
+                    {
+                        "Estimate Desc.": "05/06-05/12 Tiffany TV WI-7 Order"
+                    },
+                    {
+                        "Total Cost": "$18,800.00 (Cash)"
+                    },
+                    {
+                        "Received Date": "5/05/20 8:29 AM"
+                    },
+                    {
+                        "Generated Date": "5/05/20 9:22 AM"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Order Status": "New"
+                    },
+                    {
+                        "Traffic Order #": "11722982"
+                    },
+                    {
+                        "AE": "Wausau House"
+                    },
+                    {
+                        "Property": "WSAW TV"
+                    },
+                    {
+                        "Sales Region": "Local"
+                    },
+                    {
+                        "Comments": ""
+                    },
+                    {
+                        "Separation": "30PopulationBuyType: CPP"
+                    },
+                    {
+                        "Start/End Dates": "06/07/22 - 06/13/22"
+                    },
+                    {
+                        "Agency": "AdVictory LLC"
+                    },
+                    {
+                        "Advertiser": "Michels for Governor"
+                    },
+                    {
+                        "Buyer": "Primary Demo:"
+                    },
+                    {
+                        "C/P/E": "127 / 311 / 750"
+                    },
+                    {
+                        "Product Desc.": "Primary"
+                    },
+                    {
+                        "Estimate Desc.": "Michels June 7-13 Broadcast"
+                    },
+                    {
+                        "Total Cost": "$32,500.00 (Cash)"
+                    },
+                    {
+                        "Received Date": "6/04/22 11:06 AM"
+                    },
+                    {
+                        "Generated Date": "6/05/22 9:26 AM"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Line": "1",
+                        "Program": "THE PRICE IS RIGHT",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "MTWTF___",
+                        "Rate": "500.00",
+                        "Jun": "7",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "",
+                        "Program": "(Program: THE PRICE IS RIGHT)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "__T___",
+                        "Rate": "500.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "",
+                        "Program": "(Program: THE PRICE IS RIGHT)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "__T___",
+                        "Rate": "500.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "",
+                        "Program": "(Program: THE PRICE IS RIGHT)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "__T___",
+                        "Rate": "500.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "",
+                        "Program": "(Program: THE PRICE IS RIGHT)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "__T___",
+                        "Rate": "500.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "",
+                        "Program": "(Program: THE PRICE IS RIGHT)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "10:00 AM-11:00 AM",
+                        "Days": "__T___",
+                        "Rate": "500.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "",
+                        "Total Cost": "500.00"
+                    },
+                    {
+                        "Line": "2",
+                        "Program": "(Program: NEWSCHANNEL 7 AT NOON)",
+                        "ST": "NM",
+                        "Len": ":30",
+                        "Time": "12:10 PM-12:30 PM",
+                        "Days": "__T___",
+                        "Rate": "750.00",
+                        "Jun": "1",
+                        "Spots": "1",
+                        "Total Spots": "1",
+                        "Total Cost": "750.00"
+                     }
+                ]
+            }
+        ]
+    }
+]

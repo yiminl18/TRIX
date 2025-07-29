@@ -1,0 +1,1118 @@
+
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "201144",
+                        "Gas": "Argon",
+                        "Size": "K/U",
+                        "CO #": "0439552",
+                        "PO #C/Location": "MUSEUM DOCK",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0872050030"
+                    },
+                    {
+                        "BarCode": "202596",
+                        "Gas": "Acetylene - B",
+                        "Size": "",
+                        "CO #": "0478155",
+                        "PO #C/Location": "301 Wakara Way NHMU",
+                        "Demurrage": "6.20",
+                        "Delivery Code": "0872050030"
+                    },
+                    {
+                        "BarCode": "202703",
+                        "Gas": "25%Co2 75%Argon",
+                        "Size": "",
+                        "CO #": "04359589",
+                        "PO #C/Location": "301 WAKARA",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0872050030"
+                    },
+                    {
+                        "BarCode": "203348",
+                        "Gas": "Acetylene - B",
+                        "Size": "",
+                        "CO #": "0439552",
+                        "PO #C/Location": "MUSEUM DOCK",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0872050030"
+                    },
+                    {
+                        "BarCode": "300004",
+                        "Gas": "Acetylene - B",
+                        "Size": "",
+                        "CO #": "0478155",
+                        "PO #C/Location": "301 Wakara Way NHMU",
+                        "Demurrage": "8.37",
+                        "Delivery Code": "0872050030"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Amount Total": "29.45"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "821379",
+                        "Gas": "Nitrogen, UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0482972",
+                        "PO #C/Location": "1483 MEB",
+                        "Demurrage": "7.56",
+                        "Delivery Code": "0051001100"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Amount Total": "7.56"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "817651",
+                        "Gas": "Helium - 219 CF",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0466519",
+                        "PO #C/Location": "1820 Warnock Eng",
+                        "Demurrage": "8.37",
+                        "Delivery Code": "0062016500"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Amount Total": "8.37"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "201393",
+                        "Gas": "Helium - UHP",
+                        "Size": "K/UU",
+                        "CO #": "0420393",
+                        "PO #C/Location": "Nanofab East loading dock,",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "202722",
+                        "Gas": "Nitrogen, UHP",
+                        "Size": "",
+                        "CO #": "0406982",
+                        "PO #C/Location": "EAST LOADING DOCK FOR NANOFAB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "203030",
+                        "Gas": "Nitrogen, UHP",
+                        "Size": "",
+                        "CO #": "0359694",
+                        "PO #C/Location": "2500 SMBB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "203218",
+                        "Gas": "Helium - UHP",
+                        "Size": "",
+                        "CO #": "0420393",
+                        "PO #C/Location": "Nanofab East loading dock,",
+                        "Demurrage": "4.32",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "203340",
+                        "Gas": "Air - 233 CF",
+                        "Size": "",
+                        "CO #": "0412743",
+                        "PO #C/Location": "2500 SMBB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "204637",
+                        "Gas": "Helium - UHP",
+                        "Size": "",
+                        "CO #": "0490127",
+                        "PO #C/Location": "2500 SMBB Nanofab East Loading DOck",
+                        "Demurrage": "0.80",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "205276",
+                        "Gas": "Argon - UHP",
+                        "Size": "",
+                        "CO #": "04515049",
+                        "PO #C/Location": "NANOFAB EAST LOADING DOCK",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "803894",
+                        "Gas": "ISP Helium",
+                        "Size": "",
+                        "CO #": "0361559",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "8.37",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "805498",
+                        "Gas": "Tetrafluorometh",
+                        "Size": "",
+                        "CO #": "0276325",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "806136",
+                        "Gas": "Oxygen - Resear",
+                        "Size": "",
+                        "CO #": "03002141",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "12.40",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "806980",
+                        "Gas": "14% R14 in O2",
+                        "Size": "",
+                        "CO #": "0298897",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "807498",
+                        "Gas": "Oxygen - Resear",
+                        "Size": "",
+                        "CO #": "0310665",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "808022",
+                        "Gas": "Trifluoromethan",
+                        "Size": "",
+                        "CO #": "0328154",
+                        "PO #C/Location": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0062016500"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "809515",
+                        "Gas": "10 He in N2",
+                        "Size": "0361559",
+                        "CO #": "2500 SMBB",
+                        "PO #": "8.37",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "809516",
+                        "Gas": "10 He in N2",
+                        "Size": "0361559",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "809517",
+                        "Gas": "10 He in N2",
+                        "Size": "0361559",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "809521",
+                        "Gas": "10 He in N2",
+                        "Size": "0359703",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "809589",
+                        "Gas": "2.85%H2/Ar",
+                        "Size": "0373036",
+                        "CO #": "1280 MEB",
+                        "PO #": "6.82",
+                        "Location": "0064012800"
+                    },
+                    {
+                        "BarCode": "810019",
+                        "Gas": "BIP Nitrogen",
+                        "Size": "0375755",
+                        "CO #": "NANOFAB EAST LOADING DOCK",
+                        "PO #": "5.94",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "810114",
+                        "Gas": "Ammonia Elect",
+                        "Size": "0359145",
+                        "CO #": "2500 SMBB",
+                        "PO #": "27.59",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "810126",
+                        "Gas": "EXOTALKEN-C",
+                        "Size": "0384434",
+                        "CO #": "2500 SMBB",
+                        "PO #": "15.19",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810523",
+                        "Gas": "10 He in N2",
+                        "Size": "0390109",
+                        "CO #": "BLDG 151 DOCK",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810524",
+                        "Gas": "10 He in N2",
+                        "Size": "0390109",
+                        "CO #": "BLDG 151 DOCK",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810739",
+                        "Gas": "10 He in N2",
+                        "Size": "0391599",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810740",
+                        "Gas": "10 He in N2",
+                        "Size": "0391599",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810842",
+                        "Gas": "10 He in N2",
+                        "Size": "0394489",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810844",
+                        "Gas": "10 He in N2",
+                        "Size": "0394489",
+                        "CO #": "2500 SMBB",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810862",
+                        "Gas": "Ammonia Elect",
+                        "Size": "0403415",
+                        "CO #": "2500 SMBB",
+                        "PO #": "17.05",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "810864",
+                        "Gas": "Dichlorosilane",
+                        "Size": "0406266",
+                        "CO #": "2500 SMBB",
+                        "PO #": "27.59",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "811054",
+                        "Gas": "Res. Nitrogen",
+                        "Size": "0410849",
+                        "CO #": "EAST LOADING DOCK",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "811164",
+                        "Gas": "2.85%H2/Argon",
+                        "Size": "0402031",
+                        "CO #": "NANOFAB LADING DOCK SMBB",
+                        "PO #": "6.82",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "813311",
+                        "Gas": "Silane",
+                        "Size": "0424695",
+                        "CO #": "2500 SMBB - CLEAN ROOM",
+                        "PO #": "79.05",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "813435",
+                        "Gas": "10 He in N2",
+                        "Size": "0427208",
+                        "CO #": "NANOFAB EAST LAB LOADING DOCK",
+                        "PO #": "7.13",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "813564",
+                        "Gas": "Silane",
+                        "Size": "0427615",
+                        "CO #": "2500 SMBB - CLEAN ROOM",
+                        "PO #": "34.10",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "813565",
+                        "Gas": "6% Ph3 in SiH4",
+                        "Size": "0427615",
+                        "CO #": "2500 SMBB - CLEAN ROOM",
+                        "PO #": "34.10",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "814574",
+                        "Gas": "Dichlorosilane",
+                        "Size": "0431156",
+                        "CO #": "2500 SMBB",
+                        "PO #": "34.10",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "817126",
+                        "Gas": "EXOTALKEN-C",
+                        "Size": "0455124",
+                        "CO #": "NANOFAB DOCK SMBB",
+                        "PO #": "21.70",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "817966",
+                        "Gas": "P2H4/Silane",
+                        "Size": "0455975",
+                        "CO #": "FAB LAB SMBB",
+                        "PO #": "8.99",
+                        "Location": "0151025000"
+                    },
+                    {
+                        "BarCode": "818023",
+                        "Gas": "Oxygen, UHP",
+                        "Size": "0462437",
+                        "CO #": "NANOFAB EAST LOADING\DOCK",
+                        "PO #": "8.37",
+                        "Location": "0062016500"
+                    },
+                    {
+                        "BarCode": "818356",
+                        "Gas": "40ppm SiH2/Ar",
+                        "Size": "0461383",
+                        "CO #": "DOCK SMBB",
+                        "PO #": "38.75",
+                        "Location": "0064012800"
+                    },
+                    {
+                        "BarCode": "818491",
+                        "Gas": "Sulfur Hexaflu",
+                        "Size": "0464667",
+                        "CO #": "FAB LAB SMBB",
+                        "PO #": "8.37",
+                        "Location": "0151025000"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Date": "07/31/2020"
+                    },
+                    {
+                        "Page": "2"
+                    }
+                ]
+            },
+            {"record" : 3},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "818691",
+                        "Gas": "C4F8",
+                        "Size": "0464666",
+                        "CO #": "FAB LAB SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": "36 South Wasatch Dr Nanofab East Loading D"
+                    },
+                    {
+                        "BarCode": "819030",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0469712",
+                        "CO #": "36 South Wasatch Dr Nanofab East Loading D",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0062061500",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819031",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0469712",
+                        "CO #": "36 South Wasatch Dr Nanofab East Loading D",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0062061500",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819032",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0469712",
+                        "CO #": "36 South Wasatch Dr Nanofab East Loading D",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0062061500",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819033",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0469712",
+                        "CO #": "36 South Wasatch Dr Nanofab East Loading D",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0062061500",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819245",
+                        "Gas": "Chlorine Elect",
+                        "Size": "0486246",
+                        "CO #": "EAST LOADING DOCK SMBB",
+                        "PO #CLOCATION": "38.75",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819315",
+                        "Gas": "BCl3",
+                        "Size": "0470553",
+                        "CO #": "EAST LOADING DOCK SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "819922",
+                        "Gas": "ISP Helium",
+                        "Size": "0475237",
+                        "CO #": "NANOFAB EAST LOADING DOCK",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "820665",
+                        "Gas": "H2 SULFIDE",
+                        "Size": "0478686",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "38.75",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "820778",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0480988",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "820779",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0480988",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "820780",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0480988",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821178",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0481192",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821179",
+                        "Gas": "Oxygen, UHP,",
+                        "Size": "0481192",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821371",
+                        "Gas": "BIP Argon",
+                        "Size": "0482484",
+                        "CO #": "2500 SMBB Nanofab east loading dock",
+                        "PO #CLOCATION": "7.29",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821748",
+                        "Gas": "BIP Argon",
+                        "Size": "0485661",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821749",
+                        "Gas": "BIP Argon",
+                        "Size": "0485661",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821750",
+                        "Gas": "BIP Argon",
+                        "Size": "0485661",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "7.29",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821751",
+                        "Gas": "BIP Argon",
+                        "Size": "0488734",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821873",
+                        "Gas": "Argon - UHP",
+                        "Size": "0488734",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821875",
+                        "Gas": "BIP Argon",
+                        "Size": "0488734",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821876",
+                        "Gas": "BIP Argon",
+                        "Size": "0488816",
+                        "CO #": "2500 SMBB",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "821998",
+                        "Gas": "BIP Argon",
+                        "Size": "0488816",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "8.37",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "822075",
+                        "Gas": "BIP Argon",
+                        "Size": "0490127",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "1.08",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    },
+                    {
+                        "BarCode": "822076",
+                        "Gas": "BIP Argon",
+                        "Size": "0490127",
+                        "CO #": "2500 SMBB Nanofab East Loading Dock",
+                        "PO #CLOCATION": "1.08",
+                        "Demurrage": "0151025000",
+                        "Delivery Code": ""
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Chart": "01000512000003396260412021"
+                    },
+                    {
+                        "Amount Total": "789.47"
+                    }
+                ]
+            },
+            {"record" : 4},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "203622",
+                        "Gas": "N2, Liquid, 265",
+                        "Size": "265 LTR/U",
+                        "CO #": "0488863",
+                        "PO #CLocation": "2500 SMBB",
+                        "Demurrage": "79.17",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "203673",
+                        "Gas": "N2, Liquid, 265",
+                        "Size": "265 LTR/U",
+                        "CO #": "0489841",
+                        "PO #CLocation": "2500 SMBB Nanofab Loading Dock",
+                        "Demurrage": "24.57",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "203675",
+                        "Gas": "N2, Liquid, 265",
+                        "Size": "265 LTR/U",
+                        "CO #": "0487513",
+                        "PO #CLocation": "2500 SMBB Nanofab East Loading dock",
+                        "Demurrage": "5.46",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "808305",
+                        "Gas": "N2O-Electronic",
+                        "Size": "Lgw/disp Pr",
+                        "CO #": "0336838",
+                        "PO #CLocation": "1280 MEB",
+                        "Demurrage": "16.43",
+                        "Delivery Code": "0062016500"
+                    },
+                    {
+                        "BarCode": "804276",
+                        "Gas": "Helium. UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0242085",
+                        "PO #CLocation": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0372002140"
+                    },
+                    {
+                        "BarCode": "804418",
+                        "Gas": "Argon - UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0245179",
+                        "PO #CLocation": "1280 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0372002140"
+                    },
+                    {
+                        "BarCode": "812567",
+                        "Gas": "Argon - UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0420635",
+                        "PO #CLocation": "2500 SMBB",
+                        "Demurrage": "7.13",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "813349",
+                        "Gas": "20% O2 in N2",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0426353",
+                        "PO #CLocation": "2500 SMBB",
+                        "Demurrage": "7.44",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "813350",
+                        "Gas": "5% H2 in Argon",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0426576",
+                        "PO #CLocation": "2500 SMBB",
+                        "Demurrage": "7.44",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "821874",
+                        "Gas": "Argon - UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0487281",
+                        "PO #CLocation": "2500 SMBB",
+                        "Demurrage": "8.37",
+                        "Delivery Code": "0151025000"
+                    },
+                    {
+                        "BarCode": "200806",
+                        "Gas": "Argon",
+                        "Size": "K/UU",
+                        "CO #": "0404622",
+                        "PO #CLocation": "2565 MEB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0570005060"
+                    },
+                    {
+                        "BarCode": "201148",
+                        "Gas": "Argon",
+                        "Size": "K/UU",
+                        "CO #": "0336467",
+                        "PO #CLocation": "2565 MEB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0062002750"
+                    },
+                    {
+                        "BarCode": "203176",
+                        "Gas": "Acetylene - MC",
+                        "Size": "K/UU",
+                        "CO #": "0297857",
+                        "PO #CLocation": "2405 MEB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0570001080"
+                    },
+                    {
+                        "BarCode": "203595",
+                        "Gas": "Oxygen - 20 CF",
+                        "Size": "K/UU",
+                        "CO #": "0298452",
+                        "PO #CLocation": "2405 MEB",
+                        "Demurrage": "4.96",
+                        "Delivery Code": "0570001080"
+                    },
+                    {
+                        "BarCode": "808373",
+                        "Gas": "Nitrogen 40 CF",
+                        "Size": "K/UU",
+                        "CO #": "0336467",
+                        "PO #CLocation": "2565 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0062002750"
+                    },
+                    {
+                        "BarCode": "115344",
+                        "Gas": "Oxygen, USP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0089952",
+                        "PO #CLocation": "1571 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0064024800"
+                    },
+                    {
+                        "BarCode": "115347",
+                        "Gas": "Oxygen, USP",
+                        "Size": "K/UU",
+                        "CO #": "0089952",
+                        "PO #CLocation": "1571 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0064024800"
+                    },
+                    {
+                        "BarCode": "115348",
+                        "Gas": "Oxygen, USP",
+                        "Size": "K/UU",
+                        "CO #": "0089952",
+                        "PO #CLocation": "1571 MEB",
+                        "Demurrage": "6.82",
+                        "Delivery Code": "0064024800"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "University of Utah": ""
+                    },
+                    {
+                        "General Stores": ""
+                    },
+                    {
+                        "Cylinder Billing Report": ""
+                    },
+                    {
+                        "Date": "07/31/2020"
+                    },
+                    {
+                        "Page": "4"
+                    }
+                ]
+            },
+            {"record" : 5},
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "University of Utah": "General Stores"
+                    },
+                    {
+                        "Cylinder Billing Report": ""
+                    },
+                    {
+                        "Date": "07/31/2020"
+                    },
+                    {
+                        "Page": "5"
+                    },
+                    {
+                        "Amount Total": "20.46"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "BarCode": "814012",
+                        "Gas": "Nitrogen, UHP",
+                        "Size": "200C/Mt.A",
+                        "CO #": "0432239",
+                        "PO #CDLocation": "540 BPRB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "",
+                        "Gas": "",
+                        "Size": "",
+                        "CO #": "",
+                        "PO #CDLocation": "",
+                        "Demurrage": "Amount Total",
+                        "Delivery Code": "7.13"
+                    },
+                    {
+                        "BarCode": "201136",
+                        "Gas": "Oxygen, USP",
+                        "Size": "K/UU",
+                        "CO #": "0450403",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "",
+                        "Gas": "",
+                        "Size": "",
+                        "CO #": "",
+                        "PO #CDLocation": "",
+                        "Demurrage": "Amount Total",
+                        "Delivery Code": "4.96"
+                    },
+                    {
+                        "BarCode": "200274",
+                        "Gas": "CO2 - 50 Lb.",
+                        "Size": "K/UU",
+                        "CO #": "0488008",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "200941",
+                        "Gas": "Hydrogen",
+                        "Size": "",
+                        "CO #": "0434273",
+                        "PO #CDLocation": "OPEN LAB AREA OUTSIDE ROOM 5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "201147",
+                        "Gas": "Argon",
+                        "Size": "",
+                        "CO #": "0478466",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "202622",
+                        "Gas": "Argon",
+                        "Size": "",
+                        "CO #": "0478466",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "205371",
+                        "Gas": "CO2 - 50 Lb.",
+                        "Size": "",
+                        "CO #": "0480065",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "820677",
+                        "Gas": "5%H2, in N2",
+                        "Size": "",
+                        "CO #": "0488268",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "821988",
+                        "Gas": "5%H2, in N2",
+                        "Size": "",
+                        "CO #": "0488409",
+                        "PO #CDLocation": "5371 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "",
+                        "Gas": "",
+                        "Size": "",
+                        "CO #": "",
+                        "PO #CDLocation": "",
+                        "Demurrage": "Amount Total",
+                        "Delivery Code": "46.50"
+                    },
+                    {
+                        "BarCode": "200005",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "K/UU",
+                        "CO #": "0485136",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "200683",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "K/UU",
+                        "CO #": "0483680",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "202038",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "",
+                        "CO #": "0485136",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "202258",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "",
+                        "CO #": "0483680",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "205567",
+                        "Gas": "CO2 - 50 Lb.",
+                        "Size": "",
+                        "CO #": "0467405",
+                        "PO #CDLocation": "4800 SMBB Atten: Jan Kubanek",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "205579",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "",
+                        "CO #": "0484516",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "205581",
+                        "Gas": "95% O2, 5% CO2",
+                        "Size": "",
+                        "CO #": "0484516",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "821579",
+                        "Gas": "CO2 - 50 Lb.",
+                        "Size": "",
+                        "CO #": "0484207",
+                        "PO #CDLocation": "4800 SMBB",
+                        "Demurrage": "",
+                        "Delivery Code": "0151031000"
+                    },
+                    {
+                        "BarCode": "",
+                        "Gas": "",
+                        "Size": "",
+                        "CO #": "",
+                        "PO #CDLocation": "",
+                        "Demurrage": "Amount Total",
+                        "Delivery Code": "51.77"
+                    }
+                ]
+            }
+        ]
+    }
+]

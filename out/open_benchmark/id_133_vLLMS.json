@@ -1,0 +1,151 @@
+[
+    {
+        "content": [
+            {"record" : 1},
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "EBOC 5p News",
+                        "DP": "EN",
+                        "Days Length": "M-F 30",
+                        "Rate": "$100.00 $400.00",
+                        "Tue 7/12": "1",
+                        "Wed 7/13": "1",
+                        "Thu 7/14": "1",
+                        "Fri 7/15": "",
+                        "Sat 7/16": "",
+                        "Sun 7/17": "1",
+                        "Mon 7/18": "1"
+                    },
+                    {
+                        "Program Name": "Big Bang Theory",
+                        "DP": "PA",
+                        "Days Length": "M-F 30",
+                        "Rate": "$60.00 $180.00",
+                        "Tue 7/12": "1",
+                        "Wed 7/13": "",
+                        "Thu 7/14": "",
+                        "Fri 7/15": "",
+                        "Sat 7/16": "",
+                        "Sun 7/17": "",
+                        "Mon 7/18": "1"
+                    },
+                    {
+                        "Program Name": "EBOC 10p News",
+                        "DP": "LN",
+                        "Days Length": "M-F 30",
+                        "Rate": "$150.00 $600.00",
+                        "Tue 7/12": "1",
+                        "Wed 7/13": "1",
+                        "Thu 7/14": "1",
+                        "Fri 7/15": "",
+                        "Sat 7/16": "",
+                        "Sun 7/17": "",
+                        "Mon 7/18": "1"
+                    },
+                    {
+                        "Program Name": "Seinfeld",
+                        "DP": "LF",
+                        "Days Length": "M-F 30",
+                        "Rate": "$80.00 $80.00",
+                        "Tue 7/12": "",
+                        "Wed 7/13": "1",
+                        "Thu 7/14": "",
+                        "Fri 7/15": "",
+                        "Sat 7/16": "",
+                        "Sun 7/17": "",
+                        "Mon 7/18": ""
+                    },
+                    {
+                        "Station Totals": "$1,260.00",
+                        "Tue 7/12": "3",
+                        "Wed 7/13": "2",
+                        "Thu 7/14": "2",
+                        "Fri 7/15": "0",
+                        "Sat 7/16": "0",
+                        "Sun 7/17": "0",
+                        "Mon 7/18": "3"
+                    }
+                ]
+            },
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Station": "EBOC-TV"
+                    },
+                    {
+                        "Market": "Salisbury-Ocean City"
+                    },
+                    {
+                        "Flight Dates": "7/12/2022 - 7/19/2022 (Est. 7916)"
+                    },
+                    {
+                        "Buyer": "James Wells"
+                    },
+                    {
+                        "Email": "James.Wells@screenstrategies.com"
+                    },
+                    {
+                        "Phone": "703-272-7300"
+                    }
+                ]
+            },
+            {"record" : 2},
+            {
+                "type": "kv",
+                "content": [
+                    {"Station": "EBOC-TV"},
+                    {"Market": "Salisbury-Ocean City"},
+                    {"Flight Dates": "7/12/2022 - 7/19/2022 (Est. 7916)"},
+                    {"Buyer": "James Wells"},
+                    {"Email": "James.Wells@screenstrategies.com"},
+                    {"Phone": "703-272-7300"}
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Program Name": "EBOC 5p News",
+                        "DP": "EN",
+                        "Days Length": "M-F 30",
+                        "Rate": "$100.00",
+                        "Tue 7/19": "4",
+                        "Total": "$400.00"
+                    },
+                    {
+                        "Program Name": "Big Bang Theory",
+                        "DP": "PA",
+                        "Days Length": "M-F 30",
+                        "Rate": "$60.00",
+                        "Tue 7/19": "3",
+                        "Total": "$180.00"
+                    },
+                    {
+                        "Program Name": "EBOC 10p News",
+                        "DP": "LN",
+                        "Days Length": "M-F 30",
+                        "Rate": "$150.00",
+                        "Tue 7/19": "4",
+                        "Total": "$600.00"
+                    },
+                    {
+                        "Program Name": "Seinfeld",
+                        "DP": "LF",
+                        "Days Length": "M-F 30",
+                        "Rate": "$80.00",
+                        "Tue 7/19": "1",
+                        "Total": "$80.00"
+                    },
+                    {
+                        "Station Totals": "$1,260.00",
+                        "Tue 7/19": "0",
+                        "Total": "12"
+                    }
+                ]
+            }
+        ]
+    }
+]

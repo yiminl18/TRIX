@@ -1,0 +1,838 @@
+[
+    {
+        "id": 1,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Report Criteria": "Incidents Between: 1/1/2021 AND 12/31/2021"
+                    },
+                    {
+                        "Page": "1 of 27"
+                    },
+                    {
+                        "Officer Detail Reports": "#A-12"
+                    },
+                    {
+                        "Date": "1/15/2021"
+                    },
+                    {
+                        "Time": "1143"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "SCTF"
+                    },
+                    {
+                        "Case Number": "21-00017"
+                    },
+                    {
+                        "Date Reviewed": "1/15/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Incident Reviewed By": "Ahart, Rachael F."
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "Location": "1609 Valley Road Apt. D1"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "District": ""
+                    },
+                    {
+                        "Type Premises": "Apartment"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "Reason Force Used": "Fled Scene"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Type Situation": "Search Warrant"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Final Disposition": "Not Listed"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 9:55:14 AM by jbclark."
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Harvey": "Jamin T.,"
+                    },
+                    {
+                        "Subject #": ""
+                    },
+                    {
+                        "Address": "1609 Valley Road Apt. D1"
+                    },
+                    {
+                        "Subject Armed With": "N/A"
+                    },
+                    {
+                        "Level Of Resistance": "Fleeing Suspect"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Force Used": "Fleeing"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Medical Aid": ""
+                    },
+                    {
+                        "No": "Notes"
+                    },
+                    {
+                        "Action Taken Useful": "Yes"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Officer": "Snow, Ryan S."
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Narrative": "Officers parking incident. from lot. the Officer Street Snow Crimes pointed Task firearm Force executed at the suspect a search and warrant directed and him subject to get fled on the from ground scene. and Officers suspect pursued complied. on foot Suspect and Officer was taken Snow into located custody subject without in further a"
+                    },
+                    {
+                        "ADMINISTRATIVE Database": "3/14/2022 8:27:19 AM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Page": "2 of 27"
+                    },
+                    {
+                        "Officer Detail Reports": "#A-12"
+                    },
+                    {
+                        "Date": "1/31/2021"
+                    },
+                    {
+                        "Time": "0156"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Agency": "CPD"
+                    },
+                    {
+                        "Case Number": "21-01236"
+                    },
+                    {
+                        "Date Reviewed": "2/2/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Incident Reviewed By": "Benoit, Robert W."
+                    },
+                    {
+                        "Location": "Green & Second Streets"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "City": "Mahomet"
+                    },
+                    {
+                        "Camera": "Yes"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "District": ""
+                    },
+                    {
+                        "Type Premises": "Roadway"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Type Situation": "Armed Subject"
+                    },
+                    {
+                        "Reason Force Used": "Officer Safety"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Final Disposition": "Not Listed"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 10:04:34 AM by jbclark."
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Subject #": "Norman, Shannon L"
+                    },
+                    {
+                        "Race": ""
+                    },
+                    {
+                        "Address": "1114 1/2 Ashford Ct"
+                    },
+                    {
+                        "Subject Armed With": "Firearm"
+                    },
+                    {
+                        "Level Of Resistance": "Active Aggressive"
+                    },
+                    {
+                        "Force Used": "None"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Medical Aid": ""
+                    },
+                    {
+                        "No": "Notes"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Officer": "Schroeder, Michelle L."
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Narrative": "Officers a felony responded stop. Occupants to 35 E. Green of the to vehilce assist were CPD ordered with a report out at of gun an point armed and subject. were secured. Sgt. Schroeder Two handguns located the were suspect located vehicle inside leaving the vehicle. the parking lot and conducted"
+                    },
+                    {
+                        "ADMINISTRATIVE Database": "3/14/2022 8:27:20 AM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Page": "3 of 27"
+                    },
+                    {
+                        "Officer Detail Reports": ""
+                    },
+                    {
+                        "Date": "2/5/2021"
+                    },
+                    {
+                        "Time": "1436"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "UPD"
+                    },
+                    {
+                        "Case": "Number:21-01342"
+                    },
+                    {
+                        "Date Reviewed": "2/6/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Incident Reviewed By": "Hetrick, Timothy W."
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "City": "Champaign"
+                    },
+                    {
+                        "Location": "Busey Woods"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "District": ""
+                    },
+                    {
+                        "Camera": "Yes No"
+                    },
+                    {
+                        "Type Premises": "Wooded Area"
+                    },
+                    {
+                        "Reason Force Used": "Fled Scene"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Type Situation": "Home Invasion"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Final Disposition": "Arrested/Lodged"
+                    },
+                    {
+                        "Notes": "Suspect had a facial injury as a result of running through the woods."
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Subject #": "Beckett, Anqwaun Jauwaun"
+                    },
+                    {
+                        "DOB": ""
+                    },
+                    {
+                        "Race": ""
+                    },
+                    {
+                        "Address": "2019 Cynthia Apt. M204"
+                    },
+                    {
+                        "Subject Armed With": "Unknown"
+                    },
+                    {
+                        "Level Of Resistance": "Fleeing Suspect"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Force Used": "Fleeing"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Arrested": "Yes"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Injured": "Yes"
+                    },
+                    {
+                        "Medical Aid": ""
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "CIT": "No"
+                    },
+                    {
+                        "Officer": "Perrine, Nicholas R."
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Taken Useful": "Yes"
+                    },
+                    {
+                        "Yes": ""
+                    },
+                    {
+                        "Action Taken Useful": "Yes"
+                    },
+                    {
+                        "Narrative": "UIPD vehicle officers Officers ordered accident. responded pointed him Suspect to firearms get to assist on then the at UPD fled suspect, ground. into attempting Busey who Suspect got Woods. to up locate complied and Officer fled a suspected and again Crane was on taken armed foot. and Milinkovic into Officer subject custody Perrine who started without was and walking involved Germany further through in incident. located a home the woods suspect invasion, and and fled located pointed scene the their and suspect was firearms involved in a at pile suspect in of a brush. motor and"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Page": "4 of 27"
+                    },
+                    {
+                        "Officer Detail Reports": "#A-12"
+                    },
+                    {
+                        "Time": "1725"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Date": "3/19/2021"
+                    },
+                    {
+                        "Assist": "Yes"
+                    },
+                    {
+                        "Agency": "CPD"
+                    },
+                    {
+                        "Case Number": "21-02229"
+                    },
+                    {
+                        "Date Reviewed": "3/19/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "Yes"
+                    },
+                    {
+                        "Incident Reviewed By": "Tison, Laura J."
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "Location": "706 S. Fifth"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "City": ""
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "District": ""
+                    },
+                    {
+                        "Camera": "Yes No"
+                    },
+                    {
+                        "Type Premises": "Bar"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Type Situation": "Fight"
+                    },
+                    {
+                        "Reason Force Used": "Refusing Lawful Order"
+                    },
+                    {
+                        "Final Disposition": "Released / No Action"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Danger Factors": "Not Listed"
+                    },
+                    {
+                        "Notes": "Entered on 4/6/2021 10:30:09 AM by jbclark."
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Under The Influence": "Yes"
+                    },
+                    {
+                        "DOB": ""
+                    },
+                    {
+                        "Subject #": ""
+                    },
+                    {
+                        "Race": ""
+                    },
+                    {
+                        "Address": ""
+                    },
+                    {
+                        "Subject Armed With": "Hands"
+                    },
+                    {
+                        "Level Of Resistance": "Physical Resistance"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Force Used": "Physical Resistance"
+                    },
+                    {
+                        "Arrested": "No"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Medical Aid": ""
+                    },
+                    {
+                        "CIT": ""
+                    },
+                    {
+                        "Yes": ""
+                    },
+                    {
+                        "Action Taken Useful": "No"
+                    },
+                    {
+                        "Action Taken": "Taser - Warning Arc"
+                    },
+                    {
+                        "Officer": "Osterholt, Drew L."
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "Type Injuries None": ""
+                    },
+                    {
+                        "Narrative": "Officers security and responded placed Officer officers. his Hartman to Officer arms Joe's behind they Osterholt Brewery grabbed his to back drew assist suspects where his CPD Taser he with arms was and a and placed displayed fight attempted in in progress. handcuffs. a warning to place UIPD Joe's arc them officers and Brewery behind ordered were staff his subject first back, did to arrive not to however the want on ground, to scene suspect press but and charges continued suspect found and a was subject to suspect resist. non-compliant. actively Suspect was released. fighting finally Officer with comlied Osterholt and"
+                    },
+                    {
+                        "ADMINISTRATIVE Database": "3/14/2022 8:27:20 AM"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "Page": "5 of 27"
+                    },
+                    {
+                        "Officer Detail Reports": "#A-12"
+                    },
+                    {
+                        "Time": "1818"
+                    },
+                    {
+                        "Date": "3/20/2021"
+                    },
+                    {
+                        "Information Taken From": "Crime/ Incident"
+                    },
+                    {
+                        "Assist": "No"
+                    },
+                    {
+                        "Case Number": "21-02257"
+                    },
+                    {
+                        "Agency": ""
+                    },
+                    {
+                        "Date Reviewed": "3/21/2021"
+                    },
+                    {
+                        "Drugs/Alcohol": "No"
+                    },
+                    {
+                        "Incident Reviewed By": "Schroeder, Michelle L."
+                    },
+                    {
+                        "Status": "Completed"
+                    },
+                    {
+                        "Crisis Intervention Related": "No"
+                    },
+                    {
+                        "Location": "Chalmers and Locust"
+                    },
+                    {
+                        "K-9": "No"
+                    },
+                    {
+                        "City": ""
+                    },
+                    {
+                        "Camera": "Vehicle/BWC"
+                    },
+                    {
+                        "Recorded On Camera": "Yes"
+                    },
+                    {
+                        "District": ""
+                    },
+                    {
+                        "Type Premises": "Alley"
+                    },
+                    {
+                        "Officer Injured": "No"
+                    },
+                    {
+                        "Reason Force Used": "Officer Safety"
+                    },
+                    {
+                        "Type Situation": "Felony Stop"
+                    },
+                    {
+                        "Final Disposition": "Released No Action"
+                    },
+                    {
+                        "Verbal De-Escalation Attempted": "No"
+                    },
+                    {
+                        "Danger Factors": "Shooting Suspect"
+                    },
+                    {
+                        "Notes": "Entered on 4/13/2021 1:07:19 PM by jbclark."
+                    },
+                    {
+                        "Under The Influence": "No"
+                    },
+                    {
+                        "Gender": "Male"
+                    },
+                    {
+                        "Race": ""
+                    },
+                    {
+                        "Subject # 1": ""
+                    },
+                    {
+                        "Address": ""
+                    },
+                    {
+                        "Subject Armed With": "N/A"
+                    },
+                    {
+                        "Level Of Resistance": "Cooperative"
+                    },
+                    {
+                        "Force Used": "None"
+                    },
+                    {
+                        "Force Location": "Not Stated"
+                    },
+                    {
+                        "Arrested": "No"
+                    },
+                    {
+                        "Arrested For": "Not Stated"
+                    },
+                    {
+                        "Arrest ID": "None"
+                    },
+                    {
+                        "Type Injuries": "None"
+                    },
+                    {
+                        "Medical Aid": ""
+                    },
+                    {
+                        "No": "Notes"
+                    },
+                    {
+                        "Injured": "No"
+                    },
+                    {
+                        "Action Taken": "Firearm - Pointed At Subject"
+                    },
+                    {
+                        "Useful": "Yes"
+                    },
+                    {
+                        "CIT": ""
+                    },
+                    {
+                        "Officer": "Tran, Alex"
+                    },
+                    {
+                        "Included On Alert": "Yes"
+                    },
+                    {
+                        "Disciplinary Action": "None"
+                    },
+                    {
+                        "Taken Useful": "No"
+                    },
+                    {
+                        "Narrative": "Sgt. suspects Schroeder the vehilce. in that stopped Occupants shooting a vehicle were were for armed cooperative a traffic with violation, an and AR-15. were when Officers released she realized conducted from scene the vehicle a high-risk after it fit was the traffic determined description stop and of they deployed a vehicle were handguns not involved involved in and in an long the earlier earlier guns shooting to shooting direct in the Champaign. incident. occupants The out of"
+                    },
+                    {
+                        "L.E.A. Data Technologies": "ADMINISTRATIVE Database 3/14/2022 8:27:20 AM"
+                    }
+                ]
+            }
+        ]
+    }
+]
