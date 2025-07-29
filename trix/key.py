@@ -273,9 +273,7 @@ def clustering_group(phrases_vec, clusters, candidate_key_clusters, k=1):
                 key_clusters.append(cid)
                 break
 
-    #print(candidate_key_clusters)
     key_clusters += candidate_key_clusters
-    #print(key_clusters)
     return key_clusters
 
 def get_keys(cans, cluters, key_clusters):
@@ -330,8 +328,6 @@ def key_prediction(pdf_path):
     print('re-clustering starts...')
     key_clusters = clustering_group(phrases, remap, candidate_key_clusters, k=1)
     keys = get_keys(cans, remap, key_clusters)
-
-    print(result_path)
 
     write_result(result_path,keys)
     return keys

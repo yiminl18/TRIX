@@ -1122,5 +1122,203 @@
                 ]
             }
         ]
+    },
+    {
+        "id": 6,
+        "content": [
+            {
+                "type": "kv",
+                "content": [
+                    {
+                        "AUG 19,2019": "VT"
+                    },
+                    {
+                        "Date": "missing"
+                    },
+                    {
+                        "Status": "missing"
+                    },
+                    {
+                        "Certified": "missing"
+                    },
+                    {
+                        "Expires": "missing"
+                    },
+                    {
+                        "Probation": "missing"
+                    },
+                    {
+                        "Cert #": "Law Enforcement Level III / Certified"
+                    },
+                    {
+                        "7-01-2015": "missing"
+                    },
+                    {
+                        "Certified": "missing"
+                    },
+                    {
+                        "12-05-2008": "missing"
+                    },
+                    {
+                        "JJA7277": "Law Enforcement Full-Time"
+                    },
+                    {
+                        "7-01-2015": "Lapsed"
+                    },
+                    {
+                        "12-05-2008": "missing"
+                    },
+                    {
+                        "JJA7277": "Employment History"
+                    },
+                    {
+                        "Date": "1-31-2019"
+                    },
+                    {
+                        "Action": "Resigned"
+                    },
+                    {
+                        "Status": "Inactive"
+                    },
+                    {
+                        "Assignment": "missing"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "missing"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Shift": "Chittenden County Sheriff's Department"
+                    },
+                    {
+                        "Service": "Years"
+                    },
+                    {
+                        "Date": "1-25-2019"
+                    },
+                    {
+                        "Action": "Hired"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": "missing"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "missing"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Shift": "Franklin County Sheriff's Department"
+                    },
+                    {
+                        "Service": "10"
+                    },
+                    {
+                        "Date": "8-04-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": "missing"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "missing"
+                    },
+                    {
+                        "Class": "Level III"
+                    },
+                    {
+                        "Shift": "Franklin County Sheriff's Department"
+                    },
+                    {
+                        "Service": "Years"
+                    },
+                    {
+                        "Date": "3-18-2008"
+                    },
+                    {
+                        "Action": "Appointed"
+                    },
+                    {
+                        "Status": "Active"
+                    },
+                    {
+                        "Assignment": "missing"
+                    },
+                    {
+                        "Pos/Rank": "Deputy"
+                    },
+                    {
+                        "Level": "missing"
+                    },
+                    {
+                        "Class": "Part-Time"
+                    },
+                    {
+                        "Shift": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "Employee training": "missing"
+                    }
+                ]
+            },
+            {
+                "type": "table",
+                "content": []
+            },
+            {
+                "type": "table",
+                "content": [
+                    {
+                        "7-01-2015": "7-01-2015",
+                        "Certified": "Lapsed",
+                        "12-05-2008": "12-05-2008",
+                        "JJA7277": "JJA7277"
+                    },
+                    {
+                        "7-01-2015": "Chittenden County Sheriff's Department",
+                        "Certified": "Chittenden County Sheriff's Department",
+                        "12-05-2008": "Chittenden County Sheriff's Department",
+                        "JJA7277": "Years"
+                    },
+                    {
+                        "7-01-2015": "Franklin County Sheriff's Department",
+                        "Certified": "Franklin County Sheriff's Department",
+                        "12-05-2008": "missing",
+                        "JJA7277": "10"
+                    },
+                    {
+                        "7-01-2015": "Franklin County Sheriff's Department",
+                        "Certified": "Franklin County Sheriff's Department",
+                        "12-05-2008": "missing",
+                        "JJA7277": "Years"
+                    }
+                ]
+            }
+        ]
     }
 ]

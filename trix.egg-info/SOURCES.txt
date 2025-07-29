@@ -1,16 +1,6 @@
+README.md
 setup.py
 models/__init__.py
-models/ai21_model.py
-models/bert_model.py
-models/flan_t5_base_model.py
-models/flan_t5_large_model.py
-models/flan_t5_small_model.py
-models/gpt_35_azure.py
-models/gpt_35_long.py
-models/gpt_35_model.py
-models/gpt_4_azure.py
-models/gpt_4_long.py
-models/gpt_4_model.py
 models/gpt_4_vision.py
 models/gpt_4o.py
 models/gpt_4o_mini.py

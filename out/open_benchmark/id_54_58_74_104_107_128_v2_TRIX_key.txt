@@ -1,9 +1,9 @@
-Type
-Commission
-Invoice Date
-Line
-Period
-Due By
-Advertiser
 Agency
+Type
 Inv #
+Period
+Line
+Due By
+Commission
+Advertiser
+Invoice Date

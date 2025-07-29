@@ -1,10 +1,10 @@
-APR 18,2023
-I.D.
-Status Date
-Expires
+Certificate Level
 Cert #
+APR 18,2023
+Expires
 Name
 Probation
-Certified
-Certificate Level
+Status Date
+I.D.
 Status
+Certified

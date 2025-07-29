@@ -1,7 +1,14 @@
-Shift
-Pos/Rank
 Service
-Action
-Assignment
-Level
 Class
+Status
+Level
+Cert #
+Date
+Assignment
+Action
+Expires
+Pos/Rank
+Probation
+Shift
+AUG 19,2019
+Certified

@@ -1,7 +1,7 @@
-Fax
+Program Name
 Total
 Direct
-Phone
-Contact
-Program Name
 Email
+Fax
+Contact
+Phone

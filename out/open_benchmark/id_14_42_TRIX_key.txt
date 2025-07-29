@@ -1,9 +1,9 @@
 Net $
-Updated On
-Order Status
-Gross $
-Updated By
-Created On
 Units
+Updated On
 Created By
+Order Status
+Created On
+Updated By
 Credit Hold
+Gross $

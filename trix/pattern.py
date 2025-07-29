@@ -1079,10 +1079,9 @@ def pattern_detect_by_row(pv, predict_labels, rid, debug = 0):
     
 def load_cands(pdf_path):
     if('open_benchmark' in pdf_path):
-        path = pdf_path.replace('raw','intermediate').replace('.pdf','.json') #ihe
+        path = pdf_path.replace('raw','intermediate').replace('.pdf','.json') 
     else:
         path = pdf_path.replace('raw','intermediate').replace('.pdf','_tem.json')
-    print('stats_path:', path)
     data = read_json(path)
     return data
     
