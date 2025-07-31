@@ -294,6 +294,7 @@ def eval(approach):
     root_path = get_root_path()
     pdf_folder_path = root_path + '/data/raw'
     pdfs = scan_folder(pdf_folder_path,'.pdf')
+    metrics = {}
     precision = 0
     recall = 0
     cnt = 0 
@@ -321,10 +322,82 @@ def eval(approach):
         avg_precision, avg_recall = eval_one_doc(truth_path, result_path)
         precision += avg_precision
         recall += avg_recall
+
+        metrics[pdf_file_name] = (avg_precision, avg_recall) 
+
     precision /= cnt
     recall /= cnt
     print('average precision:', precision)
     print('average recall:', recall) 
+
+    return metrics 
+
+from pathlib import Path
+import pandas as pd
+
+def read_csv(path):
+    return pd.read_csv(path) 
+
+def get_difficult_labels():
+    parent_directory = str(Path().resolve().parent)
+    path = parent_directory + '/difficulties.csv' 
+    df = read_csv(path)
+    labels = dict(zip(df['name'], df['complexity']))
+    return labels         
+
+def get_complexity(labels, file_name):
+    for doc, complexity in labels.items():
+        if doc.lower() in file_name.lower():
+            return complexity
+    return 1
+
+def break_down_by_difficulties(metrics):
+    labels = get_difficult_labels()
+
+    easy_p = 0
+    easy_r = 0
+    medium_p = 0
+    medium_r = 0
+    hard_p = 0
+    hard_r = 0
+
+    easy_cnt = 0
+    medium_cnt = 0
+    hard_cnt = 0
+
+    for file_name, (precision, recall) in metrics.items():
+        complexity = get_complexity(labels, file_name)
+        #print(file_name, complexity, precision, recall)
+        if complexity == 1:
+            easy_p += precision
+            easy_r += recall
+            easy_cnt += 1
+        elif complexity == 2:
+            medium_p += precision
+            medium_r += recall
+            medium_cnt += 1
+        elif complexity == 3:
+            hard_p += precision
+            hard_r += recall
+            hard_cnt += 1
+    if easy_cnt > 0:
+        easy_p /= easy_cnt
+        easy_r /= easy_cnt
+
+    if medium_cnt > 0:
+        medium_p /= medium_cnt
+        medium_r /= medium_cnt
+
+    if hard_cnt > 0:
+        hard_p /= hard_cnt
+        hard_r /= hard_cnt
+
+    print(easy_cnt, medium_cnt, hard_cnt)
+
+    print('Easy datasets: P|R', easy_p, easy_r)
+    print('Medium datasets: P|R', medium_p, medium_r)
+    print('Hard datasets: P|R', hard_p, hard_r)
+
         
 def write_list(path, phrases):
     out = ''

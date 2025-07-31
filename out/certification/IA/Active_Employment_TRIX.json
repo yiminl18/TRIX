@@ -4,10 +4,6 @@
         "content": [
             {
                 "type": "table",
-                "content": []
-            },
-            {
-                "type": "table",
                 "content": [
                     {
                         "Agency": "Aarhus, Ryan D.",
@@ -70,18 +66,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Aarhus, Todd C.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "DPS22-01",
-                        "Status": "DPS22-01",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "IOWA STATE PATROL",
                         "Date": "11-17-2006",
                         "F/P": "F",
@@ -109,7 +93,7 @@
                         "Agency": "DIVISION OF CRIMINAL INVESTIGATION",
                         "Date": "10-30-1997",
                         "F/P": "missing",
-                        "Action": "Transf Out",
+                        "Action": "Transfer Out",
                         "Status": "Inactive",
                         "Assignment": "missing",
                         "Pos/Rank": "Gaming Off",
@@ -127,18 +111,6 @@
                         "Pos/Rank": "Gaming Off",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Abbas, April S.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "WI6-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -190,8 +162,8 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "BUENA VISTA COUNTY SHERIFF'S OFFICE11-29-2010",
-                        "Date": "BUENA VISTA COUNTY SHERIFF'S OFFICE11-29-2010",
+                        "Agency": "BUENA VISTA COUNTY SHERIFF'S OFFICE",
+                        "Date": "11-29-2010",
                         "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
@@ -226,39 +198,15 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Abbey, Jeffery A.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "CR21-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "WEST POINT POLICE DEPARTMENT",
                         "Date": "6-22-2017",
                         "F/P": "missing",
                         "Action": "Volunteer",
                         "Status": "Active",
                         "Assignment": "Reserve",
-                        "Pos/Rank": "Resrv Offc",
+                        "Pos/Rank": "Resrv Ofc",
                         "Level": "No Super",
                         "Class": "Temp Emp",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Reserve",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -277,7 +225,7 @@
                         "Agency": "FT MADISON POLICE DEPARTMENT",
                         "Date": "3-06-1996",
                         "F/P": "missing",
-                        "Action": "Reinstate",
+                        "Action": "Reinstated",
                         "Status": "Active",
                         "Assignment": "missing",
                         "Pos/Rank": "Police Off",
@@ -310,18 +258,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Abbott, Marissa K.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "287-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "CEDAR FALLS POLICE DEPARTMENT",
                         "Date": "1-02-2019",
                         "F/P": "F",
@@ -339,58 +275,22 @@
                         "F/P": "P",
                         "Action": "Resigned",
                         "Status": "Inactive",
-                        "Assignment": "Telecom",
+                        "Assignment": "Telocom",
                         "Pos/Rank": "Telecomm.",
                         "Level": "missing",
                         "Class": "Partime",
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Tele PT",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "UNIVERSITY OF NORTHERN IOWA POLICE10-09-2017",
-                        "Date": "UNIVERSITY OF NORTHERN IOWA POLICE10-09-2017",
+                        "Agency": "UNIVERSITY OF NORTHERN IOWA POLICE",
+                        "Date": "10-09-2017",
                         "F/P": "P",
                         "Action": "Tele Hire",
                         "Status": "Active",
-                        "Assignment": "Telecom",
+                        "Assignment": "Telocom",
                         "Pos/Rank": "Telecomm.",
                         "Level": "missing",
                         "Class": "Partime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Tele PT",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Abel, Garrett J.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "218-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -403,18 +303,6 @@
                         "Pos/Rank": "Deputy",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Abel, Yon A.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "J1997-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -442,18 +330,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Abell, Samuel T.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "253-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "JOHNSTON POLICE DEPARTMENT",
                         "Date": "2-27-2022",
                         "F/P": "F",
@@ -464,36 +340,8 @@
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
-                    },
-                    {
-                        "Agency": "APR 18,2023",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "missing",
-                        "Status": "Iowa",
-                        "Assignment": "Enforcement",
-                        "Pos/Rank": "Academy",
-                        "Level": "Academy",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "02:46PM",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "missing",
-                        "Status": "Employment",
-                        "Assignment": "Employment",
-                        "Pos/Rank": "Report",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
                     }
                 ]
-            },
-            {
-                "type": "kv",
-                "content": []
             }
         ]
     },
@@ -540,18 +388,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Abernathy, Ryan S.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "T2013-22",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "ALTOONA POLICE DEPARTMENT",
                         "Date": "12-16-2013",
                         "F/P": "F",
@@ -585,18 +421,6 @@
                         "Pos/Rank": "Telecomm.",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Abodeely, Ryan M.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "CR27-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -648,18 +472,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Accola, Anthony J.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "232-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "MARSHALLTOWN POLICE DEPARTMENT",
                         "Date": "9-12-2022",
                         "F/P": "F",
@@ -681,18 +493,6 @@
                         "Pos/Rank": "Police Off",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Accola, Curtiss N.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "191-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -756,18 +556,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Accola, Derek G.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "265-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "AMES POLICE DEPARTMENT",
                         "Date": "8-10-2015",
                         "F/P": "F",
@@ -778,77 +566,104 @@
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "6-29-2018",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trpr 2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WASHINGTON COUNTY SHERIFF'S OFFIC",
+                        "Date": "1-01-2014",
+                        "F/P": "missing",
+                        "Action": "Resv.Term.",
+                        "Status": "Inactive",
+                        "Assignment": "Reserve",
+                        "Pos/Rank": "Resrv Offc",
+                        "Level": "No Super",
+                        "Class": "Temp Emp",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WASHINGTON COUNTY SHERIFF'S OFFIC",
+                        "Date": "3-06-2012",
+                        "F/P": "missing",
+                        "Action": "Volunteer",
+                        "Status": "Active",
+                        "Assignment": "Reserve",
+                        "Pos/Rank": "Resrv Offc",
+                        "Level": "No Super",
+                        "Class": "Temp Emp",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WASHINGTON POLICE DEPARTMENT",
+                        "Date": "9-01-2010",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "POLK COUNTY SHERIFF'S OFFICE",
+                        "Date": "1-02-2001",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Deputy",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "TAMA POLICE DEPARTMENT",
+                        "Date": "12-07-2021",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "EMMETSBURG POLICE DEPARTMENT",
+                        "Date": "1-22-1996",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "DAVENPORT POLICE DEPARTMENT",
+                        "Date": "4-21-2021",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
                     }
                 ]
-            },
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Achterhoff, Ethan J.": "IOWA STATE PATROL",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "Adam, Seth M.",
-                        "DPS41-01": "236-01"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "WASHINGTON COUNTY SHERIFF'S OFFIC",
-                        "DPS41-01": "Resv.Term."
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "WASHINGTON COUNTY SHERIFF'S OFFIC",
-                        "DPS41-01": "Volunteer"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "WASHINGTON POLICE DEPARTMENT",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "Adamovicz, Patrick J.",
-                        "DPS41-01": "195-01"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "POLK COUNTY SHERIFF'S OFFICE",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "Adams, Aaron T.",
-                        "DPS41-01": "304-01"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "TAMA POLICE DEPARTMENT",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "Adams, Darrin E.",
-                        "DPS41-01": "153-01"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "EMMETSBURG POLICE DEPARTMENT",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "Adams, Justin J.",
-                        "DPS41-01": "288-01"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "DAVENPORT POLICE DEPARTMENT",
-                        "DPS41-01": "Hired"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "APR 18,2023",
-                        "DPS41-01": "Iowa"
-                    },
-                    {
-                        "Achterhoff, Ethan J.": "02:46PM",
-                        "DPS41-01": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "kv",
-                "content": []
             }
         ]
     },
@@ -883,18 +698,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Adams, Matthew T.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "285-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "ALGONA POLICE DEPARTMENT",
                         "Date": "4-23-2018",
                         "F/P": "missing",
@@ -904,18 +707,6 @@
                         "Pos/Rank": "Resrv Offc",
                         "Level": "No Super",
                         "Class": "Temp Emp",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Reserve",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -943,30 +734,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Reserve",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Adams, Nathan A.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "CR48-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
                         "Date": "7-06-2020",
                         "F/P": "F",
@@ -977,133 +744,248 @@
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "8-21-2020",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trpr 2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "OTTUMWA POLICE DEPARTMENT",
+                        "Date": "4-20-2015",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "CEDAR FALLS POLICE DEPARTMENT",
+                        "Date": "10-14-2019",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "11-28-2008",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trpr 3",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "10-30-1998",
+                        "F/P": "missing",
+                        "Action": "Transfr In",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trooper",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "Capitol Police",
+                        "Date": "10-29-1998",
+                        "F/P": "missing",
+                        "Action": "Transfr Out",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Cap P.O.",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "Capitol Police",
+                        "Date": "8-07-1995",
+                        "F/P": "missing",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Cap P.O.",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "DIVISION OF CRIMINAL INVESTIGATION",
+                        "Date": "12-14-2011",
+                        "F/P": "F",
+                        "Action": "Transfr In",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Spec Agnt2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "DIVISION OF NARCOTICS ENFORCEMENT",
+                        "Date": "12-13-2011",
+                        "F/P": "F",
+                        "Action": "Transfr Out",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Spec Agnt2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "DIVISION OF NARCOTICS ENFORCEMENT",
+                        "Date": "12-10-2010",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Spec Agnt2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "DIVISION OF NARCOTICS ENFORCEMENT",
+                        "Date": "12-02-2006",
+                        "F/P": "missing",
+                        "Action": "Transfr In",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Spec Agnt",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "6-01-2006",
+                        "F/P": "missing",
+                        "Action": "Transfr Out",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trooper",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "9-02-1994",
+                        "F/P": "missing",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trooper",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "CLINTON POLICE DEPARTMENT",
+                        "Date": "3-16-2020",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Corporal",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "CLINTON POLICE DEPARTMENT",
+                        "Date": "1-02-2003",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WEST LIBERTY POLICE DEPARTMENT",
+                        "Date": "11-18-2019",
+                        "F/P": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "TIPTON POLICE DEPARTMENT",
+                        "Date": "9-20-2019",
+                        "F/P": "F",
+                        "Action": "Other",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "TIPTON POLICE DEPARTMENT",
+                        "Date": "8-29-2019",
+                        "F/P": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "SPENCER POLICE DEPARTMENT",
+                        "Date": "5-09-2018",
+                        "F/P": "F",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "SPENCER POLICE DEPARTMENT",
+                        "Date": "8-07-2017",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
                     }
                 ]
-            },
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Adams, Nicholas A.": "IOWA STATE PATROL",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adams, Scott A.",
-                        "DPS44-01": "263-02"
-                    },
-                    {
-                        "Adams, Nicholas A.": "OTTUMWA POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adelmund, Tryston C.",
-                        "DPS44-01": "291-01"
-                    },
-                    {
-                        "Adams, Nicholas A.": "CEDAR FALLS POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Ades, Mark M.",
-                        "DPS44-01": "DPS22-02"
-                    },
-                    {
-                        "Adams, Nicholas A.": "IOWA STATE PATROL",
-                        "DPS44-01": "Promotion"
-                    },
-                    {
-                        "Adams, Nicholas A.": "IOWA STATE PATROL",
-                        "DPS44-01": "Transfr In"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Capitol Police",
-                        "DPS44-01": "Transf Out"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Capitol Police",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adkins, Christopher T.",
-                        "DPS44-01": "DPS21-01"
-                    },
-                    {
-                        "Adams, Nicholas A.": "DIVISION OF CRIMINAL INVESTIGATION",
-                        "DPS44-01": "Transfr In"
-                    },
-                    {
-                        "Adams, Nicholas A.": "DIVISION OF NARCOTICS ENFORCEMENT",
-                        "DPS44-01": "Transf Out"
-                    },
-                    {
-                        "Adams, Nicholas A.": "DIVISION OF NARCOTICS ENFORCEMENT",
-                        "DPS44-01": "Promotion"
-                    },
-                    {
-                        "Adams, Nicholas A.": "DIVISION OF NARCOTICS ENFORCEMENT",
-                        "DPS44-01": "Transfr In"
-                    },
-                    {
-                        "Adams, Nicholas A.": "IOWA STATE PATROL",
-                        "DPS44-01": "Transf Out"
-                    },
-                    {
-                        "Adams, Nicholas A.": "IOWA STATE PATROL",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adney, Michael R.",
-                        "DPS44-01": "192-01"
-                    },
-                    {
-                        "Adams, Nicholas A.": "CLINTON POLICE DEPARTMENT",
-                        "DPS44-01": "Promotion"
-                    },
-                    {
-                        "Adams, Nicholas A.": "CLINTON POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adolph, Charles H.",
-                        "DPS44-01": "276-01"
-                    },
-                    {
-                        "Adams, Nicholas A.": "WEST LIBERTY POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "TIPTON POLICE DEPARTMENT",
-                        "DPS44-01": "Other"
-                    },
-                    {
-                        "Adams, Nicholas A.": "TIPTON POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "SPENCER POLICE DEPARTMENT",
-                        "DPS44-01": "Resigned"
-                    },
-                    {
-                        "Adams, Nicholas A.": "SPENCER POLICE DEPARTMENT",
-                        "DPS44-01": "Hired"
-                    },
-                    {
-                        "Adams, Nicholas A.": "Adymy, Brandon D.",
-                        "DPS44-01": "292-01"
-                    },
-                    {
-                        "Adams, Nicholas A.": "APR 18,2023",
-                        "DPS44-01": "Iowa"
-                    },
-                    {
-                        "Adams, Nicholas A.": "02:46PM",
-                        "DPS44-01": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "kv",
-                "content": []
             }
         ]
     },
@@ -1123,18 +1005,6 @@
                         "Pos/Rank": "Police Off",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Aeschliman, Kenneth R.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "HI27-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -1186,18 +1056,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Aesoph, Jess T.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "179-02",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "SIOUX CITY POLICE DEPARTMENT",
                         "Date": "4-28-2018",
                         "F/P": "F",
@@ -1223,7 +1081,7 @@
                     },
                     {
                         "Agency": "SIOUX CITY POLICE DEPARTMENT",
-                        "Date": "7-30-2007",
+                        "Date": "7-14-2007",
                         "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
@@ -1270,18 +1128,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Agan, Kenneth J.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "155-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "JOHNSTON POLICE DEPARTMENT",
                         "Date": "12-19-2022",
                         "F/P": "F",
@@ -1324,7 +1170,7 @@
                         "Action": "Resv.Term.",
                         "Status": "Inactive",
                         "Assignment": "missing",
-                        "Pos/Rank": "Resrv Offc",
+                        "Pos/Rank": "Resrv Ofc",
                         "Level": "missing",
                         "Class": "Temp Emp",
                         "Shift": "missing"
@@ -1336,21 +1182,9 @@
                         "Action": "Volunteer",
                         "Status": "Active",
                         "Assignment": "missing",
-                        "Pos/Rank": "Resrv Offc",
+                        "Pos/Rank": "Resrv Ofc",
                         "Level": "missing",
                         "Class": "Temp Emp",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "missing",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "Functions",
-                        "Status": "Reserve",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -1378,18 +1212,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Aguero Jones, Shannon R.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "CR39-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "CEDAR RAPIDS POLICE DEPARTMENT",
                         "Date": "6-04-2022",
                         "F/P": "F",
@@ -1412,73 +1234,116 @@
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "5-01-2020",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Spec Agnt2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "4-10-2015",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trpr 2",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "IOWA STATE PATROL",
+                        "Date": "9-27-2013",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Trpr 1",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "SCOTT COUNTY SHERIFF'S OFFICE",
+                        "Date": "8-25-2022",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Deputy",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "9-11-2015",
+                        "F/P": "P",
+                        "Action": "Demotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "9-21-2010",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "7-07-2010",
+                        "F/P": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "6-01-2006",
+                        "F/P": "missing",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "ESTHERVILLE POLICE DEPARTMENT",
+                        "Date": "11-24-2003",
+                        "F/P": "missing",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
                     }
                 ]
-            },
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Aguilera, Mauricio": "IOWA STATE PATROL",
-                        "DPS37-01": "Promotion"
-                    },
-                    {
-                        "Aguilera, Mauricio": "IOWA STATE PATROL",
-                        "DPS37-01": "Promotion"
-                    },
-                    {
-                        "Aguilera, Mauricio": "IOWA STATE PATROL",
-                        "DPS37-01": "Hired"
-                    },
-                    {
-                        "Aguilera, Mauricio": "Ahrens, Kobe",
-                        "DPS37-01": "305-01"
-                    },
-                    {
-                        "Aguilera, Mauricio": "SCOTT COUNTY SHERIFF'S OFFICE",
-                        "DPS37-01": "Hired"
-                    },
-                    {
-                        "Aguilera, Mauricio": "Ahrens, Timothy L.",
-                        "DPS37-01": "WI5-01"
-                    },
-                    {
-                        "Aguilera, Mauricio": "ESTHERVILLE POLICE DEPARTMENT",
-                        "DPS37-01": "Demotion"
-                    },
-                    {
-                        "Aguilera, Mauricio": "ESTHERVILLE POLICE DEPARTMENT",
-                        "DPS37-01": "Promotion"
-                    },
-                    {
-                        "Aguilera, Mauricio": "ESTHERVILLE POLICE DEPARTMENT",
-                        "DPS37-01": "Hired"
-                    },
-                    {
-                        "Aguilera, Mauricio": "ESTHERVILLE POLICE DEPARTMENT",
-                        "DPS37-01": "Resigned"
-                    },
-                    {
-                        "Aguilera, Mauricio": "ESTHERVILLE POLICE DEPARTMENT",
-                        "DPS37-01": "Hired"
-                    },
-                    {
-                        "Aguilera, Mauricio": "Ahrens, Zachary T.",
-                        "DPS37-01": "264-01"
-                    },
-                    {
-                        "Aguilera, Mauricio": "APR 18,2023",
-                        "DPS37-01": "Iowa"
-                    },
-                    {
-                        "Aguilera, Mauricio": "02:46PM",
-                        "DPS37-01": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "kv",
-                "content": []
             }
         ]
     },
@@ -1522,18 +1387,6 @@
                         "Pos/Rank": "Police Off",
                         "Level": "missing",
                         "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Aicher, Matthew W.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "HI46-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
                         "Shift": "missing"
                     },
                     {
@@ -1597,18 +1450,6 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "Aiello, Steve E.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "HI39-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
                         "Agency": "READLYN POLICE DEPARTMENT",
                         "Date": "12-06-2004",
                         "F/P": "F",
@@ -1619,165 +1460,34 @@
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Aiken, Jamie A.": "POLK COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Promotion"
                     },
                     {
-                        "Aiken, Jamie A.": "missing",
-                        "241-01": "Functions"
-                    },
-                    {
-                        "Aiken, Jamie A.": "WARREN COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Resigned"
-                    },
-                    {
-                        "Aiken, Jamie A.": "POLK COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "MELCHER-DALLAS POLICE DEPARTMENT",
-                        "241-01": "Resigned"
-                    },
-                    {
-                        "Aiken, Jamie A.": "MELCHER-DALLAS POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "WARREN COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "GREENFIELD POLICE DEPARTMENT",
-                        "241-01": "Resigned"
-                    },
-                    {
-                        "Aiken, Jamie A.": "GREENFIELD POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "Aistrope, Derek K.",
-                        "241-01": "255-01"
-                    },
-                    {
-                        "Aiken, Jamie A.": "MISSOURI VALLEY POLICE DEPARTMENT",
-                        "241-01": "Resigned"
-                    },
-                    {
-                        "Aiken, Jamie A.": "TABOR POLICE DEPARTMENT",
-                        "241-01": "Promotion"
-                    },
-                    {
-                        "Aiken, Jamie A.": "MISSOURI VALLEY POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "TABOR POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "Aistrope, Warren K.",
-                        "241-01": "90-01"
-                    },
-                    {
-                        "Aiken, Jamie A.": "FREMONT COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Promotion"
-                    },
-                    {
-                        "Aiken, Jamie A.": "FREMONT COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Promotion"
-                    },
-                    {
-                        "Aiken, Jamie A.": "FREMONT COUNTY SHERIFF'S OFFICE",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "TABOR POLICE DEPARTMENT",
-                        "241-01": "Resigned"
-                    },
-                    {
-                        "Aiken, Jamie A.": "TABOR POLICE DEPARTMENT",
-                        "241-01": "Promotion"
-                    },
-                    {
-                        "Aiken, Jamie A.": "TABOR POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "Aitchison, Jesse W.",
-                        "241-01": "293-01"
-                    },
-                    {
-                        "Aiken, Jamie A.": "WATERLOO POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "Akemann, Lucas C.",
-                        "241-01": "303-01"
-                    },
-                    {
-                        "Aiken, Jamie A.": "MASON CITY POLICE DEPARTMENT",
-                        "241-01": "Hired"
-                    },
-                    {
-                        "Aiken, Jamie A.": "Akers, Brian E.",
-                        "241-01": "264-02"
-                    },
-                    {
-                        "Aiken, Jamie A.": "APR 18,2023",
-                        "241-01": "Iowa"
-                    },
-                    {
-                        "Aiken, Jamie A.": "02:46PM",
-                        "241-01": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "kv",
-                "content": []
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "content": [
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Agency": "CLARKE COUNTY SHERIFF'S OFFICE",
-                        "Date": "3-27-2023",
+                        "Agency": "POLK COUNTY SHERIFF'S OFFICE",
+                        "Date": "2-27-2021",
                         "F/P": "F",
                         "Action": "Promotion",
                         "Status": "Active",
                         "Assignment": "missing",
-                        "Pos/Rank": "Chf. Dep.",
+                        "Pos/Rank": "Deputy",
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "LEON POLICE DEPARTMENT",
-                        "Date": "1-25-2018",
-                        "F/P": "missing",
-                        "Action": "Resv.Term.",
+                        "Agency": "WARREN COUNTY SHERIFF'S OFFICE",
+                        "Date": "5-01-2015",
+                        "F/P": "F",
+                        "Action": "Resigned",
                         "Status": "Inactive",
-                        "Assignment": "Reserve",
-                        "Pos/Rank": "Resrv Offc",
-                        "Level": "No Super",
-                        "Class": "Temp Emp",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Deputy",
+                        "Level": "missing",
+                        "Class": "Fulltime",
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "CLARKE COUNTY SHERIFF'S OFFICE",
-                        "Date": "2-29-2016",
+                        "Agency": "POLK COUNTY SHERIFF'S OFFICE",
+                        "Date": "4-01-2015",
                         "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
@@ -1788,8 +1498,44 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "CHARITON POLICE DEPARTMENT",
-                        "Date": "2-28-2016",
+                        "Agency": "MELCHER-DALLAS POLICE DEPARTMENT",
+                        "Date": "8-20-2014",
+                        "F/P": "P",
+                        "Action": "Resigned",
+                        "Status": "Inactive",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "MELCHER-DALLAS POLICE DEPARTMENT",
+                        "Date": "8-12-2013",
+                        "F/P": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WARREN COUNTY SHERIFF'S OFFICE",
+                        "Date": "4-25-2013",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Deputy",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "GREENFIELD POLICE DEPARTMENT",
+                        "Date": "3-20-2013",
                         "F/P": "F",
                         "Action": "Resigned",
                         "Status": "Inactive",
@@ -1800,8 +1546,8 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "CHARITON POLICE DEPARTMENT",
-                        "Date": "7-20-2015",
+                        "Agency": "GREENFIELD POLICE DEPARTMENT",
+                        "Date": "3-15-2011",
                         "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
@@ -1812,81 +1558,9 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "LEON POLICE DEPARTMENT",
-                        "Date": "5-08-2014",
-                        "F/P": "missing",
-                        "Action": "Volunteer",
-                        "Status": "Active",
-                        "Assignment": "Reserve",
-                        "Pos/Rank": "Resrv Offc",
-                        "Level": "No Super",
-                        "Class": "Temp Emp",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Akers, Christopher M.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "107-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "UNIVERSITY HEIGHTS POLICE DEPARTME",
-                        "Date": "8-19-2019",
+                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
+                        "Date": "10-05-2017",
                         "F/P": "F",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "IOWA CITY POLICE DEPARTMENT",
-                        "Date": "8-14-2019",
-                        "F/P": "F",
-                        "Action": "Retired",
-                        "Status": "Inactive",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Sergeant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "IOWA CITY POLICE DEPARTMENT",
-                        "Date": "2-04-2012",
-                        "F/P": "F",
-                        "Action": "Promotion",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Sergeant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "IOWA CITY POLICE DEPARTMENT",
-                        "Date": "9-28-1988",
-                        "F/P": "missing",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "MARSHALLTOWN POLICE DEPARTMENT",
-                        "Date": "9-28-1988",
-                        "F/P": "missing",
                         "Action": "Resigned",
                         "Status": "Inactive",
                         "Assignment": "missing",
@@ -1896,32 +1570,8 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "MARSHALLTOWN POLICE DEPARTMENT",
-                        "Date": "1-25-1988",
-                        "F/P": "missing",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Albaugh, Nathan S.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "197-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "HUXLEY POLICE DEPARTMENT",
-                        "Date": "1-24-2023",
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "10-01-2017",
                         "F/P": "F",
                         "Action": "Promotion",
                         "Status": "Active",
@@ -1932,20 +1582,8 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "HUXLEY POLICE DEPARTMENT",
-                        "Date": "9-25-2018",
-                        "F/P": "F",
-                        "Action": "Promotion",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Sergeant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "HUXLEY POLICE DEPARTMENT",
-                        "Date": "7-29-2006",
+                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
+                        "Date": "6-02-2015",
                         "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
@@ -1956,119 +1594,71 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "BELLEVUE POLICE DEPARTMENT",
-                        "Date": "7-27-2006",
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "1-01-2014",
+                        "F/P": "P",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "1-01-2009",
+                        "F/P": "F",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Sheriff",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "10-01-1993",
                         "F/P": "missing",
-                        "Action": "Resigned",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Chf. Dep.",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "FREMONT COUNTY SHERIFF'S OFFICE",
+                        "Date": "8-01-1987",
+                        "F/P": "missing",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Deputy",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "7-31-1987",
+                        "F/P": "missing",
+                        "Action": "Hired",
                         "Status": "Inactive",
                         "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
+                        "Pos/Rank": "Chief",
                         "Level": "missing",
                         "Class": "Fulltime",
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "BELLEVUE POLICE DEPARTMENT",
-                        "Date": "8-18-2003",
-                        "F/P": "missing",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Albers, Rafe E.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "189-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "NORWALK POLICE DEPARTMENT",
-                        "Date": "8-29-2002",
-                        "F/P": "F",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "Albers, Ronald A.",
-                        "Date": "missing",
-                        "F/P": "missing",
-                        "Action": "172-01",
-                        "Status": "missing",
-                        "Assignment": "missing",
-                        "Pos/Rank": "missing",
-                        "Level": "missing",
-                        "Class": "missing",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "COUNCIL BLUFFS POLICE DEPARTMENT",
-                        "Date": "4-02-2022",
-                        "F/P": "F",
-                        "Action": "Promotion",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Lieutenant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "COUNCIL BLUFFS POLICE DEPARTMENT",
-                        "Date": "9-10-2015",
-                        "F/P": "F",
-                        "Action": "Promotion",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Sergeant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "COUNCIL BLUFFS POLICE DEPARTMENT",
-                        "Date": "8-01-2015",
-                        "F/P": "F",
-                        "Action": "Promotion",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Sergeant",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "COUNCIL BLUFFS POLICE DEPARTMENT",
-                        "Date": "9-11-2000",
-                        "F/P": "F",
-                        "Action": "Hired",
-                        "Status": "Active",
-                        "Assignment": "missing",
-                        "Pos/Rank": "Police Off",
-                        "Level": "missing",
-                        "Class": "Fulltime",
-                        "Shift": "missing"
-                    },
-                    {
-                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
-                        "Date": "8-06-2000",
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "6-01-1984",
                         "F/P": "missing",
                         "Action": "Resigned",
-                        "Status": "Inactive",
+                        "Status": "Active",
                         "Assignment": "missing",
                         "Pos/Rank": "Police Off",
                         "Level": "missing",
@@ -2076,9 +1666,33 @@
                         "Shift": "missing"
                     },
                     {
-                        "Agency": "MISSOURI VALLEY POLICE DEPARTMENT",
-                        "Date": "3-08-1999",
+                        "Agency": "TABOR POLICE DEPARTMENT",
+                        "Date": "7-01-1978",
                         "F/P": "missing",
+                        "Action": "Promotion",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Partime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "WATERLOO POLICE DEPARTMENT",
+                        "Date": "1-13-2020",
+                        "F/P": "F",
+                        "Action": "Hired",
+                        "Status": "Active",
+                        "Assignment": "missing",
+                        "Pos/Rank": "Police Off",
+                        "Level": "missing",
+                        "Class": "Fulltime",
+                        "Shift": "missing"
+                    },
+                    {
+                        "Agency": "MASON CITY POLICE DEPARTMENT",
+                        "Date": "1-17-2022",
+                        "F/P": "F",
                         "Action": "Hired",
                         "Status": "Active",
                         "Assignment": "missing",
@@ -2088,59 +1702,6 @@
                         "Shift": "missing"
                     }
                 ]
-            },
-            {
-                "type": "table",
-                "content": [
-                    {
-                        "Albrecht, Nicholas J.": "IOWA STATE PATROL",
-                        "DPS33-01": "Promotion"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "IOWA STATE PATROL",
-                        "DPS33-01": "Hired"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "Albright, Andrew D.",
-                        "DPS33-01": "DPS31-01"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "IOWA STATE PATROL",
-                        "DPS33-01": "Promotion"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "IOWA STATE PATROL",
-                        "DPS33-01": "Promotion"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "IOWA STATE PATROL",
-                        "DPS33-01": "Hired"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "Albright, Anthony B.",
-                        "DPS33-01": "209-01"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "SIOUX CITY POLICE DEPARTMENT",
-                        "DPS33-01": "Hired"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "Alcala, Omar",
-                        "DPS33-01": "303-02"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "APR 18,2023",
-                        "DPS33-01": "Iowa"
-                    },
-                    {
-                        "Albrecht, Nicholas J.": "02:46PM",
-                        "DPS33-01": "missing"
-                    }
-                ]
-            },
-            {
-                "type": "kv",
-                "content": []
             }
         ]
     }
