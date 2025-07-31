@@ -1,21 +1,14 @@
-IDB Code
-Please Remit To
-Spot Classification
-Advertiser
-Total
-Salesperson
-Billing Type
-Date
-Invoice
-Est. Number
-Payment Terms
-Copy Name
-Invoice Total
-Rate
 Qty
-ISCI
-Invoice Month
-Description
-Account
-Length
+Payment Terms
 Flight Dates
+Description
+IDB Code
+Billing Type
+Advertiser
+Est. Number
+Salesperson
+Total
+Length
+Invoice Month
+Account
+Rate

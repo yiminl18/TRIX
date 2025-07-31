@@ -1,6 +1,6 @@
-MTWTFSS
-Product
-Invoice #
-Start/End Time
 Weeks
+MTWTFSS
+Invoice #
+Product
 Rate
+Start/End Time

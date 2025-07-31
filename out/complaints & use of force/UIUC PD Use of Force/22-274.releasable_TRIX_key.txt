@@ -1,16 +1,16 @@
-Subject Armed With
-Type Injuries
+Force Location
+Arrested
 Action Taken Useful
-Injured
-Arrested For
-Force Used
-Included On Alert
-Arrest ID
+Type Injuries
+Officer
+Action Taken
 Disciplinary Action
 Level Of Resistance
+Subject Armed With
 Medical Aid
-Action Taken
-Arrested
-Officer
 CIT
-Force Location
+Injured
+Force Used
+Arrested For
+Arrest ID
+Included On Alert

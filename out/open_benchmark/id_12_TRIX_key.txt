@@ -1,9 +1,9 @@
+Delivery Code
+CO #
+PO #CDLocation
+Page
+Gas
+Size
 Demurrage
 Date
-CO #
 BarCode
-Page
-Size
-PO #CDLocation
-Delivery Code
-Gas

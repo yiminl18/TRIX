@@ -1,23 +1,23 @@
-Total Spots
-Station
-Product
-Agency Order #
-Total GRP
-Advertiser
-Assistant
-Salesperson
-CPE
 Separation
+CPE
 Market
+Total Spots
+Total $
+Total CPP
+Advertiser
+Agency
+Version
+Agency Order #
+Traffic #
+Salesperson
+Rate
+Flight
 Service
+Station
+Office
+Product
 Con Type
 Primary Demo
-Rate
-Version
-Flight
 Buyer
-Agency
-Total CPP
-Total $
-Office
-Traffic #
+Total GRP
+Assistant
